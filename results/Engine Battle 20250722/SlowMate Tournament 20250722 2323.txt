@@ -1,0 +1,24 @@
+    Engine                                          Score SlSlSlSlSlSlSlSlSlSlSlSlSl    S-B
+01: SlowMate_v0.1.0_BETA                            3.0/3 ·         1   1   1          4.00
+02: SlowMate_v0.2.0_BETA                            2.5/4   ·   1     = 0         1    3.75
+03: SlowMate_v0.1.02_Opening_Endgame                2.0/3     ·     1 0 1              3.00
+03: SlowMate_v0.0.10_Tactical_Intelligence          2.0/3   0   · 1       1            3.00
+05: SlowMate_v0.2.02_Time_Management                2.0/4       0 ·   1   0       1    2.50
+06: SlowMate_v0.2.01_Enhanced_Search                2.0/4 0   0     ·         1 1      2.00
+07: SlowMate_v0.1.01_Tactics                        1.5/3   = 1   0   ·                3.25
+08: SlowMate_v0.1.03_Middlegame                     1.0/3 0 1 0         ·     ?        2.50
+09: SlowMate_v0.3.01_Opening_Enhancements           1.0/3       0 1       ·       0    2.00
+10: SlowMate_v0.3.0_BETA                            1.0/3 0                 · 1 0      1.00
+10: SlowMate_v0.0.00_DELTA                          1.0/3           0   ?   0 · 1      1.00
+10: SlowMate_v0.3.02_Enhanced_Endgame               1.0/3           0       1 0 ·      1.00
+10: SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix 1.0/3   0     0       1       ·    1.00
+
+21 of 78 games played
+Name of the tournament: Slowmate_tournament_all_20250722
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Slowmate_tournament_all_20250722.pgn
+Website: 
+E-Mail Address: 

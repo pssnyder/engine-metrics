@@ -1,0 +1,2711 @@
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "21:49:36"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 c6 2. Ng5 Nh6 {(Ng8-h6) -0.93/4 0} 3. Nc3 Qc7 {(Qd8-c7) -0.92/4 0}
+4. Nce4 Qe5 {(Qc7-e5) -1.05/4 0} 5. Rb1 Qd5 {(Qe5-d5) -0.08/4 0} 6. Nxh7
+Qxe4 {(Qd5xe4) +0.80/4 0} 7. Ng5 Qd5 {(Qe4-d5) +2.50/4 0} 8. d3 Qxa2
+{(Qd5xa2) +2.78/4 0} 9. Bd2 Ng4 {(Nh6-g4) +3.18/4 0} 10. Bb4 Nxh2 {(Ng4xh2)
++4.93/4 0} 11. Bxe7 Nxf1 {(Nh2xf1) +6.66/4 0} 12. Rxh8 Ne3 {(Nf1-e3)
++7.81/4 0} 13. fxe3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "V7P3R_v4.3"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "21:50:06"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "158"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e6 2. Ne4 Nc6 3. e3 Bb4 4. c3 Nf6 5. cxb4 Nxe4 6. d4 Nxb4 7. Bc4 O-O
+8. Bd3 Nxd3+ 9. Qxd3 Qf6 10. Qxe4 d6 11. Qf4 Qxf4 12. exf4 e5 13. fxe5 Be6
+14. Nh3 Bd5 15. Nf4 Bc4 16. f3 d5 17. Be3 Rfe8 18. Bf2 f6 19. Nd3 Bxd3 20.
+Bg3 fxe5 21. dxe5 Bc4 22. Bf4 Re6 23. Be3 Rxe5 24. Kd1 Rxe3 25. Rc1 Bxa2
+26. Rc5 Re5 27. Rxc7 Rf5 28. Rxb7 Bc4 29. Re7 Bb3+ 30. Kd2 d4 31. Kd3 Rf4
+32. Re4 Bc2+ 33. Kxd4 Bxe4 34. fxe4 Kh8 35. Ke5 Raf8 36. Kd6 Rxe4 37. Rg1
+Ref4 38. Ke6 R4f5 39. Rd1 Rf4 40. Ke7 R4f7+ 41. Kd6 Rd8+ 42. Ke6 Rxd1 43.
+Kxf7 Rd2 44. b3 Rxg2 45. Ke6 Rxh2 46. Ke5 Rh5+ 47. Ke4 Rb5 48. Kd4 Rxb3 49.
+Ke5 Kg8 50. Kd5 Kf7 51. Kc4 Rf3 52. Kd5 Rf5+ 53. Ke4 Ke6 54. Kd4 Rf4+ 55.
+Ke3 Ke5 56. Ke2 Re4+ 57. Kd3 Rd4+ 58. Ke3 Rd5 59. Kf3 Rd3+ 60. Kf2 Kd5 61.
+Kg1 Rd1+ 62. Kg2 Rd2+ 63. Kf3 Ke5 64. Kg4 Ke4 65. Kg3 Rd3+ 66. Kg2 Ke3 67.
+Kh3 Kf3 68. Kh2 Rd2+ 69. Kh1 Ke4 70. Kg1 Ke5 71. Kf1 Kd4 72. Kg1 Kd3 73.
+Kf1 Re2 74. Kg1 Ke4 75. Kh1 Ke3 76. Kg1 Rf2 77. Kh1 Kf4 78. Kg1 Kg3 79. Kh1
+Rf1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Time "22:02:37"]
+[Variation "1.e4 c5 2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "36"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 e6 4. d4 Nxd4 5. Nxd4 cxd4 6. Bc4 d3 7. O-O Bc5
+8. Bxd3 Bd4 9. Qg4 Bxe5 10. Qe4 Qf6 11. a3 Bd6 12. Qxh7 Rxh7 13. g3 Rxh2
+14. Be4 Rxf2 15. Rxf2 Qd4 16. Bh7 Bxg3 17. Be4 Qxf2+ 18. Kh1 Qh2# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "V7P3R_v4.1"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:07:00"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nb4 4. Ne5 Rb8 5. Bg5 Ng4 6. Nxg4 Rg8 7. d5 Rh8
+8. Be3 Ra8 9. Ne5 d6 10. Bd4 dxe5 11. Bxe5 Bf5 12. e4 Bd7 13. Bd4 Rg8 14.
+Bc4 Rh8 15. Bc5 e6 16. Bxb4 Bxb4 17. dxe6 Bxc3+ 18. bxc3 Bxe6 19. Bd5 Bxd5
+20. Qxd5 Qxd5 21. exd5 Kf8 22. O-O Rd8 23. Rfb1 b6 24. Rb3 Rxd5 25. Ra3 Ra5
+26. Rxa5 bxa5 27. Rb1 Ke7 28. Rb5 Rd8 29. Rxa5 Rd1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "22:12:44"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 2. Nc3 Bb4 3. Nf3 {(Ng1-f3) -0.15/4 0} Nc6 4. d5 {(d4-d5) -0.18/4
+0} Qf6 5. dxc6 {(d5xc6) +1.53/4 0} dxc6 6. Qd3 {(Qd1-d3) +1.86/4 0} e5 7.
+Bg5 {(Bc1-g5) +2.99/4 0} Bf5 8. e4 {(e2-e4) +3.85/4 0} Qd6 9. exf5 {(e4xf5)
++4.59/4 0} Nh6 10. Qe4 {(Qd3-e4) +4.85/4 0} Qc5 11. Bxh6 {(Bg5xh6) +5.77/4
+0} gxh6 12. Qxe5+ {(Qe4xe5+) +5.90/4 0} Qxe5+ 13. Nxe5 {(Nf3xe5) +5.70/4 0}
+O-O-O {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:14:53"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nf6 2. Nc3 e5 3. Nxe5 Ne4 4. Nxe4 Rg8 5. Rg1 d5 6. Nc3 d4 7. Nb5 c5
+8. Nxa7 Bd6 9. Nxf7 Kxf7 10. Nxc8 Qxc8 11. e3 Ke6 12. Bc4+ Ke7 13. Bxg8
+Qxg8 14. exd4 Rxa2 15. Qe2+ Kf8 16. Rxa2 Qf7 17. Qf3 Qxf3 18. gxf3 {Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:18:19"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 Nc6 4. d3 Nxf2 5. Kxf2 Nb4 6. Kf3 Nc6 7. Kf2
+Nb4 8. Kf3 Nc6 9. Kf2 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "Cece_v2.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C21"]
+[Opening "Centre Game"]
+[Time "22:19:06"]
+[Variation "1.e4 e5 2.d4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. d4 Nf6 3. dxe5 Nxe4 {(Nf6xe4) +0.80/4 0} 4. Qd4 Nc5 {(Ne4-c5)
++0.67/4 0} 5. Be3 Nc6 {(Nb8-c6) +1.10/4 0} 6. Qd6 cxd6 {(c7xd6) +9.80/4 0}
+7. Bxc5 dxc5 {(d6xc5) +10.48/4 0} 8. Nh3 Qb6 {(Qd8-b6) +10.97/4 0} 9. Ng5
+Qxb2 {(Qb6xb2) +13.73/4 0} 10. Nxf7 Qxa1 {(Qb2xa1) +15.48/4 0} 11. Nxh8
+Qxb1+ {(Qa1xb1+) +15.86/4 0} 12. Ke2 Qxc2+ {(Qb1xc2+) +17.02/4 0} 13. Kf3
+Qxa2 {(Qc2xa2) +18.21/4 0} 14. Ke3 Nxe5 {(Nc6xe5) +18.60/4 0} 15. Be2 Qa4
+{(Qa2-a4) +18.50/4 0} 16. Kd2 Qb4+ {(Qa4-b4+) +19.34/4 0} 17. Kc2 Qe4+
+{(Qb4-e4+) +19.80/4 0} 18. Kb3 Qxe2 {(Qe4xe2) +22.79/4 0} 19. Rc1 Qxf2
+{(Qe2xf2) +23.17/4 0} 20. Rc3 Qxg2 {(Qf2xg2) +24.17/4 0} 21. Nf7 Nxf7
+{(Ne5xf7) +26.45/4 0} 22. Re3+ Kd8 {(Ke8-d8) +26.55/4 0} 23. Re4 Qxe4
+{(Qg2xe4) +32.57/4 0} 24. Kc3 Ke8 {(Kd8-e8) +32.85/4 0} 25. Kb3 Ne5
+{(Nf7-e5) +33.07/4 0} 26. Kc3 Qd3+ {(Qe4-d3+) +33.27/4 0} 27. Kb2 Nc4+
+{(Ne5-c4+) +33.26/4 0} 28. Kc1 Qd2+ {(Qd3-d2+) +299.97/4 0} 29. Kb1 Qb2#
+{(Qd2-b2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "V7P3R_v4.1"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:24:22"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "69"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. e3 e5 3. Bc4 Nh6 4. Bd5 Ne7 5. Be4 Rb8 6. Nf3 Nd5 7. Bxd5 e4
+8. Bxe4 Be7 9. d4 Kf8 10. Bxh7 d5 11. Bd2 Bf5 12. Bg6 Bh4 13. Nxh4 Be4 14.
+Nxe4 dxe4 15. Bxe4 Qxh4 16. Bb4+ c5 17. Bxc5+ Kg8 18. Bxa7 Qxe4 19. Bxb8
+Nf5 20. O-O Rh6 21. Bf4 Re6 22. d5 Rg6 23. f3 Rxg2+ 24. Kxg2 Qe5 25. Bxe5
+Nxe3+ 26. Kh3 g5 27. Qd4 Nxf1 28. Rxf1 Kf8 29. Qc5+ Kg8 30. Qc8+ Kh7 31.
+Qxb7 g4+ 32. Kxg4 Kg6 33. Qc6+ Kh7 34. Qf6 Kg8 35. Qh8# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "1"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A45"]
+[Opening "Indian"]
+[Time "22:34:30"]
+[Variation "2.Bf4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "24"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Bf4 d6 3. Nc3 {(Nb1-c3) -0.12/4 0} e6 4. Nf3 {(Ng1-f3) +0.50/4
+0} Nd5 5. Nxd5 {(Nc3xd5) +0.80/4 0} c6 6. Bg5 {(Bf4-g5) +4.11/4 0} Qa5+ 7.
+Nc3 {(Nd5-c3) +3.86/4 0} d5 8. Qd3 {(Qd1-d3) +3.93/4 0} Bd6 9. Rb1
+{(Ra1-b1) +3.82/4 1} f6 10. Be3 {(Bg5-e3) +4.10/4 0} e5 11. Bd2 {(Be3-d2)
++4.77/4 0} exd4 12. Nxd5 {(Nc3xd5) +11.40/4 0} Qxd5 {Arena Adjudication.
+Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "C0BR4_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "22:35:37"]
+[Variation "2.Nc3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "78"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. Nc3 {(Nb1-c3) -0.25/4 0} Nc6 3. Bd3 {(Bf1-d3) -0.10/4 0} Nb4
+4. Bb5 {(Bd3-b5) +0.03/4 0} c6 5. Be2 {(Bb5-e2) 0.00/4 0} Nxc2+ 6. Qxc2
+{(Qd1xc2) +1.38/4 0} Qc7 7. Qd3 {(Qc2-d3) +1.73/4 0} Qd6 8. Nf3 {(Ng1-f3)
++1.93/4 0} Qxd3 9. Bxd3 {(Be2xd3) +1.92/4 0} Ng4 10. Rf1 {(Rh1-f1) +1.84/4
+0} Nxh2 11. Nxh2 {(Nf3xh2) +3.34/4 0} Kd8 12. Nf3 {(Nh2-f3) +3.79/4 0} Kc7
+13. Ne5 {(Nf3-e5) +5.12/4 0} f6 14. Nf7 {(Ne5-f7) +5.87/4 0} Rg8 15. Rh1
+{(Rf1-h1) +6.03/4 0} h6 16. e5 {(e4-e5) +6.63/4 0} Rb8 17. Bh7 {(Bd3-h7)
++8.29/4 0} Rh8 18. Nxh8 {(Nf7xh8) +10.01/4 0} fxe5 19. Ng6 {(Nh8-g6)
++10.83/4 0} d6 20. Nxf8 {(Ng6xf8) +10.60/4 0} Bh3 21. Ng6 {(Nf8-g6)
++11.09/4 0} Bxg2 22. Rg1 {(Rh1-g1) +11.63/4 0} Bd5 23. Nxd5+ {(Nc3xd5+)
++12.99/4 0} cxd5 24. Nxe7 {(Ng6xe7) +12.90/4 0} d4 25. Rxg7 {(Rg1xg7)
++13.33/4 0} Kb6 26. Nf5 {(Ne7-f5) +13.98/4 0} Kc5 27. Nxh6 {(Nf5xh6)
++14.20/4 0} Kc4 28. Be4 {(Bh7-e4) +15.44/4 0} d5 29. Rc7+ {(Rg7-c7+)
++16.08/4 0} Kb5 30. Bxd5 {(Be4xd5) +16.88/4 0} Kb6 31. Re7 {(Rc7-e7)
++16.98/4 0} Ka5 32. Ng4 {(Nh6-g4) +17.68/4 0} e4 33. Bxb7 {(Bd5xb7)
++18.46/4 0} e3 34. dxe3 {(d2xe3) +18.46/4 0} dxe3 35. Bxe3 {(Bc1xe3)
++18.80/4 0} Rg8 36. Re5+ {(Re7-e5+) +19.87/4 0} Kb4 37. Bd2+ {(Be3-d2+)
++22.68/4 0} Kc4 38. Rc1+ {(Ra1-c1+) +299.97/4 0} Kd4 39. Re3 {(Re5-e3)
++299.99/4 0} Rxg4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "V7P3R_v4.1"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:36:36"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "179"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Qc7 3. d3 f6 4. Bd2 e6 5. e3 e5 6. Ne4 d5 7. Nc3 Ne7 8.
+Ng5 fxg5 9. Qh5+ g6 10. Qxg5 Bg7 11. d4 Be6 12. Bb5 Kf8 13. O-O Kg8 14.
+dxe5 Bxe5 15. Ne4 cxb5 16. Nc3 Bxc3 17. Bxc3 Nec6 18. Bxh8 d4 19. Qxb5 dxe3
+20. fxe3 Bf5 21. Qc4+ Qf7 22. Qxf7+ Kxf7 23. Bc3 Kg8 24. Rf3 Nd7 25. Rg3
+Bxc2 26. Rh3 Nd4 27. Bxd4 Bf5 28. Rf3 Ne5 29. Bxe5 Rf8 30. Bd4 Be4 31. Bxa7
+Rxf3 32. gxf3 Bxf3 33. Rf1 Bh5 34. Rf6 Be2 35. Rd6 Bb5 36. Bd4 Kf7 37. Rd5
+Bc6 38. Re5 Bd7 39. Re4 Kf8 40. Rf4+ Kg8 41. Re4 Kf8 42. Rh4 Bb5 43. Rxh7
+Bd3 44. Rxb7 Bc4 45. Bc5+ Kg8 46. Bd4 Kf8 47. Bf6 Bxa2 48. Rh7 g5 49. Bxg5
+Bd5 50. Bf6 Be4 51. Rh8+ Kf7 52. Be5 Bd5 53. Bd4 Bc4 54. Be5 Bd5 55. Rd8
+Bc4 56. Rd4 Be6 57. Rf4+ Kg8 58. Re4 Bd5 59. Rg4+ Kh7 60. Rh4+ Kg6 61. Bf6
+Kxf6 62. e4 Be6 63. Rh6+ Ke5 64. Kf2 Bc8 65. Ke3 Bd7 66. Rh5+ Kd6 67. Kd4
+Be6 68. e5+ Ke7 69. Rh7+ Bf7 70. Rh6 Bb3 71. Ke4 Bc4 72. Rc6 Be6 73. Rc7+
+Kd8 74. Rc6 Ke7 75. Rc3 Kf8 76. Kd4 Ke8 77. Rc6 Kd7 78. Kc5 Bf5 79. Rh6 Ke7
+80. Kd5 Bd3 81. Kd4 Bh7 82. Rxh7+ Ke6 83. Rh6+ Kf5 84. Rf6+ Kg5 85. Ke4 Kg4
+86. Re6 Kh4 87. Kf3 Kg5 88. Rf6 Kh5 89. Kf4 Kh4 90. Rh6# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:58:08"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "65"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 e5 4. Bd3 d5 5. Bxe4 dxe4 6. c4 Qd4 7. exd4
+exd4 8. Nf3 f6 9. Nh4 Kd8 10. d3 e3 11. fxe3 Bb4+ 12. Kf2 Nc6 13. exd4 Nxd4
+14. Be3 Re8 15. Bxd4 Rg8 16. Bxf6+ gxf6 17. Qf3 Bc5+ 18. Kf1 Be6 19. Qxb7
+Bd4 20. Qxa8+ Ke7 21. Qxg8 Bxg8 22. Nf5+ Ke8 23. Nxd4 Bf7 24. Re1+ Kf8 25.
+Ne6+ Bxe6 26. Rxe6 Kg7 27. Re7+ Kh6 28. Rxc7 Kg6 29. Rxa7 Kh6 30. Rb7 Kg6
+31. Ra7 Kh6 32. Rb7 Kg6 33. Ra7 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:05:16"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Nc6 3. Nb5 Bc5 4. Rb1 Nf6 5. Rg1 Ne4 6. e3 Ne5 7. Nxe5 O-O
+8. Bd3 Qf6 9. Bxe4 Qxe5 10. Bxh7+ Kxh7 11. Nxc7 Qxc7 12. Qh5+ Kg8 13. Kf1
+Bd6 14. c3 Qc6 15. Qf3 Bxh2 16. Qxc6 dxc6 17. Rh1 Bd6 18. Rh5 e5 19. Rg5
+Be6 20. Ra1 Bc5 21. Rxe5 Bc4+ 22. Kg1 Bd6 23. Ra5 Bd3 24. Kh1 f5 25. Ra4
+Be5 26. Ra5 Bf6 27. Kh2 f4 28. exf4 Be4 29. Ra4 Bd5 30. Ra3 Be6 31. Rb1 Bf5
+32. Ra1 Be4 33. Rb3 c5 34. Ra3 Bd5 35. Rb1 Be4 36. Ra1 Bc6 37. Rb3 Bd5 38.
+Ra3 Be5 39. fxe5 Rxf2 40. Rxa7 Rxa7 41. Kh3 Be6+ 42. Kg3 Rf5 43. Kh3 Rxe5+
+44. Kg3 Rxa2 45. Rxa2 Bxa2 46. Kh4 Rd5 47. d4 Rd6 48. Bf4 Rf6 49. Be5 Re6
+50. Bxg7 Kxg7 51. dxc5 Rc6 52. Kh5 Rxc5+ 53. Kh4 Bd5 54. Kh3 Be4 55. Kg3
+Kf6 56. Kh3 Ke5 57. Kg3 Rc4 58. Kh3 Bf5+ 59. Kg3 Be6 60. Kh2 Bd5 61. Kh3
+Ke4 62. Kh4 Ke3+ 63. Kh5 Bxg2 64. Kg6 Ke4 65. Kg7 Ke5 66. Kh7 Kf6 67. b3
+Rxc3 68. Kh6 Rxb3 69. Kh7 Bd5 70. Kh8 Rh3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "V7P3R_v4.1"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "23:20:47"]
+[Variation "1...e5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "13"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e5 2. e3 Nf6 3. Bc4 Qe7 {(Qd8-e7) -0.40/4 0} 4. Nh3 Nc6 {(Nb8-c6)
+-0.85/4 0} 5. Nd5 Qd8 {(Qe7-d8) +0.05/4 0} 6. Qf3 Bc5 {(Bf8-c5) -0.02/4 0}
+7. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "Cece_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine Defence"]
+[Time "23:22:12"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "75"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. e5 Nd4 4. Qd3 Nxc2+ 5. Qxc2 Ng4 6. Qe4 Nxh2 7. Rxh2
+d6 8. Bc4 Be6 9. Bxe6 fxe6 10. exd6 Qxd6 11. Rh5 Qc6 12. Qxc6+ bxc6 13. Re5
+Kf7 14. Ra5 Rg8 15. Rc5 Rb8 16. Rg5 Rb5 17. Rxb5 cxb5 18. Nf3 Kg6 19. a4
+bxa4 20. Rxa4 a5 21. Kd1 Kf6 22. d3 Kg6 23. Ne5+ Kh5 24. Rc4 c5 25. Ke2 Rh8
+26. Rxc5 Rg8 27. d4 g5 28. g4+ Kh4 29. Nf3+ Kh3 30. Re5 Bg7 31. Rxg5 Bxd4
+32. Rxg8 Bf6 33. Rd8 Kg2 34. Re8 Kh1 35. Rg8 Kg2 36. Re8 Kh1 37. Rg8 Kg2
+38. Re8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:29:21"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Nb5 Bd6 4. Nxd6+ cxd6 5. Rg1 Ne5 6. Nxe5 Nf6 7.
+Nxf7 Kxf7 8. Rb1 Ne4 9. e3 Nxf2 10. Qh5+ Kg8 11. Kxf2 Kf8 12. Qf3+ Ke8 13.
+Qh5+ Kf8 14. Qf3+ Ke8 15. Qh5+ Kf8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "C0BR4_v2.0"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "23:30:18"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "31"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 e5 3. dxe5 {(d4xe5) +1.25/4 0} Ne4 4. Qd4 {(Qd1-d4)
++1.57/4 0} d5 5. Nc3 {(Nb1-c3) +1.37/4 0} Ng5 6. Bxg5 {(Bc1xg5) +6.72/4 0}
+Rg8 7. Bxd8 {(Bg5xd8) +14.57/4 0} Kxd8 8. Qh4+ {(Qd4-h4+) +15.25/4 0} g5 9.
+Qxh7 {(Qh4xh7) +15.65/4 0} Rg7 10. Qh8 {(Qh7-h8) +15.52/4 0} Kd7 11. Qxf8
+{(Qh8xf8) +21.98/4 0} d4 12. Rd1 {(Ra1-d1) +22.81/4 0} Nc6 13. Qxg7
+{(Qf8xg7) +24.19/4 0} Kd8 14. Qf8+ {(Qg7-f8+) +25.37/4 0} Kd7 15. Qxf7+
+{(Qf8xf7+) +26.21/4 0} Kd8 16. Nxd4 {(Nf3xd4) +28.38/4 0  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "23:33:17"]
+[Variation "2.d4 d5 3.e5 Bf5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "106"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. h4 Nh6 5. Nc3 e6 6. Bb5 Bb4 7. Bd2 O-O 8.
+Nce2 Be4 9. c3 Bxg2 10. Bxc6 Bxh1 11. cxb4 bxc6 12. Ng3 Qxh4 13. Bxh6 Qxh6
+14. N3e2 Bf3 15. Nxf3 Qh1+ 16. Kd2 Qxf3 17. Kc2 Qxf2 18. Kc1 c5 19. dxc5
+Qf3 20. Qg1 Qxe2 21. Qd4 Qe1+ 22. Kc2 Qxa1 23. Qc3 Qxa2 24. Qd4 Qa4+ 25.
+Kc3 Qc6 26. Kd2 Rfb8 27. Qf4 d4 28. Qf1 Rxb4 29. Qa1 Qxc5 30. Qa3 Qxe5 31.
+Qxb4 Qd5 32. Qe7 Qc6 33. Qg5 Qd6 34. Qb5 Qf4+ 35. Ke2 Qe3+ 36. Kd1 Qe4 37.
+Qd7 Qd3+ 38. Kc1 Qc4+ 39. Kb1 Qc5 40. Qe8+ Rxe8 41. Ka2 Qc4+ 42. Ka1 Qc1+
+43. Ka2 f6 44. Ka3 Qc4 45. b3 Qc5+ 46. Kb2 Qc6 47. Ka3 Qa6+ 48. Kb2 Qe2+
+49. Ka3 Qe4 50. Kb4 Qe1+ 51. Ka4 Qa1+ 52. Kb4 Rb8+ 53. Kc4 Qc3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "2"]
+[White "V7P3R_v4.3"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "23:47:48"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nb5 cxb5 {(c6xb5) +1.93/4 0} 3. e3 Qa5 {(Qd8-a5) +1.93/4 0} 4.
+Nf3 Nc6 {(Nb8-c6) +2.35/4 0} 5. Ng5 Ne5 {(Nc6-e5) +2.33/4 0} 6. Nxf7 Nxf7
+{(Ne5xf7) +3.35/4 0} 7. Bd3 Nf6 {(Ng8-f6) +3.95/4 0} 8. f3 Qa4 {(Qa5-a4)
++4.75/4 0} 9. Bf5 Nd6 {(Nf7-d6) +5.00/4 0} 10. Bxd7+ Bxd7 {(Bc8xd7) +6.47/4
+0} 11. e4 Nfxe4 {(Nf6xe4) +7.27/4 0} 12. d3 Qa6 {(Qa4-a6) +7.45/4 0} 13.
+fxe4 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "3"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:48:57"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 c6 2. Ng5 Nh6 {(Ng8-h6) -0.93/4 0} 3. Nc3 Qc7 {(Qd8-c7) -0.92/4 0}
+4. Nce4 Qe5 {(Qc7-e5) -1.05/4 0} 5. Rb1 Qd5 {(Qe5-d5) -0.08/4 0} 6. Nxh7
+Qxe4 {(Qd5xe4) +0.80/4 0} 7. Ng5 Qd5 {(Qe4-d5) +2.50/4 0} 8. d3 Qxa2
+{(Qd5xa2) +2.78/4 0} 9. Bd2 Ng4 {(Nh6-g4) +3.18/4 0} 10. Bb4 Nxh2 {(Ng4xh2)
++4.93/4 0} 11. Bxe7 Nxf1 {(Nh2xf1) +6.66/4 0} 12. Rxh8 Ne3 {(Nf1-e3)
++7.81/4 0} 13. fxe3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.19"]
+[Round "3"]
+[White "V7P3R_v4.3"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "23:49:26"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "158"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e6 2. Ne4 Nc6 3. e3 Bb4 4. c3 Nf6 5. cxb4 Nxe4 6. d4 Nxb4 7. Bc4 O-O
+8. Bd3 Nxd3+ 9. Qxd3 Qf6 10. Qxe4 d6 11. Qf4 Qxf4 12. exf4 e5 13. fxe5 Be6
+14. Nh3 Bd5 15. Nf4 Bc4 16. f3 d5 17. Be3 Rfe8 18. Bf2 f6 19. Nd3 Bxd3 20.
+Bg3 fxe5 21. dxe5 Bc4 22. Bf4 Re6 23. Be3 Rxe5 24. Kd1 Rxe3 25. Rc1 Bxa2
+26. Rc5 Re5 27. Rxc7 Rf5 28. Rxb7 Bc4 29. Re7 Bb3+ 30. Kd2 d4 31. Kd3 Rf4
+32. Re4 Bc2+ 33. Kxd4 Bxe4 34. fxe4 Kh8 35. Ke5 Raf8 36. Kd6 Rxe4 37. Rg1
+Ref4 38. Ke6 R4f5 39. Rd1 Rf4 40. Ke7 R4f7+ 41. Kd6 Rd8+ 42. Ke6 Rxd1 43.
+Kxf7 Rd2 44. b3 Rxg2 45. Ke6 Rxh2 46. Ke5 Rh5+ 47. Ke4 Rb5 48. Kd4 Rxb3 49.
+Ke5 Kg8 50. Kd5 Kf7 51. Kc4 Rf3 52. Kd5 Rf5+ 53. Ke4 Ke6 54. Kd4 Rf4+ 55.
+Ke3 Ke5 56. Ke2 Re4+ 57. Kd3 Rd4+ 58. Ke3 Rd5 59. Kf3 Rd3+ 60. Kf2 Kd5 61.
+Kg1 Rd1+ 62. Kg2 Rd2+ 63. Kf3 Ke5 64. Kg4 Ke4 65. Kg3 Rd3+ 66. Kg2 Ke3 67.
+Kh3 Kf3 68. Kh2 Rd2+ 69. Kh1 Ke4 70. Kg1 Ke5 71. Kf1 Kd4 72. Kg1 Kd3 73.
+Kf1 Re2 74. Kg1 Ke4 75. Kh1 Ke3 76. Kg1 Rf2 77. Kh1 Kf4 78. Kg1 Kg3 79. Kh1
+Rf1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Time "00:01:44"]
+[Variation "1.e4 c5 2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "44"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 e6 4. d4 Nxd4 5. Nfd2 d5 6. Rg1 Nxc2+ 7. Qxc2 f5
+8. Qa4+ Kf7 9. Ne4 fxe4 10. Qxe4 dxe4 11. Bb5 Qa5+ 12. Ke2 Qxb5+ 13. Ke3
+Qd3+ 14. Kf4 Qxb1 15. Rxb1 g5+ 16. Kxe4 Bd7 17. Bxg5 Ne7 18. Bxe7 Bxe7 19.
+Kf4 Rhf8 20. Ke4 Rh8 21. Kf4 Rhf8 22. Ke4 Rh8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "V7P3R_v4.1"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:06:53"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nb4 4. Ne5 Rb8 5. Bg5 Ng4 6. Nxg4 Rg8 7. d5 Rh8
+8. Be3 Ra8 9. Ne5 d6 10. Bd4 dxe5 11. Bxe5 Bf5 12. e4 Bd7 13. Bd4 Rg8 14.
+Bc4 Rh8 15. Bc5 e6 16. Bxb4 Bxb4 17. dxe6 Bxc3+ 18. bxc3 Bxe6 19. Bd5 Bxd5
+20. Qxd5 Qxd5 21. exd5 Kf8 22. O-O Rd8 23. Rfb1 b6 24. Rb3 Rxd5 25. Ra3 Ra5
+26. Rxa5 bxa5 27. Rb1 Ke7 28. Rb5 Rd8 29. Rxa5 Rd1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "00:12:38"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "24"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 2. Nf3 {(Ng1-f3) +0.03/4 0} Bb4+ 3. Bd2 {(Bc1-d2) +0.13/4 0} Qf6
+4. Bxb4 {(Bd2xb4) +2.65/4 0} Qf5 5. Ne5 {(Nf3-e5) +3.23/4 0} Na6 6. Ba3
+{(Bb4-a3) +3.35/4 0} Nf6 7. Nc3 {(Nb1-c3) +3.30/4 0} Ne4 8. Nxe4 {(Nc3xe4)
++3.72/4 0} Qxe4 9. Qd2 {(Qd1-d2) +3.70/4 0} Nc5 10. Bxc5 {(Ba3xc5) +6.60/4
+0} Qd5 11. Qg5 {(Qd2-g5) +8.88/4 0} Qxc5 12. dxc5 {(d4xc5) +13.26/4 0} O-O
+{Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:14:56"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nf6 2. Nc3 e5 3. Nxe5 Ne4 4. Nxe4 d5 5. Nc3 d4 6. Nb5 h5 7. Nxf7
+Kxf7 8. Rg1 Bh3 9. gxh3 Qe7 10. Bg2 Qe5 11. Nxc7 Qxc7 12. Bd5+ Ke7 13. Rg6
+Qe5 14. Re6+ Qxe6 15. Bxe6 Kxe6 16. Kf1 Be7 17. Kg2 Rd8 18. Kh1 Rd6 19. Qg1
+Rd5 20. Qxg7 Nc6 21. Qg6+ Ke5 22. Qxh5+ Kf6 23. Qxd5 Ne5 24. Qxb7 Rh8 25.
+Qxa7 Rxh3 26. Qxd4 Kf5 27. e4+ Kf6 28. Rb1 Bb4 29. Qxb4 Ng4 30. Qd6+ Kg7
+31. Qe7+ Kg8 32. Qd8+ Kh7 33. Qe7+ Kg8 34. Qd8+ Kh7 35. Qe7+ Kg8 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:21:28"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 Nc6 4. d3 Nxf2 5. Kxf2 Nb4 6. Kf3 Nc6 7. Kf2
+Nb4 8. Kf3 Nc6 9. Kf2 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "Cece_v2.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C21"]
+[Opening "Centre Game"]
+[Time "00:22:15"]
+[Variation "1.e4 e5 2.d4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "34"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. d4 Be7 3. dxe5 Bb4+ {(Be7-b4+) -0.72/4 0} 4. Nd2 Qe7 {(Qd8-e7)
+-0.54/4 0} 5. Nf3 Nc6 {(Nb8-c6) -0.19/4 0} 6. Nd4 Nxd4 {(Nc6xd4) +1.15/4 0}
+7. Rg1 Qxe5 {(Qe7xe5) +6.15/4 0} 8. Rh1 Qxe4+ {(Qe5xe4+) +9.60/4 0} 9. Be2
+Nxc2+ {(Nd4xc2+) +9.60/4 0} 10. Kf1 Bxd2 {(Bb4xd2) +9.60/4 0} 11. Qxd2 Nxa1
+{(Nc2xa1) +10.48/4 0} 12. Ba6 bxa6 {(b7xa6) +13.05/4 0} 13. Qxd7+ Bxd7
+{(Bc8xd7) +23.17/4 0} 14. Bd2 Qb1+ {(Qe4-b1+) +23.99/4 0} 15. Ke2 Qxh1
+{(Qb1xh1) +27.34/4 0} 16. Ba5 Bg4+ {(Bd7-g4+) +28.89/4 0} 17. Ke3 Qxg2
+{(Qh1xg2) +29.15/4 0  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "V7P3R_v4.1"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:25:35"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "87"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. e3 e5 3. Bc4 Nh6 4. Bd5 Ne7 5. Be4 Rb8 6. Nf3 Nd5 7. Bxd5 e4
+8. Bxe4 Be7 9. d4 Kf8 10. Bxh7 d5 11. Bd2 Bf5 12. Bg6 Bh4 13. Nxh4 Be4 14.
+Nxe4 dxe4 15. Bxe4 Qxh4 16. Bb4+ c5 17. Bxc5+ Kg8 18. Bxa7 Qxe4 19. Bxb8
+Qxg2 20. Be5 Nf5 21. Qd3 Qg4 22. e4 Rh7 23. exf5 Kh8 24. Bd6 Kg8 25. Qe3
+Rh6 26. Bf4 Kh7 27. Qe4 Rg6 28. Qxb7 Qxf5 29. Be3 Rh6 30. O-O-O Rg6 31. Rd3
+Rh6 32. Rc3 Re6 33. Rc5 Qxc5 34. dxc5 Kg8 35. Bd4 Kh8 36. Qxf7 Rf6 37. Qe8+
+Kh7 38. Qh5+ Rh6 39. Qf5+ Kg8 40. Qd5+ Kh8 41. Qe5 Rg6 42. Qh5+ Kg8 43.
+Qxg6 Kh8 44. Qxg7# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "3"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "00:39:07"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "8"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 Nd5 3. Bg5 {(Bc1-g5) -0.05/4 0} f6 4. Bd2 {(Bg5-d2)
++1.18/4 0} Nf4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "C0BR4_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine"]
+[Time "00:39:36"]
+[Variation "Krejcik Variation"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "34"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. Bc4 Nc6 3. Nc3 {(Nb1-c3) -0.47/4 0} Ne5 4. Be2 {(Bc4-e2)
+-0.12/4 0} Rb8 5. Nf3 {(Ng1-f3) +0.08/4 0} Nxf3+ 6. Bxf3 {(Be2xf3) +0.24/4
+0} d6 7. Qe2 {(Qd1-e2) +0.43/4 0} Bd7 8. d3 {(d2-d3) +0.65/4 0} Be6 9. Bg5
+{(Bc1-g5) +0.70/4 1} Qd7 10. e5 {(e4-e5) +0.62/4 1} dxe5 11. Qxe5 {(Qe2xe5)
++0.87/4 0} Bxa2 12. Rxa2 {(Ra1xa2) +2.87/4 1} Qd6 13. Qxd6 {(Qe5xd6)
++4.57/4 0} exd6 14. Bxf6 {(Bg5xf6) +4.57/4 0} Kd7 15. Rxa7 {(Ra2xa7)
++5.76/4 0} Re8+ 16. Ne2 {(Nc3-e2) +5.92/4 0} Ke6 17. Bxg7 {(Bf6xg7)
++13.57/4 0} Bxg7 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "V7P3R_v4.1"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:40:18"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "time forfeit"]
+[PlyCount "188"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Qc7 3. d3 f6 4. Bd2 e6 5. e3 e5 6. Ne4 d5 7. Nc3 Ne7 8.
+Ng5 fxg5 9. Qh5+ g6 10. Qxg5 Bg7 11. d4 Be6 12. Bb5 Kf8 13. O-O Kg8 14.
+dxe5 Bxe5 15. Ne4 cxb5 16. Nc3 Bxc3 17. Bxc3 Nec6 18. Bxh8 d4 19. Qxb5 dxe3
+20. fxe3 Bf5 21. Qc4+ Qf7 22. Qxf7+ Kxf7 23. Bc3 Kg8 24. Rf3 Nd7 25. Rg3
+Bxc2 26. Rh3 Nd4 27. Bxd4 Bf5 28. Rf3 Ne5 29. Bxe5 Rf8 30. Bd4 Be4 31. Bxa7
+Rxf3 32. gxf3 Bxf3 33. Rf1 Bh5 34. Rf6 Be2 35. Rd6 Bb5 36. Bd4 Kf7 37. Rd5
+Bc6 38. Re5 Bd7 39. Re4 Kf8 40. Rf4+ Kg8 41. Re4 Kf8 42. Rh4 Bb5 43. Rxh7
+Bd3 44. Rxb7 Bc4 45. Bc5+ Kg8 46. Bd4 Kf8 47. Bf6 Bxa2 48. Rh7 g5 49. Bxg5
+Bd5 50. Bf6 Be4 51. Rh8+ Kf7 52. Be5 Bd5 53. Bd4 Bc4 54. Be5 Bd5 55. Rd8
+Bc4 56. Rd4 Be6 57. Rf4+ Kg8 58. Re4 Bd5 59. Rg4+ Kh7 60. Rh4+ Kg6 61. Bf6
+Kxf6 62. e4 Be6 63. Rh6+ Ke7 64. Kg2 Kd6 65. Rf6 Ke5 66. Rg6 Bc4 67. Kf3
+Kd4 68. Kf4 Bd3 69. Rd6+ Kc4 70. Ke5 Be2 71. Re6 Bf3 72. Rc6+ Kd3 73. Rc3+
+Ke2 74. Kd5 Bg4 75. Ke5 Bf3 76. Kd4 Bh5 77. Rc2+ Kf3 78. Ke5 Kg4 79. Rg2+
+Kf3 80. Rg3+ Kf2 81. Kd5 Bf7+ 82. Kd6 Bc4 83. Ke5 Ba2 84. Kf4 Ke2 85. Rf3
+Be6 86. Re3+ Kd2 87. Rf3 Bg8 88. Rc3 Bh7 89. Ke5 Bg6 90. Kd5 Ke2 91. Ke5
+Be8 92. Kd4 Bh5 93. e5 Kf2 94. Rc6 Bd1 95. ... {White forfeits on time}
+1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "01:05:40"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "69"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. Nb5 d5 3. f3 d4 4. f4 e5 5. Nf3 exf4 6. Nxc7+ Qxc7 7. Nh4 Ne5
+8. Ng6 hxg6 9. h3 Nf3+ 10. exf3 Qe7+ 11. Kf2 Qh4+ 12. Kg1 Kd8 13. d3 a5 14.
+Qd2 Nf6 15. Qe2 Bc5 16. Qe5 Qf2+ 17. Kxf2 Rh5 18. Qxf6+ gxf6 19. Bxf4 Kd7
+20. Bg3 Ra7 21. Bb8 Ra6 22. Bh2 Kd8 23. Bd6 Bxd6 24. Be2 Re5 25. Kf1 Rd5
+26. Ke1 Re5 27. Kf1 Rxe2 28. Kxe2 Be6 29. Ke1 Ke8 30. Rg1 Kf8 31. Rh1 Bg3+
+32. Kf1 Kg8 33. Rg1 Kh7 34. Rd1 Bxa2 35. Ra1 {Arena Adjudication. Illegal
+move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:14:43"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Nc6 3. Nb5 Bc5 4. Rb1 Nf6 5. Rg1 Ne4 6. e3 Ne5 7. Nxe5 O-O
+8. Bd3 Qf6 9. Bxe4 Qxe5 10. Bxh7+ Kxh7 11. Nxc7 Qxc7 12. Qh5+ Kg8 13. Kf1
+Bd6 14. c3 Qc6 15. Qf3 Bxh2 16. Qxc6 dxc6 17. Rh1 Bd6 18. Rh5 e5 19. Rg5
+Be6 20. Ra1 Bc5 21. Rxe5 Bc4+ 22. Kg1 Bd6 23. Ra5 Bd3 24. Kh1 f5 25. Ra4
+Be5 26. Ra5 Bf6 27. Kh2 f4 28. exf4 Be4 29. Ra4 Bd5 30. Ra3 Be6 31. Rb1 Bf5
+32. Ra1 Be4 33. Rb3 c5 34. Ra3 Bd5 35. Rb1 Be4 36. Ra1 Bc6 37. Rb3 Bd5 38.
+Ra3 Be5 39. fxe5 Rxf2 40. Rxa7 Rxa7 41. Kh3 Be6+ 42. Kg3 Rf5 43. Kh3 Rxe5+
+44. Kg3 Rxa2 45. Rxa2 Bxa2 46. Kh4 Rd5 47. d4 Rd6 48. Bf4 Rf6 49. Be5 Re6
+50. Bxg7 Kxg7 51. dxc5 Rc6 52. Kh5 Rxc5+ 53. Kh4 Bd5 54. Kh3 Be4 55. Kg3
+Kf6 56. Kh3 Ke5 57. Kg3 Rc4 58. Kh3 Bf5+ 59. Kg3 Be6 60. Kh2 Bd5 61. Kh3
+Ke4 62. Kh4 Ke3+ 63. Kh5 Bxg2 64. Kg6 Ke4 65. Kg7 Ke5 66. Kh7 Kf6 67. b3
+Rxc3 68. Kh6 Rxb3 69. Kh7 Bd5 70. Kh8 Rh3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "V7P3R_v4.1"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "01:30:11"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 f5 2. e4 Nc6 3. exf5 Nd4 {(Nc6-d4) -1.00/4 0} 4. Nd5 Nxf5 {(Nd4xf5)
+-0.80/4 0} 5. Bc4 c6 {(c7-c6) -0.55/4 0} 6. Nc7+ Qxc7 {(Qd8xc7) +1.75/4 0}
+7. Bf7+ Kxf7 {(Ke8xf7) +2.27/4 0} 8. Qf3 Qe5+ {(Qc7-e5+) +3.88/4 0} 9. Ne2
+Ke8 {(Kf7-e8) +4.77/4 0} 10. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "Cece_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine"]
+[Time "01:31:30"]
+[Variation "Mokele Mbembe (Bücker) Variation"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. e5 Ne4 3. d4 Nc6 4. d5 Nxe5 5. a3 Rg8 6. c3 Rh8 7. Nh3 Rg8 8.
+Nf4 Rh8 9. Qd4 Nxf2 10. Qxf2 Ng4 11. Qh4 Nf6 12. Qg5 Ne4 13. Qe5 Nf6 14. a4
+Ng4 15. Qh5 Nf6 16. Qe5 Ng4 17. Qh5 Nf6 18. Qe5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:35:03"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Nb5 Bd6 4. Nxd6+ cxd6 5. Rg1 Ne5 6. Nxe5 Nf6 7.
+Nxf7 Kxf7 8. Rb1 Ne4 9. e3 Nxf2 10. Qh5+ Kg8 11. Kxf2 Kf8 12. Qf3+ Ke8 13.
+Qh5+ Kf8 14. Qf3+ Ke8 15. Qh5+ Kf8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "C0BR4_v2.0"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "01:36:00"]
+[Variation "2.exd5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "47"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. exd5 {(e4xd5) +0.20/4 0} Nd7 3. Nc3 {(Nb1-c3) +1.25/4 0} e5 4.
+Nf3 {(Ng1-f3) +1.90/4 0} Ne7 5. Bd3 {(Bf1-d3) +2.13/4 0} e4 6. Bxe4
+{(Bd3xe4) +3.13/4 0} Nxd5 7. Bxd5 {(Be4xd5) +5.23/4 0} Qe7+ 8. Qe2
+{(Qd1-e2) +4.84/4 0} Qxe2+ 9. Nxe2 {(Nc3xe2) +4.94/4 0} Ne5 10. Nxe5
+{(Nf3xe5) +9.49/4 0} Rg8 11. Bxf7+ {(Bd5xf7+) +15.21/4 0} Kd8 12. Bxg8
+{(Bf7xg8) +15.37/4 0} c6 13. Bxh7 {(Bg8xh7) +17.09/4 0} Be7 14. Be4
+{(Bh7-e4) +17.12/4 0} Kc7 15. Nd4 {(Ne2-d4) +17.34/4 0} Be6 16. Nxe6+
+{(Nd4xe6+) +19.97/4 0} Kc8 17. Nxg7 {(Ne6xg7) +21.70/4 0} Kd8 18. Nf5
+{(Ng7-f5) +21.98/4 0} Bf6 19. Nc4 {(Ne5-c4) +21.97/4 0} Rb8 20. Ncd6
+{(Nc4-d6) +21.99/4 0} Bxb2 21. Bxb2 {(Bc1xb2) +23.74/4 0} Kd7 22. Be5
+{(Bb2-e5) +24.28/4 0} Rf8 23. Nxb7 {(Nd6xb7) +24.61/4 0} Kc8 24. Nc5
+{(Nb7-c5) +26.97/4 0  Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "01:40:25"]
+[Variation "2.d4 d5 3.e5 Bf5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "66"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. h4 Nh6 5. Nc3 e6 6. Bb5 Bb4 7. Bd2 O-O 8.
+Bc1 Be4 9. Rh2 Nf5 10. Bg5 Nfxd4 11. f4 Nxc2+ 12. Kd2 Nxa1 13. h5 Nb3+ 14.
+Qxb3 Bxc3+ 15. Kxc3 Qxg5 16. fxg5 Nxe5 17. Qa3 d4+ 18. Kxd4 Bd5 19. Bd3
+Nxd3 20. Kxd3 Bc6 21. Kc2 Rfe8 22. Qa4 Bxa4+ 23. Kd3 Bc6 24. Kd4 Bd5 25.
+Ke5 Bxa2 26. Ke4 Bd5+ 27. Ke5 Bc6 28. Kd4 Rad8+ 29. Ke5 Rd5+ 30. Ke4 Rxg5+
+31. Kd4 Rd8+ 32. Kc4 Rg4+ 33. Kc5 Rd5# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "4"]
+[White "V7P3R_v4.3"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "01:51:09"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "60"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 f5 2. e3 Nc6 {(Nb8-c6) -0.90/4 0} 3. Qh5+ g6 {(g7-g6) -0.57/4 0} 4.
+Qf3 Nf6 {(Ng8-f6) -0.42/4 0} 5. Bc4 Ne5 {(Nc6-e5) -0.12/4 0} 6. Bf7+ Nxf7
+{(Ne5xf7) +2.30/4 0} 7. Nd5 Bg7 {(Bf8-g7) +2.43/4 0} 8. Nxf6+ Bxf6
+{(Bg7xf6) +2.43/4 0} 9. c3 Ng5 {(Nf7-g5) +3.08/4 0} 10. Qf4 Ne6 {(Ng5-e6)
++3.08/4 0} 11. Qc4 Ng5 {(Ne6-g5) +2.93/4 0} 12. d4 Ne4 {(Ng5-e4) +3.36/4 0}
+13. Qd3 Bh4 {(Bf6-h4) +3.37/4 0} 14. Qxe4 fxe4 {(f5xe4) +9.58/4 0} 15. Kf1
+d6 {(d7-d6) +10.28/4 0} 16. c4 Bg4 {(Bc8-g4) +10.65/4 0} 17. Bd2 Qd7
+{(Qd8-d7) +10.78/4 0} 18. Bb4 Qa4 {(Qd7-a4) +12.27/4 1} 19. Bc3 Qxc4+
+{(Qa4xc4+) +12.23/4 0} 20. Ke1 Qd3 {(Qc4-d3) +12.08/4 0} 21. Bd2 Bxf2+
+{(Bh4xf2+) +15.39/4 0} 22. Kxf2 Qxd2+ {(Qd3xd2+) +16.21/4 0} 23. Kg3 Be6
+{(Bg4-e6) +16.91/4 0} 24. d5 Bxd5 {(Be6xd5) +17.36/4 0} 25. Kh3 Qxb2
+{(Qd2xb2) +18.74/4 0} 26. Re1 Be6+ {(Bd5-e6+) +18.57/4 0} 27. g4 Bxg4+
+{(Be6xg4+) +19.07/4 0} 28. Kh4 Qg2 {(Qb2-g2) +21.46/4 0} 29. Nf3 Bxf3
+{(Bg4xf3) +299.97/4 0} 30. Rhg1 g5# {(g6-g5+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:54:20"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 c6 2. Ng5 Nh6 {(Ng8-h6) -0.93/4 0} 3. Nc3 Qc7 {(Qd8-c7) -0.92/4 0}
+4. Nce4 Qe5 {(Qc7-e5) -1.05/4 0} 5. Rb1 Qd5 {(Qe5-d5) -0.08/4 0} 6. Nxh7
+Qxe4 {(Qd5xe4) +0.80/4 0} 7. Ng5 Qd5 {(Qe4-d5) +2.50/4 0} 8. d3 Qxa2
+{(Qd5xa2) +2.78/4 0} 9. Bd2 Ng4 {(Nh6-g4) +3.18/4 0} 10. Bb4 Nxh2 {(Ng4xh2)
++4.93/4 0} 11. Bxe7 Nxf1 {(Nh2xf1) +6.66/4 0} 12. Rxh8 Ne3 {(Nf1-e3)
++7.81/4 0} 13. fxe3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "V7P3R_v4.3"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "01:54:50"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "158"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e6 2. Ne4 Nc6 3. e3 Bb4 4. c3 Nf6 5. cxb4 Nxe4 6. d4 Nxb4 7. Bc4 O-O
+8. Bd3 Nxd3+ 9. Qxd3 Qf6 10. Qxe4 d6 11. Qf4 Qxf4 12. exf4 e5 13. fxe5 Be6
+14. Nh3 Bd5 15. Nf4 Bc4 16. f3 d5 17. Be3 Rfe8 18. Bf2 f6 19. Nd3 Bxd3 20.
+Bg3 fxe5 21. dxe5 Bc4 22. Bf4 Re6 23. Be3 Rxe5 24. Kd1 Rxe3 25. Rc1 Bxa2
+26. Rc5 Re5 27. Rxc7 Rf5 28. Rxb7 Bc4 29. Re7 Bb3+ 30. Kd2 d4 31. Kd3 Rf4
+32. Re4 Bc2+ 33. Kxd4 Bxe4 34. fxe4 Kh8 35. Ke5 Raf8 36. Kd6 Rxe4 37. Rg1
+Ref4 38. Ke6 R4f5 39. Rd1 Rf4 40. Ke7 R4f7+ 41. Kd6 Rd8+ 42. Ke6 Rxd1 43.
+Kxf7 Rd2 44. b3 Rxg2 45. Ke6 Rxh2 46. Ke5 Rh5+ 47. Ke4 Rb5 48. Kd4 Rxb3 49.
+Ke5 Kg8 50. Kd5 Kf7 51. Kc4 Rf3 52. Kd5 Rf5+ 53. Ke4 Ke6 54. Kd4 Rf4+ 55.
+Ke3 Ke5 56. Ke2 Re4+ 57. Kd3 Rd4+ 58. Ke3 Rd5 59. Kf3 Rd3+ 60. Kf2 Kd5 61.
+Kg1 Rd1+ 62. Kg2 Rd2+ 63. Kf3 Ke5 64. Kg4 Ke4 65. Kg3 Rd3+ 66. Kg2 Ke3 67.
+Kh3 Kf3 68. Kh2 Rd2+ 69. Kh1 Ke4 70. Kg1 Ke5 71. Kf1 Kd4 72. Kg1 Kd3 73.
+Kf1 Re2 74. Kg1 Ke4 75. Kh1 Ke3 76. Kg1 Rf2 77. Kh1 Kf4 78. Kg1 Kg3 79. Kh1
+Rf1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Time "02:07:09"]
+[Variation "1.e4 c5 2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "36"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 e6 4. d4 Nxd4 5. Nxd4 cxd4 6. Bc4 d3 7. O-O Bc5
+8. Bxd3 Bd4 9. Qg4 Bxe5 10. Qe4 Qf6 11. a3 Bd6 12. Qxh7 Rxh7 13. g3 Rxh2
+14. Be4 Rxf2 15. Rxf2 Qd4 16. Bh7 Bxg3 17. Be4 Qxf2+ 18. Kh1 Qh2# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "V7P3R_v4.1"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:11:32"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nb4 4. Ne5 Rb8 5. Bg5 Ng4 6. Nxg4 Rg8 7. d5 Rh8
+8. Be3 Ra8 9. Ne5 d6 10. Bd4 dxe5 11. Bxe5 Bf5 12. e4 Bd7 13. Bd4 Rg8 14.
+Bc4 Rh8 15. Bc5 e6 16. Bxb4 Bxb4 17. dxe6 Bxc3+ 18. bxc3 Bxe6 19. Bd5 Bxd5
+20. Qxd5 Qxd5 21. exd5 Kf8 22. O-O Rd8 23. Rfb1 b6 24. Rb3 Rxd5 25. Ra3 Ra5
+26. Rxa5 bxa5 27. Rb1 Ke7 28. Rb5 Rd8 29. Rxa5 Rd1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:17:18"]
+[Variation "1...d5 2.e4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "14"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. Nc3 Nh6 3. Nxd5 {(Nc3xd5) +1.45/4 0} Bg4 4. Nf3 {(Ng1-f3)
++1.75/4 0} Nd7 5. Bc4 {(Bf1-c4) +1.73/4 0} e6 6. Ne3 {(Nd5-e3) +1.51/4 0}
+Bb4 7. Bb5 {(Bc4-b5) +1.42/4 0} O-O {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:18:47"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nf6 2. Nc3 e5 3. Nxe5 Ne4 4. Nxe4 Rg8 5. Rg1 Rh8 6. Rh1 Rg8 7. Rg1
+Rh8 8. Rh1 Rg8 9. Rg1 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:20:24"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 Nc6 4. d3 Nxf2 5. Kxf2 Nb4 6. Kf3 Nc6 7. Kf2
+Nb4 8. Kf3 Nc6 9. Kf2 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "Cece_v2.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C21"]
+[Opening "Centre Game"]
+[Time "02:21:11"]
+[Variation "1.e4 e5 2.d4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "46"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. d4 Be7 3. dxe5 Bb4+ {(Be7-b4+) -0.72/4 0} 4. Nd2 Qe7 {(Qd8-e7)
+-0.54/4 0} 5. Nf3 Nc6 {(Nb8-c6) -0.19/4 0} 6. Nd4 Nxd4 {(Nc6xd4) +1.15/4 0}
+7. Rg1 Qxe5 {(Qe7xe5) +6.15/4 0} 8. Rh1 Qxe4+ {(Qe5xe4+) +9.60/4 0} 9. Be2
+Nxc2+ {(Nd4xc2+) +9.60/4 0} 10. Kf1 Bxd2 {(Bb4xd2) +9.60/4 0} 11. Qxd2 Nxa1
+{(Nc2xa1) +10.48/4 0} 12. Ba6 bxa6 {(b7xa6) +13.05/4 0} 13. Qxd7+ Bxd7
+{(Bc8xd7) +23.17/4 0} 14. Bd2 Qb1+ {(Qe4-b1+) +23.99/4 0} 15. Ke2 Qxh1
+{(Qb1xh1) +27.34/4 0} 16. Ba5 Bg4+ {(Bd7-g4+) +28.89/4 0} 17. Ke3 Qxg2
+{(Qh1xg2) +29.15/4 0} 18. Bxc7 Qc6 {(Qg2-c6) +28.34/4 0} 19. h3 Qc1+
+{(Qc6-c1+) +29.31/4 0} 20. Ke4 Nf6+ {(Ng8-f6+) +30.50/4 0} 21. Ke5 Qxc7+
+{(Qc1xc7+) +32.40/4 0} 22. Kd4 Nc2+ {(Na1-c2+) +299.97/4 0} 23. Kd3 Rd8#
+{(Ra8-d8+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "V7P3R_v4.1"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:25:29"]
+[Variation "1...d5 2.Nf3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "53"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 d5 3. Ng5 d4 4. e4 Qd6 5. Bc4 Rg8 6. Bxf7+ Kd8 7. O-O
+dxc3 8. dxc3 Nd5 9. Bxg8 h5 10. Bxd5 e5 11. Qxh5 Be7 12. Nf7+ Ke8 13. Nxd6+
+Kf8 14. Nxc8 Bb4 15. cxb4 Nd7 16. Bxb7 Rxc8 17. Bxc8 Kg8 18. Bxd7 Kf8 19.
+Qxe5 Kg8 20. Qxc7 Kh8 21. Qxa7 Kg8 22. Qb8+ Kh7 23. Be3 Kg6 24. Qe5 Kh7 25.
+Qh5+ Kg8 26. Be6+ Kf8 27. Qf7# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "5"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A45"]
+[Opening "Indian"]
+[Time "02:31:55"]
+[Variation "2.Bf4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "24"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Bf4 d6 3. Nc3 {(Nb1-c3) -0.12/4 0} e6 4. Nf3 {(Ng1-f3) +0.50/4
+0} Nd5 5. Nxd5 {(Nc3xd5) +0.80/4 0} c6 6. Bg5 {(Bf4-g5) +4.11/4 0} Qa5+ 7.
+Nc3 {(Nd5-c3) +3.86/4 0} d5 8. Qd3 {(Qd1-d3) +3.93/4 0} Bd6 9. Rb1
+{(Ra1-b1) +3.82/4 1} f6 10. Be3 {(Bg5-e3) +4.10/4 0} e5 11. Bd2 {(Be3-d2)
++4.77/4 0} exd4 12. Nxd5 {(Nc3xd5) +11.40/4 0} Qxd5 {Arena Adjudication.
+Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "C0BR4_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A45"]
+[Opening "Indian"]
+[Time "02:33:03"]
+[Variation "2.Nc3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "20"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nc3 Nc6 3. Nf3 {(Ng1-f3) -0.05/4 0} Nb4 4. Ne5 {(Nf3-e5)
++0.05/4 0} Rb8 5. Bg5 {(Bc1-g5) +0.47/4 0} Ng4 6. Nxg4 {(Ne5xg4) +3.35/4 0}
+Rg8 7. Ne5 {(Ng4-e5) +3.72/4 1} Ra8 8. Qd2 {(Qd1-d2) +3.82/4 1} Rb8 9. Ne4
+{(Nc3-e4) +4.77/4 1} Nd5 10. Qa5 {(Qd2-a5) +5.80/4 0} f6 {Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "V7P3R_v4.1"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:33:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "time forfeit"]
+[PlyCount "190"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Qc7 3. d3 f6 4. Bd2 e6 5. e3 e5 6. Ne4 d5 7. Nc3 Ne7 8.
+Ng5 fxg5 9. Qh5+ g6 10. Qxg5 Bg7 11. d4 Be6 12. Bb5 Kf8 13. O-O Kg8 14.
+dxe5 Bxe5 15. Ne4 cxb5 16. Nc3 Bxc3 17. Bxc3 Nec6 18. Bxh8 d4 19. Qxb5 dxe3
+20. fxe3 Bf5 21. Qc4+ Qf7 22. Qxf7+ Kxf7 23. Bc3 Kg8 24. Rf3 Nd7 25. Rg3
+Bxc2 26. Rh3 Nd4 27. Bxd4 Bf5 28. Rf3 Ne5 29. Bxe5 Rf8 30. Bd4 Be4 31. Bxa7
+Rxf3 32. gxf3 Bxf3 33. Rf1 Bh5 34. Rf6 Be2 35. Rd6 Bb5 36. Bd4 Kf7 37. Rd5
+Bc6 38. Re5 Bd7 39. Re4 Kf8 40. Rf4+ Kg8 41. Re4 Kf8 42. Rh4 Bb5 43. Rxh7
+Bd3 44. Rxb7 Bc4 45. Bc5+ Kg8 46. Bd4 Kf8 47. Bf6 Bxa2 48. Rh7 g5 49. Bxg5
+Bd5 50. Bf6 Be4 51. Rh8+ Kf7 52. Be5 Bd5 53. Bd4 Bc4 54. Be5 Bd5 55. Rd8
+Bc4 56. Rd4 Be6 57. Rf4+ Kg8 58. Re4 Bd5 59. Rg4+ Kh7 60. Rh4+ Kg6 61. Bf6
+Kxf6 62. e4 Be6 63. Rh6+ Ke7 64. Kg2 Kd6 65. Rf6 Ke5 66. Rg6 Bc4 67. Kf3
+Kd4 68. Kf4 Bd3 69. Rd6+ Kc4 70. Ke5 Be2 71. Re6 Bf3 72. Rc6+ Kd3 73. Rc3+
+Ke2 74. Kd5 Bg4 75. Ke5 Bf3 76. Kd4 Bh5 77. Rc2+ Kf3 78. Ke5 Be8 79. Kf5
+Bd7+ 80. Ke5 Be8 81. Kf6 Kf4 82. Rc4 Bh5 83. e5+ Kf3 84. e6 Kg2 85. Rc5 Be2
+86. Re5 Bc4 87. Rc5 Ba6 88. Rc2+ Kg1 89. Kg7 Bd3 90. Rc3 Be4 91. Kf6 Kxh2
+92. Ke5 Bh7 93. Kf4 Kg2 94. Re3 Bb1 95. Re2+ Kh3 96. ... {White forfeits on
+time} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:59:00"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "101"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. Nb5 d5 3. f3 d4 4. f4 e5 5. Nf3 exf4 6. Nxc7+ Qxc7 7. Nh4 Ne5
+8. Ng6 hxg6 9. h3 Nf3+ 10. exf3 Qe7+ 11. Kf2 Qh4+ 12. Kg1 Kd8 13. d3 Qg3
+14. Bd2 Qg5 15. Bxf4 Qxf4 16. Qe2 Nf6 17. Qf2 Bd6 18. c4 Nd5 19. cxd5 Be5
+20. Qe1 Qe3+ 21. Qxe3 dxe3 22. Rc1 Rh5 23. Be2 Bd7 24. f4 Bd4 25. Rc4 Rh6
+26. Rxd4 Ke8 27. Rb4 Kf8 28. Rxb7 Bf5 29. d6 Rc8 30. Rc7 Rxc7 31. dxc7 Be4
+32. c8=Q+ Ke7 33. Qc5+ Ke8 34. Qxe3 Kf8 35. dxe4 Kg8 36. Qxa7 Kh8 37. Qxf7
+Kh7 38. Qxg7+ Kxg7 39. f5 gxf5 40. exf5 Kh8 41. Bf3 Kh7 42. f6 Kh8 43. Ba8
+Rxf6 44. Rh2 Rb6 45. Kh1 Rg6 46. Bd5 Rg7 47. Bc6 Kg8 48. Bf3 Kh8 49. Bc6
+Kg8 50. Bf3 Kh8 51. Bc6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:10:56"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Nc6 3. Nb5 Bc5 4. Rb1 Nf6 5. Rg1 Ne4 6. e3 Ne5 7. Nxe5 O-O
+8. Bd3 Qf6 9. Bxe4 Qxe5 10. Bxh7+ Kxh7 11. Nxc7 Qxc7 12. Qh5+ Kg8 13. Kf1
+Bd6 14. c3 Qc6 15. Qf3 Bxh2 16. Qxc6 dxc6 17. Rh1 Bd6 18. Rh5 e5 19. Rg5
+Be6 20. Ra1 Bc5 21. Rxe5 Bc4+ 22. Kg1 Bd6 23. Ra5 Bd3 24. Kh1 f5 25. Ra4
+Be5 26. Ra5 Bf6 27. Kh2 f4 28. exf4 Be4 29. Ra4 Bd5 30. Ra3 Be6 31. Rb1 Bf5
+32. Ra1 Be4 33. Rb3 c5 34. Ra3 Bd5 35. Rb1 Be4 36. Ra1 Bc6 37. Rb3 Bd5 38.
+Ra3 Be5 39. fxe5 Rxf2 40. Rxa7 Rxa7 41. Kh3 Be6+ 42. Kg3 Rf5 43. Kh3 Rxe5+
+44. Kg3 Rxa2 45. Rxa2 Bxa2 46. Kh4 Rd5 47. d4 Rd6 48. Bf4 Rf6 49. Be5 Re6
+50. Bxg7 Kxg7 51. dxc5 Rc6 52. Kh5 Rxc5+ 53. Kh4 Bd5 54. Kh3 Be4 55. Kg3
+Kf6 56. Kh3 Ke5 57. Kg3 Rc4 58. Kh3 Bf5+ 59. Kg3 Be6 60. Kh2 Bd5 61. Kh3
+Ke4 62. Kh4 Ke3+ 63. Kh5 Bxg2 64. Kg6 Ke4 65. Kg7 Ke5 66. Kh7 Kf6 67. b3
+Rxc3 68. Kh6 Rxb3 69. Kh7 Bd5 70. Kh8 Rh3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "V7P3R_v4.1"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "03:26:32"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Nf6 {(Ng8-f6) -0.88/4 0} 3. d3 Na6 {(Nb8-a6) -0.62/4 0} 4.
+Bd2 Nb4 {(Na6-b4) -0.35/4 0} 5. Ng5 Nbd5 {(Nb4-d5) -0.45/4 0} 6. e4 Nb4
+{(Nd5-b4) -0.43/4 0} 7. d4 d5 {(d7-d5) -0.23/4 0} 8. Be2 dxe4 {(d5xe4)
++0.39/4 0} 9. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "Cece_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine"]
+[Time "03:28:43"]
+[Variation "Mokele Mbembe (Bücker) Variation"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "78"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. e5 Ne4 3. d4 Nc6 4. d5 Nxe5 5. a3 Rg8 6. b3 Rh8 7. f3 Nc5 8.
+Qd4 Ned3+ 9. Bxd3 Nxd3+ 10. Qxd3 e6 11. dxe6 dxe6 12. Qb5+ Qd7 13. Qxd7+
+Bxd7 14. Bg5 Be7 15. Bxe7 Kxe7 16. Nc3 Bc6 17. Nce2 Bd5 18. Nf4 Bxb3 19.
+cxb3 e5 20. b4 exf4 21. Ne2 Kf6 22. Kf1 Rhe8 23. g4 fxg3 24. hxg3 Rxe2 25.
+Kxe2 Re8+ 26. Kd3 Re7 27. Rxh7 Kg6 28. Rh8 Kg5 29. Rd8 Kg6 30. b5 Re5 31.
+Rd6+ cxd6 32. Kd4 Rxb5 33. Ke4 Rg5 34. Kd4 Rxg3 35. Ke3 Rg5 36. Kd4 Rg2 37.
+Ke3 Rg5 38. Kd4 Rg2 39. Ke3 Rg5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:36:01"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Nb5 Bd6 4. Nxd6+ cxd6 5. Rg1 Ne5 6. Nxe5 Nf6 7.
+Nxf7 Kxf7 8. Rb1 Ne4 9. e3 Nxf2 10. Qh5+ Kg8 11. Kxf2 Kf8 12. Qf3+ Ke8 13.
+Qh5+ Kf8 14. Qf3+ Ke8 15. Qh5+ Kf8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "C0BR4_v2.0"]
+[Black "Cece_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "03:36:57"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "34"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 e5 3. dxe5 {(d4xe5) +1.25/4 0} Ne4 4. Qd4 {(Qd1-d4)
++1.57/4 0} d5 5. Nc3 {(Nb1-c3) +1.37/4 0} Bb4 6. Qxb4 {(Qd4xb4) +4.17/4 0}
+Nd7 7. Nxe4 {(Nc3xe4) +6.64/4 0} dxe4 8. Bg5 {(Bc1-g5) +6.64/4 0} exf3 9.
+Bxd8 {(Bg5xd8) +9.12/4 0} Kxd8 10. gxf3 {(g2xf3) +9.33/4 0} Re8 11. Qh4+
+{(Qb4-h4+) +10.45/4 0} Re7 12. Qxh7 {(Qh4xh7) +10.75/4 0} f6 13. Rd1
+{(Ra1-d1) +12.30/4 0} Rxe5 14. Qxg7 {(Qh7xg7) +13.08/4 0} Ke8 15. Rxd7
+{(Rd1xd7) +14.17/4 0} Bxd7 16. Qg8+ {(Qg7-g8+) +16.01/4 0} Ke7 17. Qxa8
+{(Qg8xa8) +16.04/4 0} Be6 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "03:40:06"]
+[Variation "2.d4 d5 3.e5 Bf5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "48"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. f3 Nxe5 5. dxe5 Nh6 6. Bxh6 gxh6 7. Qd4
+Bxc2 8. Bb5+ c6 9. Be2 Bxb1 10. Rxb1 Qa5+ 11. Kf2 Qxa2 12. Qc5 Qxb1 13.
+Qxd5 cxd5 14. Bb5+ Kd8 15. Be8 Kxe8 16. Kg3 Qxb2 17. Kh4 Qxe5 18. Kg4 Rg8+
+19. Kh4 Rxg2 20. Kh3 Rxg1 21. Rxg1 d4 22. Kh4 Qxh2+ 23. Kg4 Qxg1+ 24. Kh5
+Qg5# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "6"]
+[White "V7P3R_v4.3"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "03:46:05"]
+[Variation "1...e5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "47"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e5 2. Ne4 Nc6 3. e3 Nf6 {(Ng8-f6) +0.13/4 0} 4. Nc3 Bb4 {(Bf8-b4)
++0.63/4 0} 5. Bd3 Bxc3 {(Bb4xc3) +0.86/4 0} 6. Bf5 Bb4 {(Bc3-b4) +3.18/4 0}
+7. c3 Bc5 {(Bb4-c5) +3.43/4 0} 8. Nf3 e4 {(e5-e4) +3.33/4 1} 9. d4 exf3
+{(e4xf3) +5.01/4 0} 10. Qxf3 Bd6 {(Bc5-d6) +5.02/4 0} 11. e4 g6 {(g7-g6)
++5.45/4 0} 12. e5 gxf5 {(g6xf5) +5.00/4 0} 13. exd6 cxd6 {(c7xd6) +4.63/4
+0} 14. Qe2+ Ne4 {(Nf6-e4) +6.28/4 0} 15. f3 Qh4+ {(Qd8-h4+) +6.16/4 0} 16.
+g3 Qh5 {(Qh4-h5) +5.40/4 0} 17. Qe3 d5 {(d6-d5) +4.93/4 0} 18. Qf4 Nf6
+{(Ne4-f6) +6.53/4 0} 19. Be3 Qh3 {(Qh5-h3) +7.16/4 0} 20. Qd6 Qg2 {(Qh3-g2)
++9.21/4 0} 21. Qxf6 Qxh1+ {(Qg2xh1+) +9.80/4 0} 22. Ke2 Qxh2+ {(Qh1xh2+)
++10.19/4 0} 23. Kd3 Nb4+ {(Nc6-b4+) +299.99/4 0} 24. cxb4 {Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:48:39"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 f5 2. Ne5 Nc6 3. Nc4 Nf6 {(Ng8-f6) -0.35/4 0} 4. Nc3 e6 {(e7-e6)
+-0.15/4 0} 5. Nb5 Bc5 {(Bf8-c5) 0.00/4 0} 6. Rg1 a6 {(a7-a6) +0.80/4 0} 7.
+Nc3 b5 {(b7-b5) +0.80/4 0} 8. Ne3 f4 {(f5-f4) +1.10/4 2} 9. Ned5 exd5
+{(e6xd5) +2.26/4 0} 10. Rh1 Ng4 {(Nf6-g4) +2.66/4 0} 11. d4 Bxd4 {(Bc5xd4)
++4.44/4 0} 12. Nxd5 Bxf2+ {(Bd4xf2+) +6.11/4 0} 13. Kd2 Be3+ {(Bf2-e3+)
++6.11/4 0} 14. Kc3 Nf2 {(Ng4-f2) +9.09/4 0} 15. Nxc7+ Qxc7 {(Qd8xc7)
++12.66/4 0} 16. Qxd7+ Bxd7 {(Bc8xd7) +16.81/4 0} 17. Kb3 Nd4+ {(Nc6-d4+)
++22.23/4 0} 18. Kb4 Nxc2+ {(Nd4xc2+) +299.97/4 0} 19. Kb3 Qc4# {(Qc7-c4+)
++299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "V7P3R_v4.3"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "03:49:19"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "158"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e6 2. Ne4 Nc6 3. e3 Bb4 4. c3 Nf6 5. cxb4 Nxe4 6. d4 Nxb4 7. Bc4 O-O
+8. Bd3 Nxd3+ 9. Qxd3 Qf6 10. Qxe4 d6 11. Qf4 Qxf4 12. exf4 e5 13. fxe5 Be6
+14. Nh3 Bd5 15. Nf4 Bc4 16. f3 d5 17. Be3 Rfe8 18. Bf2 f6 19. Nd3 Bxd3 20.
+Bg3 fxe5 21. dxe5 Bc4 22. Bf4 Re6 23. Be3 Rxe5 24. Kd1 Rxe3 25. Rc1 Bxa2
+26. Rc5 Re5 27. Rxc7 Rf5 28. Rxb7 Bc4 29. Re7 Bb3+ 30. Kd2 d4 31. Kd3 Rf4
+32. Re4 Bc2+ 33. Kxd4 Bxe4 34. fxe4 Kh8 35. Ke5 Raf8 36. Kd6 Rxe4 37. Rg1
+Ref4 38. Ke6 R4f5 39. Rd1 Rf4 40. Ke7 R4f7+ 41. Kd6 Rd8+ 42. Ke6 Rxd1 43.
+Kxf7 Rd2 44. b3 Rxg2 45. Ke6 Rxh2 46. Ke5 Rh5+ 47. Ke4 Rb5 48. Kd4 Rxb3 49.
+Ke5 Kg8 50. Kd5 Kf7 51. Kc4 Rf3 52. Kd5 Rf5+ 53. Ke4 Ke6 54. Kd4 Rf4+ 55.
+Ke3 Ke5 56. Ke2 Re4+ 57. Kd3 Rd4+ 58. Ke3 Rd5 59. Kf3 Rd3+ 60. Kf2 Kd5 61.
+Kg1 Rd1+ 62. Kg2 Rd2+ 63. Kf3 Ke5 64. Kg4 Ke4 65. Kg3 Rd3+ 66. Kg2 Ke3 67.
+Kh3 Kf3 68. Kh2 Rd2+ 69. Kh1 Ke4 70. Kg1 Ke5 71. Kf1 Kd4 72. Kg1 Kd3 73.
+Kf1 Re2 74. Kg1 Ke4 75. Kh1 Ke3 76. Kg1 Rf2 77. Kh1 Kf4 78. Kg1 Kg3 79. Kh1
+Rf1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Time "04:01:48"]
+[Variation "1.e4 c5 2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "72"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 e6 4. d4 Nxd4 5. Nxd4 cxd4 6. Bc4 d3 7. O-O Bc5
+8. Bxd3 Bd4 9. Qg4 Bxe5 10. Be4 Qf6 11. Qxe6+ fxe6 12. Bxb7 Bxb7 13. Re1
+Bxb2 14. Bxb2 Qxb2 15. Rd1 Qxa1 16. Rf1 Qxb1 17. Rxb1 Bc6 18. c4 Nf6 19.
+Rb2 Ne4 20. Re2 Rg8 21. Re1 Rh8 22. f3 Rg8 23. fxe4 Kf7 24. Rf1+ Kg6 25.
+Rf3 Bxe4 26. Ra3 Kf5 27. Re3 Ke5 28. Rxe4+ Kxe4 29. h3 Kd4 30. Kf2 Kxc4 31.
+Kg3 Kd3 32. Kh4 Kd4 33. Kh5 Kc4 34. Kh4 Kd4 35. Kg5 Ke4 36. Kh4 Kd4 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "V7P3R_v4.1"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "04:10:13"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nb4 4. Ne5 Rb8 5. Bg5 Ng4 6. Nxg4 Rg8 7. d5 Rh8
+8. Be3 Ra8 9. Ne5 d6 10. Bd4 dxe5 11. Bxe5 Bf5 12. e4 Bd7 13. Bd4 Rg8 14.
+Bc4 Rh8 15. Bc5 e6 16. Bxb4 Bxb4 17. dxe6 Bxc3+ 18. bxc3 Bxe6 19. Bd5 Bxd5
+20. Qxd5 Qxd5 21. exd5 Kf8 22. O-O Rd8 23. Rfb1 b6 24. Rb3 Rxd5 25. Ra3 Ra5
+26. Rxa5 bxa5 27. Rb1 Ke7 28. Rb5 Rd8 29. Rxa5 Rd1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "04:15:58"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 2. Nc3 Bb4 3. Nf3 {(Ng1-f3) -0.15/4 0} Nc6 4. d5 {(d4-d5) -0.18/4
+0} Qf6 5. dxc6 {(d5xc6) +1.53/4 0} dxc6 6. Qd3 {(Qd1-d3) +1.86/4 0} e5 7.
+Bg5 {(Bc1-g5) +2.99/4 0} Bf5 8. e4 {(e2-e4) +3.85/4 0} Qd6 9. exf5 {(e4xf5)
++4.59/4 0} Nh6 10. Qe4 {(Qd3-e4) +4.85/4 0} Qc5 11. Bxh6 {(Bg5xh6) +5.77/4
+0} gxh6 12. Qxe5+ {(Qe4xe5+) +5.90/4 0} Qxe5+ 13. Nxe5 {(Nf3xe5) +5.70/4 0}
+O-O-O {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "04:18:08"]
+[Variation "1...d5 2.Nf3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "63"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. Nd4 e5 4. Ndb5 Bd6 5. Nxc7+ Qxc7 6. Nb5 Qd7 7.
+Nxd6+ Qxd6 8. e3 Kf8 9. Be2 e4 10. Bh5 Qe5 11. Bxf7 d4 12. Qe2 Kxf7 13. Kf1
+Be6 14. f4 Qd5 15. Rg1 Kf8 16. Kf2 dxe3+ 17. dxe3 Ng4+ 18. Kg3 Na6 19. Qd2
+Qxd2 20. Bxd2 Bd5 21. Kxg4 Kg8 22. Bc3 Kf7 23. Rgd1 Kg8 24. Rxd5 g6 25. Rb5
+Rc8 26. Rxb7 Rxc3 27. bxc3 Nc5 28. Rxa7 Kf8 29. Rb1 h5+ 30. Kh3 Nd7 31.
+Rxd7 h4 32. Rb8# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "04:24:10"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 Nc6 4. d3 Nxf2 5. Kxf2 Nb4 6. Kf3 Nc6 7. Kf2
+Nb4 8. Kf3 Nc6 9. Kf2 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "Cece_v2.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "C21"]
+[Opening "Centre Game"]
+[Time "04:24:59"]
+[Variation "1.e4 e5 2.d4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. d4 Nf6 3. Nh3 Nxe4 {(Nf6xe4) +1.37/4 0} 4. Bc4 Bb4+ {(Bf8-b4+)
++2.30/4 0} 5. Kf1 d5 {(d7-d5) +2.98/4 0} 6. dxe5 Bxh3 {(Bc8xh3) +2.96/4 0}
+7. gxh3 Qh4 {(Qd8-h4) +2.65/4 0} 8. Rg1 Qxf2# {(Qh4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "V7P3R_v4.1"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "04:26:32"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "67"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 e5 3. Nxe5 Ne4 4. Nxe4 Rg8 5. Nf3 Bb4 6. c3 Rh8 7. cxb4
+Rg8 8. d3 Rh8 9. Bg5 d5 10. Bxd8 dxe4 11. Bxc7 exf3 12. gxf3 Nd7 13. d4 Nf6
+14. Be5 Ne4 15. fxe4 Rg8 16. Qd3 Bd7 17. Qc4 Rf8 18. Bxg7 Rg8 19. Qd5 a6
+20. Qxb7 Rxg7 21. Qxa8+ Ke7 22. Qxa6 Rg8 23. e5 Be6 24. Qd6+ Ke8 25. Qb8+
+Ke7 26. Qxg8 Bd5 27. Qxh7 Kd7 28. e4 Ba8 29. Qxf7+ Kd8 30. Qf8+ Kd7 31.
+Qxa8 Kc7 32. Rc1+ Kd7 33. Bb5+ Ke7 34. Qe8# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "7"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Time "04:35:45"]
+[Variation "2.Bc4"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "47"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Bc4 {(Bf1-c4) +0.21/4 0} e6 3. Nf3 {(Ng1-f3) +0.86/4 0} Qf6 4.
+Nc3 {(Nb1-c3) +0.91/4 0} d5 5. exd5 {(e4xd5) +2.95/4 0} exd5 6. Nxd5
+{(Nc3xd5) +3.41/4 0} Qe6+ 7. Kf1 {(Ke1-f1) +3.41/4 0} Bd6 8. Nb6 {(Nd5-b6)
++5.25/4 0} axb6 9. Bxe6 {(Bc4xe6) +5.21/4 0} Bxe6 10. Ke1 {(Kf1-e1) +4.85/4
+0} Bf4 11. g3 {(g2-g3) +5.55/4 0} Rxa2 12. Rxa2 {(Ra1xa2) +6.17/4 0} Bxa2
+13. gxf4 {(g3xf4) +6.94/4 0} Ne7 14. Qe2 {(Qd1-e2) +6.69/4 0} Nc6 15. Ne5
+{(Nf3-e5) +6.55/4 0} Nd4 16. Qd1 {(Qe2-d1) +6.16/4 0} Bd5 17. Rg1 {(Rh1-g1)
++5.84/4 0} Nf3+ 18. Nxf3 {(Ne5xf3) +9.13/4 0} Nc6 19. Rxg7 {(Rg1xg7)
++11.28/4 0} Nd4 20. Nxd4 {(Nf3xd4) +12.49/4 0} Be4 21. Qe2 {(Qd1-e2)
++14.70/4 0} Kd8 22. Qxe4 {(Qe2xe4) +17.54/4 0} f6 23. Qe7+ {(Qe4-e7+)
++299.97/4 0} Kc8 24. Qc7# {(Qe7-c7+) +299.99/4 0} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "C0BR4_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "04:37:23"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "20"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 {(Ng1-f3) -0.25/4 0} Nc6 3. Nc3 {(Nb1-c3) -0.05/4 0} Nb4
+4. Ne5 {(Nf3-e5) +0.05/4 0} Rb8 5. Bg5 {(Bc1-g5) +0.47/4 0} Ng4 6. Nxg4
+{(Ne5xg4) +3.35/4 0} Rg8 7. Ne5 {(Ng4-e5) +3.72/4 1} Ra8 8. Qd2 {(Qd1-d2)
++3.82/4 1} Rb8 9. Ne4 {(Nc3-e4) +4.77/4 1} Nd5 10. Qa5 {(Qd2-a5) +5.80/4 0}
+f6 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "V7P3R_v4.1"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "04:37:52"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "203"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Qc7 3. d3 f6 4. Bd2 e6 5. e3 e5 6. Ne4 d5 7. Nc3 Ne7 8.
+Ng5 fxg5 9. Qh5+ g6 10. Qxg5 Bg7 11. d4 Be6 12. Bb5 Kf8 13. O-O Kg8 14.
+dxe5 Bxe5 15. Ne4 cxb5 16. Nc3 Bxc3 17. Bxc3 Nec6 18. Bxh8 d4 19. Qxb5 dxe3
+20. fxe3 Bf5 21. Qc4+ Qf7 22. Qxf7+ Kxf7 23. Bc3 Kg8 24. Rf3 Nd7 25. Rg3
+Bxc2 26. Rh3 Nd4 27. Bxd4 Bf5 28. Rf3 Ne5 29. Bxe5 Rf8 30. Bd4 Be4 31. Bxa7
+Rxf3 32. gxf3 Bxf3 33. Rf1 Bh5 34. Rf6 Be2 35. Rd6 Bb5 36. Bd4 Kf7 37. Rd5
+Bc6 38. Re5 Bd7 39. Re4 Kf8 40. Rf4+ Kg8 41. Re4 Kf8 42. Rh4 Bb5 43. Rxh7
+Bd3 44. Rxb7 Bc4 45. Bc5+ Kg8 46. Bd4 Kf8 47. Bf6 Bxa2 48. Rh7 g5 49. Bxg5
+Bd5 50. Bf6 Be4 51. Rh8+ Kf7 52. Be5 Bd5 53. Bd4 Bc4 54. Be5 Bd5 55. Rd8
+Bc4 56. Rd4 Be6 57. Rf4+ Kg8 58. Re4 Bd5 59. Rg4+ Kh7 60. Rh4+ Kg6 61. Bf6
+Kxf6 62. e4 Be6 63. Rh6+ Ke7 64. Kg2 Kd6 65. Rf6 Ke5 66. Rg6 Bc4 67. Kf3
+Kd4 68. Kf4 Bd3 69. Rd6+ Kc4 70. Ke5 Be2 71. Re6 Bf3 72. Rc6+ Kd3 73. Rc3+
+Ke2 74. Kd5 Bg4 75. Ke5 Bf3 76. Kd4 Bh5 77. Rc2+ Kf3 78. Ke5 Kg4 79. Rg2+
+Kf3 80. Rg3+ Kf2 81. Kd5 Bf3 82. Kd4 Bg2 83. Re3 Bf3 84. Rd3 Bh5 85. Rd2+
+Kf3 86. e5 Bg6 87. Kd5 Ke3 88. Rd4 Bf7+ 89. Kc5 Bb3 90. Rd6 Ke4 91. e6 Kf5
+92. Rd3 Bxe6 93. Kd4 Bd5 94. Kxd5 Kf6 95. Rf3+ Ke7 96. Re3+ Kf7 97. Ke5 Kg7
+98. Ke6 Kh8 99. Kf6 Kg8 100. Re6 Kh8 101. Kg6 Kg8 102. Re8# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "05:02:32"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "67"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. Nb5 d5 3. f3 d4 4. f4 e5 5. Nf3 exf4 6. Nxc7+ Qxc7 7. Nh4 Qe5
+8. Nf3 Qd5 9. Ng5 Qe5 10. Nf3 Qd5 11. Ng5 Qxg5 12. Kf2 Qh4+ 13. Kg1 Ne5 14.
+h3 Nh6 15. e3 Be7 16. exd4 Kd8 17. dxe5 Qf2+ 18. Kxf2 Bf5 19. Qf3 Kc7 20.
+d4 Bxc2 21. Qc3+ Kd8 22. Qa5+ Ke8 23. Qb5+ Kf8 24. Qxb7 Rd8 25. Bxf4 Rg8
+26. Qc6 Rd5 27. Qxd5 Bh4+ 28. g3 Ng4+ 29. hxg4 Bxg3+ 30. Bxg3 Be4 31. Qxe4
+g5 32. Rxh7 Rh8 33. Rxh8+ Kg7 34. Qh7# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "05:10:06"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Nc6 3. Nb5 Bc5 4. Rb1 Nf6 5. Rg1 Ne4 6. e3 Ne5 7. Nxe5 O-O
+8. Bd3 Qf6 9. Bxe4 Qxe5 10. Bxh7+ Kxh7 11. Nxc7 Qxc7 12. Qh5+ Kg8 13. Kf1
+Bd6 14. c3 Qc6 15. Qf3 Bxh2 16. Qxc6 dxc6 17. Rh1 Bd6 18. Rh5 e5 19. Rg5
+Be6 20. Ra1 Bc5 21. Rxe5 Bc4+ 22. Kg1 Bd6 23. Ra5 Bd3 24. Kh1 f5 25. Ra4
+Be5 26. Ra5 Bf6 27. Kh2 f4 28. exf4 Be4 29. Ra4 Bd5 30. Ra3 Be6 31. Rb1 Bf5
+32. Ra1 Be4 33. Rb3 c5 34. Ra3 Bd5 35. Rb1 Be4 36. Ra1 Bc6 37. Rb3 Bd5 38.
+Ra3 Be5 39. fxe5 Rxf2 40. Rxa7 Rxa7 41. Kh3 Be6+ 42. Kg3 Rf5 43. Kh3 Rxe5+
+44. Kg3 Rxa2 45. Rxa2 Bxa2 46. Kh4 Rd5 47. d4 Rd6 48. Bf4 Rf6 49. Be5 Re6
+50. Bxg7 Kxg7 51. dxc5 Rc6 52. Kh5 Rxc5+ 53. Kh4 Bd5 54. Kh3 Be4 55. Kg3
+Kf6 56. Kh3 Ke5 57. Kg3 Rc4 58. Kh3 Bf5+ 59. Kg3 Be6 60. Kh2 Bd5 61. Kh3
+Ke4 62. Kh4 Ke3+ 63. Kh5 Bxg2 64. Kg6 Ke4 65. Kg7 Ke5 66. Kh7 Kf6 67. b3
+Rxc3 68. Kh6 Rxb3 69. Kh7 Bd5 70. Kh8 Rh3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "V7P3R_v4.1"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "05:25:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Nf6 {(Ng8-f6) -0.88/4 0} 3. d3 Na6 {(Nb8-a6) -0.62/4 0} 4.
+Bd2 Nb4 {(Na6-b4) -0.35/4 0} 5. Ng5 Nbd5 {(Nb4-d5) -0.45/4 0} 6. e4 Nb4
+{(Nd5-b4) -0.43/4 0} 7. d4 d5 {(d7-d5) -0.23/4 0} 8. Be2 dxe4 {(d5xe4)
++0.39/4 0} 9. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "Cece_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine"]
+[Time "05:27:43"]
+[Variation "Mokele Mbembe (Bücker) Variation"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "44"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. e5 Ne4 3. d4 Nc6 4. d5 Nxe5 5. a3 Rg8 6. h4 Rh8 7. g3 Nxg3 8.
+fxg3 Rg8 9. Qd4 Ng6 10. Nf3 c6 11. Be3 Qc7 12. dxc6 Qxg3+ 13. Kd2 Qxf3 14.
+cxd7+ Bxd7 15. Bg5 Qxh1 16. Be2 Bc6 17. Qd7+ Bxd7 18. Bxe7 Bxe7 19. Bd3
+Qg2+ 20. Kc3 Rc8+ 21. Kb3 Qd5+ 22. Bc4 Qxc4# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "05:32:06"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Nb5 Bd6 4. Nxd6+ cxd6 5. Rg1 Ne5 6. Nxe5 Nf6 7.
+Nxf7 Kxf7 8. Rb1 Ne4 9. e3 Nxf2 10. Qh5+ Kg8 11. Kxf2 Kf8 12. Qf3+ Ke8 13.
+Qh5+ Kf8 14. Qf3+ Ke8 15. Qh5+ Kf8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "C0BR4_v2.0"]
+[Black "Cece_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "05:33:02"]
+[Variation "2.exd5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "22"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. exd5 {(e4xd5) +0.20/4 0} Nd7 3. Nc3 {(Nb1-c3) +1.25/4 0} e5 4.
+Nf3 {(Ng1-f3) +1.90/4 0} Ne7 5. Bd3 {(Bf1-d3) +2.13/4 0} Ng8 6. Bb5
+{(Bd3-b5) +2.53/4 0} e4 7. Nxe4 {(Nc3xe4) +3.43/4 0} Ne7 8. d6 {(d5-d6)
++4.03/4 0} Nd5 9. Qe2 {(Qd1-e2) +5.05/4 0} Be7 10. dxe7 {(d6xe7) +5.10/4 0}
+Qxe7 11. Nfg5 {(Nf3-g5) +5.10/4 0} O-O {Arena Adjudication. Illegal move!}
+0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "05:35:09"]
+[Variation "2.d4 d5 3.e5 Bf5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. Nc3 Nh6 5. Qe2 Nxd4 6. Qb5+ Nxb5 7. Nb1
+Bxc2 8. Bxb5+ c6 9. Ba4 Bxa4 10. Nf3 d4 11. O-O Qd5 12. b3 Qe4 13. Bxh6
+gxh6 14. Ng5 hxg5 15. Rd1 Qxe5 16. Kh1 Bxb3 17. axb3 Bg7 18. Ra5 Qxa5 19.
+Nd2 Qd5 20. Nf3 Qxb3 21. Rg1 Qe6 22. Nxg5 Qd5 23. Nh3 Be5 24. Ng5 O-O 25.
+Nh3 Bd6 26. Re1 Be5 27. Ng5 Qc5 28. Nh3 Bd6 29. Ng1 Bf4 30. Nf3 Qc3 31.
+Rxe7 Qc4 32. Rxb7 Qd3 33. Ne5 Bxe5 34. Rb8 Rfxb8 35. Kg1 Rb1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "8"]
+[White "V7P3R_v4.3"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "05:47:26"]
+[Variation "1...d5 2.Nf3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "31"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 d5 2. Nf3 Nf6 3. e3 Bg4 {(Bc8-g4) -0.30/4 0} 4. Ne5 Bxd1 {(Bg4xd1)
++5.80/4 0} 5. Nxd1 Nc6 {(Nb8-c6) +5.72/4 0} 6. Nxc6 bxc6 {(b7xc6) +6.08/4
+0} 7. Bd3 Qd6 {(Qd8-d6) +6.42/4 0} 8. f3 e6 {(e7-e6) +6.47/4 0} 9. c4 Be7
+{(Bf8-e7) +6.95/4 0} 10. Be2 d4 {(d5-d4) +7.26/4 0} 11. e4 Nh5 {(Nf6-h5)
++7.45/4 0} 12. d3 Bh4+ {(Be7-h4+) +7.70/4 0} 13. g3 Nxg3 {(Nh5xg3) +9.40/4
+0} 14. hxg3 Qxg3+ {(Qd6xg3+) +9.83/4 0} 15. Nf2 Qxf2+ {(Qg3xf2+) +14.80/4
+0} 16. Kd1 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "05:49:00"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 Nf6 3. Nc3 Qe7 {(Qd8-e7) -1.50/4 0} 4. Nb5 Qxe5 {(Qe7xe5)
++1.78/4 0} 5. e3 Bb4 {(Bf8-b4) +1.82/4 0} 6. Bd3 Nc6 {(Nb8-c6) +2.03/4 1}
+7. Nxc7+ Qxc7 {(Qe5xc7) +3.32/4 0} 8. Kf1 Bd6 {(Bb4-d6) +3.53/4 3} 9. Qe2
+Nb4 {(Nc6-b4) +4.78/4 1} 10. Bxh7 Rxh7 {(Rh8xh7) +7.33/4 0} 11. c3 Nc2
+{(Nb4-c2) +7.33/4 0} 12. Rb1 Rxh2 {(Rh7xh2) +7.28/4 0} 13. Rxh2 Bxh2
+{(Bd6xh2) +6.63/4 0} 14. Qd3 Qc6 {(Qc7-c6) +6.53/4 0} 15. Qxc2 Qc4+
+{(Qc6-c4+) +6.63/4 0} 16. Ke1 Qxa2 {(Qc4xa2) +6.48/4 0} 17. Qf5 {Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "V7P3R_v4.3"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "05:49:41"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "158"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 e6 2. Ne4 Nc6 3. e3 Bb4 4. c3 Nf6 5. cxb4 Nxe4 6. d4 Nxb4 7. Bc4 O-O
+8. Bd3 Nxd3+ 9. Qxd3 Qf6 10. Qxe4 d6 11. Qf4 Qxf4 12. exf4 e5 13. fxe5 Be6
+14. Nh3 Bd5 15. Nf4 Bc4 16. f3 d5 17. Be3 Rfe8 18. Bf2 f6 19. Nd3 Bxd3 20.
+Bg3 fxe5 21. dxe5 Bc4 22. Bf4 Re6 23. Be3 Rxe5 24. Kd1 Rxe3 25. Rc1 Bxa2
+26. Rc5 Re5 27. Rxc7 Rf5 28. Rxb7 Bc4 29. Re7 Bb3+ 30. Kd2 d4 31. Kd3 Rf4
+32. Re4 Bc2+ 33. Kxd4 Bxe4 34. fxe4 Kh8 35. Ke5 Raf8 36. Kd6 Rxe4 37. Rg1
+Ref4 38. Ke6 R4f5 39. Rd1 Rf4 40. Ke7 R4f7+ 41. Kd6 Rd8+ 42. Ke6 Rxd1 43.
+Kxf7 Rd2 44. b3 Rxg2 45. Ke6 Rxh2 46. Ke5 Rh5+ 47. Ke4 Rb5 48. Kd4 Rxb3 49.
+Ke5 Kg8 50. Kd5 Kf7 51. Kc4 Rf3 52. Kd5 Rf5+ 53. Ke4 Ke6 54. Kd4 Rf4+ 55.
+Ke3 Ke5 56. Ke2 Re4+ 57. Kd3 Rd4+ 58. Ke3 Rd5 59. Kf3 Rd3+ 60. Kf2 Kd5 61.
+Kg1 Rd1+ 62. Kg2 Rd2+ 63. Kf3 Ke5 64. Kg4 Ke4 65. Kg3 Rd3+ 66. Kg2 Ke3 67.
+Kh3 Kf3 68. Kh2 Rd2+ 69. Kh1 Ke4 70. Kg1 Ke5 71. Kf1 Kd4 72. Kg1 Kd3 73.
+Kf1 Re2 74. Kg1 Ke4 75. Kh1 Ke3 76. Kg1 Rf2 77. Kh1 Kf4 78. Kg1 Kg3 79. Kh1
+Rf1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Time "06:02:01"]
+[Variation "1.e4 c5 2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "108"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c5 2. Nf3 Nc6 3. e5 e6 4. d4 Nxd4 5. Ng1 Nc6 6. Bg5 Nf6 7. Qe2 Nd4 8.
+Bxf6 gxf6 9. Qb5 Nxb5 10. Bxb5 Bh6 11. Nc3 fxe5 12. Nh3 f5 13. g3 Kf8 14.
+O-O d6 15. Ne4 fxe4 16. Bc4 Qf6 17. Bb5 Rg8 18. Be8 Qf5 19. Bg6 Qxh3 20.
+Bf5 Qxf1+ 21. Rxf1 exf5 22. Rd1 Be6 23. c3 d5 24. Rf1 e3 25. b3 exf2+ 26.
+Kxf2 d4 27. cxd4 Be3+ 28. Kxe3 cxd4+ 29. Kf3 Bd5+ 30. Kf2 Bxb3 31. Re1 Bxa2
+32. Rxe5 Rg5 33. Kg1 Re8 34. Rxe8+ Kxe8 35. Kf2 f4 36. Kf3 fxg3 37. h3 Be6
+38. Ke4 Bxh3 39. Kxd4 Kf7 40. Kc4 Ke6 41. Kb4 Kd5 42. Ka4 Bd7+ 43. Kb3 Kd4
+44. Ka3 Ra5+ 45. Kb4 Rb5+ 46. Ka4 Rb6+ 47. Ka3 Ke5 48. Ka2 Be6+ 49. Ka3 Kd4
+50. Ka4 Bd7+ 51. Ka3 Ke5 52. Ka2 Be6+ 53. Ka3 Kd4 54. Ka4 Bd7+ {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "V7P3R_v4.1"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "06:14:27"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "58"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nf3 Nc6 3. d4 Nb4 4. Ne5 Rb8 5. Bg5 Ng4 6. Nxg4 Rg8 7. d5 Rh8
+8. Be3 Ra8 9. Ne5 d6 10. Bd4 dxe5 11. Bxe5 Bf5 12. e4 Bd7 13. Bd4 Rg8 14.
+Bc4 Rh8 15. Bc5 e6 16. Bxb4 Bxb4 17. dxe6 Bxc3+ 18. bxc3 Bxe6 19. Bd5 Bxd5
+20. Qxd5 Qxd5 21. exd5 Kf8 22. O-O Rd8 23. Rfb1 b6 24. Rb3 Rxd5 25. Ra3 Ra5
+26. Rxa5 bxa5 27. Rb1 Ke7 28. Rb5 Rd8 29. Rxa5 Rd1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A06"]
+[Opening "Reti Opening"]
+[Time "06:20:10"]
+[Variation "Tennison (Zukertort-Lemberg) Gambit Accepted"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "48"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ne5 {(Nf3-e5) -0.90/4 0} Be6 4. Bb5+ {(Bf1-b5+)
+-0.52/4 0} c6 5. Bc4 {(Bb5-c4) -0.67/4 0} Qd4 6. Bxe6 {(Bc4xe6) -0.14/4 0}
+fxe6 7. Qh5+ {(Qd1-h5+) +0.16/4 0} g6 8. Nxg6 {(Ne5xg6) +1.53/4 0} hxg6 9.
+Qxg6+ {(Qh5xg6+) +1.53/4 0} Kd7 10. Nc3 {(Nb1-c3) +1.31/4 0} Nf6 11. Qf7
+{(Qg6-f7) +0.26/4 0} Qe5 12. d4 {(d2-d4) +0.31/4 0} Qxd4 13. Bh6 {(Bc1-h6)
++0.80/4 0} Rxh6 14. Qxf8 {(Qf7xf8) +1.34/4 0} Rxh2 15. Rxh2 {(Rh1xh2)
++3.36/4 0} e5 16. Rd1 {(Ra1-d1) +6.25/4 0} Ke6 17. Rxd4 {(Rd1xd4) +7.81/4
+0} exd4 18. Qc8+ {(Qf8-c8+) +9.18/4 0} Kf7 19. Qxb7 {(Qc8xb7) +9.86/4 0}
+Nbd7 20. Qxa8 {(Qb7xa8) +10.34/4 0} e3 21. Nd1 {(Nc3-d1) +13.19/4 0} exf2+
+22. Nxf2 {(Nd1xf2) +13.64/4 0} c5 23. Qxa7 {(Qa8xa7) +14.07/4 0} Ke6 24.
+Rh7 {(Rh2-h7) +15.42/4 0} Nxh7 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "06:22:50"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nf6 2. Nc3 e5 3. Nxe5 Ne4 4. Nxe4 Rg8 5. Rg1 Rh8 6. Rh1 Rg8 7. Rg1
+Rh8 8. Rh1 Rg8 9. Rg1 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "06:24:28"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Ne4 Nxe4 3. e3 Nc6 4. d3 Nxf2 5. Kxf2 Nb4 6. Kf3 Nc6 7. Kf2
+Nb4 8. Kf3 Nc6 9. Kf2 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "Cece_v2.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "06:25:15"]
+[Variation "Fred"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "48"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 f5 2. exf5 Nf6 {(Ng8-f6) -1.00/4 0} 3. d4 Nc6 {(Nb8-c6) -0.50/4 0} 4.
+h4 Nb4 {(Nc6-b4) +0.15/4 0} 5. d5 Nbxd5 {(Nb4xd5) +1.12/4 0} 6. Qxd5 Nxd5
+{(Nf6xd5) +7.43/4 0} 7. Nf3 Nb4 {(Nd5-b4) +7.05/4 0} 8. Bd3 Nxd3+
+{(Nb4xd3+) +7.22/4 0} 9. cxd3 Kf7 {(Ke8-f7) +6.78/4 0} 10. Rh2 Kg8
+{(Kf7-g8) +7.38/4 0} 11. Ke2 d6 {(d7-d6) +9.18/4 0} 12. g4 e6 {(e7-e6)
++9.08/4 0} 13. Kf1 Qf6 {(Qd8-f6) +9.05/4 0} 14. Ne5 Qxe5 {(Qf6xe5) +12.75/4
+0} 15. f4 Qd4 {(Qe5-d4) +13.67/4 0} 16. fxe6 Qxd3+ {(Qd4xd3+) +14.05/4 0}
+17. Kg2 Qe2+ {(Qd3-e2+) +15.88/4 0} 18. Kg3 Qe1+ {(Qe2-e1+) +16.10/4 0} 19.
+Kh3 Qxc1 {(Qe1xc1) +17.23/4 0} 20. Rd2 Qf1+ {(Qc1-f1+) +18.07/4 0} 21. Kg3
+Bxe6 {(Bc8xe6) +18.16/4 0} 22. Kh2 Bxg4 {(Be6xg4) +19.31/4 0} 23. Rd5 Qf2+
+{(Qf1-f2+) +299.97/4 0} 24. Kh1 Bf3# {(Bg4-f3+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "V7P3R_v4.1"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "06:29:39"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. e3 e5 3. Bc4 Nh6 4. Bd5 Ne7 5. Be4 Rb8 6. Nf3 Nd5 7. Bxd5 e4
+8. Bxe4 Be7 9. d4 Kf8 10. Bxh7 d5 11. Bd2 Be6 12. e4 Rxh7 13. Bf4 dxe4 14.
+Nxe4 Bb4+ 15. c3 Qd5 16. cxb4 Qxe4+ 17. Be3 Bd5 18. Ng5 Rh8 19. Nxe4 Kg8
+20. Qf3 c5 21. Nxc5 Bb3 22. Nxb3 Rf8 23. Qxb7 Rh7 24. Qxa7 Nf5 25. Bf4 g5
+26. Bxg5 Re8+ 27. Kf1 Rh8 28. Bf6 Rh7 29. Qc5 Rg7 30. Qxf5 Rg6 31. Be5 Rf8
+32. Qf4 Re8 33. Nc5 f6 34. Qf5 Rg7 35. Qxf6 Rxe5 36. Qxe5 Kh8 37. Ne4 Kg8
+38. Qe8+ Kh7 39. Nf6+ Kh6 40. Qh5# 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "9"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "06:42:42"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "8"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 Nd5 3. Bg5 {(Bc1-g5) -0.05/4 0} f6 4. Bd2 {(Bg5-d2)
++1.18/4 0} Nf4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "C0BR4_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "06:43:11"]
+[Variation "2.Nc3 Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "78"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. Nc3 {(Nb1-c3) -0.25/4 0} Nc6 3. Bd3 {(Bf1-d3) -0.10/4 0} Nb4
+4. Bb5 {(Bd3-b5) +0.03/4 0} c6 5. Be2 {(Bb5-e2) 0.00/4 0} Nxc2+ 6. Qxc2
+{(Qd1xc2) +1.38/4 0} Qc7 7. Qd3 {(Qc2-d3) +1.73/4 0} Qd6 8. Nf3 {(Ng1-f3)
++1.93/4 0} Qxd3 9. Bxd3 {(Be2xd3) +1.92/4 0} Ng4 10. Rf1 {(Rh1-f1) +1.84/4
+0} Nxh2 11. Nxh2 {(Nf3xh2) +3.34/4 0} Kd8 12. Nf3 {(Nh2-f3) +3.79/4 0} Kc7
+13. Ne5 {(Nf3-e5) +5.12/4 0} f6 14. Nf7 {(Ne5-f7) +5.87/4 0} Rg8 15. Rh1
+{(Rf1-h1) +6.03/4 0} h6 16. e5 {(e4-e5) +6.63/4 0} Rb8 17. Bh7 {(Bd3-h7)
++8.29/4 0} Rh8 18. Nxh8 {(Nf7xh8) +10.01/4 0} fxe5 19. Ng6 {(Nh8-g6)
++10.83/4 0} d6 20. Nxf8 {(Ng6xf8) +10.60/4 0} Bh3 21. Ng6 {(Nf8-g6)
++11.09/4 0} Bxg2 22. Rg1 {(Rh1-g1) +11.63/4 0} Bd5 23. Nxd5+ {(Nc3xd5+)
++12.99/4 0} cxd5 24. Nxe7 {(Ng6xe7) +12.90/4 0} d4 25. Rxg7 {(Rg1xg7)
++13.33/4 0} Kb6 26. Nf5 {(Ne7-f5) +13.98/4 0} Kc5 27. Nxh6 {(Nf5xh6)
++14.20/4 0} Kc4 28. Be4 {(Bh7-e4) +15.44/4 0} d5 29. Rc7+ {(Rg7-c7+)
++16.08/4 0} Kb5 30. Bxd5 {(Be4xd5) +16.88/4 0} Kb6 31. Re7 {(Rc7-e7)
++16.98/4 0} Ka5 32. Ng4 {(Nh6-g4) +17.68/4 0} e4 33. Bxb7 {(Bd5xb7)
++18.46/4 0} e3 34. dxe3 {(d2xe3) +18.46/4 0} dxe3 35. Bxe3 {(Bc1xe3)
++18.80/4 0} Rg8 36. Re5+ {(Re7-e5+) +19.87/4 0} Kb4 37. Bd2+ {(Be3-d2+)
++22.68/4 0} Kc4 38. Rc1+ {(Ra1-c1+) +299.97/4 0} Kd4 39. Re3 {(Re5-e3)
++299.99/4 0} Rxg4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "V7P3R_v4.1"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "06:44:10"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "time forfeit"]
+[PlyCount "198"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Qc7 3. d3 f6 4. Bd2 e6 5. e3 e5 6. Ne4 d5 7. Nc3 Ne7 8.
+Ng5 fxg5 9. Qh5+ g6 10. Qxg5 Bg7 11. d4 Be6 12. Bb5 Kf8 13. O-O Kg8 14.
+dxe5 Bxe5 15. Ne4 cxb5 16. Nc3 Bxc3 17. Bxc3 Nec6 18. Bxh8 d4 19. Qxb5 dxe3
+20. fxe3 Bf5 21. Qc4+ Qf7 22. Qxf7+ Kxf7 23. Bc3 Kg8 24. Rf3 Nd7 25. Rg3
+Bxc2 26. Rh3 Nd4 27. Bxd4 Bf5 28. Rf3 Ne5 29. Bxe5 Rf8 30. Bd4 Be4 31. Bxa7
+Rxf3 32. gxf3 Bxf3 33. Rf1 Bh5 34. Rf6 Be2 35. Rd6 Bb5 36. Bd4 Kf7 37. Rd5
+Bc6 38. Re5 Bd7 39. Re4 Kf8 40. Rf4+ Kg8 41. Re4 Kf8 42. Rh4 Bb5 43. Rxh7
+Bd3 44. Rxb7 Bc4 45. Bc5+ Kg8 46. Bd4 Kf8 47. Bf6 Bxa2 48. Rh7 g5 49. Bxg5
+Bd5 50. Bf6 Be4 51. Rh8+ Kf7 52. Be5 Bd5 53. Bd4 Bc4 54. Be5 Bd5 55. Rd8
+Bc4 56. Rd4 Be6 57. Rf4+ Kg8 58. Re4 Bd5 59. Rg4+ Kh7 60. Rh4+ Kg6 61. Bf6
+Kxf6 62. e4 Be6 63. Rh6+ Ke7 64. Kg2 Kd6 65. Rf6 Ke5 66. Rg6 Bc4 67. Kf3
+Kd4 68. Kf4 Bd3 69. Rd6+ Kc4 70. Ke5 Be2 71. Re6 Bf3 72. Rc6+ Kd3 73. Rc3+
+Ke2 74. Kd5 Bg4 75. Ke5 Bf3 76. Kd4 Bh5 77. Rc2+ Kf3 78. Ke5 Be8 79. Kf5
+Bd7+ 80. Ke5 Be8 81. Kf6 Kf4 82. Rc4 Bh5 83. e5+ Ke3 84. Kf5 Kd3 85. Rc6
+Kd4 86. Rd6+ Ke3 87. Rd5 Be8 88. Ke6 Bc6 89. Rd6 Bf3 90. Kf5 Bh5 91. Rc6
+Kd4 92. Rf6 Kc4 93. Ke4 Kc5 94. Re6 Bf7 95. Rd6 Bc4 96. Rd4 Bg8 97. Ke3 Bd5
+98. b4+ Kc6 99. Rf4 Be6 100. ... {White forfeits on time} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "07:10:21"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 2. Nb5 d5 3. f3 d4 4. f4 e5 5. Nf3 exf4 6. Nxc7+ Qxc7 7. Nh4 Ne5
+8. Ng6 Nxg6 9. c3 N8e7 10. e3 fxe3 11. dxe3 dxc3 12. Bb5+ Bd7 13. Bxd7+ Kd8
+14. Be6+ Nd5 15. Qxd5+ Ke7 16. Bxf7 cxb2 17. Qe6 {Arena Adjudication.
+Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "07:14:31"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "140"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Nc6 3. Nb5 Bc5 4. Rb1 Nf6 5. Rg1 Ne4 6. e3 Ne5 7. Nxe5 O-O
+8. Bd3 Qf6 9. Bxe4 Qxe5 10. Bxh7+ Kxh7 11. Nxc7 Qxc7 12. Qh5+ Kg8 13. Kf1
+Bd6 14. c3 Qc6 15. Qf3 Bxh2 16. Qxc6 dxc6 17. Rh1 Bd6 18. Rh5 e5 19. Rg5
+Be6 20. Ra1 Bc5 21. Rxe5 Bc4+ 22. Kg1 Bd6 23. Ra5 Bd3 24. Kh1 f5 25. Ra4
+Be5 26. Ra5 Bf6 27. Kh2 f4 28. exf4 Be4 29. Ra4 Bd5 30. Ra3 Be6 31. Rb1 Bf5
+32. Ra1 Be4 33. Rb3 c5 34. Ra3 Bd5 35. Rb1 Be4 36. Ra1 Bc6 37. Rb3 Bd5 38.
+Ra3 Be5 39. fxe5 Rxf2 40. Rxa7 Rxa7 41. Kh3 Be6+ 42. Kg3 Rf5 43. Kh3 Rxe5+
+44. Kg3 Rxa2 45. Rxa2 Bxa2 46. Kh4 Rd5 47. d4 Rd6 48. Bf4 Rf6 49. Be5 Re6
+50. Bxg7 Kxg7 51. dxc5 Rc6 52. Kh5 Rxc5+ 53. Kh4 Bd5 54. Kh3 Be4 55. Kg3
+Kf6 56. Kh3 Ke5 57. Kg3 Rc4 58. Kh3 Bf5+ 59. Kg3 Be6 60. Kh2 Bd5 61. Kh3
+Ke4 62. Kh4 Ke3+ 63. Kh5 Bxg2 64. Kg6 Ke4 65. Kg7 Ke5 66. Kh7 Kf6 67. b3
+Rxc3 68. Kh6 Rxb3 69. Kh7 Bd5 70. Kh8 Rh3# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "V7P3R_v4.1"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "07:30:01"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 c6 2. Nf3 Nf6 {(Ng8-f6) -0.88/4 0} 3. d3 Na6 {(Nb8-a6) -0.62/4 0} 4.
+Bd2 Nb4 {(Na6-b4) -0.35/4 0} 5. Ng5 Nbd5 {(Nb4-d5) -0.45/4 0} 6. e4 Nb4
+{(Nd5-b4) -0.43/4 0} 7. d4 d5 {(d7-d5) -0.23/4 0} 8. Be2 dxe4 {(d5xe4)
++0.39/4 0} 9. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "Cece_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B02"]
+[Opening "Alekhine Defence"]
+[Time "07:32:12"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "48"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. Qf3 Nc6 3. e5 Nd4 4. Qd3 Nxc2+ 5. Qxc2 Ng4 6. Qe4 Nxh2 7. Rxh2
+d6 8. Bc4 Be6 9. Bxe6 fxe6 10. exd6 Qxd6 11. Rxh7 Rxh7 12. Na3 Rh1 13. Qg6+
+Kd7 14. Qe4 Rxg1+ 15. Ke2 Rxg2 16. Qxg2 Qd5 17. Qg6 Rd8 18. Kf1 Kc8 19. Kg1
+Qf5 20. Qg3 Rd3 21. Qh4 Rh3 22. Qd4 Qf3 23. Qf6 gxf6 24. Nc4 Rh1# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "07:36:53"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 e6 3. Nb5 Bd6 4. Nxd6+ cxd6 5. Rg1 Ne5 6. Nxe5 Nf6 7.
+Nxf7 Kxf7 8. Rb1 Ne4 9. e3 Nxf2 10. Qh5+ Kg8 11. Kxf2 Kf8 12. Qf3+ Ke8 13.
+Qh5+ Kf8 14. Qf3+ Ke8 15. Qh5+ Kf8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "C0BR4_v2.0"]
+[Black "Cece_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "07:37:50"]
+[Variation "2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "65"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 2. Nf3 e5 3. dxe5 {(d4xe5) +1.25/4 0} Ne4 4. Qd4 {(Qd1-d4)
++1.57/4 0} d5 5. Nc3 {(Nb1-c3) +1.37/4 0} Bb4 6. Qxb4 {(Qd4xb4) +4.17/4 0}
+Qd7 7. Nxe4 {(Nc3xe4) +5.72/4 0} Nc6 8. Nd6+ {(Ne4-d6+) +5.86/4 0} cxd6 9.
+Qxd6 {(Qb4xd6) +5.49/4 0} Rg8 10. Qxd7+ {(Qd6xd7+) +6.07/4 0} Bxd7 11. Bg5
+{(Bc1-g5) +5.96/4 0} Rc8 12. Rd1 {(Ra1-d1) +6.13/4 0} Rh8 13. Rxd5
+{(Rd1xd5) +6.01/4 0} Rg8 14. Rb5 {(Rd5-b5) +7.47/4 0} Rc7 15. e3 {(e2-e3)
++7.23/4 0} Rh8 16. Bc4 {(Bf1-c4) +7.02/4 0} Nd4 17. Nxd4 {(Nf3xd4) +8.68/4
+0} Rf8 18. Rb4 {(Rb5-b4) +10.43/4 0} Bc8 19. Nb5 {(Nd4-b5) +11.60/4 0} Rxc4
+20. Nd6+ {(Nb5-d6+) +13.55/4 0} Kd7 21. Rxc4 {(Rb4xc4) +13.73/4 0} Ke6 22.
+Nxc8 {(Nd6xc8) +15.71/4 0} Rg8 23. Bf4 {(Bg5-f4) +16.02/4 0} g5 24. Bg3
+{(Bf4-g3) +16.59/4 0} Rxc8 25. Rxc8 {(Rc4xc8) +19.02/4 0} Kd5 26. Rc7
+{(Rc8-c7) +20.29/4 0} Ke4 27. Rxb7 {(Rc7xb7) +22.05/4 0} Kd5 28. Rxf7
+{(Rb7xf7) +23.62/4 0} Ke4 29. e6 {(e5-e6) +29.55/4 0} Kd5 30. e7 {(e6-e7)
++30.37/4 0} Ke4 31. e8=Q+ {(e7-e8Q+) +31.96/4 0} Kd5 32. Rf5+ {(Rf7-f5+)
++299.97/4 0} Kc4 33. Qe4# {(Qe8-e4+) +299.99/4 0} 1-0
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "Cece_v2.0"]
+[Black "V7P3R_v4.1"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Time "07:43:46"]
+[Variation "2.d4 d5 3.e5 Bf5"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "54"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 2. e5 Bf5 3. d4 Nc6 4. h4 Nh6 5. Nc3 e6 6. Qf3 Nxd4 7. Bb5+ c6 8.
+Bxh6 gxh6 9. Qxd5 Qxd5 10. Rh3 Qxb5 11. Nce2 Bxc2 12. Nxd4 Qxe5+ 13. Kf1
+Qxd4 14. Rg3 Qxh4 15. Rh3 Qc4+ 16. Ne2 Bg7 17. Re1 Bxb2 18. Rxh6 Qxa2 19.
+Rh5 Bd3 20. Kg1 Be4 21. Rh6 O-O-O 22. Nd4 Rxd4 23. Rh5 Bxg2 24. Rhe5 Bd5
+25. Rg5 Bc3 26. Rg7 Bxe1 27. Rg5 Qxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250819"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.20"]
+[Round "10"]
+[White "V7P3R_v4.3"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "07:51:56"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "31"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 f5 2. e3 Nc6 {(Nb8-c6) -0.90/4 0} 3. Qh5+ g6 {(g7-g6) -0.57/4 0} 4.
+Qf3 Nf6 {(Ng8-f6) -0.42/4 0} 5. Bc4 Ne5 {(Nc6-e5) -0.12/4 0} 6. Bf7+ Nxf7
+{(Ne5xf7) +2.30/4 0} 7. Nd5 Bg7 {(Bf8-g7) +2.43/4 0} 8. Nxf6+ Bxf6
+{(Bg7xf6) +2.43/4 0} 9. c3 Ng5 {(Nf7-g5) +3.08/4 0} 10. Qf4 Ne6 {(Ng5-e6)
++3.08/4 0} 11. Qc4 Ng5 {(Ne6-g5) +2.93/4 0} 12. d4 Ne4 {(Ng5-e4) +3.36/4 0}
+13. Qd3 Bh4 {(Bf6-h4) +3.37/4 0} 14. Qxe4 fxe4 {(f5xe4) +9.58/4 0} 15. c4
+Rf8 {(Rh8-f8) +10.14/4 0} 16. Kd1 {Arena Adjudication. Illegal move!} 1-0
+

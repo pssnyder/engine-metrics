@@ -1,0 +1,16 @@
+   Engine        Score          V7         Sl         V7         C0         Ce    S-B
+1: V7P3R_v4.1    33.5/40 ·········· 0101010101 111=1=111= 1111111111 1111111111  502.00
+2: Slowmate_v1.0 26.0/40 1010101010 ·········· ========== 1111110111 1=====11=1  429.00
+3: V7P3R_v4.3    22.0/40 000=0=000= ========== ·········· 1110110111 1==11==1=1  324.50
+4: C0BR4_v2.0    11.0/40 0000000000 0000001000 0001001000 ·········· 1111101011  130.00
+5: Cece_v2.0     7.5/40  0000000000 0=====00=0 0==00==0=0 0000010100 ··········  155.00
+
+100 games played / Tournament is finished
+Name of the tournament: Engine Battle Demo PC 20250819
+Site/ Country: NETWORK-CLOSET, United States
+Level: Blitz 10/5
+Hardware: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz with 31.9 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle Demo PC 20250819.pgn
+Website: 
+E-Mail Address: 

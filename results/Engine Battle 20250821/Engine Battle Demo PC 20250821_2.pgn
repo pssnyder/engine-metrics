@@ -1,0 +1,1668 @@
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "16:41:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "62"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxf7
+Nxf7 {(Nh6xf7) +33.55/4 10} 4. Nc3 e5 {(e7-e5) +31.54/4 18} 5. Nb5 Qf6
+{(Qd8-f6) +44.45/4 18} 6. Nxc7+ Kd8 {(Ke8-d8) +39.70/4 2} 7. Nxa8 d5
+{(d7-d5) +54.70/4 18} 8. Nb6 axb6 {(a7xb6) +61.65/4 16} 9. Rb1 e4 {(e5-e4)
++65.55/4 21} 10. d3 Bc5 {(Bf8-c5) +63.65/4 21} 11. Be3 Bxe3 {(Bc5xe3)
+0.00/4 21} 12. fxe3 Be6 {(Bc8-e6) +54.39/4 20} 13. dxe4 Qh4+ {(Qf6-h4+)
++26.00/4 9} 14. Kd2 Qxe4 {(Qh4xe4) +62.30/4 19} 15. Ra1 Rf8 {(Rh8-f8)
++61.30/4 19} 16. Rg1 Re8 {(Rf8-e8) +63.30/4 18} 17. Rh1 Rf8 {(Re8-f8)
++61.30/4 18} 18. Rg1 Re8 {(Rf8-e8) +63.30/4 17} 19. Rh1 Qxe3+ {(Qe4xe3+)
++49.50/4 0} 20. Kxe3 Bf5+ {(Be6-f5+) +24.30/4 13} 21. Kf2 Re5 {(Re8-e5)
++46.60/4 17} 22. Kg1 Kc7 {(Kd8-c7) +36.30/4 16} 23. Qd2 Nh6 {(Nf7-h6)
++24.09/4 16} 24. Qg5 Kd7 {(Kc7-d7) +23.80/4 12} 25. Qxg7+ Kd8 {(Kd7-d8)
++18.95/4 8} 26. Qxb7 Ng4 {(Nh6-g4) +23.54/4 15} 27. Qxc6 Be4 {(Bf5-e4)
+-14.14/4 14} 28. Qxb6+ Kd7 {(Kd8-d7) -16.50/4 14} 29. Qb7+ Ke6 {(Kd7-e6)
+-20.89/4 8} 30. Qc8+ Kd6 {(Ke6-d6) -16.19/4 13} 31. Qxg4 Re8 {(Re5-e8)
+-30.89/4 13 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "C0BR4_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "16:50:04"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "15"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Rg8 3. Ne5
+{(Nf3-e5) +0.25/4 0} Rh8 4. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 5. Rh1 {(Rg1-h1)
++0.25/4 0} Rh8 6. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 7. Rh1 {(Rg1-h1) +0.25/4 0}
+Rh8 8. Rg1 {(Rh1-g1) +0.25/4 0 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "C0BR4_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "16:52:05"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "SlowMate_v2.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "16:52:23"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Nd5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxe7
+Bxe7 {(Bf8xe7) +41.25/4 12} 4. Nh3 d5 {(d7-d5) +51.05/4 18} 5. Ng5 Bxg5
+{(Be7xg5) +65.05/4 23} 6. Rg1 Qd6 {(Qd8-d6) +75.75/4 22} 7. Rh1 Kd8
+{(Ke8-d8) +78.25/4 22} 8. Rg1 Re8 {(Rh8-e8) +85.25/4 21} 9. Rh1 Re7
+{(Re8-e7) +78.44/4 20} 10. Rg1 Bf5 {(Bc8-f5) +92.25/4 20} 11. Rh1 Re8
+{(Re7-e8) +96.05/4 19} 12. Rg1 Rh8 {(Re8-h8) +91.55/4 19} 13. Rh1 Re8
+{(Rh8-e8) +96.05/4 18} 14. Rg1 Rh8 {(Re8-h8) +91.55/4 18} 15. Rh1 Bxd2+
+{(Bg5xd2+) +74.79/4 0} 16. Kxd2 Qb4+ {(Qd6-b4+) +59.05/4 18} 17. Ke3 Re8+
+{(Rh8-e8+) +53.05/4 12} 18. Kf3 Qe4+ {(Qb4-e4+) 0.00/4 12} 19. Kg3 Qg4#
+{(Qe4-g4+) 0.00/4 8} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "Slowmate_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "17:04:37"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 Nh6 3. Nd5 Rg8 4. Ng5 Rh8 5. Nxh7 Rg8 6. Ng5 Rh8 7. Rg1
+Rg8 8. Ne4 Rh8 9. Ng5 Rg8 10. Ne4 Rh8 11. Ng5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "1"]
+[White "V7P3R_v5.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "17:07:36"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 {(Nb8-c6) -0.05/4 0} 2. e4 {(e2-e4)
++0.60/5 18} Nd4 {(Nc6-d4) +0.30/4 0} 3. Bc4 {(Bf1-c4) +12.69/4 18} Nf6
+{(Ng8-f6) +0.35/4 0} 4. d3 {(d2-d3) +4.40/4 18} d5 {(d7-d5) +1.25/4 0} 5.
+Ng5 {(Nh3-g5) -12.09/4 23} dxc4 {(d5xc4) +3.05/4 0} 6. dxc4 {(d3xc4)
+-26.05/4 17} Bg4 {(Bc8-g4) +3.05/4 0} 7. Qxg4 {(Qd1xg4) -6.79/4 16} Nxc2+
+{(Nd4xc2+) +10.55/4 0} 8. Ke2 {(Ke1-e2) -11.40/4 7} Nxg4 {(Nf6xg4) +11.75/4
+0} 9. Nxh7 {(Ng5xh7) -35.14/4 16} Nxf2 {(Ng4xf2) +13.95/4 0} 10. Kxf2
+{(Ke2xf2) -23.19/4 16  Arena Adjudication} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "V7P3R_v5.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "17:10:38"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nf6 2. e4 {(e2-e4) -0.39/5 18} Nxe4 3. d4
+{(d2-d4) +6.15/4 18} Nc6 4. Nc3 {(Nb1-c3) +6.15/3 18} Nxc3 5. bxc3 {(b2xc3)
++9.00/3 5} Rg8 6. Bd3 {(Bf1-d3) +20.90/3 12} Rh8 7. Bf4 {(Bc1-f4) +30.19/3
+17} Rb8 8. Qh5 {(Qd1-h5) +39.19/3 20} g6 9. Qf3 {(Qh5-f3) +32.19/3 16} Bg7
+10. Qd5 {(Qf3-d5) +27.90/3 21} Bxd4 11. Bc4 {(Bd3-c4) 0.00/3 13} Bxc3+ 12.
+Bd2 {(Bf4-d2) 0.00/3 3} e6 13. Bxc3 {(Bd2xc3) +36.90/3 2} exd5 14. Bxd5
+{(Bc4xd5) +21.34/3 2} Qe7+ 15. Kf1 {(Ke1-f1) +16.05/3 2} Qc5 16. Re1+
+{(Ra1-e1+) +4.95/3 3} Kf8 17. Re8+ {(Re1-e8+) -5.14/3 4} Kxe8 18. Bxc6
+{(Bd5xc6) +21.65/3 3} Qxc3 19. Bd5 {(Bc6-d5) -10.79/3 2} Qxc2 20. g3
+{(g2-g3) -7.34/3 3} Qd1+ 21. Kg2 {(Kf1-g2) -6.25/3 0} Qxd5+ 22. f3 {(f2-f3)
+-42.50/3 0} Qxa2+ 23. Nf2 {(Nh3-f2) -31.84/3 0} Kf8 24. Re1 {(Rh1-e1)
+-31.04/3 4} Qc2 25. Kg1 {(Kg2-g1) -33.25/3 5} Qc3 26. Re2 {(Re1-e2)
+-39.04/3 2 White resigns} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "SlowMate_v2.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:14:52"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd5 Nh6 {(Ng8-h6) -0.15/4 0} 3. Nxe7
+Qxe7 {(Qd8xe7) +1.90/4 0} 4. Nh3 Qh4 {(Qe7-h4) +2.15/4 0} 5. Ng5 Qxg5
+{(Qh4xg5) +4.95/4 0} 6. Rg1 Ng4 {(Nh6-g4) +5.65/4 0} 7. Rh1 Qf4 {(Qg5-f4)
++6.70/4 0} 8. Rg1 Qxf2# {(Qf4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "17:17:12"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 2} 7. Qe2 d5 {(d7-d5) +0.15/4 1} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 2} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "V7P3R_v5.0"]
+[Black "SlowMate_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "17:18:05"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 2. e4 {(e2-e4) +0.60/5 18} Nh6 3. d4
+{(d2-d4) +11.40/4 18} Rg8 4. Ng5 {(Nh3-g5) +16.90/4 23} Rh8 5. Nxh7
+{(Ng5xh7) +8.44/4 22} Rg8 6. Nxf8 {(Nh7xf8) +20.69/4 22} Rh8 7. Ng6
+{(Nf8-g6) +29.90/4 21} Rg8 8. d5 {(d4-d5) +30.30/4 21} Rh8 9. Nxh8
+{(Ng6xh8) +28.69/4 20} Kf8 10. dxc6 {(d5xc6) +57.85/4 20} Kg8 11. Bxh6
+{(Bc1xh6) +65.84/4 19} Kxh8 12. Be3 {(Bh6-e3) +78.64/4 18} Kg8 13. cxb7
+{(c6xb7) +81.40/4 18} Kh8 14. bxa8=Q {(b7xa8Q) +104.19/4 18} Kg8 15. Nc3
+{(Nb1-c3) +117.29/3 17} Kh8 16. Qh5+ {(Qd1-h5+) +109.19/3 6} Kg8 17. Qad5
+{(Qa8-d5) 0.00/3 17} Kf8 18. Qh8# {(Qh5-h8+) 0.00/3 10} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "SlowMate_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:30:14"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nd5 Nxd5 3. Nh3 e6 4. Ng5 Qxg5 5. Rg1 Nc6 6. Rh1 Bc5 7. Rg1
+Qh4 8. Rh1 Bxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "2"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:32:30"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne4 {(Nc3-e4)
++0.05/4 0} Rg8 {(Rh8-g8) -11.59/5 18} 3. Nf3 {(Ng1-f3) +0.40/4 0} Rh8
+{(Rg8-h8) -27.60/5 18} 4. Nd4 {(Nf3-d4) +0.50/4 0} Nc6 {(Nb8-c6) -9.80/4
+18} 5. Nxc6 {(Nd4xc6) +0.35/4 0} dxc6 {(d7xc6) +5.05/4 7} 6. Nc5 {(Ne4-c5)
++0.20/4 0} Qd6 {(Qd8-d6) +13.35/4 17} 7. Ne4 {(Nc5-e4) +0.15/4 0} Qb4
+{(Qd6-b4) +10.65/4 20} 8. Ng3 {(Ne4-g3) +0.05/4 0} Be6 {(Bc8-e6) +29.44/4
+20} 9. e3 {(e2-e3) -0.15/4 0} Rg8 {(Rh8-g8) +16.75/4 21} 10. Bd3 {(Bf1-d3)
++0.30/4 0} Rh8 {(Rg8-h8) +4.84/4 20} 11. Qh5 {(Qd1-h5) +0.35/4 0} Bxa2
+{(Be6xa2) -16.79/4 20} 12. Rxa2 {(Ra1xa2) +2.40/4 0} Rg8 {(Rh8-g8) -40.04/4
+19} 13. Bxh7 {(Bd3xh7) +3.75/4 0} Rh8 {(Rg8-h8) -29.39/4 14} 14. Bd3
+{(Bh7-d3) +3.95/4 0} Rg8 {(Rh8-g8) -41.30/4 19} 15. Ne4 {(Ng3-e4) +4.00/4
+0} Qxe4 {(Qb4xe4) -11.69/4 14 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "17:37:15"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "54"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxf7
+Nxf7 {(Nh6xf7) +33.55/4 10} 4. Nc3 e5 {(e7-e5) +31.54/4 18} 5. Nb5 Qh4
+{(Qd8-h4) +45.75/4 18} 6. Nxc7+ Kd8 {(Ke8-d8) +40.50/4 2} 7. Nxa8 d5
+{(d7-d5) +55.50/4 16} 8. Nb6 axb6 {(a7xb6) +62.45/4 21} 9. d3 Bc5 {(Bf8-c5)
++62.05/4 22} 10. d4 exd4 {(e5xd4) +57.15/4 21} 11. Qd3 Bb4+ {(Bc5-b4+)
++33.84/4 20} 12. Bd2 Bxd2+ {(Bb4xd2+) +49.50/4 20} 13. Qxd2 Rg8 {(Rh8-g8)
++44.75/4 19} 14. Rc1 Rh8 {(Rg8-h8) +45.25/4 19} 15. Rb1 Rg8 {(Rh8-g8)
++45.25/4 18} 16. Rc1 Rh8 {(Rg8-h8) +45.25/4 18} 17. Rb1 Re8 {(Rh8-e8)
++50.75/4 17} 18. Rc1 Rxe2+ {(Re8xe2+) +37.60/4 0} 19. Bxe2 Qxh2 {(Qh4xh2)
++27.45/4 17} 20. Rxh2 Ke8 {(Kd8-e8) -5.95/4 16} 21. Rxh7 Kd8 {(Ke8-d8)
+-3.99/4 16} 22. Rxg7 Be6 {(Bc8-e6) -3.95/4 15} 23. Qf4 Kd7 {(Kd8-d7)
+-12.94/4 15} 24. Rxf7+ Bxf7 {(Be6xf7) -21.14/4 4} 25. Qxf7+ Kd6 {(Kd7-d6)
+-39.80/4 12} 26. Qxb7 Ne5 {(Nc6-e5) -43.59/4 14} 27. Qxb6+ Nc6 {(Ne5-c6)
+-45.34/4 14 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "C0BR4_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:45:12"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "15"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Rg8 3. Ne5
+{(Nf3-e5) +0.25/4 0} Rh8 4. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 5. Rh1 {(Rg1-h1)
++0.25/4 0} Rh8 6. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 7. Rh1 {(Rg1-h1) +0.25/4 0}
+Rh8 8. Rg1 {(Rh1-g1) +0.25/4 0 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "C0BR4_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:47:14"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "SlowMate_v2.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:47:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Nd5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxe7
+Bxe7 {(Bf8xe7) +41.25/4 12} 4. Nh3 d5 {(d7-d5) +51.05/4 18} 5. Ng5 Bxg5
+{(Be7xg5) +65.05/4 23} 6. Rg1 Qd6 {(Qd8-d6) +75.75/4 22} 7. Rh1 Kd8
+{(Ke8-d8) +78.25/4 22} 8. Rg1 Re8 {(Rh8-e8) +85.25/4 21} 9. Rh1 Re7
+{(Re8-e7) +78.44/4 20} 10. Rg1 Bf5 {(Bc8-f5) +92.25/4 20} 11. Rh1 Re8
+{(Re7-e8) +96.05/4 19} 12. Rg1 Rh8 {(Re8-h8) +91.55/4 19} 13. Rh1 Re8
+{(Rh8-e8) +96.05/4 18} 14. Rg1 Rh8 {(Re8-h8) +91.55/4 18} 15. Rh1 Bxd2+
+{(Bg5xd2+) +74.79/4 0} 16. Kxd2 Qb4+ {(Qd6-b4+) +59.05/4 18} 17. Ke3 Re8+
+{(Rh8-e8+) +53.05/4 12} 18. Kf3 Qe4+ {(Qb4-e4+) 0.00/4 12} 19. Kg3 Qg4#
+{(Qe4-g4+) 0.00/4 8} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "Slowmate_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "17:59:46"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 Nh6 3. Nd5 Rg8 4. Ng5 Rh8 5. Nxh7 Rg8 6. Ng5 Rh8 7. Rg1
+Rg8 8. Ne4 Rh8 9. Ng5 Rg8 10. Ne4 Rh8 11. Ng5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "3"]
+[White "V7P3R_v5.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "18:02:45"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 {(Nb8-c6) -0.05/4 0} 2. e4 {(e2-e4)
++0.60/5 18} Nd4 {(Nc6-d4) +0.30/4 0} 3. Bc4 {(Bf1-c4) +12.69/4 18} Nf6
+{(Ng8-f6) +0.35/4 0} 4. d3 {(d2-d3) +4.40/4 18} d5 {(d7-d5) +1.25/4 0} 5.
+Ng5 {(Nh3-g5) -12.09/4 23} dxc4 {(d5xc4) +3.05/4 0} 6. dxc4 {(d3xc4)
+-26.05/4 17} Bg4 {(Bc8-g4) +3.05/4 0} 7. Qxg4 {(Qd1xg4) -6.79/4 17} Nxc2+
+{(Nd4xc2+) +10.55/4 0} 8. Ke2 {(Ke1-e2) -11.40/4 7} Nxg4 {(Nf6xg4) +11.75/4
+0} 9. Nxh7 {(Ng5xh7) -35.14/4 16} Nxf2 {(Ng4xf2) +13.95/4 0} 10. Kxf2
+{(Ke2xf2) -23.19/4 16  Arena Adjudication} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "V7P3R_v5.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "18:05:46"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nf6 2. e4 {(e2-e4) -0.39/5 18} Nxe4 3. d4
+{(d2-d4) +6.15/4 18} Nc6 4. Nc3 {(Nb1-c3) +6.15/3 18} Nxc3 5. bxc3 {(b2xc3)
++9.00/3 5} Rg8 6. Bd3 {(Bf1-d3) +20.90/3 12} Rh8 7. Bf4 {(Bc1-f4) +30.19/3
+17} Rb8 8. Qh5 {(Qd1-h5) +39.19/3 20} g6 9. Qf3 {(Qh5-f3) +32.19/3 16} Bg7
+10. Qd5 {(Qf3-d5) +27.90/3 21} Bxd4 11. Bc4 {(Bd3-c4) 0.00/3 14} Bxc3+ 12.
+Bd2 {(Bf4-d2) 0.00/3 3} e6 13. Bxc3 {(Bd2xc3) +36.90/3 2} exd5 14. Bxd5
+{(Bc4xd5) +21.34/3 2} Qe7+ 15. Kf1 {(Ke1-f1) +16.05/3 2} Qc5 16. Re1+
+{(Ra1-e1+) +4.95/3 3} Kf8 17. Re8+ {(Re1-e8+) -5.14/3 4} Kxe8 18. Bxc6
+{(Bd5xc6) +21.65/3 3} Qxc3 19. Bd5 {(Bc6-d5) -10.79/3 2} Qxc2 20. g3
+{(g2-g3) -7.34/3 3} Qd1+ 21. Kg2 {(Kf1-g2) -6.25/3 0} Qxd5+ 22. f3 {(f2-f3)
+-42.50/3 0} Qxa2+ 23. Nf2 {(Nh3-f2) -31.84/3 0} Kf8 24. Re1 {(Rh1-e1)
+-31.04/3 4} Qc2 25. Kg1 {(Kg2-g1) -33.25/3 5} Qc3 26. Re2 {(Re1-e2)
+-39.04/3 2 White resigns} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "SlowMate_v2.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:10:01"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd5 Nh6 {(Ng8-h6) -0.15/4 0} 3. Nxe7
+Qxe7 {(Qd8xe7) +1.90/4 0} 4. Nh3 Qh4 {(Qe7-h4) +2.15/4 0} 5. Ng5 Qxg5
+{(Qh4xg5) +4.95/4 0} 6. Rg1 Ng4 {(Nh6-g4) +5.65/4 0} 7. Rh1 Qf4 {(Qg5-f4)
++6.70/4 0} 8. Rg1 Qxf2# {(Qf4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "18:12:26"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 1} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 2} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "V7P3R_v5.0"]
+[Black "SlowMate_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "18:13:19"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 2. e4 {(e2-e4) +0.60/5 18} Nh6 3. d4
+{(d2-d4) +11.40/4 18} Rg8 4. Ng5 {(Nh3-g5) +16.90/4 23} Rh8 5. Nxh7
+{(Ng5xh7) +8.44/4 22} Rg8 6. Nxf8 {(Nh7xf8) +20.69/4 22} Rh8 7. Ng6
+{(Nf8-g6) +29.90/4 21} Rg8 8. d5 {(d4-d5) +30.30/4 21} Rh8 9. Nxh8
+{(Ng6xh8) +28.69/4 20} Kf8 10. dxc6 {(d5xc6) +57.85/4 20} Kg8 11. Bxh6
+{(Bc1xh6) +65.84/4 19} Kxh8 12. Be3 {(Bh6-e3) +78.64/4 19} Kg8 13. cxb7
+{(c6xb7) +81.40/4 18} Kh8 14. bxa8=Q {(b7xa8Q) +104.19/4 18} Kg8 15. Nc3
+{(Nb1-c3) +117.29/3 17} Kh8 16. Qh5+ {(Qd1-h5+) +109.19/3 6} Kg8 17. Qad5
+{(Qa8-d5) 0.00/3 17} Kf8 18. Qh8# {(Qh5-h8+) 0.00/3 10} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "SlowMate_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:25:28"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nd5 Nxd5 3. Nh3 e6 4. Ng5 Qxg5 5. Rg1 Nc6 6. Rh1 Bc5 7. Rg1
+Qh4 8. Rh1 Bxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "4"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:27:44"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "48"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne4 {(Nc3-e4)
++0.05/4 0} Rg8 {(Rh8-g8) -11.59/5 18} 3. Nf3 {(Ng1-f3) +0.40/4 0} Rh8
+{(Rg8-h8) -27.60/5 18} 4. Nd4 {(Nf3-d4) +0.50/4 0} Nc6 {(Nb8-c6) -9.80/4
+18} 5. Nxc6 {(Nd4xc6) +0.35/4 0} dxc6 {(d7xc6) +5.05/4 7} 6. Nc5 {(Ne4-c5)
++0.20/4 0} Qd6 {(Qd8-d6) +13.35/4 17} 7. Ne4 {(Nc5-e4) +0.15/4 0} Qb4
+{(Qd6-b4) +10.65/4 21} 8. Ng3 {(Ne4-g3) +0.05/4 0} Be6 {(Bc8-e6) +29.44/4
+19} 9. e3 {(e2-e3) -0.15/4 0} Rd8 {(Ra8-d8) +19.75/4 21} 10. Bd3 {(Bf1-d3)
+-0.05/4 0} Rxd3 {(Rd8xd3) +36.90/4 20} 11. cxd3 {(c2xd3) +1.45/4 0} Rg8
+{(Rh8-g8) +19.95/4 20} 12. Qh5 {(Qd1-h5) +1.75/4 0} Rh8 {(Rg8-h8) +10.95/4
+19} 13. Qe5 {(Qh5-e5) +1.75/4 0} Rg8 {(Rh8-g8) +6.75/4 19} 14. Qxc7
+{(Qe5xc7) +3.60/4 0} Qc5 {(Qb4-c5) +8.84/4 18} 15. Qb8+ {(Qc7-b8+) +4.75/4
+0} Kd7 {(Ke8-d7) +3.55/4 8} 16. Qxb7+ {(Qb8xb7+) +5.05/4 0} Kd8 {(Kd7-d8)
++0.20/4 7} 17. Qb8+ {(Qb7-b8+) +5.05/4 0} Bc8 {(Be6-c8) -5.99/4 13} 18. Ne4
+{(Ng3-e4) +5.05/4 0} Qd6 {(Qc5-d6) -7.90/4 13} 19. Nxd6 {(Ne4xd6) +12.20/4
+0} exd6 {(e7xd6) -5.49/4 3} 20. Qxa7 {(Qb8xa7) +12.35/4 0} Bf5 {(Bc8-f5)
+-3.45/4 13} 21. Qb6+ {(Qa7-b6+) +12.35/4 0} Kc8 {(Kd8-c8) -2.04/4 5} 22.
+Qxc6+ {(Qb6xc6+) +13.40/4 0} Kd8 {(Kc8-d8) -12.50/4 4} 23. Qa8+ {(Qc6-a8+)
++13.45/4 0} Kd7 {(Kd8-d7) -11.50/4 7} 24. Qa4+ {(Qa8-a4+) +13.50/4 0} Kd8
+{(Kd7-d8) -10.79/4 5  Arena Adjudication} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "18:33:43"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "64"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxf7
+Nxf7 {(Nh6xf7) +33.55/4 10} 4. Nc3 e5 {(e7-e5) +31.54/4 18} 5. Nb5 Qh4
+{(Qd8-h4) +45.75/4 18} 6. Nxc7+ Kd8 {(Ke8-d8) +40.50/4 2} 7. Nxa8 d5
+{(d7-d5) +55.50/4 16} 8. Nb6 axb6 {(a7xb6) +62.45/4 21} 9. d3 Bc5 {(Bf8-c5)
++62.05/4 22} 10. d4 exd4 {(e5xd4) +57.15/4 21} 11. Qd3 Bb4+ {(Bc5-b4+)
++33.84/4 20} 12. Bd2 Bxd2+ {(Bb4xd2+) +49.50/4 20} 13. Qxd2 Rg8 {(Rh8-g8)
++44.75/4 19} 14. Rc1 Rf8 {(Rg8-f8) +45.75/4 19} 15. Rb1 Rh8 {(Rf8-h8)
++45.25/4 18} 16. Rc1 Rg8 {(Rh8-g8) +45.25/4 18} 17. Rb1 Rh8 {(Rg8-h8)
++45.25/4 17} 18. Rc1 Rg8 {(Rh8-g8) +45.25/4 17} 19. Rb1 Qxf2+ {(Qh4xf2+)
++30.20/4 0} 20. Kxf2 Rf8 {(Rg8-f8) +32.60/4 13} 21. Qf4 Ke7 {(Kd8-e7)
++22.10/4 13} 22. Qc7+ Bd7 {(Bc8-d7) +31.30/4 12} 23. Kg3 Ra8 {(Rf8-a8)
++32.30/4 12} 24. Qxb7 Ra7 {(Ra8-a7) +26.00/4 16} 25. Qxb6 Nd6 {(Nf7-d6)
++26.25/4 15} 26. Ra1 Ne4+ {(Nd6-e4+) +8.35/4 14} 27. Kh4 g5+ {(g7-g5+)
++9.25/4 11} 28. Kh5 Nf6+ {(Ne4-f6+) +8.85/4 14} 29. Kxg5 Ra8 {(Ra7-a8)
++26.10/4 12} 30. Kh6 Rg8 {(Ra8-g8) 0.00/4 16} 31. Qc5+ Ke8 {(Ke7-e8) 0.00/4
+1} 32. Qxd5 Rg6# {(Rg8-g6+) 0.00/4 1} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "C0BR4_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:42:29"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "15"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Rg8 3. Ne5
+{(Nf3-e5) +0.25/4 0} Rh8 4. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 5. Rh1 {(Rg1-h1)
++0.25/4 0} Rh8 6. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 7. Rh1 {(Rg1-h1) +0.25/4 0}
+Rh8 8. Rg1 {(Rh1-g1) +0.25/4 0 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "C0BR4_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:44:30"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "SlowMate_v2.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "18:44:48"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Nd5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxe7
+Bxe7 {(Bf8xe7) +41.25/4 12} 4. Nh3 d5 {(d7-d5) +51.05/4 18} 5. Ng5 Bxg5
+{(Be7xg5) +65.05/4 23} 6. Rg1 Qd6 {(Qd8-d6) +75.75/4 22} 7. Rh1 Kd8
+{(Ke8-d8) +78.25/4 22} 8. Rg1 Re8 {(Rh8-e8) +85.25/4 21} 9. Rh1 Re7
+{(Re8-e7) +78.44/4 20} 10. Rg1 Bf5 {(Bc8-f5) +92.25/4 20} 11. Rh1 Re8
+{(Re7-e8) +96.05/4 19} 12. Rg1 Rh8 {(Re8-h8) +91.55/4 19} 13. Rh1 Re8
+{(Rh8-e8) +96.05/4 18} 14. Rg1 Rh8 {(Re8-h8) +91.55/4 18} 15. Rh1 Bxd2+
+{(Bg5xd2+) +74.79/4 0} 16. Kxd2 Qb4+ {(Qd6-b4+) +59.05/4 18} 17. Ke3 Re8+
+{(Rh8-e8+) +53.05/4 12} 18. Kf3 Qe4+ {(Qb4-e4+) 0.00/4 12} 19. Kg3 Qg4#
+{(Qe4-g4+) 0.00/4 8} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "Slowmate_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "18:57:02"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 Nh6 3. Nd5 Rg8 4. Ng5 Rh8 5. Nxh7 Rg8 6. Ng5 Rh8 7. Rg1
+Rg8 8. Ne4 Rh8 9. Ng5 Rg8 10. Ne4 Rh8 11. Ng5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "5"]
+[White "V7P3R_v5.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "19:00:01"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 {(Nb8-c6) -0.05/4 0} 2. e4 {(e2-e4)
++0.60/5 18} Nd4 {(Nc6-d4) +0.30/4 0} 3. Bc4 {(Bf1-c4) +12.69/4 18} Nf6
+{(Ng8-f6) +0.35/4 0} 4. d3 {(d2-d3) +4.40/4 18} d5 {(d7-d5) +1.25/4 0} 5.
+Ng5 {(Nh3-g5) -12.09/4 23} dxc4 {(d5xc4) +3.05/4 0} 6. dxc4 {(d3xc4)
+-26.05/4 17} Bg4 {(Bc8-g4) +3.05/4 0} 7. Qxg4 {(Qd1xg4) -6.79/4 17} Nxc2+
+{(Nd4xc2+) +10.55/4 0} 8. Ke2 {(Ke1-e2) -11.40/4 7} Nxg4 {(Nf6xg4) +11.75/4
+0} 9. Nxh7 {(Ng5xh7) -35.14/4 16} Nxf2 {(Ng4xf2) +13.95/4 0} 10. Kxf2
+{(Ke2xf2) -23.19/4 16  Arena Adjudication} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "V7P3R_v5.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "19:03:03"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nf6 2. e4 {(e2-e4) -0.39/5 18} Nxe4 3. d4
+{(d2-d4) +6.15/4 18} Nc6 4. Nc3 {(Nb1-c3) +6.15/3 18} Nxc3 5. bxc3 {(b2xc3)
++9.00/3 5} Rg8 6. Bd3 {(Bf1-d3) +20.90/3 12} Rh8 7. Bf4 {(Bc1-f4) +30.19/3
+17} Rb8 8. Qh5 {(Qd1-h5) +39.19/3 21} g6 9. Qf3 {(Qh5-f3) +32.19/3 17} Bg7
+10. Qd5 {(Qf3-d5) +27.90/3 21} Bxd4 11. Bc4 {(Bd3-c4) 0.00/3 14} Bxc3+ 12.
+Bd2 {(Bf4-d2) 0.00/3 3} e6 13. Bxc3 {(Bd2xc3) +36.90/3 2} exd5 14. Bxd5
+{(Bc4xd5) +21.34/3 2} Qe7+ 15. Kf1 {(Ke1-f1) +16.05/3 2} Qc5 16. Re1+
+{(Ra1-e1+) +4.95/3 3} Kf8 17. Re8+ {(Re1-e8+) -5.14/3 4} Kxe8 18. Bxc6
+{(Bd5xc6) +21.65/3 3} Qxc3 19. Bd5 {(Bc6-d5) -10.79/3 2} Qxc2 20. g3
+{(g2-g3) -7.34/3 3} Qd1+ 21. Kg2 {(Kf1-g2) -6.25/3 0} Qxd5+ 22. f3 {(f2-f3)
+-42.50/3 0} Qxa2+ 23. Nf2 {(Nh3-f2) -31.84/3 0} Kf8 24. Re1 {(Rh1-e1)
+-31.04/3 4} Qc2 25. Kg1 {(Kg2-g1) -33.25/3 5} Qc3 26. Re2 {(Re1-e2)
+-39.04/3 2 White resigns} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "SlowMate_v2.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:07:18"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd5 Nh6 {(Ng8-h6) -0.15/4 0} 3. Nxe7
+Qxe7 {(Qd8xe7) +1.90/4 0} 4. Nh3 Qh4 {(Qe7-h4) +2.15/4 0} 5. Ng5 Qxg5
+{(Qh4xg5) +4.95/4 0} 6. Rg1 Ng4 {(Nh6-g4) +5.65/4 0} 7. Rh1 Qf4 {(Qg5-f4)
++6.70/4 0} 8. Rg1 Qxf2# {(Qf4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:09:38"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 2} 7. Qe2 d5 {(d7-d5) +0.15/4 1} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 2} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "V7P3R_v5.0"]
+[Black "SlowMate_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "19:10:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 2. e4 {(e2-e4) +0.60/5 18} Nh6 3. d4
+{(d2-d4) +11.40/4 18} Rg8 4. Ng5 {(Nh3-g5) +16.90/4 23} Rh8 5. Nxh7
+{(Ng5xh7) +8.44/4 22} Rg8 6. Nxf8 {(Nh7xf8) +20.69/4 22} Rh8 7. Ng6
+{(Nf8-g6) +29.90/4 21} Rg8 8. d5 {(d4-d5) +30.30/4 21} Rh8 9. Nxh8
+{(Ng6xh8) +28.69/4 20} Kf8 10. dxc6 {(d5xc6) +57.85/4 20} Kg8 11. Bxh6
+{(Bc1xh6) +65.84/4 19} Kxh8 12. Be3 {(Bh6-e3) +78.64/4 19} Kg8 13. cxb7
+{(c6xb7) +81.40/4 18} Kh8 14. bxa8=Q {(b7xa8Q) +104.19/4 18} Kg8 15. Nc3
+{(Nb1-c3) +117.29/3 17} Kh8 16. Qh5+ {(Qd1-h5+) +109.19/3 6} Kg8 17. Qad5
+{(Qa8-d5) 0.00/3 17} Kf8 18. Qh8# {(Qh5-h8+) 0.00/3 10} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "SlowMate_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:22:40"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nd5 Nxd5 3. Nh3 e6 4. Ng5 Qxg5 5. Rg1 Nc6 6. Rh1 Bc5 7. Rg1
+Qh4 8. Rh1 Bxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "6"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:24:56"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne4 {(Nc3-e4)
++0.05/4 0} Rg8 {(Rh8-g8) -11.59/5 18} 3. Nf3 {(Ng1-f3) +0.40/4 0} Rh8
+{(Rg8-h8) -27.60/5 18} 4. Nd4 {(Nf3-d4) +0.50/4 0} Nc6 {(Nb8-c6) -9.80/4
+18} 5. Nxc6 {(Nd4xc6) +0.35/4 0} dxc6 {(d7xc6) +5.05/4 7} 6. Nc5 {(Ne4-c5)
++0.20/4 0} Qd6 {(Qd8-d6) +13.35/4 17} 7. Ne4 {(Nc5-e4) +0.15/4 0} Qb4
+{(Qd6-b4) +10.65/4 20} 8. Ng3 {(Ne4-g3) +0.05/4 0} Be6 {(Bc8-e6) +29.44/4
+20} 9. e3 {(e2-e3) -0.15/4 0} Rg8 {(Rh8-g8) +16.75/4 21} 10. Bd3 {(Bf1-d3)
++0.30/4 0} Rh8 {(Rg8-h8) +4.84/4 20} 11. Qh5 {(Qd1-h5) +0.35/4 0} Bxa2
+{(Be6xa2) -16.79/4 20} 12. Rxa2 {(Ra1xa2) +2.40/4 0} Rg8 {(Rh8-g8) -40.04/4
+19} 13. Bxh7 {(Bd3xh7) +3.75/4 0} Rh8 {(Rg8-h8) -29.39/4 15} 14. Bd3
+{(Bh7-d3) +3.95/4 0} Rg8 {(Rh8-g8) -41.30/4 19} 15. Ne4 {(Ng3-e4) +4.00/4
+0} Qxe4 {(Qb4xe4) -11.69/4 14 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:29:41"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "54"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxf7
+Nxf7 {(Nh6xf7) +33.55/4 10} 4. Nc3 e5 {(e7-e5) +31.54/4 18} 5. Nb5 Qh4
+{(Qd8-h4) +45.75/4 18} 6. Nxc7+ Kd8 {(Ke8-d8) +40.50/4 2} 7. Nxa8 d5
+{(d7-d5) +55.50/4 16} 8. Nb6 axb6 {(a7xb6) +62.45/4 21} 9. d3 Bc5 {(Bf8-c5)
++62.05/4 22} 10. d4 exd4 {(e5xd4) +57.15/4 21} 11. Qd3 Bb4+ {(Bc5-b4+)
++33.84/4 21} 12. Bd2 Bxd2+ {(Bb4xd2+) +49.50/4 20} 13. Qxd2 Rg8 {(Rh8-g8)
++44.75/4 19} 14. Rc1 Rh8 {(Rg8-h8) +45.25/4 19} 15. Rb1 Rg8 {(Rh8-g8)
++45.25/4 18} 16. Rc1 Rh8 {(Rg8-h8) +45.25/4 18} 17. Rb1 Re8 {(Rh8-e8)
++50.75/4 17} 18. Rc1 Rxe2+ {(Re8xe2+) +37.60/4 0} 19. Bxe2 Qxh2 {(Qh4xh2)
++27.45/4 17} 20. Rxh2 Ke8 {(Kd8-e8) -5.95/4 16} 21. Rxh7 Kd8 {(Ke8-d8)
+-3.99/4 16} 22. Rxg7 Be6 {(Bc8-e6) -3.95/4 15} 23. Qf4 Kd7 {(Kd8-d7)
+-12.94/4 15} 24. Rxf7+ Bxf7 {(Be6xf7) -21.14/4 4} 25. Qxf7+ Kd6 {(Kd7-d6)
+-39.80/4 12} 26. Qxb7 Ne5 {(Nc6-e5) -43.59/4 14} 27. Qxb6+ Nc6 {(Ne5-c6)
+-45.34/4 14 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "C0BR4_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:37:38"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "15"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Rg8 3. Ne5
+{(Nf3-e5) +0.25/4 0} Rh8 4. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 5. Rh1 {(Rg1-h1)
++0.25/4 0} Rh8 6. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 7. Rh1 {(Rg1-h1) +0.25/4 0}
+Rh8 8. Rg1 {(Rh1-g1) +0.25/4 0 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "C0BR4_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:39:39"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "SlowMate_v2.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:39:57"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Nd5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxe7
+Bxe7 {(Bf8xe7) +41.25/4 12} 4. Nh3 d5 {(d7-d5) +51.05/4 18} 5. Ng5 Bxg5
+{(Be7xg5) +65.05/4 23} 6. Rg1 Qd6 {(Qd8-d6) +75.75/4 22} 7. Rh1 Kd8
+{(Ke8-d8) +78.25/4 22} 8. Rg1 Re8 {(Rh8-e8) +85.25/4 21} 9. Rh1 Re7
+{(Re8-e7) +78.44/4 20} 10. Rg1 Bf5 {(Bc8-f5) +92.25/4 20} 11. Rh1 Re8
+{(Re7-e8) +96.05/4 19} 12. Rg1 Rh8 {(Re8-h8) +91.55/4 19} 13. Rh1 Re8
+{(Rh8-e8) +96.05/4 18} 14. Rg1 Rh8 {(Re8-h8) +91.55/4 18} 15. Rh1 Bxd2+
+{(Bg5xd2+) +74.79/4 0} 16. Kxd2 Qb4+ {(Qd6-b4+) +59.05/4 18} 17. Ke3 Re8+
+{(Rh8-e8+) +53.05/4 12} 18. Kf3 Qe4+ {(Qb4-e4+) 0.00/4 12} 19. Kg3 Qg4#
+{(Qe4-g4+) 0.00/4 8} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "Slowmate_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:52:16"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 Nh6 3. Nd5 Rg8 4. Ng5 Rh8 5. Nxh7 Rg8 6. Ng5 Rh8 7. Rg1
+Rg8 8. Ne4 Rh8 9. Ng5 Rg8 10. Ne4 Rh8 11. Ng5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "7"]
+[White "V7P3R_v5.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "19:55:15"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 {(Nb8-c6) -0.05/4 0} 2. e4 {(e2-e4)
++0.60/5 18} Nd4 {(Nc6-d4) +0.30/4 0} 3. Bc4 {(Bf1-c4) +12.69/4 18} Nf6
+{(Ng8-f6) +0.35/4 0} 4. d3 {(d2-d3) +4.40/4 18} d5 {(d7-d5) +1.25/4 0} 5.
+Ng5 {(Nh3-g5) -12.09/4 23} dxc4 {(d5xc4) +3.05/4 0} 6. dxc4 {(d3xc4)
+-26.05/4 17} Bg4 {(Bc8-g4) +3.05/4 0} 7. Qxg4 {(Qd1xg4) -6.79/4 17} Nxc2+
+{(Nd4xc2+) +10.55/4 0} 8. Ke2 {(Ke1-e2) -11.40/4 7} Nxg4 {(Nf6xg4) +11.75/4
+0} 9. Nxh7 {(Ng5xh7) -35.14/4 16} Nxf2 {(Ng4xf2) +13.95/4 0} 10. Kxf2
+{(Ke2xf2) -23.19/4 16  Arena Adjudication} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "V7P3R_v5.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "19:58:16"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nf6 2. e4 {(e2-e4) -0.39/5 18} Nxe4 3. d4
+{(d2-d4) +6.15/4 18} Nc6 4. Nc3 {(Nb1-c3) +6.15/3 18} Nxc3 5. bxc3 {(b2xc3)
++9.00/3 5} Rg8 6. Bd3 {(Bf1-d3) +20.90/3 12} Rh8 7. Bf4 {(Bc1-f4) +30.19/3
+17} Rb8 8. Qh5 {(Qd1-h5) +39.19/3 21} g6 9. Qf3 {(Qh5-f3) +32.19/3 16} Bg7
+10. Qd5 {(Qf3-d5) +27.90/3 21} Bxd4 11. Bc4 {(Bd3-c4) 0.00/3 14} Bxc3+ 12.
+Bd2 {(Bf4-d2) 0.00/3 3} e6 13. Bxc3 {(Bd2xc3) +36.90/3 2} exd5 14. Bxd5
+{(Bc4xd5) +21.34/3 2} Qe7+ 15. Kf1 {(Ke1-f1) +16.05/3 2} Qc5 16. Re1+
+{(Ra1-e1+) +4.95/3 3} Kf8 17. Re8+ {(Re1-e8+) -5.14/3 4} Kxe8 18. Bxc6
+{(Bd5xc6) +21.65/3 3} Qxc3 19. Bd5 {(Bc6-d5) -10.79/3 2} Qxc2 20. g3
+{(g2-g3) -7.34/3 3} Qd1+ 21. Kg2 {(Kf1-g2) -6.25/3 0} Qxd5+ 22. f3 {(f2-f3)
+-42.50/3 0} Qxa2+ 23. Nf2 {(Nh3-f2) -31.84/3 0} Kf8 24. Re1 {(Rh1-e1)
+-31.04/3 4} Qc2 25. Kg1 {(Kg2-g1) -33.25/3 5} Qc3 26. Re2 {(Re1-e2)
+-39.04/3 2 White resigns} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "SlowMate_v2.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:02:31"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd5 Nh6 {(Ng8-h6) -0.15/4 0} 3. Nxe7
+Qxe7 {(Qd8xe7) +1.90/4 0} 4. Nh3 Qh4 {(Qe7-h4) +2.15/4 0} 5. Ng5 Qxg5
+{(Qh4xg5) +4.95/4 0} 6. Rg1 Ng4 {(Nh6-g4) +5.65/4 0} 7. Rh1 Qf4 {(Qg5-f4)
++6.70/4 0} 8. Rg1 Qxf2# {(Qf4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:04:51"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 1} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 2} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "V7P3R_v5.0"]
+[Black "SlowMate_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "20:05:44"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 2. e4 {(e2-e4) +0.60/5 18} Nh6 3. d4
+{(d2-d4) +11.40/4 18} Rg8 4. Ng5 {(Nh3-g5) +16.90/4 23} Rh8 5. Nxh7
+{(Ng5xh7) +8.44/4 22} Rg8 6. Nxf8 {(Nh7xf8) +20.69/4 22} Rh8 7. Ng6
+{(Nf8-g6) +29.90/4 21} Rg8 8. d5 {(d4-d5) +30.30/4 21} Rh8 9. Nxh8
+{(Ng6xh8) +28.69/4 20} Kf8 10. dxc6 {(d5xc6) +57.85/4 20} Kg8 11. Bxh6
+{(Bc1xh6) +65.84/4 19} Kxh8 12. Be3 {(Bh6-e3) +78.64/4 18} Kg8 13. cxb7
+{(c6xb7) +81.40/4 18} Kh8 14. bxa8=Q {(b7xa8Q) +104.19/4 18} Kg8 15. Nc3
+{(Nb1-c3) +117.29/3 17} Kh8 16. Qh5+ {(Qd1-h5+) +109.19/3 6} Kg8 17. Qad5
+{(Qa8-d5) 0.00/3 17} Kf8 18. Qh8# {(Qh5-h8+) 0.00/3 10} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "SlowMate_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:17:53"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nd5 Nxd5 3. Nh3 e6 4. Ng5 Qxg5 5. Rg1 Nc6 6. Rh1 Bc5 7. Rg1
+Qh4 8. Rh1 Bxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "8"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:20:08"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne4 {(Nc3-e4)
++0.05/4 0} Rg8 {(Rh8-g8) -11.59/5 18} 3. Nf3 {(Ng1-f3) +0.40/4 0} Rh8
+{(Rg8-h8) -27.60/5 18} 4. Nd4 {(Nf3-d4) +0.50/4 0} Nc6 {(Nb8-c6) -9.80/4
+18} 5. Nxc6 {(Nd4xc6) +0.35/4 0} dxc6 {(d7xc6) +5.05/4 7} 6. Nc5 {(Ne4-c5)
++0.20/4 0} Qd6 {(Qd8-d6) +13.35/4 17} 7. Ne4 {(Nc5-e4) +0.15/4 0} Qb4
+{(Qd6-b4) +10.65/4 20} 8. Ng3 {(Ne4-g3) +0.05/4 0} Be6 {(Bc8-e6) +29.44/4
+20} 9. e3 {(e2-e3) -0.15/4 0} Rg8 {(Rh8-g8) +16.75/4 21} 10. Bd3 {(Bf1-d3)
++0.30/4 0} Rh8 {(Rg8-h8) +4.84/4 20} 11. Qh5 {(Qd1-h5) +0.35/4 0} Bxa2
+{(Be6xa2) -16.79/4 20} 12. Rxa2 {(Ra1xa2) +2.40/4 0} Rg8 {(Rh8-g8) -40.04/4
+19} 13. Bxh7 {(Bd3xh7) +3.75/4 0} Rh8 {(Rg8-h8) -29.39/4 14} 14. Bd3
+{(Bh7-d3) +3.95/4 0} Rg8 {(Rh8-g8) -41.30/4 19} 15. Ne4 {(Ng3-e4) +4.00/4
+0} Qxe4 {(Qb4xe4) -11.69/4 14 Black resigns} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:24:54"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "64"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxf7
+Nxf7 {(Nh6xf7) +33.55/4 10} 4. Nc3 e5 {(e7-e5) +31.54/4 18} 5. Nb5 Qh4
+{(Qd8-h4) +45.75/4 18} 6. Nxc7+ Kd8 {(Ke8-d8) +40.50/4 2} 7. Nxa8 d5
+{(d7-d5) +55.50/4 16} 8. Nb6 axb6 {(a7xb6) +62.45/4 21} 9. d3 Bc5 {(Bf8-c5)
++62.05/4 22} 10. d4 exd4 {(e5xd4) +57.15/4 21} 11. Qd3 Bb4+ {(Bc5-b4+)
++33.84/4 20} 12. Bd2 Bxd2+ {(Bb4xd2+) +49.50/4 20} 13. Qxd2 Rg8 {(Rh8-g8)
++44.75/4 19} 14. Rc1 Rf8 {(Rg8-f8) +45.75/4 19} 15. Rb1 Rh8 {(Rf8-h8)
++45.25/4 18} 16. Rc1 Rg8 {(Rh8-g8) +45.25/4 18} 17. Rb1 Rh8 {(Rg8-h8)
++45.25/4 17} 18. Rc1 Rg8 {(Rh8-g8) +45.25/4 17} 19. Rb1 Qxf2+ {(Qh4xf2+)
++30.20/4 0} 20. Kxf2 Rf8 {(Rg8-f8) +32.60/4 13} 21. Qf4 Ke7 {(Kd8-e7)
++22.10/4 13} 22. Qc7+ Bd7 {(Bc8-d7) +31.30/4 12} 23. Kg3 Ra8 {(Rf8-a8)
++32.30/4 12} 24. Qxb7 Ra7 {(Ra8-a7) +26.00/4 16} 25. Qxb6 Nd6 {(Nf7-d6)
++26.25/4 15} 26. Ra1 Ne4+ {(Nd6-e4+) +8.35/4 14} 27. Kh4 g5+ {(g7-g5+)
++9.25/4 11} 28. Kh5 Nf6+ {(Ne4-f6+) +8.85/4 14} 29. Kxg5 Ra8 {(Ra7-a8)
++26.10/4 12} 30. Kh6 Rg8 {(Ra8-g8) 0.00/4 16} 31. Qc5+ Ke8 {(Ke7-e8) 0.00/4
+1} 32. Qxd5 Rg6# {(Rg8-g6+) 0.00/4 1} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "C0BR4_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:33:40"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "15"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Rg8 3. Ne5
+{(Nf3-e5) +0.25/4 0} Rh8 4. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 5. Rh1 {(Rg1-h1)
++0.25/4 0} Rh8 6. Rg1 {(Rh1-g1) +0.25/4 0} Rg8 7. Rh1 {(Rg1-h1) +0.25/4 0}
+Rh8 8. Rg1 {(Rh1-g1) +0.25/4 0 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "C0BR4_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:35:41"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "SlowMate_v2.0"]
+[Black "V7P3R_v5.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:35:59"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nh6 {(Ng8-h6) -12.89/5 19} 2. Nd5 Nc6 {(Nb8-c6) +2.90/4 18} 3. Nxe7
+Bxe7 {(Bf8xe7) +41.25/4 12} 4. Nh3 d5 {(d7-d5) +51.05/4 18} 5. Ng5 Bxg5
+{(Be7xg5) +65.05/4 23} 6. Rg1 Qd6 {(Qd8-d6) +75.75/4 22} 7. Rh1 Kd8
+{(Ke8-d8) +78.25/4 22} 8. Rg1 Re8 {(Rh8-e8) +85.25/4 21} 9. Rh1 Re7
+{(Re8-e7) +78.44/4 20} 10. Rg1 Bf5 {(Bc8-f5) +92.25/4 20} 11. Rh1 Re8
+{(Re7-e8) +96.05/4 19} 12. Rg1 Rh8 {(Re8-h8) +91.55/4 19} 13. Rh1 Re8
+{(Rh8-e8) +96.05/4 18} 14. Rg1 Rh8 {(Re8-h8) +91.55/4 18} 15. Rh1 Bxd2+
+{(Bg5xd2+) +74.79/4 0} 16. Kxd2 Qb4+ {(Qd6-b4+) +59.05/4 18} 17. Ke3 Re8+
+{(Rh8-e8+) +53.05/4 12} 18. Kf3 Qe4+ {(Qb4-e4+) 0.00/4 12} 19. Kg3 Qg4#
+{(Qe4-g4+) 0.00/4 8} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "Slowmate_v1.0"]
+[Black "SlowMate_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:48:13"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nc3 Nh6 3. Nd5 Rg8 4. Ng5 Rh8 5. Nxh7 Rg8 6. Ng5 Rh8 7. Rg1
+Rg8 8. Ne4 Rh8 9. Ng5 Rg8 10. Ne4 Rh8 11. Ng5 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "9"]
+[White "V7P3R_v5.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "20:51:12"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "adjudication"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 {(Nb8-c6) -0.05/4 0} 2. e4 {(e2-e4)
++0.60/5 18} Nd4 {(Nc6-d4) +0.30/4 0} 3. Bc4 {(Bf1-c4) +12.69/4 18} Nf6
+{(Ng8-f6) +0.35/4 0} 4. d3 {(d2-d3) +4.40/4 18} d5 {(d7-d5) +1.25/4 0} 5.
+Ng5 {(Nh3-g5) -12.09/4 23} dxc4 {(d5xc4) +3.05/4 0} 6. dxc4 {(d3xc4)
+-26.05/4 17} Bg4 {(Bc8-g4) +3.05/4 0} 7. Qxg4 {(Qd1xg4) -6.79/4 17} Nxc2+
+{(Nd4xc2+) +10.55/4 0} 8. Ke2 {(Ke1-e2) -11.40/4 7} Nxg4 {(Nf6xg4) +11.75/4
+0} 9. Nxh7 {(Ng5xh7) -35.14/4 16} Nxf2 {(Ng4xf2) +13.95/4 0} 10. Kxf2
+{(Ke2xf2) -23.19/4 16  Arena Adjudication} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "V7P3R_v5.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "20:54:13"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nf6 2. e4 {(e2-e4) -0.39/5 18} Nxe4 3. d4
+{(d2-d4) +6.15/4 18} Nc6 4. Nc3 {(Nb1-c3) +6.15/3 18} Nxc3 5. bxc3 {(b2xc3)
++9.00/3 5} Rg8 6. Bd3 {(Bf1-d3) +20.90/3 13} Rh8 7. Bf4 {(Bc1-f4) +30.19/3
+17} Rb8 8. Qh5 {(Qd1-h5) +39.19/3 20} g6 9. Qf3 {(Qh5-f3) +32.19/3 16} Bg7
+10. Qd5 {(Qf3-d5) +27.90/3 21} Bxd4 11. Bc4 {(Bd3-c4) 0.00/3 14} Bxc3+ 12.
+Bd2 {(Bf4-d2) 0.00/3 3} e6 13. Bxc3 {(Bd2xc3) +36.90/3 2} exd5 14. Bxd5
+{(Bc4xd5) +21.34/3 2} Qe7+ 15. Kf1 {(Ke1-f1) +16.05/3 2} Qc5 16. Re1+
+{(Ra1-e1+) +4.95/3 3} Kf8 17. Re8+ {(Re1-e8+) -5.14/3 4} Kxe8 18. Bxc6
+{(Bd5xc6) +21.65/3 3} Qxc3 19. Bd5 {(Bc6-d5) -10.79/3 2} Qxc2 20. g3
+{(g2-g3) -7.34/3 3} Qd1+ 21. Kg2 {(Kf1-g2) -6.25/3 0} Qxd5+ 22. f3 {(f2-f3)
+-42.50/3 0} Qxa2+ 23. Nf2 {(Nh3-f2) -31.84/3 0} Kf8 24. Re1 {(Rh1-e1)
+-31.04/3 4} Qc2 25. Kg1 {(Kg2-g1) -33.25/3 5} Qc3 26. Re2 {(Re1-e2)
+-39.04/3 2 White resigns} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "SlowMate_v2.0"]
+[Black "C0BR4_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:58:28"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd5 Nh6 {(Ng8-h6) -0.15/4 0} 3. Nxe7
+Qxe7 {(Qd8xe7) +1.90/4 0} 4. Nh3 Qh4 {(Qe7-h4) +2.15/4 0} 5. Ng5 Qxg5
+{(Qh4xg5) +4.95/4 0} 6. Rg1 Ng4 {(Nh6-g4) +5.65/4 0} 7. Rh1 Qf4 {(Qg5-f4)
++6.70/4 0} 8. Rg1 Qxf2# {(Qf4xf2+) +299.99/4 0} 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "Slowmate_v1.0"]
+[Black "C0BR4_v1.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "21:00:48"]
+[Variation "1...Nc6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 2} 7. Qe2 d5 {(d7-d5) +0.15/4 1} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 2} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "V7P3R_v5.0"]
+[Black "SlowMate_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "21:01:41"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3) +3.10/5 19} Nc6 2. e4 {(e2-e4) +0.60/5 18} Nh6 3. d4
+{(d2-d4) +11.40/4 18} Rg8 4. Ng5 {(Nh3-g5) +16.90/4 23} Rh8 5. Nxh7
+{(Ng5xh7) +8.44/4 22} Rg8 6. Nxf8 {(Nh7xf8) +20.69/4 22} Rh8 7. Ng6
+{(Nf8-g6) +29.90/4 21} Rg8 8. d5 {(d4-d5) +30.30/4 21} Rh8 9. Nxh8
+{(Ng6xh8) +28.69/4 20} Kf8 10. dxc6 {(d5xc6) +57.85/4 20} Kg8 11. Bxh6
+{(Bc1xh6) +65.84/4 19} Kxh8 12. Be3 {(Bh6-e3) +78.64/4 18} Kg8 13. cxb7
+{(c6xb7) +81.40/4 18} Kh8 14. bxa8=Q {(b7xa8Q) +104.19/4 18} Kg8 15. Nc3
+{(Nb1-c3) +117.29/3 17} Kh8 16. Qh5+ {(Qd1-h5+) +109.19/3 6} Kg8 17. Qad5
+{(Qa8-d5) 0.00/3 17} Kf8 18. Qh8# {(Qh5-h8+) 0.00/3 10} 1-0
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "SlowMate_v2.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "21:13:50"]
+[Variation "1...Nf6"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 Nf6 2. Nd5 Nxd5 3. Nh3 e6 4. Ng5 Qxg5 5. Rg1 Nc6 6. Rh1 Bc5 7. Rg1
+Qh4 8. Rh1 Bxf2# 0-1
+
+[Event "Engine Battle Demo PC 20250821_2"]
+[Site "NETWORK-CLOSET"]
+[Date "2025.08.21"]
+[Round "10"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v5.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "21:16:06"]
+[WhiteElo "2200"]
+[TimeControl "600+5"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -12.89/5 19} 2. Ne4 {(Nc3-e4)
++0.05/4 0} Rg8 {(Rh8-g8) -11.59/5 18} 3. Nf3 {(Ng1-f3) +0.40/4 0} Rh8
+{(Rg8-h8) -27.60/5 18} 4. Nd4 {(Nf3-d4) +0.50/4 0} Nc6 {(Nb8-c6) -9.80/4
+18} 5. Nxc6 {(Nd4xc6) +0.35/4 0} dxc6 {(d7xc6) +5.05/4 7} 6. Nc5 {(Ne4-c5)
++0.20/4 0} Qd6 {(Qd8-d6) +13.35/4 17} 7. Ne4 {(Nc5-e4) +0.15/4 0} Qb4
+{(Qd6-b4) +10.65/4 20} 8. Ng3 {(Ne4-g3) +0.05/4 0} Be6 {(Bc8-e6) +29.44/4
+20} 9. e3 {(e2-e3) -0.15/4 0} Rg8 {(Rh8-g8) +16.75/4 21} 10. Bd3 {(Bf1-d3)
++0.30/4 0} Rh8 {(Rg8-h8) +4.84/4 20} 11. Qh5 {(Qd1-h5) +0.35/4 0} Bxa2
+{(Be6xa2) -16.79/4 20} 12. Rxa2 {(Ra1xa2) +2.40/4 0} Rg8 {(Rh8-g8) -40.04/4
+19} 13. Bxh7 {(Bd3xh7) +3.75/4 0} Rh8 {(Rg8-h8) -29.39/4 15} 14. Bd3
+{(Bh7-d3) +3.95/4 0} Rg8 {(Rh8-g8) -41.30/4 19} 15. Ne4 {(Ng3-e4) +4.00/4
+0} Qxe4 {(Qb4xe4) -11.69/4 14 Black resigns} 1-0
+

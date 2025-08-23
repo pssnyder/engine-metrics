@@ -1,0 +1,18 @@
+   Engine          Score  St Sl Ce V7 Co Ra Ce    S-B
+1: Stockfish 1%    12.0/12 ·· 11 11 11 11 11 11   60.00
+2: Slowmate_v1.0   10.0/12 00 ·· 11 11 11 11 11   40.00
+3: Cece_v2.0       6.0/12  00 00 ·· 1= 1= 11 ==   22.25
+4: V7P3RAI_v1.0    4.5/12  00 00 0= ·· =1 10 1=   15.25
+5: Copycat_v1.0    4.0/12  00 00 0= =0 ·· == 11   12.25
+6: Random_Opponent 4.0/12  00 00 00 01 == ·· 11   11.50
+7: Cece_v2.1       1.5/12  00 00 == 0= 00 00 ··    8.25
+
+42 games played / Tournament is finished
+Name of the tournament: Engine Battle 20250812_3
+Site/ Country: MAIN-DESKTOP, United States
+Level: Tournament Game in 2 Minutes
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250812_3.pgn
+Website: 
+E-Mail Address: 

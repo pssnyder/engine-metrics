@@ -1,0 +1,14 @@
+   Engine        Score          Sl         C0         V7    S-B
+1: Slowmate_v1.0 18.5/20 ·········· 1111111111 1111=10111  112.00
+2: C0BR4_v1.0    9.5/20  0000000000 ·········· 11111=1111   19.00
+3: V7P3R_v5.0    2.0/20  0000=01000 00000=0000 ··········   32.50
+
+30 games played / Tournament is finished
+Name of the tournament: Best of Engine Battle 20250821_3
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Best of Engine Battle 20250821_3.pgn
+Website: 
+E-Mail Address: 

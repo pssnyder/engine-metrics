@@ -1,0 +1,1641 @@
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "Cece_v2.3"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "21:57:47"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "29"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Ne5 Nxe5 {(Nc6xe5) +3.10/4 0} 3. e4 Nf6
+{(Ng8-f6) +3.55/4 0} 4. d4 Nc6 {(Ne5-c6) +3.60/4 0} 5. Nd2 Nxd4 {(Nc6xd4)
++4.85/4 0} 6. Nc4 Ne6 {(Nd4-e6) +4.80/4 0} 7. Be2 Nxe4 {(Nf6xe4) +6.00/4 0}
+8. Bh5 N6c5 {(Ne6-c5) +6.00/4 0} 9. Bh6 gxh6 {(g7xh6) +8.90/4 0} 10. Bxf7+
+Kxf7 {(Ke8xf7) +10.80/4 0} 11. Qd5+ Kg6 {(Kf7-g6) +10.75/4 0} 12. Ne5+ Kf6
+{(Kg6-f6) +10.55/4 0} 13. Nxd7+ Qxd7 {(Qd8xd7) +12.85/4 0} 14. Qd4+ Qxd4
+{(Qd7xd4) +23.65/4 0} 15. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "21:58:53"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 Nd5 4. Qf5 Ncb4 5. Qe4 Nxe3 6. fxe3 e6 7. Qe5
+Nxc2+ 8. Kd1 Nxa1 9. Qe4 Nb3 10. axb3 Bd6 11. Qd4 Qf6 12. Qxf6 gxf6 13. Bd3
+Rg8 14. Bxh7 Rxg2 15. Be4 Rxh2 16. Nf3 Rxh1+ 17. Kc2 f5 18. Bd3 f4 19. Ng5
+fxe3 20. Nc3 Rxc1+ 21. Kxc1 exd2+ 22. Kd1 Be5 23. Nge4 Bxc3 24. bxc3 Kf8
+25. c4 Kg7 26. Be2 Kh6 27. c5 Kh7 28. Bf3 Kg7 29. Bg4 f5 30. Bf3 fxe4 31.
+Bxe4 Rb8 32. Bf3 Kh7 33. Be4+ Kg7 34. Bf3 Kh7 35. Be4+ Kg7 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "21:59:47"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "89"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 e5 2. Qf3 Nf6 3. Qf5 e4 4. Qe5+ Be7 5. Qd4 c5 6. Qc3 h5 7. Nf3 b5 8.
+Nd4 O-O 9. Ne6 dxe6 10. Bxb5 Qd5 11. Bc4 Qe5 12. Qxe5 Re8 13. Bd5 exd5 14.
+Qxf6 d4 15. Qe5 Bd7 16. Qd5 dxe3 17. Qxe4 exd2+ 18. Kxd2 Bg5+ 19. Kd3 Rxe4
+20. Kxe4 Bc6+ 21. Kd3 Bxc1 22. Rxc1 c4+ 23. Kd4 Kh8 24. c3 Kg8 25. f3 Kh8
+26. Re1 Kg8 27. Re5 Kh8 28. Rf5 Kg8 29. Kc5 Na6+ 30. Kxc6 Nb4+ 31. Kc7 Rf8
+32. f4 Rc8+ 33. Kxc8 Kf8 34. Kb8 Nc6+ 35. Ka8 Kg8 36. Rb5 Ne5 37. Rb8+ Kh7
+38. Rc8 Kg6 39. Rc5 Kh7 40. fxe5 Kg8 41. Kb8 Kh7 42. Ka8 Kh8 43. Kb7 Kg8
+44. Kb8 Kh7 45. Ka8 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "Slowmate_v1.0"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:02:45"]
+[Variation "1...Nc6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 0} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 1} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "Cece_v2.3"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:03:36"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "22"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nd4 Nxd4 3. e4 Nf6 4. e5 Ne4 5. e6 dxe6 6. g3 Qd5 7. Na3 Nxf2
+8. c4 Qxh1 9. Qa4+ Bd7 10. Nb5 Nd3+ 11. Kd1 Qxf1# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "1"]
+[White "ChessAI_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "1200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:04:30"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e6 2. Nf3 {(Ng1-f3) +0.30/4 0} Qf6 3. Rb1
+{(Ra1-b1) +0.70/4 0} Bc5 4. Ne4 {(Nc3-e4) +1.00/4 0} Qf5 5. Nxc5 {(Ne4xc5)
++0.75/4 0} Qxc5 6. Ra1 {(Rb1-a1) +0.25/4 0} Qd5 7. d3 {(d2-d3) +0.35/4 0}
+Qa5+ 8. Bd2 {(Bc1-d2) +0.60/4 0} Qf5 9. Nd4 {(Nf3-d4) +0.60/4 0} Qe5 10.
+Bc3 {(Bd2-c3) +0.50/4 0} Qd5 11. e4 {(e2-e4) +0.75/4 0} Qd6 12. Nb5
+{(Nd4-b5) +2.15/4 0} Qc6 13. Nxa7 {(Nb5xa7) +3.95/4 0} Rxa7 14. Bxg7
+{(Bc3xg7) +4.15/4 0} Qd6 15. Bxh8 {(Bg7xh8) +4.65/4 0} e5 16. Qh5 {(Qd1-h5)
++5.25/4 0} Nc6 17. Qxh7 {(Qh5xh7) +5.80/4 0} Nf6 18. Bxf6 {(Bh8xf6) +7.75/4
+0} Nd4 19. Qh8+ {(Qh7-h8+) +9.15/4 0} Qf8 20. Qxf8+ {(Qh8xf8+) +9.25/4 0}
+Kxf8 21. Kd2 {(Ke1-d2) +9.25/4 0} d6 22. Bd8 {(Bf6-d8) +9.25/4 0} Ne6 23.
+Bf6 {(Bd8-f6) +9.25/4 0} Nf4 24. Bg5 {(Bf6-g5) +9.40/4 0} Be6 25. Bh6+
+{(Bg5-h6+) +9.40/4 0} Kg8 26. Bxf4 {(Bh6xf4) +8.90/4 0} f5 27. Be3
+{(Bf4-e3) +12.55/4 0} c5 28. exf5 {(e4xf5) +12.90/4 0} Bd5 29. c4 {(c2-c4)
++13.85/4 0} Bc6 30. Be2 {(Bf1-e2) +13.85/4 0} Bxg2 31. Rhg1 {(Rh1-g1)
++15.80/4 0} Kh8 32. Rxg2 {(Rg1xg2) +15.90/4 0} d5 33. Bxc5 {(Be3xc5)
++17.90/4 0} e4 34. Bxa7 {(Bc5xa7) +22.05/4 0} dxc4 35. dxc4 {(d3xc4)
++23.00/4 0} e3+ 36. Bxe3 {(Ba7xe3) +24.60/4 0} Kh7 37. f6 {(f5-f6) +30.50/4
+0} Kh8 38. f7 {(f6-f7) +32.50/4 1} Kh7 39. f8=Q {(f7-f8Q) +299.97/4 1} b6
+40. Bd3# {(Be2-d3+) +299.99/4 1} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "ChessAI_v1.0"]
+[Black "Cece_v2.3"]
+[Result "0-1"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:05:31"]
+[Variation "1...e5 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e5 2. Nf3 {(Ng1-f3) +0.35/4 0} c5 3. Nxe5
+{(Nf3xe5) +2.20/4 0} h6 4. Nd5 {(Nc3-d5) +2.80/4 0} Nc6 5. Nxc6 {(Ne5xc6)
++2.65/4 0} dxc6 6. Nf4 {(Nd5-f4) +2.45/4 0} Bd6 7. d3 {(d2-d3) +2.25/4 0}
+Ne7 8. Be3 {(Bc1-e3) +2.25/4 0} O-O {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:06:12"]
+[Variation "1...e6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "124"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Nb5 Bd6 4. Nfd4 Be5 5. Nxe6 Qxe6 6. Rb1 Qxa2 7.
+Nxc7+ Bxc7 8. Ra1 Qxa1 9. e3 Nc6 10. Bb5 Nf6 11. Bxc6 dxc6 12. Kf1 Bf5 13.
+Kg1 Bd6 14. Kf1 Nd5 15. Kg1 Be4 16. d3 Nxe3 17. fxe3 Bd5 18. e4 Bf4 19.
+exd5 Bxc1 20. Kf1 Qxb2 21. dxc6 Qf6+ 22. Qf3 Qxf3+ 23. gxf3 Kf8 24. cxb7
+Re8 25. b8=Q Rxb8 26. Kf2 Bf4 27. Ra1 Be5 28. Rxa7 Bd6 29. Kg2 Ke8 30. Kh3
+Be5 31. Ra5 Bf4 32. Ra4 Kf8 33. Rxf4 Rd8 34. Kh4 Rd6 35. Kg4 Rg6+ 36. Kh5
+Rc6 37. Rc4 Rh6+ 38. Kg5 f6+ 39. Kf5 Ke7 40. Rc7+ Kd6 41. Rxg7 Rc8 42. Rxh7
+Rc5+ 43. Kg4 Rg5+ 44. Kf4 Rxh7 45. h4 Rc5 46. Kg4 f5+ 47. Kg5 Rxh4 48. Kxh4
+Rc3 49. Kg5 Ke5 50. Kh6 Kf4 51. Kg7 Ke3 52. Kg8 Rxc2 53. Kg7 Rc6 54. Kh7
+Rf6 55. Kg7 Rd6 56. f4 Re6 57. Kf7 Rd6 58. Kf8 Rf6+ 59. Kg7 Re6 60. Kf7 Rd6
+61. Kf8 Rf6+ 62. Kg7 Re6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "Cece_v2.3"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "1200"]
+[ECO "B02"]
+[Opening "Alekhine"]
+[Time "22:07:36"]
+[Variation "2.e5"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "40"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nf6 2. e5 c6 3. exf6 Qc7 4. Nc3 Qe5+ 5. Ne4 Qxe4+ 6. Qe2 Qd5 7. fxe7
+Bxe7 8. Qg4 Bf6 9. Bb5 Bxb2 10. Qe2+ Kd8 11. Nf3 Qxb5 12. Qe7+ Kxe7 13. Nd4
+Kf6 14. Bxb2 Qxb2 15. O-O d5 16. Nf3 Be6 17. Rfe1 Bf5 18. Reb1 Qxc2 19.
+Rxb7 Be6 20. Rxb8 Qxa2 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "ChessAI_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:09:07"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:09:24"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 d5 3. Nc3 Qh4 4. Nxd5 Bh3 5. Nxc7+ Kd8 6. Nxa8 Kc8 7.
+Nxf7 Qxf2+ 8. Kxf2 Nf6 9. Nb6+ axb6 10. Kg3 Ne4+ 11. Kh4 Be7+ 12. Kxh3 Rd8
+13. Nxd8 Bxd8 14. Qe1 Ng5+ 15. Kg3 Ne6 16. Qf2 h5 17. Qf5 Bh4+ 18. Kxh4 Kd7
+19. Qd5+ Kc8 20. Qxe6+ Kd8 21. Qg8+ Ke7 22. Qxb8 g5+ 23. Kxg5 b5 24. Qxb7+
+Kf8 25. Kf6 Kg8 26. Qg7# 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "2"]
+[White "V7P3R_v4.3"]
+[Black "ChessAI_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:11:05"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nc6 {(Nb8-c6) +0.20/4 0} 2. Qf3 Nf6 {(Ng8-f6) +0.70/4 0} 3. Qf4 Nd5
+{(Nf6-d5) +1.00/4 0} 4. Qf5 e6 {(e7-e6) +0.90/4 0} 5. Qe4 Nf6 {(Nd5-f6)
++0.70/4 0} 6. Qc4 Ne5 {(Nc6-e5) +0.70/4 0} 7. Qd4 Nc6 {(Ne5-c6) +0.70/4 0}
+8. Qf4 Bd6 {(Bf8-d6) +0.80/4 0} 9. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 10. Qd4 Nc6
+{(Ne5-c6) +0.80/4 0} 11. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 12. Qd4 Nc6 {(Ne5-c6)
++0.80/4 0} 13. Qc4 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "Cece_v2.3"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:11:22"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd4 Nxd4 {(Nc6xd4) +3.05/4 0} 3. e4 Nf6
+{(Ng8-f6) +3.45/4 0} 4. e5 Nd5 {(Nf6-d5) +3.85/4 0} 5. Ba6 bxa6 {(b7xa6)
++6.80/4 0} 6. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:11:53"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 Nd5 4. Qf5 Ncb4 5. Qe4 Nxe3 6. fxe3 e6 7. Qe5
+Nxc2+ 8. Kd1 Nxa1 9. Qe4 Nb3 10. axb3 Bd6 11. Qd4 Qf6 12. Qxf6 gxf6 13. Bd3
+Rg8 14. Bxh7 Rxg2 15. Be4 Rxh2 16. Nf3 Rxh1+ 17. Kc2 f5 18. Bd3 f4 19. Ng5
+fxe3 20. Nc3 Rxc1+ 21. Kxc1 exd2+ 22. Kd1 Be5 23. Nge4 Bxc3 24. bxc3 Kf8
+25. c4 Kg7 26. Be2 Kh6 27. c5 Kh7 28. Bf3 Kg7 29. Bg4 f5 30. Bf3 fxe4 31.
+Bxe4 Rb8 32. Bf3 Kh7 33. Be4+ Kg7 34. Bf3 Kh7 35. Be4+ Kg7 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:12:46"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "46"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 e5 2. Qf3 Nf6 3. Qf5 Bd6 4. Qf3 c6 5. Bd3 e4 6. Bxe4 Qb6 7. Bd5 Nxd5
+8. Qe4+ Be5 9. Qxe5+ Kf8 10. Qd6+ Kg8 11. Qe5 Qxe3+ 12. fxe3 Kf8 13. d4 Rg8
+14. Qd6+ Ke8 15. e4 f6 16. exd5 cxd5 17. Qxd5 Rh8 18. Qh5+ Kf8 19. Qd5 Nc6
+20. Qd6+ Kg8 21. Qd5+ Kf8 22. Qd6+ Kg8 23. Qd5+ Kf8 {3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "Slowmate_v1.0"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:14:23"]
+[Variation "1...Nc6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 0} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 1} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "Cece_v2.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:15:13"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "65"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Ne5 Nxe5 3. e4 Nf6 4. d4 Nxe4 5. Nd2 Nxf2 6. Kxf2 Nc6 7. Ne4
+Nb4 8. Qh5 Nxc2 9. Nf6+ exf6 10. Qd5 Qe7 11. Qf5 Nxa1 12. Qb1 Nb3 13. axb3
+f5 14. Qxf5 Qh4+ 15. Ke3 Qh6+ 16. Ke4 Qc6+ 17. Qd5 Qxd5+ 18. Kxd5 Ba3 19.
+Ke4 Bxb2 20. Ba6 Bxd4 21. Kf3 bxa6 22. Re1+ Kf8 23. Re8+ Kxe8 24. Ke2 Bb7
+25. Kd3 Be5 26. Kc4 Bxg2 27. Kb4 Bxh2 28. Ka5 Be5 29. Kxa6 Bf1+ 30. Kb7
+Bg2+ 31. Ka6 Bf1+ 32. Kb7 Bg2+ 33. Ka6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "3"]
+[White "ChessAI_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "1200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:17:21"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e6 2. Nf3 {(Ng1-f3) +0.30/4 0} Qf6 3. Rb1
+{(Ra1-b1) +0.70/4 0} Bc5 4. Ne4 {(Nc3-e4) +1.00/4 0} Qf5 5. Nxc5 {(Ne4xc5)
++0.75/4 0} Qxc5 6. Ra1 {(Rb1-a1) +0.25/4 0} Qd5 7. d3 {(d2-d3) +0.35/4 0}
+Qa5+ 8. Bd2 {(Bc1-d2) +0.60/4 0} Qf5 9. Nd4 {(Nf3-d4) +0.60/4 0} Qe5 10.
+Bc3 {(Bd2-c3) +0.50/4 0} Qd5 11. e4 {(e2-e4) +0.75/4 0} Qd6 12. Nb5
+{(Nd4-b5) +2.15/4 0} Qc6 13. Nxa7 {(Nb5xa7) +3.95/4 0} Rxa7 14. Bxg7
+{(Bc3xg7) +4.15/4 0} Qd6 15. Bxh8 {(Bg7xh8) +4.65/4 0} e5 16. Qh5 {(Qd1-h5)
++5.25/4 0} Nc6 17. Qxh7 {(Qh5xh7) +5.80/4 0} Nf6 18. Bxf6 {(Bh8xf6) +7.75/4
+0} Nd4 19. Qh8+ {(Qh7-h8+) +9.15/4 0} Qf8 20. Qxf8+ {(Qh8xf8+) +9.25/4 0}
+Kxf8 21. Kd2 {(Ke1-d2) +9.25/4 0} d6 22. Bd8 {(Bf6-d8) +9.25/4 0} Ne6 23.
+Bf6 {(Bd8-f6) +9.25/4 0} Nf4 24. Bg5 {(Bf6-g5) +9.40/4 0} Be6 25. Bh6+
+{(Bg5-h6+) +9.40/4 0} Kg8 26. Bxf4 {(Bh6xf4) +8.90/4 0} f5 27. Be3
+{(Bf4-e3) +12.55/4 0} c5 28. exf5 {(e4xf5) +12.90/4 0} Bd5 29. c4 {(c2-c4)
++13.85/4 0} Bc6 30. Be2 {(Bf1-e2) +13.85/4 0} Bxg2 31. Rhg1 {(Rh1-g1)
++15.80/4 0} Kh8 32. Rxg2 {(Rg1xg2) +15.90/4 0} d5 33. Bxc5 {(Be3xc5)
++17.90/4 0} e4 34. Bxa7 {(Bc5xa7) +22.05/4 0} dxc4 35. dxc4 {(d3xc4)
++23.00/4 0} e3+ 36. Bxe3 {(Ba7xe3) +24.60/4 0} Kh7 37. f6 {(f5-f6) +30.50/4
+0} Kh8 38. f7 {(f6-f7) +32.50/4 0} Kh7 39. f8=Q {(f7-f8Q) +299.97/4 1} b6
+40. Bd3# {(Be2-d3+) +299.99/4 1} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "ChessAI_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:18:23"]
+[Variation "1...e5 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "43"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e5 2. Nf3 {(Ng1-f3) +0.35/4 0} f5 3. Nxe5
+{(Nf3xe5) +2.10/4 0} Qh4 4. Nd5 {(Nc3-d5) +2.65/4 0} Qxf2+ 5. Kxf2
+{(Ke1xf2) +10.15/4 0} Bd6 6. Nc4 {(Ne5-c4) +10.15/4 0} Nf6 7. Nxd6+
+{(Nc4xd6+) +14.35/4 0} Kf8 8. Nxc7 {(Nd5xc7) +17.45/4 0} Ng4+ 9. Kg1
+{(Kf2-g1) +18.85/4 0} g5 10. Nxa8 {(Nc7xa8) +20.65/4 0} b6 11. Nxc8
+{(Nd6xc8) +22.95/4 0} Ne5 12. Nxa7 {(Nc8xa7) +25.00/4 0} d5 13. Nxb6
+{(Na8xb6) +25.75/4 0} Ng4 14. Nxd5 {(Nb6xd5) +27.25/4 0} Ne5 15. d4
+{(d2-d4) +27.35/4 0} Nf7 16. Qd3 {(Qd1-d3) +27.30/4 0} Nd7 17. Qb5
+{(Qd3-b5) +29.70/4 0} Nde5 18. dxe5 {(d4xe5) +30.35/4 0} Nxe5 19. Qb8+
+{(Qb5-b8+) +33.15/4 0} Kg7 20. Qxe5+ {(Qb8xe5+) +35.05/4 0} Kf7 21. Qf6+
+{(Qe5-f6+) +299.97/4 0} Kg8 22. Ne7# {(Nd5-e7+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:19:51"]
+[Variation "1...e6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "124"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Nb5 Bd6 4. Nfd4 Be5 5. Nxe6 Qxe6 6. Rb1 Qxa2 7.
+Nxc7+ Bxc7 8. Ra1 Qxa1 9. e3 Nc6 10. Bb5 Nf6 11. Bxc6 dxc6 12. Kf1 Bf5 13.
+Kg1 Bd6 14. Kf1 Nd5 15. Kg1 Be4 16. d3 Nxe3 17. fxe3 Bd5 18. e4 Bf4 19.
+exd5 Bxc1 20. Kf1 Qxb2 21. dxc6 Qf6+ 22. Qf3 Qxf3+ 23. gxf3 Kf8 24. cxb7
+Re8 25. b8=Q Rxb8 26. Kf2 Bf4 27. Ra1 Be5 28. Rxa7 Bd6 29. Kg2 Ke8 30. Kh3
+Be5 31. Ra5 Bf4 32. Ra4 Kf8 33. Rxf4 Rd8 34. Kh4 Rd6 35. Kg4 Rg6+ 36. Kh5
+Rc6 37. Rc4 Rh6+ 38. Kg5 f6+ 39. Kf5 Ke7 40. Rc7+ Kd6 41. Rxg7 Rc8 42. Rxh7
+Rc5+ 43. Kg4 Rg5+ 44. Kf4 Rxh7 45. h4 Rc5 46. Kg4 f5+ 47. Kg5 Rxh4 48. Kxh4
+Rc3 49. Kg5 Ke5 50. Kh6 Kf4 51. Kg7 Ke3 52. Kg8 Rxc2 53. Kg7 Rc6 54. Kh7
+Rf6 55. Kg7 Rd6 56. f4 Re6 57. Kf7 Rd6 58. Kf8 Rf6+ 59. Kg7 Re6 60. Kf7 Rd6
+61. Kf8 Rf6+ 62. Kg7 Re6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "Cece_v2.3"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:21:23"]
+[Variation "1...e6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Ne5 Qf6 3. e3 Qxe5 4. Bb5 Qxb5 5. Nc3 Qe5 6. Nb1 Qd5 7. O-O
+Qe4 8. d4 Bd6 9. Kh1 Be5 10. Rg1 Bxh2 11. Rf1 e5 12. Re1 d5 13. Re2 Bf5 14.
+Rd2 exd4 15. Qe2 Nc6 16. Qh5 dxe3 17. Qxh2 exd2 18. Qxc7 d1=R+ 19. Kh2 Qh4#
+0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "ChessAI_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:22:50"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:23:04"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "37"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 d5 3. Nc3 Qf6 4. Nxd5 Qxe5 5. Nxc7+ Qxc7 6. e3 a6 7. Bd3
+Be6 8. Be4 Bd6 9. Qe2 Be5 10. Qf3 Kf8 11. Bxb7 Nh6 12. Qe4 Kg8 13. Bxa8
+Bxh2 14. Bd5 Be5 15. Bxe6 fxe6 16. Rxh6 Kf7 17. Qf3+ Kg8 18. Rxe6 Bc3 19.
+Re8# 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "4"]
+[White "V7P3R_v4.3"]
+[Black "ChessAI_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:24:36"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nc6 {(Nb8-c6) +0.20/4 0} 2. Qf3 Nf6 {(Ng8-f6) +0.70/4 0} 3. Qf4 Nd5
+{(Nf6-d5) +1.00/4 0} 4. Qf5 e6 {(e7-e6) +0.90/4 0} 5. Qe4 Nf6 {(Nd5-f6)
++0.70/4 0} 6. Qc4 Ne5 {(Nc6-e5) +0.70/4 0} 7. Qd4 Nc6 {(Ne5-c6) +0.70/4 0}
+8. Qf4 Bd6 {(Bf8-d6) +0.80/4 0} 9. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 10. Qd4 Nc6
+{(Ne5-c6) +0.80/4 0} 11. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 12. Qd4 Nc6 {(Ne5-c6)
++0.80/4 0} 13. Qc4 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "Cece_v2.3"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:24:53"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd4 Nxd4 {(Nc6xd4) +3.05/4 0} 3. e4 Nf6
+{(Ng8-f6) +3.45/4 0} 4. e5 Nd5 {(Nf6-d5) +3.85/4 0} 5. Ba6 bxa6 {(b7xa6)
++6.80/4 0} 6. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:25:24"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 Nd5 4. Qf5 Ncb4 5. Qe4 Nxe3 6. fxe3 e6 7. Qe5
+Nxc2+ 8. Kd1 Nxa1 9. Qe4 Nb3 10. axb3 Bd6 11. Qd4 Qf6 12. Qxf6 gxf6 13. Bd3
+Rg8 14. Bxh7 Rxg2 15. Be4 Rxh2 16. Nf3 Rxh1+ 17. Kc2 f5 18. Bd3 f4 19. Ng5
+fxe3 20. Nc3 Rxc1+ 21. Kxc1 exd2+ 22. Kd1 Be5 23. Nge4 Bxc3 24. bxc3 Kf8
+25. c4 Kg7 26. Be2 Kh6 27. c5 Kh7 28. Bf3 Kg7 29. Bg4 f5 30. Bf3 fxe4 31.
+Bxe4 Rb8 32. Bf3 Kh7 33. Be4+ Kg7 34. Bf3 Kh7 35. Be4+ Kg7 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:26:17"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "87"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 e5 2. Qf3 Nf6 3. Qf5 Bd6 4. Qf3 c6 5. Bd3 Bf8 6. Be4 d5 7. Bf5 Bd6 8.
+Bxc8 Qxc8 9. c3 Qc7 10. d3 Na6 11. d4 e4 12. Qe2 Rf8 13. Nf3 O-O-O 14. Nh4
+Ne8 15. Nf5 Nf6 16. c4 Kb8 17. cxd5 Nb4 18. Nc3 Qd7 19. Nxe4 Nxe4 20. Qc4
+Nc2+ 21. Ke2 Ng3+ 22. hxg3 Qxf5 23. dxc6 Nxa1 24. d5 Rg8 25. e4 Rde8 26.
+c7+ Bxc7 27. Qxc7+ Ka8 28. Qxf7 Qxf7 29. Be3 Qf6 30. Kd3 Nc2 31. Kxc2 Qxf2+
+32. Bxf2 Rxe4 33. Bg1 Rc8+ 34. Kd3 g6 35. Kxe4 Rc7 36. Bd4 Rf7 37. Ke3 Re7+
+38. Kd3 b5 39. Bc5 Re5 40. Kd4 Rg5 41. Ke3 Re5+ 42. Kd4 Rg5 43. Ke3 Re5+
+44. Kd4 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "Slowmate_v1.0"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:29:11"]
+[Variation "1...Nc6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 0} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 1} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "Cece_v2.3"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:29:53"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "22"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nd4 Nxd4 3. e4 Nf6 4. e5 Ne4 5. e6 dxe6 6. g3 Qd5 7. Na3 Nxf2
+8. h4 Nxd1 9. Rg1 Nxb2 10. Bxb2 Qe4+ 11. Be2 Qxe2# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "5"]
+[White "ChessAI_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "1200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:30:47"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e6 2. Nf3 {(Ng1-f3) +0.30/4 0} Qf6 3. Rb1
+{(Ra1-b1) +0.70/4 0} Bc5 4. Ne4 {(Nc3-e4) +1.00/4 0} Qf5 5. Nxc5 {(Ne4xc5)
++0.75/4 0} Qxc5 6. Ra1 {(Rb1-a1) +0.25/4 0} Qd5 7. d3 {(d2-d3) +0.35/4 0}
+Qa5+ 8. Bd2 {(Bc1-d2) +0.60/4 0} Qf5 9. Nd4 {(Nf3-d4) +0.60/4 0} Qe5 10.
+Bc3 {(Bd2-c3) +0.50/4 0} Qd5 11. e4 {(e2-e4) +0.75/4 0} Qd6 12. Nb5
+{(Nd4-b5) +2.15/4 0} Qc6 13. Nxa7 {(Nb5xa7) +3.95/4 0} Rxa7 14. Bxg7
+{(Bc3xg7) +4.15/4 0} Qd6 15. Bxh8 {(Bg7xh8) +4.65/4 0} e5 16. Qh5 {(Qd1-h5)
++5.25/4 0} Nc6 17. Qxh7 {(Qh5xh7) +5.80/4 0} Nf6 18. Bxf6 {(Bh8xf6) +7.75/4
+0} Nd4 19. Qh8+ {(Qh7-h8+) +9.15/4 0} Qf8 20. Qxf8+ {(Qh8xf8+) +9.25/4 0}
+Kxf8 21. Kd2 {(Ke1-d2) +9.25/4 0} d6 22. Bd8 {(Bf6-d8) +9.25/4 0} Ne6 23.
+Bf6 {(Bd8-f6) +9.25/4 0} Nf4 24. Bg5 {(Bf6-g5) +9.40/4 0} Be6 25. Bh6+
+{(Bg5-h6+) +9.40/4 0} Kg8 26. Bxf4 {(Bh6xf4) +8.90/4 0} f5 27. Be3
+{(Bf4-e3) +12.55/4 0} c5 28. exf5 {(e4xf5) +12.90/4 0} Bd5 29. c4 {(c2-c4)
++13.85/4 0} Bc6 30. Be2 {(Bf1-e2) +13.85/4 0} Bxg2 31. Rhg1 {(Rh1-g1)
++15.80/4 0} Kh8 32. Rxg2 {(Rg1xg2) +15.90/4 0} d5 33. Bxc5 {(Be3xc5)
++17.90/4 0} e4 34. Bxa7 {(Bc5xa7) +22.05/4 0} dxc4 35. dxc4 {(d3xc4)
++23.00/4 0} e3+ 36. Bxe3 {(Ba7xe3) +24.60/4 0} Kh7 37. f6 {(f5-f6) +30.50/4
+0} Kh8 38. f7 {(f6-f7) +32.50/4 0} Kh7 39. f8=Q {(f7-f8Q) +299.97/4 0} b6
+40. Bd3# {(Be2-d3+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "ChessAI_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:31:30"]
+[Variation "1...e5 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "27"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e5 2. Nf3 {(Ng1-f3) +0.35/4 0} Nc6 3. d4
+{(d2-d4) +0.20/4 0} exd4 4. Nxd4 {(Nf3xd4) +0.10/4 0} Bb4 5. Nxc6 {(Nd4xc6)
++0.40/4 0} Bxc3+ 6. bxc3 {(b2xc3) +0.10/4 0} Nf6 7. Nxd8 {(Nc6xd8) +8.65/4
+0} Kxd8 8. Bg5 {(Bc1-g5) +9.05/4 0} d5 9. Qxd5+ {(Qd1xd5+) +11.75/4 0} Bd7
+10. Qxf7 {(Qd5xf7) +15.05/4 0} Re8 11. Qxg7 {(Qf7xg7) +16.35/4 0} Rxe2+ 12.
+Bxe2 {(Bf1xe2) +19.95/4 0} Ke8 13. Bxf6 {(Bg5xf6) +299.97/4 0} Bf5 14. Qe7#
+{(Qg7-e7+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:32:28"]
+[Variation "1...e6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "124"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Nb5 Bd6 4. Nfd4 Be5 5. Nxe6 Qxe6 6. Rb1 Qxa2 7.
+Nxc7+ Bxc7 8. Ra1 Qxa1 9. e3 Nc6 10. Bb5 Nf6 11. Bxc6 dxc6 12. Kf1 Bf5 13.
+Kg1 Bd6 14. Kf1 Nd5 15. Kg1 Be4 16. d3 Nxe3 17. fxe3 Bd5 18. e4 Bf4 19.
+exd5 Bxc1 20. Kf1 Qxb2 21. dxc6 Qf6+ 22. Qf3 Qxf3+ 23. gxf3 Kf8 24. cxb7
+Re8 25. b8=Q Rxb8 26. Kf2 Bf4 27. Ra1 Be5 28. Rxa7 Bd6 29. Kg2 Ke8 30. Kh3
+Be5 31. Ra5 Bf4 32. Ra4 Kf8 33. Rxf4 Rd8 34. Kh4 Rd6 35. Kg4 Rg6+ 36. Kh5
+Rc6 37. Rc4 Rh6+ 38. Kg5 f6+ 39. Kf5 Ke7 40. Rc7+ Kd6 41. Rxg7 Rc8 42. Rxh7
+Rc5+ 43. Kg4 Rg5+ 44. Kf4 Rxh7 45. h4 Rc5 46. Kg4 f5+ 47. Kg5 Rxh4 48. Kxh4
+Rc3 49. Kg5 Ke5 50. Kh6 Kf4 51. Kg7 Ke3 52. Kg8 Rxc2 53. Kg7 Rc6 54. Kh7
+Rf6 55. Kg7 Rd6 56. f4 Re6 57. Kf7 Rd6 58. Kf8 Rf6+ 59. Kg7 Re6 60. Kf7 Rd6
+61. Kf8 Rf6+ 62. Kg7 Re6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "Cece_v2.3"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:33:55"]
+[Variation "1...e6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "22"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Ne5 Qf6 3. Ng4 Qd4 4. h3 Nf6 5. e3 Qd5 6. d4 Bb4+ 7. Ke2 Nxg4
+8. Rg1 Qc4+ 9. Kf3 Nh2+ 10. Ke4 Qd5+ 11. Kf4 Bd6# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "ChessAI_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:34:49"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:35:04"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "99"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 a5 3. Nc3 Qe7 4. Nd5 Qxe5 5. Nxc7+ Qxc7 6. d3 Qb6 7. d4
+Ra6 8. Qd3 Ne7 9. Bg5 Qxb2 10. Rc1 Qxc1+ 11. Bxc1 Ra7 12. Bg5 Ra8 13. d5 b6
+14. Qe4 Bb7 15. Bxe7 Bxe7 16. Qd4 O-O 17. Kd2 Bg5+ 18. Kd3 Ba6+ 19. Ke4
+Re8+ 20. Kf5 Bf4 21. Qxf4 Nc6 22. dxc6 dxc6 23. e3 Bxf1 24. Rxf1 Kh8 25.
+Qc7 Re5+ 26. Qxe5 Rg8 27. Qe7 Rc8 28. Qxf7 Rd8 29. Ke6 Rg8 30. Kd7 Rb8 31.
+Kc7 Rg8 32. Kxb6 Rc8 33. Kb7 Rg8 34. Qf3 Re8 35. Qxc6 Rf8 36. Qc7 Kg8 37.
+Qxa5 Rf7+ 38. Ka6 Rf6+ 39. Kb7 Rf8 40. Qc5 h6 41. f3 Rf7+ 42. Kb8 Kh8 43.
+Qd6 Kh7 44. Qd8 Re7 45. Qxe7 Kh8 46. Rf2 Kg8 47. Qe4 Kh8 48. Rd2 h5 49. Qg6
+Kg8 50. Rd8# 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "6"]
+[White "V7P3R_v4.3"]
+[Black "ChessAI_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:37:58"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nc6 {(Nb8-c6) +0.20/4 0} 2. Qf3 Nf6 {(Ng8-f6) +0.70/4 0} 3. Qf4 Nd5
+{(Nf6-d5) +1.00/4 0} 4. Qf5 e6 {(e7-e6) +0.90/4 0} 5. Qe4 Nf6 {(Nd5-f6)
++0.70/4 0} 6. Qc4 Ne5 {(Nc6-e5) +0.70/4 0} 7. Qd4 Nc6 {(Ne5-c6) +0.70/4 0}
+8. Qf4 Bd6 {(Bf8-d6) +0.80/4 0} 9. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 10. Qd4 Nc6
+{(Ne5-c6) +0.80/4 0} 11. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 12. Qd4 Nc6 {(Ne5-c6)
++0.80/4 0} 13. Qc4 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "Cece_v2.3"]
+[Black "ChessAI_v1.0"]
+[Result "0-1"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:38:15"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "36"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd4 Nxd4 {(Nc6xd4) +3.05/4 0} 3. e4 Nf6
+{(Ng8-f6) +3.45/4 0} 4. e5 Nd5 {(Nf6-d5) +3.85/4 0} 5. Rg1 d6 {(d7-d6)
++4.10/4 0} 6. exd6 Qxd6 {(Qd8xd6) +4.15/4 0} 7. d3 Qxh2 {(Qd6xh2) +6.90/4
+0} 8. Bf4 Nxf4 {(Nd5xf4) +10.85/4 0} 9. Qe2 Nfxe2 {(Nf4xe2) +20.70/4 0} 10.
+Nc3 Nxc3 {(Ne2xc3) +23.30/4 0} 11. f3 Qxg1 {(Qh2xg1) +26.80/4 0} 12. Kd2
+Nd5 {(Nc3-d5) +27.40/4 0} 13. Ke1 Nxc2+ {(Nd4xc2+) +31.75/4 0} 14. Ke2 Nxa1
+{(Nc2xa1) +33.75/4 0} 15. d4 Bd7 {(Bc8-d7) +35.05/4 0} 16. Kd3 Qxf1+
+{(Qg1xf1+) +36.45/4 0} 17. Ke4 Qe2+ {(Qf1-e2+) +299.97/4 0} 18. Kxd5 e6#
+{(e7-e6+) +299.99/4 0} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:39:29"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 Nd5 4. Qf5 Ncb4 5. Qe4 Nxe3 6. fxe3 e6 7. Qe5
+Nxc2+ 8. Kd1 Nxa1 9. Qe4 Nb3 10. axb3 Bd6 11. Qd4 Qf6 12. Qxf6 gxf6 13. Bd3
+Rg8 14. Bxh7 Rxg2 15. Be4 Rxh2 16. Nf3 Rxh1+ 17. Kc2 f5 18. Bd3 f4 19. Ng5
+fxe3 20. Nc3 Rxc1+ 21. Kxc1 exd2+ 22. Kd1 Be5 23. Nge4 Bxc3 24. bxc3 Kf8
+25. c4 Kg7 26. Be2 Kh6 27. c5 Kh7 28. Bf3 Kg7 29. Bg4 f5 30. Bf3 fxe4 31.
+Bxe4 Rb8 32. Bf3 Kh7 33. Be4+ Kg7 34. Bf3 Kh7 35. Be4+ Kg7 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:40:21"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 e5 2. Qf3 Qe7 3. Qf5 h6 4. Qe4 Nc6 5. Qd3 Nf6 6. Qc3 Qd6 7. Qd3 Ng4
+8. Nf3 Qe7 9. Qc4 e4 10. Nd4 Qf6 11. Nxc6 dxc6 12. Qxe4+ Qe5 13. Qc4 Qe7
+14. Qd4 Ne5 15. Qe4 Nf3+ 16. Qxf3 Be6 17. Qf4 Bd5 18. d4 Qe6 19. Qxc7 Qxe3+
+20. Bxe3 Bb4+ 21. c3 Ba5 22. Qxb7 O-O 23. Bd3 Bxa2 24. d5 Bxb1 25. Bxb1 f6
+26. Bh7+ Kxh7 27. Bc5 Rfe8+ 28. Be3 Rac8 29. d6 Rc7 30. dxc7 Bxc7 31. Qxc6
+Re5 32. Qf3 Bd6 33. Qf4 Bb8 34. Qf3 Kh8 35. Qa8 Kg8 36. Qc6 Kh7 37. Qf3 Kh8
+38. Qa8 Kg8 39. Qc6 Kh7 40. Qf3 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "Slowmate_v1.0"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:42:59"]
+[Variation "1...Nc6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 0} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 1} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "Cece_v2.3"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:43:44"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "22"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Nd4 Nxd4 3. e4 Nf6 4. e5 Ne4 5. e6 dxe6 6. Bb5+ Nxb5 7. O-O
+Nd4 8. g3 Qd5 9. Re1 Qf5 10. Rxe4 Qxe4 11. Kf1 Qh1# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "7"]
+[White "ChessAI_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "1200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:44:39"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e6 2. Nf3 {(Ng1-f3) +0.30/4 0} Qf6 3. Rb1
+{(Ra1-b1) +0.70/4 0} Bc5 4. Ne4 {(Nc3-e4) +1.00/4 0} Qf5 5. Nxc5 {(Ne4xc5)
++0.75/4 0} Qxc5 6. Ra1 {(Rb1-a1) +0.25/4 0} Qd5 7. d3 {(d2-d3) +0.35/4 0}
+Qa5+ 8. Bd2 {(Bc1-d2) +0.60/4 0} Qf5 9. Nd4 {(Nf3-d4) +0.60/4 0} Qe5 10.
+Bc3 {(Bd2-c3) +0.50/4 0} Qd5 11. e4 {(e2-e4) +0.75/4 0} Qd6 12. Nb5
+{(Nd4-b5) +2.15/4 0} Qc6 13. Nxa7 {(Nb5xa7) +3.95/4 0} Rxa7 14. Bxg7
+{(Bc3xg7) +4.15/4 0} Qd6 15. Bxh8 {(Bg7xh8) +4.65/4 0} e5 16. Qh5 {(Qd1-h5)
++5.25/4 0} Nc6 17. Qxh7 {(Qh5xh7) +5.80/4 0} Nf6 18. Bxf6 {(Bh8xf6) +7.75/4
+0} Nd4 19. Qh8+ {(Qh7-h8+) +9.15/4 0} Qf8 20. Qxf8+ {(Qh8xf8+) +9.25/4 0}
+Kxf8 21. Kd2 {(Ke1-d2) +9.25/4 0} d6 22. Bd8 {(Bf6-d8) +9.25/4 0} Ne6 23.
+Bf6 {(Bd8-f6) +9.25/4 0} Nf4 24. Bg5 {(Bf6-g5) +9.40/4 0} Be6 25. Bh6+
+{(Bg5-h6+) +9.40/4 0} Kg8 26. Bxf4 {(Bh6xf4) +8.90/4 0} f5 27. Be3
+{(Bf4-e3) +12.55/4 0} c5 28. exf5 {(e4xf5) +12.90/4 0} Bd5 29. c4 {(c2-c4)
++13.85/4 0} Bc6 30. Be2 {(Bf1-e2) +13.85/4 0} Bxg2 31. Rhg1 {(Rh1-g1)
++15.80/4 0} Kh8 32. Rxg2 {(Rg1xg2) +15.90/4 0} d5 33. Bxc5 {(Be3xc5)
++17.90/4 0} e4 34. Bxa7 {(Bc5xa7) +22.05/4 0} dxc4 35. dxc4 {(d3xc4)
++23.00/4 0} e3+ 36. Bxe3 {(Ba7xe3) +24.60/4 0} Kh7 37. f6 {(f5-f6) +30.50/4
+0} Kh8 38. f7 {(f6-f7) +32.50/4 0} Kh7 39. f8=Q {(f7-f8Q) +299.97/4 0} b6
+40. Bd3# {(Be2-d3+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "ChessAI_v1.0"]
+[Black "Cece_v2.3"]
+[Result "0-1"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:45:21"]
+[Variation "1...e5 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e5 2. Nf3 {(Ng1-f3) +0.35/4 0} b5 3. Nxe5
+{(Nf3xe5) +2.65/4 0} Qe7 4. Nf3 {(Ne5-f3) +2.80/4 0} Nf6 5. Nxb5 {(Nc3xb5)
++3.15/4 0} Qe5 6. Nxe5 {(Nf3xe5) +12.20/4 0} Bd6 7. Nxd6+ {(Nb5xd6+)
++12.50/4 0} cxd6 8. Nc4 {(Ne5-c4) +12.10/4 0} O-O {Arena Adjudication.
+Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:46:01"]
+[Variation "1...e6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "124"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Nb5 Bd6 4. Nfd4 Be5 5. Nxe6 Qxe6 6. Rb1 Qxa2 7.
+Nxc7+ Bxc7 8. Ra1 Qxa1 9. e3 Nc6 10. Bb5 Nf6 11. Bxc6 dxc6 12. Kf1 Bf5 13.
+Kg1 Bd6 14. Kf1 Nd5 15. Kg1 Be4 16. d3 Nxe3 17. fxe3 Bd5 18. e4 Bf4 19.
+exd5 Bxc1 20. Kf1 Qxb2 21. dxc6 Qf6+ 22. Qf3 Qxf3+ 23. gxf3 Kf8 24. cxb7
+Re8 25. b8=Q Rxb8 26. Kf2 Bf4 27. Ra1 Be5 28. Rxa7 Bd6 29. Kg2 Ke8 30. Kh3
+Be5 31. Ra5 Bf4 32. Ra4 Kf8 33. Rxf4 Rd8 34. Kh4 Rd6 35. Kg4 Rg6+ 36. Kh5
+Rc6 37. Rc4 Rh6+ 38. Kg5 f6+ 39. Kf5 Ke7 40. Rc7+ Kd6 41. Rxg7 Rc8 42. Rxh7
+Rc5+ 43. Kg4 Rg5+ 44. Kf4 Rxh7 45. h4 Rc5 46. Kg4 f5+ 47. Kg5 Rxh4 48. Kxh4
+Rc3 49. Kg5 Ke5 50. Kh6 Kf4 51. Kg7 Ke3 52. Kg8 Rxc2 53. Kg7 Rc6 54. Kh7
+Rf6 55. Kg7 Rd6 56. f4 Re6 57. Kf7 Rd6 58. Kf8 Rf6+ 59. Kg7 Re6 60. Kf7 Rd6
+61. Kf8 Rf6+ 62. Kg7 Re6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "Cece_v2.3"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:47:24"]
+[Variation "1...e6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Ne5 Qf6 3. Ng4 Qd4 4. Nc3 Nf6 5. Ne3 Nd5 6. Ncxd5 exd5 7. Nxd5
+Qxd5 8. e4 Qxe4+ 9. Be2 Bd6 10. c4 Be5 11. O-O Qd4 12. Qa4 Qe4 13. Bf3 Qd4
+14. Re1 Qf4 15. Bg4 Qxh2+ 16. Kf1 Qh1+ 17. Ke2 Qxg2 18. Bxd7+ Bxd7 19.
+Qxd7+ Nxd7 20. d4 Qe4+ 21. Kf1 Qh1 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "ChessAI_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:48:58"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1-0"]
+[BlackElo "1214"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:49:13"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "43"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 d5 3. Nc3 Qh4 4. Nxd5 Nd7 5. Nxc7+ Kd8 6. Nf3 Qh6 7. Nxa8
+Nc5 8. Ne5 Nd3+ 9. cxd3 Qxd2+ 10. Bxd2 Be6 11. Nb6 axb6 12. Bg5+ Kc8 13.
+Qc2+ Bc5 14. Kd2 h6 15. Bh4 Bd5 16. d4 g6 17. dxc5 Ne7 18. Bxe7 Bb3 19.
+Qxb3 bxc5 20. Qxf7 Rg8 21. Qxg8+ Kc7 22. Qd8# 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "8"]
+[White "V7P3R_v4.3"]
+[Black "ChessAI_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:50:47"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nc6 {(Nb8-c6) +0.20/4 0} 2. Qf3 Nf6 {(Ng8-f6) +0.70/4 0} 3. Qf4 Nd5
+{(Nf6-d5) +1.00/4 0} 4. Qf5 e6 {(e7-e6) +0.90/4 0} 5. Qe4 Nf6 {(Nd5-f6)
++0.70/4 0} 6. Qc4 Ne5 {(Nc6-e5) +0.70/4 0} 7. Qd4 Nc6 {(Ne5-c6) +0.70/4 0}
+8. Qf4 Bd6 {(Bf8-d6) +0.80/4 0} 9. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 10. Qd4 Nc6
+{(Ne5-c6) +0.80/4 0} 11. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 12. Qd4 Nc6 {(Ne5-c6)
++0.80/4 0} 13. Qc4 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "Cece_v2.3"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:51:04"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nd4 Nxd4 {(Nc6xd4) +3.05/4 0} 3. e4 Nf6
+{(Ng8-f6) +3.45/4 0} 4. e5 Nd5 {(Nf6-d5) +3.85/4 0} 5. Ba6 bxa6 {(b7xa6)
++6.80/4 0} 6. O-O {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "V7P3R_v4.3"]
+[Black "Slowmate_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:51:35"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "70"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nf6 2. Qf3 Nc6 3. Qf4 Nd5 4. Qf5 Ncb4 5. Qe4 Nxe3 6. fxe3 e6 7. Qe5
+Nxc2+ 8. Kd1 Nxa1 9. Qe4 Nb3 10. axb3 Bd6 11. Qd4 Qf6 12. Qxf6 gxf6 13. Bd3
+Rg8 14. Bxh7 Rxg2 15. Be4 Rxh2 16. Nf3 Rxh1+ 17. Kc2 f5 18. Bd3 f4 19. Ng5
+fxe3 20. Nc3 Rxc1+ 21. Kxc1 exd2+ 22. Kd1 Be5 23. Nge4 Bxc3 24. bxc3 Kf8
+25. c4 Kg7 26. Be2 Kh6 27. c5 Kh7 28. Bf3 Kg7 29. Bg4 f5 30. Bf3 fxe4 31.
+Bxe4 Rb8 32. Bf3 Kh7 33. Be4+ Kg7 34. Bf3 Kh7 35. Be4+ Kg7 {3-fold
+repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "V7P3R_v4.3"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "22:52:27"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "45"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 e5 2. Qf3 Qf6 3. Qd5 Be7 4. Qe4 d5 5. Qxd5 Kf8 6. Qe4 c6 7. Qc4 b5 8.
+Qe4 Qxf2+ 9. Kxf2 Bh4+ 10. Qxh4 Ne7 11. e4 Kg8 12. Nf3 Bf5 13. Bxb5 Bxe4
+14. Bc4 Bf5 15. Bxf7+ Kf8 16. Nxe5 Nd7 17. Ng6+ Nxg6 18. Bxg6 Ne5 19. Qb4+
+Kg8 20. Qb3+ Kf8 21. Qb4+ Kg8 22. Qb3+ Kf8 23. Qb4+ {3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "Slowmate_v1.0"]
+[Black "ChessAI_v1.0"]
+[Result "1-0"]
+[BlackElo "1000"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:54:01"]
+[Variation "1...Nc6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6) -0.05/4 0} 2. Nc3 Nf6 {(Ng8-f6) 0.00/4 0} 3. Nb5 Ne4
+{(Nf6-e4) 0.00/4 0} 4. Rb1 e5 {(e7-e5) +0.05/4 0} 5. Ra1 Bc5 {(Bf8-c5)
++0.20/4 0} 6. e3 Kf8 {(Ke8-f8) +0.05/4 1} 7. Qe2 d5 {(d7-d5) +0.15/4 0} 8.
+Rb1 Bf5 {(Bc8-f5) +0.30/4 1} 9. Rg1 Rb8 {(Ra8-b8) +0.30/4 1} 10. Nxa7 Bxa7
+{(Bc5xa7) +1.75/4 0} 11. Qd3 d4 {(d5-d4) +1.95/4 0} 12. exd4 Nxd4 {(Nc6xd4)
++2.05/4 0} 13. Nxd4 Bxd4 {(Ba7xd4) +3.40/4 0} 14. Qa3+ Bc5 {(Bd4-c5)
++4.95/4 0} 15. b3 Qd6 {(Qd8-d6) +8.85/4 0} 16. Qa5 Bxf2+ {(Bc5xf2+) +8.85/4
+0} 17. Kd1 Bxg1 {(Bf2xg1) +8.80/4 0} 18. Ba3 c5 {(c7-c5) +9.60/4 0} 19. Bd3
+Nf2+ {(Ne4-f2+) +9.60/4 0} 20. Kc1 Nxd3+ {(Nf2xd3+) +9.80/4 0} 21. cxd3
+Bxd3 {(Bf5xd3) +10.75/4 0} 22. Bxc5 Bxc5 {(Bg1xc5) +13.60/4 0} 23. Qc3 Ba3+
+{(Bc5-a3+) +16.90/4 0} 24. Rb2 Bb4 {(Ba3-b4) +17.40/4 0} 25. Rc2 Bxc3
+{(Bb4xc3) +19.05/4 0} 26. Rxc3 Qa3+ {(Qd6-a3+) +299.97/4 0} 27. Kd1 Qxa2
+{(Qa3xa2) +299.99/4 0} 28. Rxd3 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "Cece_v2.3"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:54:42"]
+[Variation "1...Nc6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 2. Ne5 Nxe5 3. e4 Nf6 4. d4 Nxe4 5. f3 e6 6. Bg5 Qxg5 7. Qd2
+Nxd2 8. Ba6 Ndxf3+ 9. gxf3 Qc1+ 10. Ke2 Qxh1 11. dxe5 Qxh2+ 12. Ke3 Qxe5+
+13. Kf2 Qxb2 14. Ke3 bxa6 15. Kd2 Qxa1 16. Ke3 Qxb1 17. Ke4 Qxc2+ 18. Kf4
+Qxa2 19. Kg5 Qg2+ 20. Kh5 Qxf3+ 21. Kg5 Be7# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "9"]
+[White "ChessAI_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1-0"]
+[BlackElo "1200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:56:11"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e6 2. Nf3 {(Ng1-f3) +0.30/4 0} Qf6 3. Rb1
+{(Ra1-b1) +0.70/4 0} Bc5 4. Ne4 {(Nc3-e4) +1.00/4 0} Qf5 5. Nxc5 {(Ne4xc5)
++0.75/4 0} Qxc5 6. Ra1 {(Rb1-a1) +0.25/4 0} Qd5 7. d3 {(d2-d3) +0.35/4 0}
+Qa5+ 8. Bd2 {(Bc1-d2) +0.60/4 0} Qf5 9. Nd4 {(Nf3-d4) +0.60/4 0} Qe5 10.
+Bc3 {(Bd2-c3) +0.50/4 0} Qd5 11. e4 {(e2-e4) +0.75/4 0} Qd6 12. Nb5
+{(Nd4-b5) +2.15/4 0} Qc6 13. Nxa7 {(Nb5xa7) +3.95/4 0} Rxa7 14. Bxg7
+{(Bc3xg7) +4.15/4 0} Qd6 15. Bxh8 {(Bg7xh8) +4.65/4 0} e5 16. Qh5 {(Qd1-h5)
++5.25/4 0} Nc6 17. Qxh7 {(Qh5xh7) +5.80/4 0} Nf6 18. Bxf6 {(Bh8xf6) +7.75/4
+0} Nd4 19. Qh8+ {(Qh7-h8+) +9.15/4 0} Qf8 20. Qxf8+ {(Qh8xf8+) +9.25/4 0}
+Kxf8 21. Kd2 {(Ke1-d2) +9.25/4 0} d6 22. Bd8 {(Bf6-d8) +9.25/4 0} Ne6 23.
+Bf6 {(Bd8-f6) +9.25/4 0} Nf4 24. Bg5 {(Bf6-g5) +9.40/4 0} Be6 25. Bh6+
+{(Bg5-h6+) +9.40/4 0} Kg8 26. Bxf4 {(Bh6xf4) +8.90/4 0} f5 27. Be3
+{(Bf4-e3) +12.55/4 0} c5 28. exf5 {(e4xf5) +12.90/4 0} Bd5 29. c4 {(c2-c4)
++13.85/4 0} Bc6 30. Be2 {(Bf1-e2) +13.85/4 0} Bxg2 31. Rhg1 {(Rh1-g1)
++15.80/4 0} Kh8 32. Rxg2 {(Rg1xg2) +15.90/4 0} d5 33. Bxc5 {(Be3xc5)
++17.90/4 0} e4 34. Bxa7 {(Bc5xa7) +22.05/4 0} dxc4 35. dxc4 {(d3xc4)
++23.00/4 0} e3+ 36. Bxe3 {(Ba7xe3) +24.60/4 0} Kh7 37. f6 {(f5-f6) +30.50/4
+0} Kh8 38. f7 {(f6-f7) +32.50/4 0} Kh7 39. f8=Q {(f7-f8Q) +299.97/4 0} b6
+40. Bd3# {(Be2-d3+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "ChessAI_v1.0"]
+[Black "Cece_v2.3"]
+[Result "0-1"]
+[BlackElo "1214"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "22:56:54"]
+[Variation "1...e5 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} e5 2. Nf3 {(Ng1-f3) +0.35/4 0} b5 3. Nxe5
+{(Nf3xe5) +2.65/4 0} Qe7 4. Nf3 {(Ne5-f3) +2.80/4 0} Nf6 5. Nxb5 {(Nc3xb5)
++3.15/4 0} Qe5 6. Nxe5 {(Nf3xe5) +12.20/4 0} Bd6 7. Nxd6+ {(Nb5xd6+)
++12.50/4 0} cxd6 8. Nc4 {(Ne5-c4) +12.10/4 0} O-O {Arena Adjudication.
+Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "Slowmate_v1.0"]
+[Black "V7P3R_v4.3"]
+[Result "1/2-1/2"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:57:33"]
+[Variation "1...e6"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "124"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Nc3 Qf6 3. Nb5 Bd6 4. Nfd4 Be5 5. Nxe6 Qxe6 6. Rb1 Qxa2 7.
+Nxc7+ Bxc7 8. Ra1 Qxa1 9. e3 Nc6 10. Bb5 Nf6 11. Bxc6 dxc6 12. Kf1 Bf5 13.
+Kg1 Bd6 14. Kf1 Nd5 15. Kg1 Be4 16. d3 Nxe3 17. fxe3 Bd5 18. e4 Bf4 19.
+exd5 Bxc1 20. Kf1 Qxb2 21. dxc6 Qf6+ 22. Qf3 Qxf3+ 23. gxf3 Kf8 24. cxb7
+Re8 25. b8=Q Rxb8 26. Kf2 Bf4 27. Ra1 Be5 28. Rxa7 Bd6 29. Kg2 Ke8 30. Kh3
+Be5 31. Ra5 Bf4 32. Ra4 Kf8 33. Rxf4 Rd8 34. Kh4 Rd6 35. Kg4 Rg6+ 36. Kh5
+Rc6 37. Rc4 Rh6+ 38. Kg5 f6+ 39. Kf5 Ke7 40. Rc7+ Kd6 41. Rxg7 Rc8 42. Rxh7
+Rc5+ 43. Kg4 Rg5+ 44. Kf4 Rxh7 45. h4 Rc5 46. Kg4 f5+ 47. Kg5 Rxh4 48. Kxh4
+Rc3 49. Kg5 Ke5 50. Kh6 Kf4 51. Kg7 Ke3 52. Kg8 Rxc2 53. Kg7 Rc6 54. Kh7
+Rf6 55. Kg7 Rd6 56. f4 Re6 57. Kf7 Rd6 58. Kf8 Rf6+ 59. Kg7 Re6 60. Kf7 Rd6
+61. Kf8 Rf6+ 62. Kg7 Re6 {3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "Cece_v2.3"]
+[Black "V7P3R_v4.3"]
+[Result "0-1"]
+[BlackElo "1200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:58:56"]
+[Variation "1...e6"]
+[WhiteElo "1214"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 2. Ne5 Qf6 3. e3 Qxe5 4. Bd3 Qd5 5. O-O Bd6 6. f4 Bxf4 7. Rxf4
+Nf6 8. Rc4 Nc6 9. e4 Nxe4 10. Rxe4 Qc5+ 11. Rd4 Nxd4 12. Be4 Nb3+ 13. d4
+Nxd4 14. Bxb7 Ne2+ 15. Kh1 Bxb7 16. Qxe2 d5 17. Qd2 d4 18. Qf2 Qe5 19. Qh4
+Bd5 20. Qd8+ Rxd8 21. Kg1 Qe1# 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "ChessAI_v1.0"]
+[Black "Slowmate_v1.0"]
+[Result "0-1"]
+[BlackElo "1251"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "23:00:30"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "1000"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nf6 2. Nf3 {(Ng1-f3) 0.00/4 0} Nc6 3. Rb1
+{(Ra1-b1) 0.00/4 0} Nb4 4. Nd4 {(Nf3-d4) 0.00/4 0} Nxa2 5. Nxa2 {(Nc3xa2)
++1.50/4 0} Ne4 6. Nb5 {(Nd4-b5) +1.65/4 0} Rg8 7. Nac3 {(Na2-c3) +1.80/4 0}
+Nd6 8. Ra1 {(Rb1-a1) +2.10/4 0} Nc4 9. Nd5 {(Nc3-d5) +7.40/4 0} Nxd2 10.
+Ndxc7+ {(Nd5xc7+) +11.90/4 0} Qxc7 11. Nxc7+ {(Nb5xc7+) +12.05/4 0} Kd8 12.
+Nxa8 {(Nc7xa8) +12.45/4 0} Ne4 13. Rxa7 {(Ra1xa7) +13.65/4 0} e6 14. g3
+{(g2-g3) +13.50/4 0} Bb4 {Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "Slowmate_v1.0"]
+[Black "Cece_v2.3"]
+[Result "1/2-1/2"]
+[BlackElo "1214"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:00:45"]
+[WhiteElo "1251"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "47"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e5 2. Nxe5 d5 3. Nc3 Qf6 4. Nxd5 Qxe5 5. Nxc7+ Qxc7 6. e3 Qe5 7. Bd3
+Be6 8. Qe2 Qd5 9. e4 Qd4 10. Qe3 Qb4 11. c3 Qxe4 12. Bxe4 Nc6 13. Bxc6+
+bxc6 14. O-O O-O-O 15. Qxa7 Rd5 16. Qa6+ Kd8 17. Qb6+ Ke8 18. Qxc6+ Kd8 19.
+Qb6+ Ke8 20. Qb8+ Ke7 21. Qc7+ Ke8 22. Qb8+ Ke7 23. Qc7+ Ke8 24. Qb8+
+{3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250817_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.17"]
+[Round "10"]
+[White "V7P3R_v4.3"]
+[Black "ChessAI_v1.0"]
+[Result "1/2-1/2"]
+[BlackElo "1000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "23:02:30"]
+[WhiteElo "1200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 Nc6 {(Nb8-c6) +0.20/4 0} 2. Qf3 Nf6 {(Ng8-f6) +0.70/4 0} 3. Qf4 Nd5
+{(Nf6-d5) +1.00/4 0} 4. Qf5 e6 {(e7-e6) +0.90/4 0} 5. Qe4 Nf6 {(Nd5-f6)
++0.70/4 0} 6. Qc4 Ne5 {(Nc6-e5) +0.70/4 0} 7. Qd4 Nc6 {(Ne5-c6) +0.70/4 0}
+8. Qf4 Bd6 {(Bf8-d6) +0.80/4 0} 9. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 10. Qd4 Nc6
+{(Ne5-c6) +0.80/4 0} 11. Qc4 Ne5 {(Nc6-e5) +0.85/4 0} 12. Qd4 Nc6 {(Ne5-c6)
++0.80/4 0} 13. Qc4 {3-fold repetition} 1/2-1/2
+
