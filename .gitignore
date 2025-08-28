@@ -1,0 +1,8 @@
+# Node ignores
+node_modules/*
+.cache/*
+.bin/*
+
+# Python ignores
+__pycache__/*
+*.py[cod]
