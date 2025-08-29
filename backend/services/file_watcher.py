@@ -60,6 +60,7 @@ class FileWatcher:
         # Processing settings
         self.batch_interval = config.get('processing', {}).get('batch_interval_minutes', 5)
         self.last_batch_run = datetime.min
+        self.startup_mode = True  # Flag to control startup processing behavior
         
         # Directory settings
         directories_config = config.get('directories', {})
@@ -129,9 +130,9 @@ class FileWatcher:
         
         return all_dirs
     
-    async def perform_batch_processing(self):
+    async def perform_batch_processing(self, startup_mode: bool = False):
         """Perform batch processing of PGN files."""
-        logger.info("Starting batch processing...")
+        logger.info(f"Starting batch processing (startup_mode: {startup_mode})...")
         
         try:
             # Get pending files from file handlers
@@ -147,7 +148,7 @@ class FileWatcher:
                 pending_files.update(pgn_files)
             
             if pending_files:
-                logger.info(f"Processing {len(pending_files)} PGN files...")
+                logger.info(f"Found {len(pending_files)} PGN files...")
                 
                 # Filter to only files that exist and haven't been processed recently
                 valid_files = []
@@ -159,8 +160,12 @@ class FileWatcher:
                             valid_files.append(file_path)
                 
                 if valid_files:
-                    # Process files
-                    results = self.pgn_processor.process_multiple_files(valid_files)
+                    # Use selective processing that skips already processed files
+                    if hasattr(self.pgn_processor, 'process_multiple_files_selective'):
+                        results = self.pgn_processor.process_multiple_files_selective(valid_files, skip_processed=startup_mode)
+                    else:
+                        # Fallback to regular processing
+                        results = self.pgn_processor.process_multiple_files(valid_files)
                     
                     # Log results
                     total_games = sum(r.get('games_processed', 0) for r in results)
@@ -175,6 +180,7 @@ class FileWatcher:
                 logger.debug("No pending files for batch processing")
             
             self.last_batch_run = datetime.now()
+            self.startup_mode = False  # After first run, disable startup mode
         
         except Exception as e:
             logger.error(f"Error during batch processing: {e}")
@@ -185,7 +191,7 @@ class FileWatcher:
             try:
                 # Check if it's time for batch processing
                 if datetime.now() - self.last_batch_run >= timedelta(minutes=self.batch_interval):
-                    await self.perform_batch_processing()
+                    await self.perform_batch_processing(startup_mode=False)
                 
                 # Wait before next check
                 await asyncio.sleep(60)  # Check every minute
@@ -223,8 +229,14 @@ class FileWatcher:
         # Start batch processing loop
         self.batch_task = asyncio.create_task(self.batch_processing_loop())
         
-        # Perform initial batch processing
-        await self.perform_batch_processing()
+        # Perform initial batch processing with startup mode (skips already processed files)
+        await self.perform_batch_processing(startup_mode=True)
+        
+        # Log startup summary
+        if hasattr(self.pgn_processor, 'get_processed_files_summary'):
+            summary = self.pgn_processor.get_processed_files_summary()
+            logger.info(f"Startup complete. Database contains: {summary.get('successful_files', 0)} successfully processed files, "
+                       f"{summary.get('recent_successful_files', 0)} processed in last 7 days")
         
         logger.info(f"File watcher started successfully, monitoring {len(monitored_dirs)} directories")
     
@@ -271,4 +283,4 @@ class FileWatcher:
     async def force_batch_processing(self):
         """Force immediate batch processing (for manual triggers)."""
         logger.info("Forcing batch processing...")
-        await self.perform_batch_processing()
+        await self.perform_batch_processing(startup_mode=False)

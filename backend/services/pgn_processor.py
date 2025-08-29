@@ -6,8 +6,9 @@ import hashlib
 import re
 import logging
 from typing import List, Dict, Any, Optional, Tuple
-from datetime import datetime
+from datetime import datetime, timedelta
 from sqlalchemy.orm import Session
+from sqlalchemy import and_
 
 from database.models import Game, ProcessingLog, SessionLocal
 
@@ -367,6 +368,100 @@ class PGNProcessor:
                 db.close()
         
         return processing_result
+    
+    def file_needs_processing(self, file_path: str) -> bool:
+        """Check if a file needs to be processed based on modification time and processing history."""
+        if not os.path.exists(file_path):
+            return False
+        
+        try:
+            file_stat = os.stat(file_path)
+            file_mtime = datetime.fromtimestamp(file_stat.st_mtime)
+            file_size = file_stat.st_size
+            
+            with SessionLocal() as session:
+                # Check if file has been processed successfully and hasn't been modified since
+                existing_log = session.query(ProcessingLog).filter(
+                    and_(
+                        ProcessingLog.file_path == file_path,
+                        ProcessingLog.status == 'success'
+                    )
+                ).order_by(ProcessingLog.processing_completed.desc()).first()
+                
+                if existing_log and existing_log.processing_completed is not None:
+                    # Check if file was modified after last successful processing
+                    if file_mtime <= existing_log.processing_completed:
+                        # Also check file size to catch cases where modification time might be unreliable
+                        if hasattr(existing_log, 'file_size') and existing_log.file_size == file_size:
+                            logger.debug(f"Skipping {file_path} - already processed successfully and unchanged")
+                            return False
+                
+                return True
+                
+        except Exception as e:
+            logger.warning(f"Error checking processing status for {file_path}: {e}")
+            return True  # Process if we can't determine status
+    
+    def get_processed_files_summary(self) -> Dict[str, Any]:
+        """Get summary of processed files to avoid redundant processing."""
+        try:
+            with SessionLocal() as session:
+                total_logs = session.query(ProcessingLog).count()
+                successful_logs = session.query(ProcessingLog).filter(ProcessingLog.status == 'success').count()
+                error_logs = session.query(ProcessingLog).filter(ProcessingLog.status == 'error').count()
+                
+                recent_successful = session.query(ProcessingLog).filter(
+                    and_(
+                        ProcessingLog.status == 'success',
+                        ProcessingLog.processing_completed > datetime.now() - timedelta(days=7)
+                    )
+                ).count()
+                
+                return {
+                    'total_files_logged': total_logs,
+                    'successful_files': successful_logs,
+                    'error_files': error_logs,
+                    'recent_successful_files': recent_successful
+                }
+        except Exception as e:
+            logger.error(f"Error getting processed files summary: {e}")
+            return {'error': str(e)}
+    
+    def process_multiple_files_selective(self, file_paths: List[str], skip_processed: bool = True) -> List[Dict[str, Any]]:
+        """Process multiple PGN files with option to skip already processed files."""
+        results = []
+        skipped_count = 0
+        error_summary = {}
+        
+        for file_path in file_paths:
+            if not os.path.exists(file_path) or not file_path.lower().endswith('.pgn'):
+                logger.debug(f"Skipping invalid file: {file_path}")
+                continue
+            
+            # Check if we should skip already processed files
+            if skip_processed and not self.file_needs_processing(file_path):
+                skipped_count += 1
+                continue
+            
+            result = self.process_pgn_file(file_path)
+            
+            # Aggregate errors to reduce log spam
+            if result.get('status') == 'error':
+                error_type = result.get('error_message', 'Unknown error')[:50]  # First 50 chars
+                if error_type not in error_summary:
+                    error_summary[error_type] = 0
+                error_summary[error_type] += 1
+            
+            results.append(result)
+        
+        # Log summary instead of individual errors
+        if skipped_count > 0:
+            logger.info(f"Skipped {skipped_count} already-processed files")
+        
+        if error_summary:
+            logger.warning(f"Processing errors summary: {error_summary}")
+        
+        return results
     
     def process_multiple_files(self, file_paths: List[str]) -> List[Dict[str, Any]]:
         """Process multiple PGN files."""
