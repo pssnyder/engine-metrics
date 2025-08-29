@@ -1,0 +1,81 @@
+[Event "Engine Battle 20250822_3"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.22"]
+[Round "1"]
+[White "C0BR4_v1.0"]
+[Black "V7P3R_v6.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "17:34:39"]
+[WhiteElo "2200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "24"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3) 0.00/4 0} Nh6 {(Ng8-h6) -5.60/3 4} 2. Ne4 {(Nc3-e4)
++0.05/4 0} f5 {(f7-f5) -4.67/3 4} 3. Ng3 {(Ne4-g3) +0.60/4 0} f4 {(f5-f4)
+-6.66/3 3} 4. Nh5 {(Ng3-h5) +0.75/4 0} g6 {(g7-g6) -2.39/3 3} 5. Nxf4
+{(Nh5xf4) +1.90/4 0} g5 {(g6-g5) -17.05/3 3} 6. Nd3 {(Nf4-d3) +2.10/4 0}
+Ng4 {(Nh6-g4) -18.45/3 3} 7. Nf3 {(Ng1-f3) +2.55/4 0} Nxf2 {(Ng4xf2)
+-2.16/3 3} 8. Nxf2 {(Nd3xf2) +4.35/4 0} g4 {(g5-g4) -15.56/3 3} 9. Nxg4
+{(Nf2xg4) +4.85/4 0} Rg8 {(Rh8-g8) -23.45/3 3} 10. Nge5 {(Ng4-e5) +5.05/4
+0} Rxg2 {(Rg8xg2) -20.23/3 3} 11. Bxg2 {(Bf1xg2) +8.65/4 0} d6 {(d7-d6)
+-22.53/3 3} 12. Nd3 {(Ne5-d3) +8.70/4 0} Bh3 {(Bc8-h3) -34.92/3 3 Black
+resigns} 1-0
+
+[Event "Engine Battle 20250822_3"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.22"]
+[Round "1"]
+[White "V7P3R_v5.1"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "17:35:34"]
+[WhiteElo "2200"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3) +13.59/4 3} e5 2. Qf3 {(Qd1-f3) +7.80/3 3} Nf6 {(Ng8-f6)
+-0.03/4 0} 3. Qxf6 {(Qf3xf6) +20.50/3 4} Qxf6 {(Qd8xf6) +6.38/4 0} 4. Nf3
+{(Ng1-f3) -0.29/3 3} e4 {(e5-e4) +6.86/4 0} 5. Ng1 {(Nf3-g1) -22.19/3 3}
+Nc6 {(Nb8-c6) +6.91/4 0} 6. b3 {(b2-b3) -36.50/3 3} Qxa1 {(Qf6xa1) +15.02/4
+0} 7. Bb5 {(Bf1-b5) -33.29/3 3} Nb4 {(Nc6-b4) +16.14/4 0} 8. c3 {(c2-c3)
+-19.10/3 3} Nc2+ {(Nb4-c2+) +17.73/4 0} 9. Ke2 {(Ke1-e2) -25.40/3 3 White
+resigns} 0-1
+
+[Event "Engine Battle 20250822_3"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.22"]
+[Round "1"]
+[White "Random_Opponent"]
+[Black "SlowMate_v3.0"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Clemenz (Mead-Basman-de Klerk-Welling) Opening"]
+[Time "17:36:17"]
+[WhiteElo "2200"]
+[TimeControl "120+1"]
+[Termination "unterminated"]
+[PlyCount "29"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. h3 Nf6 {(Ng8-f6) +0.66/4 3} 2. d4 d5 {(d7-d5) +1.44/3 3} 3. Be3 Bf5
+{(Bc8-f5) +1.81/3 3} 4. Bf4 Kd7 {(Ke8-d7) +2.16/3 3} 5. Bh6 gxh6 {(g7xh6)
++4.13/4 3} 6. g3 Bg7 {(Bf8-g7) +6.01/3 3} 7. f4 Qg8 {(Qd8-g8) +7.44/3 3} 8.
+Kf2 Ne4+ {(Nf6-e4+) +7.94/3 3} 9. Ke3 Nxg3 {(Ne4xg3) +9.30/3 3} 10. a4 Nxh1
+{(Ng3xh1) +13.12/3 3} 11. b4 Nc6 {(Nb8-c6) +15.59/3 2} 12. Ra3 Bxd4+
+{(Bg7xd4+) +19.45/4 2} 13. Kf3 Qxg1 {(Qg8xg1) +200.00/3 2} 14. Qd3 Ke8
+{(Kd7-e8) +200.00/3 2} 15. Qa6 *
+

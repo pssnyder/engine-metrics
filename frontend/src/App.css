@@ -1,0 +1,16 @@
+/* App.css - Additional styles for the main App component */
+
+.nav-tabs {
+  background: white;
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-tab {
+  border-radius: 8px 8px 0 0;
+}
+
+.nav-tab.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  color: white !important;
+}

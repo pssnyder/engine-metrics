@@ -1,0 +1,18 @@
+   Engine          Score  Sl V7 C0 Sl Ra C0 V7    S-B
+1: SlowMate_v3.0   5.5/7  ·· 1  =? 1= =1 1       18.50
+2: V7P3R_v5.1      5.0/8  0  ·· 00 1  11 11      13.50
+3: C0BR4_v2.0      4.0/7  =? 11 ·· 1  0  0=      17.50
+4: SlowMate_v2.0   3.5/8  0= 0  0  ·· == 11      10.25
+5: Random_Opponent 2.5/8  =0 00 1  == ·· 0  ?    10.25
+6: C0BR4_v1.0      2.5/8  0  00 1= 00 1  ··       8.50
+7: V7P3R_v6.0      0.0/0              ?     ··    0.00
+
+23 of 210 games played
+Name of the tournament: Engine Battle 20250822_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250822_2.pgn
+Website: 
+E-Mail Address: 

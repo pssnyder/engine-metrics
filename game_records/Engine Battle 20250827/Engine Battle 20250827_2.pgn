@@ -1,0 +1,2920 @@
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "1"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:49:06"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -0.05/6 10} Nf6 3. d4 {(d2-d4
+d7-d6 Ne5-f3 Nb8-c6 e2-e4 Nc6xd4) 0.00/6 16} Bb4+ {(Bf8-b4+) -1.27/4 0} 4.
+c3 {(c2-c3 Bb4-d6 Bc1-g5 O-O Bg5xf6 Bd6xe5) +0.85/6 7} Bd6 {(Bb4-d6)
+-1.58/4 0} 5. Bg5 {(Bc1-g5 h7-h6 Bg5xf6 Qd8xf6 Ne5xf7) +2.10/5 3} Qe7
+{(Qd8-e7) -0.77/4 0} 6. Nc4 {(Ne5-c4 O-O Bg5xf6 g7xf6 Nc4xd6) +3.95/5 4}
+Nc6 {(Nb8-c6) -0.84/4 0} 7. d5 {(d4-d5 Qe7-e4 Nc4xd6+ c7xd6 Bg5xf6) +4.05/5
+5} Ne5 {(Nc6-e5) -0.47/4 0} 8. Nba3 {(Nb1-a3 Bd6xa3 Nc4xa3 O-O Bg5xf6
+g7xf6) +0.85/6 22} Bc5 {(Bd6-c5) -0.17/4 0} 9. e3 {(e2-e3 Bc5xa3 Nc4xa3 O-O
+Bg5xf6 g7xf6) +0.85/6 11} Bxa3 {(Bc5xa3) -0.29/4 0} 10. bxa3 {(b2xa3 Ne5xc4
+Bf1xc4 Qe7xa3 Bg5xf6) +3.20/5 3} Nxc4 {(Ne5xc4) -0.24/4 0} 11. Bxc4
+{(Bf1xc4 Qe7xa3 Qd1-d3 Nf6-g4 Qd3xh7) +1.15/5 3} Qe4 {(Qe7-e4) +0.56/4 0}
+12. Qd4 {(Qd1-d4 Qe4xd4 c3xd4 Nf6-e4 Ke1-e2) +1.22/5 3} c5 {(c7-c5) +0.45/4
+0} 13. dxc6 {(d5xc6/ep Qe4xg2 Qd4-e5+ Ke8-f8 Qe5-d6+ Kf8-g8) +0.85/6 9 
+Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "1"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "22:51:05"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 8} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "1"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "22:57:51"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nf3
+{(Ng1-f3) +0.03/4 0} Be7 {(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+)
+-100.00/6 48} 3. Nc3 {(Nb1-c3) +0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4
+f5xe4) +100.00/5 5} 4. d5 {(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6
+Bc1-g5 a6xb5 Bg5xf6) -20.00/6 11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6
+d5xe6 Bc8xe6 Nb5-a3 Ng8-e7 Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0}
+exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "2"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "22:59:55"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 c2-c3 Bf8-d6 Qd1-a4 Ng8-f6 Qa4xd7+) -1.00/6 12} 2. Bf4
+Bb4+ {(Bf8-b4+ c2-c3 Bb4-d6 Bf4xd6 c7xd6 e2-e4) -0.20/6 19} 3. Bd2
+{(Bf4-d2) -0.37/4 0} Be7 {(Bb4-e7 c2-c3 Be7-g5 e2-e4 Bg5xd2+ Nb1xd2)
+-0.25/6 12} 4. Nc3 {(Nb1-c3) -0.15/4 0} e5 {(e6-e5 Nc3-d5 e5xd4 Ng1-f3
+Ng8-f6) +1.00/5 3} 5. dxe5 {(d4xe5) +1.50/4 0} d6 {(d7-d6 e5xd6 c7xd6
+Bd2-f4 Ng8-f6 Bf4xd6) -2.00/6 22} 6. Nf3 {(Ng1-f3) +2.15/4 0} dxe5 {(d6xe5
+Bd2-e3 Qd8xd1+ Ke1xd1 Ng8-f6) +0.05/5 3} 7. Nxe5 {(Nf3xe5) +2.15/4 0} Nc6
+{(Nb8-c6 Ne5xc6 b7xc6 e2-e4 Qd8xd2+) +1.90/5 4} 8. Nxc6 {(Ne5xc6) +2.17/4
+0} bxc6 {(b7xc6 Bd2-f4 Qd8xd1+ Ke1xd1 Bc8-g4 Bf4xc7) -2.00/6 14} 9. Be3
+{(Bd2-e3) +2.09/4 0} Bf5 {(Bc8-f5 Qd1xd8+ Ra8xd8 Be3xa7 Bf5xc2 e2-e4)
+-1.10/6 5} 10. Qxd8+ {(Qd1xd8+) +2.03/4 0} Rxd8 {(Ra8xd8 Be3xa7 Bf5xc2
+e2-e4 Ng8-f6 Nc3-d5) -1.10/6 5} 11. Rc1 {(Ra1-c1) +2.02/4 0} Bb4 {(Be7-b4
+a2-a3 Bb4xc3+ b2xc3 Bf5xc2) 0.00/5 4} 12. Bxa7 {(Be3xa7) +2.45/4 0} Nf6
+{(Ng8-f6 a2-a3 Bb4xc3+ b2xc3 O-O e2-e4) -1.89/6 21} 13. a3 {(a2-a3) +1.90/4
+0} Be7 {(Bb4-e7 e2-e3 Nf6-e4 Ba7-d4 Ne4xc3 b2xc3) -2.00/6 17} 14. e3
+{(e2-e3) +2.24/4 0} O-O {(O-O Bf1-c4 Rd8-a8 Ba7-d4 Bf5xc2) -0.89/5 4  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "2"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:02:36"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 20} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 31} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 18} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "2"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:11:52"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -5.00/6 9} Be7 3. e4 {(e2-e4
+Nb8-c6 Ne5xc6 d7xc6 d2-d4) +115.00/5 4} Nh6 {(Ng8-h6) -1.85/4 0} 4. d4
+{(d2-d4 O-O Nb1-c3 g7-g5 Bc1xg5) +210.00/5 4} Bb4+ {(Be7-b4+) -1.17/4 0} 5.
+c3 {(c2-c3 Bb4-d6 Ne5-c4 O-O Bc1xh6 g7xh6) +100.00/6 12} Bd6 {(Bb4-d6)
+-0.90/4 0} 6. Qh5 {(Qd1-h5 Bd6-e7 Bf1-b5 Nh6-g8 Bb5xd7+) +230.00/5 5} Qf6
+{(Qd8-f6) -1.40/4 0} 7. Bg5 {(Bc1-g5 Bd6xe5 Bg5xf6 Be5xf6 Qh5xh6) +M500/5
+6} Qe6 {(Qf6-e6) -4.25/4 0} 8. Bc4 {(Bf1-c4 Bd6xe5 Bc4xe6 d7xe6 d4xe5)
++M500/5 4} Bxe5 {(Bd6xe5) -7.63/4 0} 9. Bxe6 {(Bc4xe6 Be5xd4 Be6xf7+ Nh6xf7
+c3xd4 O-O) +M500/6 13} Bxd4 {(Be5xd4) -7.65/4 0} 10. cxd4 {(c3xd4 d7xe6
+Bg5xh6 g7xh6 Qh5xh6 e6-e5) +M500/6 11} dxe6 {(d7xe6) -7.20/4 0} 11. Bf4
+{(Bg5-f4 Nh6-g8 Bf4xc7 Nb8-d7 Qh5xf7+) +M500/5 7} Nc6 {(Nb8-c6) -6.98/4 0}
+12. Qd1 {(Qh5-d1 Bc8-d7 O-O O-O-O Bf4xh6 g7xh6) +M500/6 24} e5 {(e6-e5)
+-6.88/4 0} 13. Bxe5 {(Bf4xe5 Bc8-g4 Qd1-a4 O-O-O Be5xg7 Nc6xd4) +M500/6 16}
+Nxe5 {(Nc6xe5) -7.05/4 0} 14. dxe5 {(d4xe5 Bc8-d7 Qd1-d4 Bd7-c6 O-O Bc6xe4)
++M500/6 15} Ng4 {(Nh6-g4) -7.25/4 0} 15. Qd5 {(Qd1-d5 Ra8-b8 O-O O-O
+Qd5xf7+) +M500/5 4} Nxf2 {(Ng4xf2) -7.65/4 0} 16. Kxf2 {(Ke1xf2 O-O Qd5-b5
+Bc8-e6 Qb5xb7 Be6xa2) +M500/6 10} Rb8 {(Ra8-b8) -8.67/4 0} 17. Qc5 {(Qd5-c5
+Bc8-e6 Qc5xc7 Rb8-a8 Qc7xf7+) +M500/5 5} Bd7 {(Bc8-d7) -10.02/4 0} 18. Qxa7
+{(Qc5xa7 Rb8-c8 Qa7xb7 Rc8-d8 Qb7xc7) +M500/5 5} Rc8 {(Rb8-c8) -10.99/4 0}
+19. Qxb7 {(Qa7xb7 O-O Rh1-d1 Bd7-e6 a2-a3 Be6-d5) +M500/6 33} Kf8 {(Ke8-f8)
+-12.01/4 0} 20. Kg1 {(Kf2-g1 Rc8-e8 Qb7xc7 Bd7-e6 Qc7xf7+) +M500/5 10} Be6
+{(Bd7-e6) -12.24/4 0} 21. Nc3 {(Nb1-c3 c7-c6 Nc3-d5 Rc8-e8 Qb7xf7+) +M500/5
+4} Kg8 {(Kf8-g8) -12.43/4 0 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "3"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:15:49"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} f5 2. h3
+{(h2-h3 d7-d5 Nf3-e5 Nb8-d7 Ne5xd7 Bc8xd7) -0.15/6 10} Nc6 3. e3 {(e2-e3
+Nc6-b4 c2-c4 Ng8-f6 a2-a3 d7-d5) -0.15/6 10} Nf6 {(Ng8-f6) +0.10/4 0} 4. c3
+{(c2-c3 Nf6-e4 Bf1-d3 d7-d5 Bd3xe4 f5xe4) -0.20/6 21} Ne4 {(Nf6-e4) +0.78/4
+0} 5. Bd3 {(Bf1-d3 Ne4-d6 O-O b7-b5 Bd3xf5) +1.20/5 4} Rb8 {(Ra8-b8)
++0.55/4 0} 6. O-O {(O-O b7-b5 Nb1-a3 Ne4-f6 Bd3xf5) +1.25/5 4  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "3"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:16:55"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 13} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 10} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 11} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "3"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "23:23:40"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nf3
+{(Ng1-f3) +0.03/4 0} Be7 {(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+)
+-100.00/6 48} 3. Nc3 {(Nb1-c3) +0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4
+f5xe4) +100.00/5 5} 4. d5 {(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6
+Bc1-g5 a6xb5 Bg5xf6) -20.00/6 11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6
+d5xe6 Bc8xe6 Nb5-a3 Ng8-e7 Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0}
+exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "4"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "23:25:45"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 c2-c3 Bf8-d6 Qd1-a4 Ng8-f6 Qa4xd7+) -1.00/6 12} 2. Nf3 Be7
+{(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+) -1.00/6 17} 3. Nc3 {(Nb1-c3)
++0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4 f5xe4) +1.00/5 3} 4. d5 {(d4-d5)
++1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6) -0.20/6 11} 5.
+Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 c2-c3 Nb8-c6 Nb5xc7+)
+-0.95/6 13} 6. Qd2 {(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5
+Ra8xa7 Qd5xg8+) -0.95/6 17  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "4"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:27:07"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 32} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 10} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4)
++99.00/5 5} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5
+{(Be7-g5 e3xf4 Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3
+f4xe3 f2xe3 Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4
+Rf1-b1 Ra8-g8 Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8
+Nb3-d4 Nc4xb2) -1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1)
++81.00/6 7} 22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5
+{(Bf4-e5 f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5
+Nb3xa5 b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4
+Rc1xc7+) +103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5
+3} Bf6 {(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2
+{(Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+27. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4
+Kh1-g2 Nb2-d3 Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3
+Nb2-a4 Rc1xc7+) -1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6)
++119.00/6 19} 29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2
+3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "4"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "23:36:24"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "114"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -90.00/6 16} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 Qd8-c7 Bc1-g5 Nf6-e4 Bg5-h4 Qc7xh2) -90.00/6 22}
+Ne4 {(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6)
++115.00/5 6} Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8
+Qc2xe4) +310.00/5 4} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O
+Nf6-d5 Bf4xd6) +135.00/5 10} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2
+e7-e5 Bf4-g5 d6-d5 b2-b4 Qb6xd4+) +90.00/6 32} e5 {(e7-e5) -0.35/4 0} 8.
+Be3 {(Bf4-e3 e5xd4 Be3xd4 Qb6-d8 Qc2xh7) +M384/5 5} exd4 {(e5xd4) -1.50/4
+0} 9. Bxd4 {(Be3xd4 c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +115.00/6 15} c5
+{(c6-c5) -1.48/4 0} 10. Be3 {(Bd4-e3 Bf8-e7 Kf2-g1 O-O Qc2-e4 Qb6xb2)
++115.00/6 20} Bg4 {(Bc8-g4) -1.55/4 0} 11. Qa4+ {(Qc2-a4+ Bg4-d7 Qa4-e4+
+Bf8-e7 Kf2-g1 Qb6xb2) +130.00/6 30} Nc6 {(Nb8-c6) -0.73/4 0} 12. Qxg4
+{(Qa4xg4 Ke8-d8 Qg4-e4 d6-d5 Qe4xd5+) +M500/5 4} Qxb2 {(Qb6xb2) -0.05/4 0}
+13. Qe4+ {(Qg4-e4+ Ke8-d7 Na3-c2 d6-d5 Qe4xd5+) +M500/5 4} Be7 {(Bf8-e7)
+-0.87/4 0} 14. Nc2 {(Na3-c2 d6-d5 Qe4xd5 Qb2xc2 Qd5xc6+) +M500/5 6} d5
+{(d6-d5) -1.27/4 1} 15. Qxd5 {(Qe4xd5 Qb2xc2 Ra1-c1 Qc2-g6 Qd5xc6+) +M500/5
+6} Qxc2 {(Qb2xc2) -1.75/4 0} 16. Rc1 {(Ra1-c1 Qc2-g6 Kf2-g1 Nc6-a5 Be3xc5)
++M134/5 9} Qa4 {(Qc2-a4) -1.31/4 0} 17. c4 {(c3-c4 Qa4xa2 Qd5-e4 O-O
+Qe4xe7) +M500/5 11} Qa3 {(Qa4-a3) -0.05/4 0} 18. Qe4 {(Qd5-e4 f7-f5 Qe4-e6
+Qa3xa2 Qe6xe7+) +M500/5 8} Qxa2 {(Qa3xa2) -0.45/4 1} 19. Bxc5 {(Be3xc5 O-O
+Bc5xe7 Nc6xe7 Qe4xe7) +M500/5 7} f5 {(f7-f5) -0.37/4 0} 20. Qe6 {(Qe4-e6
+Rh8-f8 Rc1-d1 Rf8-h8 Bc5xe7 Nc6xe7) +200.00/6 20} Qb2 {(Qa2-b2) -0.61/4 0}
+21. Rd1 {(Rc1-d1 Ra8-d8 Rd1xd8+ Ke8xd8 Bc5xe7+ Nc6xe7) +200.00/6 29} Qf6
+{(Qb2-f6) -1.77/4 0} 22. Qd7+ {(Qe6-d7+ Ke8-f8 Bc5xe7+ Nc6xe7 Qd7xb7
+Kf8-g8) +280.00/6 14} Kf8 {(Ke8-f8) -2.64/4 0} 23. Bxe7+ {(Bc5xe7+ Qf6xe7
+Qd7xf5+ Kf8-g8 Qf5-d5+ Qe7-f7) +285.00/6 7} Qxe7 {(Qf6xe7) -2.72/4 0} 24.
+Qxf5+ {(Qd7xf5+ Kf8-g8 Rd1-d7 Ra8-f8 Qf5-d5+ Rf8-f7) +285.00/6 9} Ke8
+{(Kf8-e8) -2.58/4 0} 25. e4 {(e2-e4 a7-a6 Qf5-h5+ Ke8-f8 Qh5xh7) +M500/5 8}
+g6 {(g7-g6) -2.07/4 0} 26. Qg5 {(Qf5-g5 Rh8-f8 Qg5-e3 Qe7-e5 Kf2-g1 Rf8xf3)
++20.00/6 25} Qxg5 {(Qe7xg5) -2.40/4 0} 27. Nxg5 {(Nf3xg5 Rh8-f8+ Kf2-g1
+h7-h6 Rd1-d5 h6xg5) +26.00/6 3} Rd8 {(Ra8-d8) -2.68/4 0} 28. Rxd8+
+{(Rd1xd8+ Nc6xd8 Kf2-g1 Ke8-d7 Bf1-d3 Kd7-c8) +M484/6 2} Nxd8 {(Nc6xd8)
+-2.68/4 0} 29. Be2 {(Bf1-e2 Nd8-f7 Ng5xf7 Ke8xf7 Kf2-g1 Kf7-g8) +315.00/6
+4} Nf7 {(Nd8-f7) -2.66/4 0} 30. Nxf7 {(Ng5xf7 Ke8xf7 Rh1-f1 Rh8-f8 Kf2-g1+
+Kf7-g8) +315.00/6 3} Rf8 {(Rh8-f8) -2.86/4 0} 31. Ra1 {(Rh1-a1 Rf8xf7+
+Kf2-g1 Rf7-e7 Ra1xa7 Re7xe4) +316.00/6 2} a6 {(a7-a6) -3.26/4 0} 32. Kg1
+{(Kf2-g1 Rf8xf7 Be2-d1 Ke8-f8 Bd1-g4 Kf8-g8) +315.00/6 3} Rxf7 {(Rf8xf7)
+-2.97/4 0} 33. Bd1 {(Be2-d1 Rf7-c7 Bd1-a4+ Ke8-e7 e4-e5 Rc7xc4) +229.00/6
+15} Kd7 {(Ke8-d7) -2.59/4 0} 34. Bg4+ {(Bd1-g4+ Kd7-e8 Bg4-d1 Ke8-f8 Bd1-g4
+Kf8-g8) +315.00/6 6} Kd6 {(Kd7-d6) -2.58/4 0} 35. Rd1+ {(Ra1-d1+ Kd6-e5
+Bg4-f3 Ke5-e6 Bf3-g4+ Rf7-f5) +M34/6 4} Kc5 {(Kd6-c5) -2.54/4 0} 36. Rd5+
+{(Rd1-d5+ Kc5-b4 Rd5-d4 Rf7-e7 c4-c5+ Kb4xc5) +282.00/6 7} Kxc4 {(Kc5xc4)
+-1.46/4 0} 37. Be2+ {(Bg4-e2+ Kc4-b4 Be2-g4 Rf7-e7 Rd5-d4+ Kb4-c5)
++282.00/6 6} Kb4 {(Kc4-b4) -1.46/4 0} 38. e5 {(e4-e5 Rf7-e7 h2-h3 Kb4-c3
+Rd5-d3+ Kc3-c4) +277.00/6 12} Rc7 {(Rf7-c7) -1.40/4 0} 39. Bf3 {(Be2-f3
+Rc7-c1+ Rd5-d1 Rc1xd1+ Bf3xd1 Kb4-c5) +272.00/6 7} Kc4 {(Kb4-c4) -1.27/4 0}
+40. e6 {(e5-e6 Rc7-e7 Rd5-e5 Kc4-c3 Re5-c5+ Kc3-d4) +260.00/6 9} Re7
+{(Rc7-e7) -1.16/4 0} 41. Rd7 {(Rd5-d7 Re7-e8 Bf3xb7 Re8xe6 Rd7xh7 Kc4-d4)
++M500/6 4} Re8 {(Re7-e8) -3.60/4 0} 42. Bxb7 {(Bf3xb7 Kc4-c5 Bb7xa6 Re8xe6
+Ba6-b7 Kc5-b6) +M334/6 8} Kc5 {(Kc4-c5) -3.86/4 0} 43. e7 {(e6-e7 Kc5-b6
+Bb7-e4 a6-a5 Rd7-b7+ Kb6-a6) +M16/6 4} a5 {(a6-a5) -3.55/4 0} 44. Bd5
+{(Bb7-d5 Kc5-b6 Bd5-e4 h7-h6 Rd7-b7+ Kb6-a6) +M16/6 8} Rb8 {(Re8-b8)
+-3.55/4 0} 45. Be4 {(Bd5-e4 Rb8-e8 h2-h3 Kc5-b6 Rd7-b7+ Kb6-a6) +M16/6 4}
+Re8 {(Rb8-e8) -3.64/4 0} 46. Rd5+ {(Rd7-d5+ Kc5-b6 Rd5-d7 h7-h6 Rd7-b7+
+Kb6-a6) +M16/6 12} Kb4 {(Kc5-b4) -3.46/4 0} 47. Re5 {(Rd5-e5 Kb4-c3 Be4-c6
+Re8-c8 Bc6-d5 Kc3-d4) +M500/6 4} Kc3 {(Kb4-c3) -4.22/4 0} 48. Re6 {(Re5-e6
+Kc3-d4 Be4-c6 Re8-h8 Re6-e4+ Kd4-c5) +M500/6 5} Kd4 {(Kc3-d4) -6.52/4 0}
+49. Bc6 {(Be4-c6 Re8xe7 Re6xe7 Kd4-c5 Bc6-e4 Kc5-d6) +M500/6 6} Rb8
+{(Re8-b8) -6.52/4 0} 50. e8=Q {(e7-e8Q Rb8xe8 Bc6xe8 Kd4-d5 Be8-f7 Kd5-d4)
++M500/6 2} Rxe8 {(Rb8xe8) -6.70/4 0} 51. Bxe8 {(Bc6xe8 Kd4-d5 Re6-e7 Kd5-d6
+Re7xh7 Kd6-e6) +M500/6 1} Kd5 {(Kd4-d5) -8.23/4 0} 52. Re7 {(Re6-e7 Kd5-d6
+Re7xh7 g6-g5 Rh7-h6+ Kd6-e7) +M500/6 1} Kd4 {(Kd5-d4) -8.61/4 0} 53. Rxh7
+{(Re7xh7 Kd4-e5 Be8xg6 Ke5-d5 Rh7-d7+ Kd5-e6) +M500/6 2} g5 {(g6-g5)
+-9.69/4 0} 54. Rg7 {(Rh7-g7 Kd4-c5 Rg7xg5+ Kc5-b6 Rg5-e5 Kb6-c7) +M500/6 2}
+Kc3 {(Kd4-c3) -10.43/4 0} 55. Rxg5 {(Rg7xg5 Kc3-b4 Rg5-b5+ Kb4-a4 Rb5-e5+
+Ka4-b4) +M500/6 3} Kb4 {(Kc3-b4) -10.84/4 0} 56. Rb5+ {(Rg5-b5+ Kb4-c3
+Rb5xa5 Kc3-c4 Ra5-e5 Kc4-d4) +M500/6 3} Kc3 {(Kb4-c3) -11.58/4 0} 57. Rxa5
+{(Rb5xa5 Kc3-d4 Be8-f7 Kd4-e3 Ra5-a4 Ke3-d3) +M500/6 2} Kd2 {(Kc3-d2)
+-11.90/4 0 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "5"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "23:45:37"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "92"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -0.90/6 7} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 d7-d5 Qd1-b3 e7-e5 Qb3xd5) +1.05/5 3} Ne4
+{(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6) +1.15/5 4}
+Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8 Qc2xe4)
++3.10/5 3} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O Bc8-g4
+Bf4xd6) +1.35/5 6} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2 Bc8-g4 Na3-c4
+Qb6-c7 Nc4xd6+) +3.20/5 3} e5 {(e7-e5) -0.35/4 0} 8. Be3 {(Bf4-e3 e5xd4
+Be3xd4 c6-c5 Qc2xh7) +3.20/5 4} exd4 {(e5xd4) -1.50/4 0} 9. Bxd4 {(Be3xd4
+c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +1.15/6 16} c5 {(c6-c5) -1.48/4 0} 10.
+Qe4+ {(Qc2-e4+ Ke8-d8 Na3-c4 Qb6-c7 Nc4xd6) +3.25/5 3} Be6 {(Bc8-e6)
+-0.04/4 0} 11. Nc4 {(Na3-c4 Qb6-c6 Nc4xd6+ Qc6xd6 Qe4xe6+) +3.15/5 3} Qa6
+{(Qb6-a6) -0.04/4 0} 12. Nxd6+ {(Nc4xd6+ Qa6xd6 Bd4-e5 Qd6-e7 Be5xb8)
++3.10/5 3} Qxd6 {(Qa6xd6) -0.24/4 0} 13. Be5 {(Bd4-e5 Qd6-c6 Qe4-d3 Be6xa2
+Ra1xa2) +2.15/5 4} Qb6 {(Qd6-b6) +0.15/4 0} 14. Kg3 {(Kf2-g3 Qb6xb2 c3-c4
+Qb2-a3 Be5xb8) +2.10/5 5} Qxb2 {(Qb6xb2) +2.58/4 0} 15. Rb1 {(Ra1-b1 Qb2xa2
+Qe4xb7 Qa2xb1 Qb7xb1) +3.00/5 4} Qxa2 {(Qb2xa2) +2.93/4 0} 16. Rxb7
+{(Rb1xb7 Be6-d5 Rb7xb8+ Ra8xb8 Be5xb8+) +2.05/5 5} Bd5 {(Be6-d5) +2.59/4 0}
+17. Rxb8+ {(Rb7xb8+ Ra8xb8 Qe4-e3 Rb8-a8 Be5xg7+ Bf8-e7) -2.15/6 20} Rxb8
+{(Ra8xb8) +4.93/4 0} 18. Qe3 {(Qe4-e3 Bd5xf3 Be5xb8+ Bf8-e7 Kg3xf3) +2.02/5
+4} Rb7 {(Rb8-b7) +1.72/4 0} 19. Bxg7+ {(Be5xg7+ Rb7-e7 Qe3xc5 Re7xe2
+Qc5-c8+ Ke8-e7) -2.10/6 18} Re7 {(Rb7-e7) +1.72/4 0} 20. Qxc5 {(Qe3xc5
+Re7-d7 Bg7xf8 Rh8xf8 Qc5-c8+ Ke8-e7) -1.15/6 13} Rd7 {(Re7-d7) +0.27/4 0}
+21. Bxf8 {(Bg7xf8 Rh8-g8+ Kg3-f2 Bd5xf3 Kf2xf3) +1.95/5 2} Rxf8 {(Rh8xf8)
++1.63/4 0} 22. Ne5 {(Nf3-e5 Rf8-g8+ Kg3-f2 Rd7-d8 Qc5xd5) +2.05/5 2} Rg8+
+{(Rf8-g8+) +1.55/4 0} 23. Kf2 {(Kg3-f2 Rd7-d8 Qc5-b5+ Ke8-f8 Qb5-c5+
+Kf8-g7) -1.10/6 5} Bxg2 {(Bd5xg2) +0.15/4 0} 24. Nxd7 {(Ne5xd7 Bg2xh1
+Nd7-f6+ Ke8-d8 Nf6xg8 Qa2xe2+) +2.00/6 5} Kxd7 {(Ke8xd7) -2.29/4 0} 25.
+Bxg2 {(Bf1xg2 Qa2-a4 Bg2-h3+ Kd7-d8 Qc5-d5+ Kd8-e7) +3.08/6 5} Qd2
+{(Qa2-d2) -3.29/4 0} 26. Qxa7+ {(Qc5xa7+ Kd7-e6 Qa7-b6+ Ke6-e5 Qb6-c7+
+Ke5-e6) +4.01/6 10} Ke8 {(Kd7-e8) -9.21/4 0} 27. Qb8+ {(Qa7-b8+ Qd2-d8
+Bg2-c6+ Ke8-e7 Qb8-e5+ Ke7-f8) +4.12/6 8} Ke7 {(Ke8-e7) -9.42/4 0} 28. Qxg8
+{(Qb8xg8 Qd2-f4+ Kf2-g1 Qf4-c1+ Bg2-f1 Qc1xf1+) +6.14/6 3} Qxc3 {(Qd2xc3)
+-9.72/4 0} 29. Qg5+ {(Qg8-g5+ Qc3-f6+ Qg5xf6+ Ke7xf6 Kf2-g1 Kf6-e6) +8.17/6
+4} Qf6+ {(Qc3-f6+) -8.18/4 0} 30. Qxf6+ {(Qg5xf6+ Ke7xf6 e2-e4 Kf6-g7
+Kf2-g1 Kg7-g8) +8.15/6 0} Kxf6 {(Ke7xf6) -8.60/4 0} 31. Kg1 {(Kf2-g1 Kf6-g7
+Bg2-d5 h7-h6 e2-e4 Kg7-g8) +8.20/6 3} Ke5 {(Kf6-e5) -7.72/4 0} 32. e3
+{(e2-e3 f7-f5 Bg2-h3 h7-h6 Bh3-g2 Ke5-d6) +8.17/6 1} Kf5 {(Ke5-f5) -7.54/4
+0} 33. Bd5 {(Bg2-d5 Kf5-f6 e3-e4 Kf6-g7 e4-e5 Kg7-g8) +8.20/6 1} f6
+{(f7-f6) -7.82/4 0} 34. Bg8 {(Bd5-g8 h7-h5 Bg8-f7 Kf5-g5 e3-e4 Kg5-h6)
++8.33/6 1} h6 {(h7-h6) -7.83/4 0} 35. Bh7+ {(Bg8-h7+ Kf5-e5 e3-e4 Ke5-d6
+Bh7-g6 f6-f5) +8.27/6 1} Ke5 {(Kf5-e5) -8.06/4 0} 36. e4 {(e3-e4 Ke5-d6
+Bh7-g6 Kd6-e5 h2-h3 Ke5-d6) +8.27/6 1} Kf4 {(Ke5-f4) -7.97/4 0} 37. Bg6
+{(Bh7-g6 Kf4-e5 h2-h3 Ke5-d6 Rh1-h2 f6-f5) +8.27/6 1} Ke3 {(Kf4-e3) -7.72/4
+0} 38. Kg2 {(Kg1-g2 Ke3-d4 Rh1-a1 Kd4-e5 Ra1-a6 f6-f5) +8.52/6 1} Kf4
+{(Ke3-f4) -8.07/4 0} 39. Bf5 {(Bg6-f5 h6-h5 h2-h4 Kf4-e5 Rh1-d1 Ke5-f4)
++8.59/6 2} Ke3 {(Kf4-e3) -8.11/4 0} 40. Rd1 {(Rh1-d1 Ke3-f4 Kg2-g1 Kf4-e5
+Rd1-d5+ Ke5-f4) +8.82/6 2} Kf4 {(Ke3-f4) -8.32/4 0} 41. Rd5 {(Rd1-d5 Kf4-g5
+Bf5-h7+ Kg5-g4 Kg2-g1 Kg4-f4) +8.82/6 3} h5 {(h6-h5) -8.57/4 0} 42. h4
+{(h2-h4 Kf4-e3 Bf5-g6 Ke3-f4 Rd5xh5 f6-f5) +9.59/6 2} Ke3 {(Kf4-e3) -9.09/4
+0} 43. Bg6 {(Bf5-g6 Ke3-e2 Rd5xh5 Ke2-e3 Kg2-g1 Ke3-d4) +9.70/6 2} Ke2
+{(Ke3-e2) -9.25/4 0} 44. Bxh5+ {(Bg6xh5+ Ke2-e3 Bh5-g6 Ke3-e2 Kg2-g1
+Ke2-e3) +9.82/6 2} Ke3 {(Ke2-e3) -9.17/4 0} 45. Bf3 {(Bh5-f3 f6-f5 Rd5xf5
+Ke3-d3 Kg2-g1 Kd3-d4) +10.70/6 2} f5 {(f6-f5) -10.59/4 0} 46. Rxf5 {(Rd5xf5
+Ke3-d4 Kg2-g1 Kd4-e3 Bf3-g2 Ke3-d4) +10.70/6 2} Kd4 {(Ke3-d4) -10.91/4 0
+Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "5"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "23:49:51"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 22} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 13} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "5"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "23:56:35"]
+[Variation "2...Qxd5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -95.00/6 11} 2. exd5
+{(e4xd5) +0.20/4 0} Qxd5 {(Qd8xd5 Qd1-e2 Qd5-e6 d2-d4 Qe6xe2+ Ng1xe2)
+-15.00/6 6} 3. Ne2 {(Ng1-e2) +0.30/4 0} Nf6 {(Ng8-f6 d2-d4 Qd5-e4 Bc1-g5
+Qe4xe2+) +290.00/5 6} 4. Nbc3 {(Nb1-c3) -0.20/4 0} Qc6 {(Qd5-c6 Ne2-d4
+Qc6-c5 Bf1-b5+ Qc5xb5) +290.00/5 4} 5. Nd4 {(Ne2-d4) +0.58/4 0} Qc5
+{(Qc6-c5 Bf1-b5+ Ke8-d8 O-O Qc5xd4) +280.00/5 4} 6. Bb5+ {(Bf1-b5+) +0.48/4
+0} Bd7 {(Bc8-d7 O-O Qc5xd4 Nc3-e2 Qd4-e5 Bb5xd7+) -20.00/6 9} 7. Nb3
+{(Nd4-b3) +0.11/4 0} Qe5+ {(Qc5-e5+ Bb5-e2 Qe5-g5 O-O e7-e5 d2-d4) -25.00/6
+10} 8. Qe2 {(Qd1-e2) -0.04/4 0} Qxe2+ {(Qe5xe2+ Bb5xe2 Bd7-c6 O-O e7-e5
+d2-d4) -21.00/6 7} 9. Bxe2 {(Bb5xe2) +0.06/4 0} e5 {(e7-e5 Be2-b5 Bf8-e7
+Bb5xd7+ Nb8xd7) +15.00/5 4} 10. Bc4 {(Be2-c4) +0.69/4 0} Bb4 {(Bf8-b4 a2-a3
+Bb4-f8 O-O Bf8xa3) +94.00/5 6} 11. Bd5 {(Bc4-d5) +0.43/4 0} Bc6 {(Bd7-c6
+Bd5xc6+ b7xc6 d2-d4 Bb4xc3+ b2xc3) 0.00/6 20} 12. Bxc6+ {(Bd5xc6+) -0.19/4
+0} bxc6 {(b7xc6 d2-d4 e5xd4 Nb3xd4 Bb4xc3+ b2xc3) -5.00/6 5} 13. Nd1
+{(Nc3-d1) +0.19/4 0} Ne4 {(Nf6-e4 c2-c3 Bb4-e7 O-O Ne4xc3) +99.00/5 10} 14.
+Ne3 {(Nd1-e3) +0.47/4 0} O-O {(O-O c2-c3 Bb4-e7 O-O Ne4xc3) +110.00/5 7 
+Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.27"]
+[Round "6"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "23:58:41"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 c2-c3 Bf8-d6 Qd1-a4 Ng8-f6 Qa4xd7+) -1.00/6 12} 2. Nf3 Be7
+{(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+) -1.00/6 17} 3. Nc3 {(Nb1-c3)
++0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4 f5xe4) +1.00/5 3} 4. d5 {(d4-d5)
++1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6) -0.20/6 11} 5.
+Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 c2-c3 Nb8-c6 Nb5xc7+)
+-0.95/6 13} 6. Qd2 {(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5
+Ra8xa7 Qd5xg8+) -0.95/6 17  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "6"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:00:04"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 5} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 31} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "6"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:09:17"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} f5 2. Rg1
+{(Rh1-g1 d7-d5 Nb1-c3 Nb8-c6 Nf3-g5 e7-e5) -15.00/6 21} Nc6 {(Nb8-c6)
+-0.40/4 0} 3. e3 {(e2-e3 Ng8-f6 Nf3-d4 d7-d5 Nd4xc6 b7xc6) -15.00/6 12} Nf6
+{(Ng8-f6) +0.08/4 0} 4. c3 {(c2-c3 Nf6-e4 Bf1-d3 e7-e5 Bd3xe4 f5xe4)
+-20.00/6 35} Ng4 {(Nf6-g4) +0.48/4 0} 5. h3 {(h2-h3 Ng4-h6 Nf3-d4 e7-e5
+Qd1-h5+ Ke8-e7) -10.00/6 29 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "7"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "00:11:14"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "92"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -0.90/6 7} Nf6 3. c3 {(c2-c3
+d7-d5 Qd1-b3 e7-e5 Qb3xd5) +1.05/5 3} Ne4 {(Nf6-e4) +0.03/4 0} 4. Bf4
+{(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6) +1.15/5 4} Qb6 {(Qd8-b6) +0.72/4 0} 5.
+Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8 Qc2xe4) +3.10/5 3} d6 {(d7-d6) +0.30/4 0}
+6. Na3 {(Nb1-a3 Ne4-f6 O-O-O Bc8-g4 Bf4xd6) +1.35/5 6} Nxf2 {(Ne4xf2)
++0.20/4 0} 7. Kxf2 {(Ke1xf2 Bc8-g4 Na3-c4 Qb6-c7 Nc4xd6+) +3.20/5 3} e5
+{(e7-e5) -0.35/4 0} 8. Be3 {(Bf4-e3 e5xd4 Be3xd4 c6-c5 Qc2xh7) +3.20/5 4}
+exd4 {(e5xd4) -1.50/4 0} 9. Bxd4 {(Be3xd4 c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3
+Qb6xb2) +1.15/6 16} c5 {(c6-c5) -1.48/4 0} 10. Qe4+ {(Qc2-e4+ Ke8-d8 Na3-c4
+Qb6-c7 Nc4xd6) +3.25/5 3} Be6 {(Bc8-e6) -0.04/4 0} 11. Nc4 {(Na3-c4 Qb6-c6
+Nc4xd6+ Qc6xd6 Qe4xe6+) +3.15/5 3} Qa6 {(Qb6-a6) -0.04/4 0} 12. Nxd6+
+{(Nc4xd6+ Qa6xd6 Bd4-e5 Qd6-e7 Be5xb8) +3.10/5 3} Qxd6 {(Qa6xd6) -0.24/4 0}
+13. Be5 {(Bd4-e5 Qd6-c6 Qe4-d3 Be6xa2 Ra1xa2) +2.15/5 4} Qb6 {(Qd6-b6)
++0.15/4 0} 14. Kg3 {(Kf2-g3 Qb6xb2 c3-c4 Qb2-a3 Be5xb8) +2.10/5 5} Qxb2
+{(Qb6xb2) +2.58/4 0} 15. Rb1 {(Ra1-b1 Qb2xa2 Qe4xb7 Qa2xb1 Qb7xb1) +3.00/5
+4} Qxa2 {(Qb2xa2) +2.93/4 0} 16. Rxb7 {(Rb1xb7 Be6-d5 Rb7xb8+ Ra8xb8
+Be5xb8+) +2.05/5 5} Bd5 {(Be6-d5) +2.59/4 0} 17. Rxb8+ {(Rb7xb8+ Ra8xb8
+Qe4-e3 Rb8-a8 Be5xg7+ Bf8-e7) -2.15/6 20} Rxb8 {(Ra8xb8) +4.93/4 0} 18. Qe3
+{(Qe4-e3 Bd5xf3 Be5xb8+ Bf8-e7 Kg3xf3) +2.02/5 4} Rb7 {(Rb8-b7) +1.72/4 0}
+19. Bxg7+ {(Be5xg7+ Rb7-e7 Qe3xc5 Re7xe2 Qc5-c8+ Ke8-e7) -2.10/6 17} Re7
+{(Rb7-e7) +1.72/4 0} 20. Qxc5 {(Qe3xc5 Re7-d7 Bg7xf8 Rh8xf8 Qc5-c8+ Ke8-e7)
+-1.15/6 13} Rd7 {(Re7-d7) +0.27/4 0} 21. Bxf8 {(Bg7xf8 Rh8-g8+ Kg3-f2
+Bd5xf3 Kf2xf3) +1.95/5 2} Rxf8 {(Rh8xf8) +1.63/4 0} 22. Ne5 {(Nf3-e5
+Rf8-g8+ Kg3-f2 Rd7-d8 Qc5xd5) +2.05/5 2} Rg8+ {(Rf8-g8+) +1.55/4 0} 23. Kf2
+{(Kg3-f2 Rd7-d8 Qc5-b5+ Ke8-f8 Qb5-c5+ Kf8-g7) -1.10/6 5} Bxg2 {(Bd5xg2)
++0.15/4 0} 24. Nxd7 {(Ne5xd7 Bg2xh1 Nd7-f6+ Ke8-d8 Nf6xg8 Qa2xe2+) +2.00/6
+5} Kxd7 {(Ke8xd7) -2.29/4 0} 25. Bxg2 {(Bf1xg2 Qa2-a4 Bg2-h3+ Kd7-d8
+Qc5-d5+ Kd8-e7) +3.08/6 5} Qd2 {(Qa2-d2) -3.29/4 0} 26. Qxa7+ {(Qc5xa7+
+Kd7-e6 Qa7-b6+ Ke6-e5 Qb6-c7+ Ke5-e6) +4.01/6 10} Ke8 {(Kd7-e8) -9.21/4 0}
+27. Qb8+ {(Qa7-b8+ Qd2-d8 Bg2-c6+ Ke8-e7 Qb8-e5+ Ke7-f8) +4.12/6 8} Ke7
+{(Ke8-e7) -9.42/4 0} 28. Qxg8 {(Qb8xg8 Qd2-f4+ Kf2-g1 Qf4-c1+ Bg2-f1
+Qc1xf1+) +6.14/6 3} Qxc3 {(Qd2xc3) -9.72/4 0} 29. Qg5+ {(Qg8-g5+ Qc3-f6+
+Qg5xf6+ Ke7xf6 Kf2-g1 Kf6-e6) +8.17/6 4} Qf6+ {(Qc3-f6+) -8.18/4 0} 30.
+Qxf6+ {(Qg5xf6+ Ke7xf6 e2-e4 Kf6-g7 Kf2-g1 Kg7-g8) +8.15/6 0} Kxf6
+{(Ke7xf6) -8.60/4 0} 31. Kg1 {(Kf2-g1 Kf6-g7 Bg2-d5 h7-h6 e2-e4 Kg7-g8)
++8.20/6 3} Ke5 {(Kf6-e5) -7.72/4 0} 32. e3 {(e2-e3 f7-f5 Bg2-h3 h7-h6
+Bh3-g2 Ke5-d6) +8.17/6 1} Kf5 {(Ke5-f5) -7.54/4 0} 33. Bd5 {(Bg2-d5 Kf5-f6
+e3-e4 Kf6-g7 e4-e5 Kg7-g8) +8.20/6 1} f6 {(f7-f6) -7.82/4 0} 34. Bg8
+{(Bd5-g8 h7-h5 Bg8-f7 Kf5-g5 e3-e4 Kg5-h6) +8.33/6 1} h6 {(h7-h6) -7.83/4
+0} 35. Bh7+ {(Bg8-h7+ Kf5-e5 e3-e4 Ke5-d6 Bh7-g6 f6-f5) +8.27/6 1} Ke5
+{(Kf5-e5) -8.06/4 0} 36. e4 {(e3-e4 Ke5-d6 Bh7-g6 Kd6-e5 h2-h3 Ke5-d6)
++8.27/6 1} Kf4 {(Ke5-f4) -7.97/4 0} 37. Bg6 {(Bh7-g6 Kf4-e5 h2-h3 Ke5-d6
+Rh1-h2 f6-f5) +8.27/6 0} Ke3 {(Kf4-e3) -7.72/4 0} 38. Kg2 {(Kg1-g2 Ke3-d4
+Rh1-a1 Kd4-e5 Ra1-a6 f6-f5) +8.52/6 1} Kf4 {(Ke3-f4) -8.07/4 0} 39. Bf5
+{(Bg6-f5 h6-h5 h2-h4 Kf4-e5 Rh1-d1 Ke5-f4) +8.59/6 2} Ke3 {(Kf4-e3) -8.11/4
+0} 40. Rd1 {(Rh1-d1 Ke3-f4 Kg2-g1 Kf4-e5 Rd1-d5+ Ke5-f4) +8.82/6 2} Kf4
+{(Ke3-f4) -8.32/4 0} 41. Rd5 {(Rd1-d5 Kf4-g5 Bf5-h7+ Kg5-g4 Kg2-g1 Kg4-f4)
++8.82/6 3} h5 {(h6-h5) -8.57/4 0} 42. h4 {(h2-h4 Kf4-e3 Bf5-g6 Ke3-f4
+Rd5xh5 f6-f5) +9.59/6 3} Ke3 {(Kf4-e3) -9.09/4 0} 43. Bg6 {(Bf5-g6 Ke3-e2
+Rd5xh5 Ke2-e3 Kg2-g1 Ke3-d4) +9.70/6 2} Ke2 {(Ke3-e2) -9.25/4 0} 44. Bxh5+
+{(Bg6xh5+ Ke2-e3 Bh5-g6 Ke3-e2 Kg2-g1 Ke2-e3) +9.82/6 2} Ke3 {(Ke2-e3)
+-9.17/4 0} 45. Bf3 {(Bh5-f3 f6-f5 Rd5xf5 Ke3-d3 Kg2-g1 Kd3-d4) +10.70/6 2}
+f5 {(f6-f5) -10.59/4 0} 46. Rxf5 {(Rd5xf5 Ke3-d4 Kg2-g1 Kd4-e3 Bf3-g2
+Ke3-d4) +10.70/6 2} Kd4 {(Ke3-d4) -10.91/4 0 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "7"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:15:28"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "82"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 20} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 10} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 22} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+c6 {(c7-c6 Nc3-a4 Bf8-b4 d4xe5 f6xe5) +0.17/5 2} 15. Na4 {(Nc3-a4 Ng8-e7
+d4xe5 d5-d4 Be3-f4 f6xe5) -17.00/6 20} exd4 {(e5xd4 Be3xd4 c6-c5 Bd4xc5
+Bf8xc5 Na4xc5) -0.93/6 7} 16. Bxd4 {(Be3xd4 Rd8-d7 Rf1-e1 Bf8-e7 Na4-c3
+Ng8-h6) -7.00/6 3} c5 {(c6-c5 Bd4-e3 Bf8-d6 Rf1-d1 Bd6-e5 Rd1xd5) -1.03/6
+6} 17. Nxc5 {(Na4xc5 Bf8xc5 Bd4xc5 Rd8-d7 Bc5-d4 Ng8-e7) +93.00/6 5} Bd6
+{(Bf8-d6 Nc5-e6 Rd8-d7 h2-h3 Ng8-h6 Ne6xg7) -1.93/6 8} 18. Nd3 {(Nc5-d3
+Ng8-e7 Bd4xa7 Ne7-c6 Ba7-b6 Bd6xh2+) +88.00/6 15} Nh6 {(Ng8-h6 Bd4xa7
+Nh6-g4 f2-f4 g7-g6 Ba7-d4) -1.93/6 12} 19. Bxa7 {(Bd4xa7 Nh6-f5 Ba7-b6
+Rd8-g8 Bb6-d4) +193.00/5 4} Nf5 {(Nh6-f5 c2-c3 Rd8-d7 Ba7-d4 Nf5xd4 c3xd4)
+-1.98/6 17} 20. c3 {(c2-c3 Rh8-g8 Ba7-d4 Nf5xd4 c3xd4) +198.00/5 6} Nh4
+{(Nf5-h4 h2-h3 Rd8-d7 Ba7-d4 Nh4xg2) -0.93/5 3} 21. Rfd1 {(Rf1-d1 Rd8-d7
+Ba7-d4 Rh8-g8 Bd4xf6) +288.00/5 5} g6 {(g7-g6 Ba7-d4 Rh8-f8 h2-h3 Nh4xg2)
+-0.93/5 2} 22. Nc5 {(Nd3-c5 Bd6xc5 Ba7xc5 Rh8-g8 Rd1xd5) +303.00/5 4} Be5
+{(Bd6-e5 Nc5-d3 Be5-d6 Ba7-d4 Bd6xh2+) -0.93/5 2} 23. Na4 {(Nc5-a4 Be5-c7
+Rd1-d4 Nh4-f5 Rd4xd5) +303.00/5 5} Rd6 {(Rd8-d6 Na4-c5 Rd6-c6 Nc5-a4
+Nh4xg2) -0.83/5 3} 24. Bd4 {(Ba7-d4 Be5-f4 Na4-b6+ Kc8-d8 Nb6-a8 Bf4xh2+)
++111.00/6 19} Bxd4 {(Be5xd4 c3xd4 Rh8-g8 Na4-c3 Rg8-f8 Nc3xd5) -3.13/6 7}
+25. cxd4 {(c3xd4 Rd6-c6 Na4-c3 Rh8-d8 Nc3-b5 Nh4xg2) +98.00/6 4} Kb7
+{(Kc8-b7 h2-h3 Kb7-c8 Na4-c3 Rd6-b6 Nc3xd5) -3.13/6 8} 26. Nc5+ {(Na4-c5+
+Kb7-c8 Nc5-a4 Rh8-g8 Rd1-c1+ Rd6-c6) +198.00/6 12} Kc8 {(Kb7-c8 Nc5-a4
+Nh4-f5 Rd1-c1+ Rd6-c6) -1.98/5 1} 27. Nd3 {(Nc5-d3 Nh4-f5 Rd1-c1+ Kc8-d8
+Nd3-c5 Nf5xd4) +101.00/6 37} Rc6 {(Rd6-c6 Nd3-b4 Rc6-c4 Nb4xd5 f6-f5 h2-h3)
+-3.13/6 8} 28. Nb4 {(Nd3-b4 Rc6-d6 Rd1-c1+ Kc8-d7 g2-g3 Kd7-e6) +212.00/6
+15} Rb6 {(Rc6-b6 Rd1-c1+ Kc8-d7 a2-a3 Kd7-e6 Nb4xd5) -3.27/6 7} 29. Nxd5
+{(Nb4xd5 Rb6-d6 Rd1-c1+ Kc8-d8 Nd5-c7 Rd6xd4) +211.00/6 4} Rxb2 {(Rb6xb2
+Rd1-c1+ Kc8-d8 Nd5xf6 h7-h6 Nf6-e4) -3.31/6 6} 30. Nxf6 {(Nd5xf6 Kc8-d8
+Rd1-d3 Nh4-f5 d4-d5 Rb2xf2) +226.00/6 10} Kd8 {(Kc8-d8 h2-h3 Nh4-f5 d4-d5
+Rb2xf2) -2.26/5 2} 31. g3 {(g2-g3 Nh4-f3+ Kg1-g2 Nf3-g5 Nf6xh7) +M500/5 2}
+Rb6 {(Rb2-b6 Nf6xh7 Rh8xh7 g3xh4 Rh7xh4 Rd1-c1) -3.26/6 8} 32. gxh4 {(g3xh4
+Rb6xf6 Rd1-b1 Kd8-c8 Rb1-c1+ Rf6-c6) +308.00/6 2} Rxf6 {(Rb6xf6 Ra1-b1
+Kd8-c7 Rd1-c1+ Kc7-d6 Rc1-c6+) -3.22/6 4} 33. Rdb1 {(Rd1-b1 Kd8-c7 Rb1-c1+
+Kc7-d6 Rc1-c6+) +M284/5 2} Kc7 {(Kd8-c7 Rb1-b5 Rf6-f4 Ra1-c1+ Kc7-d6
+Rb5-d5+) -3.27/6 4} 34. Rb5 {(Rb1-b5 Rf6-c6 Rb5-e5 Rh8-f8 Re5-e7+ Kc7-c8)
++308.00/6 9} h6 {(h7-h6 Ra1-c1+ Kc7-d7 Rb5-d5+ Kd7-e6 Rc1-c6+) -3.27/6 6}
+35. Rc1+ {(Ra1-c1+ Kc7-d7 Rb5-d5+ Kd7-e6 Rd5-e5+) +M34/5 2} Rc6 {(Rf6-c6
+Rc1xc6+ Kc7xc6 Rb5-c5+ Kc6-d6 Rc5-d5+) -3.27/6 3} 36. Rxc6+ {(Rc1xc6+
+Kc7xc6 Rb5-c5+ Kc6-d7 d4-d5 Kd7-d6) +M284/6 2} Kxc6 {(Kc7xc6 Rb5-a5 Kc6-b7
+Ra5-c5 Kb7-b6 Rc5-d5) -3.31/6 1} 37. Rc5+ {(Rb5-c5+ Kc6-d7 Rc5-d5+ Kd7-c7
+Rd5-c5+ Kc7-d6) +M284/6 2} Kd7 {(Kc6-d7 Rc5-d5+ Kd7-c6 Rd5-c5+ Kc6-d6
+Rc5-d5+) -3.27/6 1} 38. Rb5 {(Rc5-b5 Rh8-g8 Rb5-d5+ Kd7-c7 Rd5-c5+ Kc7-d6)
++M284/6 3} Kc7 {(Kd7-c7 Rb5-c5+ Kc7-d6 h2-h3 Rh8-g8 Rc5-d5+) -3.27/6 2} 39.
+Rc5+ {(Rb5-c5+ Kc7-b8 Rc5-b5+ Kb8-c7 Rb5-c5+ Kc7-d6) +M284/6 2} Kd7
+{(Kc7-d7 Rc5-d5+ Kd7-c6 Rd5-c5+ Kc6-d6 Rc5-d5+) -3.27/6 2} 40. Rb5 {(Rc5-b5
+Rh8-g8 Rb5-d5+ Kd7-c7 Rd5-c5+ Kc7-d6) +M284/6 3} Kc7 {(Kd7-c7 Rb5-c5+
+Kc7-d6 h2-h3 Rh8-g8 Rc5-d5+) -3.27/6 2} 41. Rc5+ {(Rb5-c5+ Kc7-b8 Rc5-b5+
+Kb8-c7 Rb5-c5+ Kc7-d6) +M284/6 2} Kd7 {(Kc7-d7 Rc5-d5+ Kd7-c6 Rd5-c5+
+Kc6-d6 Rc5-d5+) -3.27/6 2 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "7"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:27:39"]
+[Variation "1...d5 2.e4 dxe4"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "10"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -95.00/6 11} 2. Nc3
+dxe4 {(d5xe4 Nc3xe4 Qd8-d5 Qd1-f3 e7-e5 Qf3xf7+) -95.00/6 9} 3. Nxe4
+{(Nc3xe4) +0.20/4 0} Bd7 {(Bc8-d7 Ne4-c5 Bd7-c6 Qd1-h5 Qd8-d4 Nc5xb7)
+-95.00/6 20} 4. Nf3 {(Ng1-f3) +0.68/4 0} Bc6 {(Bd7-c6 Ne4-g3 Qd8-d6 d2-d4
+Bc6xf3 g2xf3) -15.00/6 23} 5. Bd3 {(Bf1-d3) +0.73/4 0} Nd7 {(Nb8-d7 Nf3-d4
+Bc6-d5 O-O e7-e5 Bd3-a6) -20.00/6 25 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "8"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian (Centre Counter)"]
+[Time "00:29:15"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. Bc4 dxc4
+{(d5xc4 Qd1-h5 Qd8-d4 Qh5-b5+ c7-c6 Qb5xc6+) +1.95/6 8} 3. Nf3 {(Ng1-f3)
+-2.47/4 0} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 g2xf3 Qd8xd2+) +3.90/5 4} 4. Nc3
+{(Nb1-c3) -2.42/4 0} Nc6 {(Nb8-c6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) +2.70/6
+20} 5. Nd5 {(Nc3-d5) -2.62/4 0} Ne5 {(Nc6-e5 Nd5-e3 Bg4-h5 Ne3xc4 Bh5xf3)
++5.00/5 3} 6. Qe2 {(Qd1-e2) -2.72/4 0} Bh5 {(Bg4-h5 Nd5-e3 Ng8-f6 Ne3xc4
+Bh5xf3) +5.05/5 3} 7. Qe3 {(Qe2-e3) -2.67/4 0} Bxf3 {(Bh5xf3 g2xf3 c7-c6
+Nd5-b4 Ng8-f6 Qe3xa7) +2.00/6 11} 8. gxf3 {(g2xf3) -2.67/4 0} e6 {(e7-e6
+Nd5-c3 Bf8-b4 Nc3-b5 Qd8xd2+) +4.00/5 3} 9. Nc3 {(Nd5-c3) -2.73/4 0} Qf6
+{(Qd8-f6 Nc3-b5 Ne5xf3+ Ke1-e2 Nf3xh2) +4.90/5 5} 10. f4 {(f3-f4) -2.51/4
+0} Ng4 {(Ne5-g4 Qe3-f3 Ng4-e5 Qf3-d1 Qf6xf4) +3.95/5 4} 11. Qg3 {(Qe3-g3)
+-2.36/4 0} N8h6 {(Ng8-h6 Nc3-b5 Qf6-e7 O-O Ng4xf2) +3.75/5 5} 12. h3
+{(h2-h3) -1.89/4 0} e5 {(e6-e5 Nc3-b5 Qf6xf4 Nb5xc7+ Ke8-e7) +3.05/5 3} 13.
+Nd5 {(Nc3-d5) +0.21/4 0} Qd6 {(Qf6-d6 h3xg4 e5xf4 Nd5xc7+ Qd6xc7) +2.95/5
+2} 14. hxg4 {(h3xg4) +0.26/4 0} f6 {(f7-f6 f4xe5 f6xe5 Nd5-c3 Qd6xd2+)
++1.00/5 3} 15. Qc3 {(Qg3-c3) +1.84/4 0} exf4 {(e5xf4 Qc3xc4 O-O-O Rh1-h4
+Nh6-f7 Qc4xc7+) -0.95/6 16  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "8"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:31:11"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 9} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 32} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 2} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "8"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:40:26"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -5.00/6 9} Qf6 {(Qd8-f6)
+-1.95/4 0} 3. Nf3 {(Ne5-f3 d7-d5 e2-e4 Bc8-d7 Nf3-g1 d5xe4) -15.00/6 22}
+Nc6 {(Nb8-c6) -1.60/4 0} 4. e3 {(e2-e3 Ng8-e7 Bf1-b5 Nc6-a5 Nf3-g1 Qf6xf2+)
+-5.00/6 32} Bb4 {(Bf8-b4) -1.05/4 0} 5. c3 {(c2-c3 Bb4-e7 Bf1-b5 Nc6-a5
+Bb5xd7+) +200.00/5 5} Ba5 {(Bb4-a5) -0.62/4 0} 6. Qa4 {(Qd1-a4 d7-d5 d2-d4
+Ba5xc3+ Nb1xc3) +305.00/5 5} Nge7 {(Ng8-e7) -0.62/4 0} 7. Bb5 {(Bf1-b5
+Ba5-b6 Qa4-e4 Bb6xe3 f2xe3) +305.00/5 10} Qg6 {(Qf6-g6) -0.52/4 0} 8. Bxc6
+{(Bb5xc6 d7xc6 Qa4xa5 Qg6xg2 Qa5xc7) +M500/5 5} Nxc6 {(Ne7xc6) -0.27/4 0}
+9. O-O {(O-O O-O Qa4-a3 Rf8-e8 Qa3xa5) +M500/5 7  Arena Adjudication.
+Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "9"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "00:42:27"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "92"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -0.90/6 7} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 d7-d5 Qd1-b3 e7-e5 Qb3xd5) +1.05/5 3} Ne4
+{(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6) +1.15/5 4}
+Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8 Qc2xe4)
++3.10/5 3} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O Bc8-g4
+Bf4xd6) +1.35/5 6} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2 Bc8-g4 Na3-c4
+Qb6-c7 Nc4xd6+) +3.20/5 3} e5 {(e7-e5) -0.35/4 0} 8. Be3 {(Bf4-e3 e5xd4
+Be3xd4 c6-c5 Qc2xh7) +3.20/5 4} exd4 {(e5xd4) -1.50/4 0} 9. Bxd4 {(Be3xd4
+c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +1.15/6 16} c5 {(c6-c5) -1.48/4 0} 10.
+Qe4+ {(Qc2-e4+ Ke8-d8 Na3-c4 Qb6-c7 Nc4xd6) +3.25/5 3} Be6 {(Bc8-e6)
+-0.04/4 0} 11. Nc4 {(Na3-c4 Qb6-c6 Nc4xd6+ Qc6xd6 Qe4xe6+) +3.15/5 3} Qa6
+{(Qb6-a6) -0.04/4 0} 12. Nxd6+ {(Nc4xd6+ Qa6xd6 Bd4-e5 Qd6-e7 Be5xb8)
++3.10/5 3} Qxd6 {(Qa6xd6) -0.24/4 0} 13. Be5 {(Bd4-e5 Qd6-c6 Qe4-d3 Be6xa2
+Ra1xa2) +2.15/5 4} Qb6 {(Qd6-b6) +0.15/4 0} 14. Kg3 {(Kf2-g3 Qb6xb2 c3-c4
+Qb2-a3 Be5xb8) +2.10/5 5} Qxb2 {(Qb6xb2) +2.58/4 0} 15. Rb1 {(Ra1-b1 Qb2xa2
+Qe4xb7 Qa2xb1 Qb7xb1) +3.00/5 4} Qxa2 {(Qb2xa2) +2.93/4 0} 16. Rxb7
+{(Rb1xb7 Be6-d5 Rb7xb8+ Ra8xb8 Be5xb8+) +2.05/5 5} Bd5 {(Be6-d5) +2.59/4 0}
+17. Rxb8+ {(Rb7xb8+ Ra8xb8 Qe4-e3 Rb8-a8 Be5xg7+ Bf8-e7) -2.15/6 20} Rxb8
+{(Ra8xb8) +4.93/4 0} 18. Qe3 {(Qe4-e3 Bd5xf3 Be5xb8+ Bf8-e7 Kg3xf3) +2.02/5
+4} Rb7 {(Rb8-b7) +1.72/4 0} 19. Bxg7+ {(Be5xg7+ Rb7-e7 Qe3xc5 Re7xe2
+Qc5-c8+ Ke8-e7) -2.10/6 17} Re7 {(Rb7-e7) +1.72/4 0} 20. Qxc5 {(Qe3xc5
+Re7-d7 Bg7xf8 Rh8xf8 Qc5-c8+ Ke8-e7) -1.15/6 13} Rd7 {(Re7-d7) +0.27/4 0}
+21. Bxf8 {(Bg7xf8 Rh8-g8+ Kg3-f2 Bd5xf3 Kf2xf3) +1.95/5 2} Rxf8 {(Rh8xf8)
++1.63/4 0} 22. Ne5 {(Nf3-e5 Rf8-g8+ Kg3-f2 Rd7-d8 Qc5xd5) +2.05/5 2} Rg8+
+{(Rf8-g8+) +1.55/4 0} 23. Kf2 {(Kg3-f2 Rd7-d8 Qc5-b5+ Ke8-f8 Qb5-c5+
+Kf8-g7) -1.10/6 5} Bxg2 {(Bd5xg2) +0.15/4 0} 24. Nxd7 {(Ne5xd7 Bg2xh1
+Nd7-f6+ Ke8-d8 Nf6xg8 Qa2xe2+) +2.00/6 5} Kxd7 {(Ke8xd7) -2.29/4 0} 25.
+Bxg2 {(Bf1xg2 Qa2-a4 Bg2-h3+ Kd7-d8 Qc5-d5+ Kd8-e7) +3.08/6 5} Qd2
+{(Qa2-d2) -3.29/4 0} 26. Qxa7+ {(Qc5xa7+ Kd7-e6 Qa7-b6+ Ke6-e5 Qb6-c7+
+Ke5-e6) +4.01/6 10} Ke8 {(Kd7-e8) -9.21/4 0} 27. Qb8+ {(Qa7-b8+ Qd2-d8
+Bg2-c6+ Ke8-e7 Qb8-e5+ Ke7-f8) +4.12/6 8} Ke7 {(Ke8-e7) -9.42/4 0} 28. Qxg8
+{(Qb8xg8 Qd2-f4+ Kf2-g1 Qf4-c1+ Bg2-f1 Qc1xf1+) +6.14/6 3} Qxc3 {(Qd2xc3)
+-9.72/4 0} 29. Qg5+ {(Qg8-g5+ Qc3-f6+ Qg5xf6+ Ke7xf6 Kf2-g1 Kf6-e6) +8.17/6
+4} Qf6+ {(Qc3-f6+) -8.18/4 0} 30. Qxf6+ {(Qg5xf6+ Ke7xf6 e2-e4 Kf6-g7
+Kf2-g1 Kg7-g8) +8.15/6 0} Kxf6 {(Ke7xf6) -8.60/4 0} 31. Kg1 {(Kf2-g1 Kf6-g7
+Bg2-d5 h7-h6 e2-e4 Kg7-g8) +8.20/6 3} Ke5 {(Kf6-e5) -7.72/4 0} 32. e3
+{(e2-e3 f7-f5 Bg2-h3 h7-h6 Bh3-g2 Ke5-d6) +8.17/6 1} Kf5 {(Ke5-f5) -7.54/4
+0} 33. Bd5 {(Bg2-d5 Kf5-f6 e3-e4 Kf6-g7 e4-e5 Kg7-g8) +8.20/6 1} f6
+{(f7-f6) -7.82/4 0} 34. Bg8 {(Bd5-g8 h7-h5 Bg8-f7 Kf5-g5 e3-e4 Kg5-h6)
++8.33/6 1} h6 {(h7-h6) -7.83/4 0} 35. Bh7+ {(Bg8-h7+ Kf5-e5 e3-e4 Ke5-d6
+Bh7-g6 f6-f5) +8.27/6 1} Ke5 {(Kf5-e5) -8.06/4 0} 36. e4 {(e3-e4 Ke5-d6
+Bh7-g6 Kd6-e5 h2-h3 Ke5-d6) +8.27/6 1} Kf4 {(Ke5-f4) -7.97/4 0} 37. Bg6
+{(Bh7-g6 Kf4-e5 h2-h3 Ke5-d6 Rh1-h2 f6-f5) +8.27/6 1} Ke3 {(Kf4-e3) -7.72/4
+0} 38. Kg2 {(Kg1-g2 Ke3-d4 Rh1-a1 Kd4-e5 Ra1-a6 f6-f5) +8.52/6 1} Kf4
+{(Ke3-f4) -8.07/4 0} 39. Bf5 {(Bg6-f5 h6-h5 h2-h4 Kf4-e5 Rh1-d1 Ke5-f4)
++8.59/6 2} Ke3 {(Kf4-e3) -8.11/4 0} 40. Rd1 {(Rh1-d1 Ke3-f4 Kg2-g1 Kf4-e5
+Rd1-d5+ Ke5-f4) +8.82/6 2} Kf4 {(Ke3-f4) -8.32/4 0} 41. Rd5 {(Rd1-d5 Kf4-g5
+Bf5-h7+ Kg5-g4 Kg2-g1 Kg4-f4) +8.82/6 3} h5 {(h6-h5) -8.57/4 0} 42. h4
+{(h2-h4 Kf4-e3 Bf5-g6 Ke3-f4 Rd5xh5 f6-f5) +9.59/6 2} Ke3 {(Kf4-e3) -9.09/4
+0} 43. Bg6 {(Bf5-g6 Ke3-e2 Rd5xh5 Ke2-e3 Kg2-g1 Ke3-d4) +9.70/6 2} Ke2
+{(Ke3-e2) -9.25/4 0} 44. Bxh5+ {(Bg6xh5+ Ke2-e3 Bh5-g6 Ke3-e2 Kg2-g1
+Ke2-e3) +9.82/6 2} Ke3 {(Ke2-e3) -9.17/4 0} 45. Bf3 {(Bh5-f3 f6-f5 Rd5xf5
+Ke3-d3 Kg2-g1 Kd3-d4) +10.70/6 2} f5 {(f6-f5) -10.59/4 0} 46. Rxf5 {(Rd5xf5
+Ke3-d4 Kg2-g1 Kd4-e3 Bf3-g2 Ke3-d4) +10.70/6 2} Kd4 {(Ke3-d4) -10.91/4 0
+Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "9"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:46:40"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 37} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "9"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "00:53:24"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nc3
+Be7 {(Bf8-e7 Nc3-e4 Nb8-c6 Ng1-h3 Nc6xd4) +100.00/5 4} 3. Nf3 {(Ng1-f3)
++0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4 f5xe4) +100.00/5 5} 4. d5
+{(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6) -20.00/6
+11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 Nb5-a3 Ng8-e7
+Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7 Bc8-d7
+Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "10"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "00:54:43"]
+[Variation "1...d5 2.e4 dxe4"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "34"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. Nc3 dxe4
+{(d5xe4 Nc3xe4 Qd8-d4 Qd1-f3 e7-e5 Qf3xf7+) -0.95/6 10} 3. Nxe4 {(Nc3xe4)
++0.20/4 0} Bd7 {(Bc8-d7 Qd1-h5 Ng8-f6 Ne4xf6+ g7xf6 Qh5xf7+) -0.95/6 22} 4.
+Nf3 {(Ng1-f3) +0.68/4 0} Bc6 {(Bd7-c6 Ne4-c3 Bc6xf3 g2xf3 Qd8xd2+) +0.95/5
+3} 5. Bd3 {(Bf1-d3) +0.73/4 0} Nd7 {(Nb8-d7 O-O e7-e5 Nf3-g5 Bc6xe4 Bd3xe4)
+-0.20/6 21} 6. Neg5 {(Ne4-g5) +0.61/4 0} h6 {(h7-h6 Ng5-h7 Ng8-f6 Nh7xf6+
+g7xf6 O-O) -0.20/6 16} 7. Ne4 {(Ng5-e4) +0.73/4 0} Ngf6 {(Ng8-f6 Ne4xf6+
+Nd7xf6 O-O Bc6xf3) +2.85/5 3} 8. Qe2 {(Qd1-e2) +0.58/4 0} Nh5 {(Nf6-h5
+Nf3-d4 Nh5-f4 Nd4xc6 b7xc6 O-O) -0.25/6 11} 9. Bc4 {(Bd3-c4) +1.31/4 0} e6
+{(e7-e6 Qe2-e3 Bf8-b4 Bc4xe6 Bc6xe4) +2.15/5 3} 10. Nd4 {(Nf3-d4) +1.31/4
+0} Bxe4 {(Bc6xe4 Qe2xe4 Qd8-g5 O-O O-O-O Bc4xe6) -1.10/6 23} 11. Qxe4
+{(Qe2xe4) +1.50/4 0} c6 {(c7-c6 Nd4-f5 Nd7-f6 Qe4-e5 Qd8xd2+) +0.95/5 8}
+12. Nxe6 {(Nd4xe6) +5.01/4 0} Qe7 {(Qd8-e7 Ne6-c7+ Ke8-d8 Qe4xe7+ Bf8xe7
+Nc7xa8) -6.05/6 6} 13. Nc7+ {(Ne6-c7+) +8.12/4 0} Kd8 {(Ke8-d8 Qe4xe7+
+Bf8xe7 Nc7xa8 f7-f5 O-O) -6.21/6 1} 14. Qxe7+ {(Qe4xe7+) +7.33/4 0} Bxe7
+{(Bf8xe7 Nc7xa8 Nd7-e5 Bc4-e2 Nh5-f4 O-O) -6.16/6 3} 15. Nxa8 {(Nc7xa8)
++7.45/4 0} Ne5 {(Nd7-e5 Bc4-b3 Kd8-c8 O-O f7-f5 d2-d4) -6.08/6 12} 16. b3
+{(b2-b3) +6.50/4 0} Nxc4 {(Ne5xc4 b3xc4 Kd8-d7 g2-g4 Rh8xa8 g4xh5) -6.03/6
+22} 17. bxc4 {(b3xc4) +6.61/4 0} Kd7 {(Kd8-d7 Ra1-b1 b7-b6 g2-g4 Rh8xa8
+g4xh5) -6.03/6 12  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "10"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "00:58:08"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 31} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 18} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "10"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "01:07:20"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "114"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -90.00/6 16} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 Qd8-c7 Bc1-g5 Nf6-e4 Bg5-h4 Qc7xh2) -90.00/6 22}
+Ne4 {(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6)
++115.00/5 6} Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8
+Qc2xe4) +310.00/5 4} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O
+Nf6-d5 Bf4xd6) +135.00/5 10} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2
+e7-e5 Bf4-g5 d6-d5 b2-b4 Qb6xd4+) +90.00/6 32} e5 {(e7-e5) -0.35/4 0} 8.
+Be3 {(Bf4-e3 e5xd4 Be3xd4 Qb6-d8 Qc2xh7) +M384/5 5} exd4 {(e5xd4) -1.50/4
+0} 9. Bxd4 {(Be3xd4 c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +115.00/6 14} c5
+{(c6-c5) -1.48/4 0} 10. Be3 {(Bd4-e3 Bf8-e7 Kf2-g1 O-O Qc2-e4 Qb6xb2)
++115.00/6 20} Bg4 {(Bc8-g4) -1.55/4 0} 11. Qa4+ {(Qc2-a4+ Bg4-d7 Qa4-e4+
+Bf8-e7 Kf2-g1 Qb6xb2) +130.00/6 29} Nc6 {(Nb8-c6) -0.73/4 0} 12. Qxg4
+{(Qa4xg4 Ke8-d8 Qg4-e4 d6-d5 Qe4xd5+) +M500/5 4} Qxb2 {(Qb6xb2) -0.05/4 0}
+13. Qe4+ {(Qg4-e4+ Ke8-d7 Na3-c2 d6-d5 Qe4xd5+) +M500/5 4} Be7 {(Bf8-e7)
+-0.87/4 0} 14. Nc2 {(Na3-c2 d6-d5 Qe4xd5 Qb2xc2 Qd5xc6+) +M500/5 6} d5
+{(d6-d5) -1.27/4 1} 15. Qxd5 {(Qe4xd5 Qb2xc2 Ra1-c1 Qc2-g6 Qd5xc6+) +M500/5
+6} Qxc2 {(Qb2xc2) -1.75/4 0} 16. Rc1 {(Ra1-c1 Qc2-g6 Kf2-g1 Nc6-a5 Be3xc5)
++M134/5 10} Qa4 {(Qc2-a4) -1.31/4 0} 17. c4 {(c3-c4 Qa4xa2 Qd5-e4 O-O
+Qe4xe7) +M500/5 10} Qa3 {(Qa4-a3) -0.05/4 0} 18. Qe4 {(Qd5-e4 f7-f5 Qe4-e6
+Qa3xa2 Qe6xe7+) +M500/5 8} Qxa2 {(Qa3xa2) -0.45/4 1} 19. Bxc5 {(Be3xc5 O-O
+Bc5xe7 Nc6xe7 Qe4xe7) +M500/5 7} f5 {(f7-f5) -0.37/4 0} 20. Qe6 {(Qe4-e6
+Rh8-f8 Rc1-d1 Rf8-h8 Bc5xe7 Nc6xe7) +200.00/6 20} Qb2 {(Qa2-b2) -0.61/4 0}
+21. Rd1 {(Rc1-d1 Ra8-d8 Rd1xd8+ Ke8xd8 Bc5xe7+ Nc6xe7) +200.00/6 28} Qf6
+{(Qb2-f6) -1.77/4 0} 22. Qd7+ {(Qe6-d7+ Ke8-f8 Bc5xe7+ Nc6xe7 Qd7xb7
+Kf8-g8) +280.00/6 13} Kf8 {(Ke8-f8) -2.64/4 0} 23. Bxe7+ {(Bc5xe7+ Qf6xe7
+Qd7xf5+ Kf8-g8 Qf5-d5+ Qe7-f7) +285.00/6 7} Qxe7 {(Qf6xe7) -2.72/4 0} 24.
+Qxf5+ {(Qd7xf5+ Kf8-g8 Rd1-d7 Ra8-f8 Qf5-d5+ Rf8-f7) +285.00/6 9} Ke8
+{(Kf8-e8) -2.58/4 0} 25. e4 {(e2-e4 a7-a6 Qf5-h5+ Ke8-f8 Qh5xh7) +M500/5 8}
+g6 {(g7-g6) -2.07/4 0} 26. Qg5 {(Qf5-g5 Rh8-f8 Qg5-e3 Qe7-e5 Kf2-g1 Rf8xf3)
++20.00/6 25} Qxg5 {(Qe7xg5) -2.40/4 0} 27. Nxg5 {(Nf3xg5 Rh8-f8+ Kf2-g1
+h7-h6 Rd1-d5 h6xg5) +26.00/6 3} Rd8 {(Ra8-d8) -2.68/4 0} 28. Rxd8+
+{(Rd1xd8+ Nc6xd8 Kf2-g1 Ke8-d7 Bf1-d3 Kd7-c8) +M484/6 2} Nxd8 {(Nc6xd8)
+-2.68/4 0} 29. Be2 {(Bf1-e2 Nd8-f7 Ng5xf7 Ke8xf7 Kf2-g1 Kf7-g8) +315.00/6
+4} Nf7 {(Nd8-f7) -2.66/4 0} 30. Nxf7 {(Ng5xf7 Ke8xf7 Rh1-f1 Rh8-f8 Kf2-g1+
+Kf7-g8) +315.00/6 3} Rf8 {(Rh8-f8) -2.86/4 0} 31. Ra1 {(Rh1-a1 Rf8xf7+
+Kf2-g1 Rf7-e7 Ra1xa7 Re7xe4) +316.00/6 2} a6 {(a7-a6) -3.26/4 0} 32. Kg1
+{(Kf2-g1 Rf8xf7 Be2-d1 Ke8-f8 Bd1-g4 Kf8-g8) +315.00/6 3} Rxf7 {(Rf8xf7)
+-2.97/4 0} 33. Bd1 {(Be2-d1 Rf7-c7 Bd1-a4+ Ke8-e7 e4-e5 Rc7xc4) +229.00/6
+15} Kd7 {(Ke8-d7) -2.59/4 0} 34. Bg4+ {(Bd1-g4+ Kd7-e8 Bg4-d1 Ke8-f8 Bd1-g4
+Kf8-g8) +315.00/6 6} Kd6 {(Kd7-d6) -2.58/4 0} 35. Rd1+ {(Ra1-d1+ Kd6-e5
+Bg4-f3 Ke5-e6 Bf3-g4+ Rf7-f5) +M34/6 4} Kc5 {(Kd6-c5) -2.54/4 0} 36. Rd5+
+{(Rd1-d5+ Kc5-b4 Rd5-d4 Rf7-e7 c4-c5+ Kb4xc5) +282.00/6 7} Kxc4 {(Kc5xc4)
+-1.46/4 0} 37. Be2+ {(Bg4-e2+ Kc4-b4 Be2-g4 Rf7-e7 Rd5-d4+ Kb4-c5)
++282.00/6 6} Kb4 {(Kc4-b4) -1.46/4 0} 38. e5 {(e4-e5 Rf7-e7 h2-h3 Kb4-c3
+Rd5-d3+ Kc3-c4) +277.00/6 12} Rc7 {(Rf7-c7) -1.40/4 0} 39. Bf3 {(Be2-f3
+Rc7-c1+ Rd5-d1 Rc1xd1+ Bf3xd1 Kb4-c5) +272.00/6 7} Kc4 {(Kb4-c4) -1.27/4 0}
+40. e6 {(e5-e6 Rc7-e7 Rd5-e5 Kc4-c3 Re5-c5+ Kc3-d4) +260.00/6 9} Re7
+{(Rc7-e7) -1.16/4 0} 41. Rd7 {(Rd5-d7 Re7-e8 Bf3xb7 Re8xe6 Rd7xh7 Kc4-d4)
++M500/6 4} Re8 {(Re7-e8) -3.60/4 0} 42. Bxb7 {(Bf3xb7 Kc4-c5 Bb7xa6 Re8xe6
+Ba6-b7 Kc5-b6) +M334/6 8} Kc5 {(Kc4-c5) -3.86/4 0} 43. e7 {(e6-e7 Kc5-b6
+Bb7-e4 a6-a5 Rd7-b7+ Kb6-a6) +M16/6 4} a5 {(a6-a5) -3.55/4 0} 44. Bd5
+{(Bb7-d5 Kc5-b6 Bd5-e4 h7-h6 Rd7-b7+ Kb6-a6) +M16/6 8} Rb8 {(Re8-b8)
+-3.55/4 0} 45. Be4 {(Bd5-e4 Rb8-e8 h2-h3 Kc5-b6 Rd7-b7+ Kb6-a6) +M16/6 4}
+Re8 {(Rb8-e8) -3.64/4 0} 46. Rd5+ {(Rd7-d5+ Kc5-b6 Rd5-d7 h7-h6 Rd7-b7+
+Kb6-a6) +M16/6 11} Kb4 {(Kc5-b4) -3.46/4 0} 47. Re5 {(Rd5-e5 Kb4-c3 Be4-c6
+Re8-c8 Bc6-d5 Kc3-d4) +M500/6 4} Kc3 {(Kb4-c3) -4.22/4 0} 48. Re6 {(Re5-e6
+Kc3-d4 Be4-c6 Re8-h8 Re6-e4+ Kd4-c5) +M500/6 5} Kd4 {(Kc3-d4) -6.52/4 0}
+49. Bc6 {(Be4-c6 Re8xe7 Re6xe7 Kd4-c5 Bc6-e4 Kc5-d6) +M500/6 6} Rb8
+{(Re8-b8) -6.52/4 0} 50. e8=Q {(e7-e8Q Rb8xe8 Bc6xe8 Kd4-d5 Be8-f7 Kd5-d4)
++M500/6 2} Rxe8 {(Rb8xe8) -6.70/4 0} 51. Bxe8 {(Bc6xe8 Kd4-d5 Re6-e7 Kd5-d6
+Re7xh7 Kd6-e6) +M500/6 1} Kd5 {(Kd4-d5) -8.23/4 0} 52. Re7 {(Re6-e7 Kd5-d6
+Re7xh7 g6-g5 Rh7-h6+ Kd6-e7) +M500/6 1} Kd4 {(Kd5-d4) -8.61/4 0} 53. Rxh7
+{(Re7xh7 Kd4-e5 Be8xg6 Ke5-d5 Rh7-d7+ Kd5-e6) +M500/6 2} g5 {(g6-g5)
+-9.69/4 0} 54. Rg7 {(Rh7-g7 Kd4-c5 Rg7xg5+ Kc5-b6 Rg5-e5 Kb6-c7) +M500/6 2}
+Kc3 {(Kd4-c3) -10.43/4 0} 55. Rxg5 {(Rg7xg5 Kc3-b4 Rg5-b5+ Kb4-a4 Rb5-e5+
+Ka4-b4) +M500/6 2} Kb4 {(Kc3-b4) -10.84/4 0} 56. Rb5+ {(Rg5-b5+ Kb4-c3
+Rb5xa5 Kc3-c4 Ra5-e5 Kc4-d4) +M500/6 3} Kc3 {(Kb4-c3) -11.58/4 0} 57. Rxa5
+{(Rb5xa5 Kc3-d4 Be8-f7 Kd4-e3 Ra5-a4 Ke3-d3) +M500/6 2} Kd2 {(Kc3-d2)
+-11.90/4 0 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "11"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "01:16:29"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "92"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -0.90/6 7} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 d7-d5 Qd1-b3 e7-e5 Qb3xd5) +1.05/5 3} Ne4
+{(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6) +1.15/5 4}
+Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8 Qc2xe4)
++3.10/5 3} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O Bc8-g4
+Bf4xd6) +1.35/5 6} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2 Bc8-g4 Na3-c4
+Qb6-c7 Nc4xd6+) +3.20/5 3} e5 {(e7-e5) -0.35/4 0} 8. Be3 {(Bf4-e3 e5xd4
+Be3xd4 c6-c5 Qc2xh7) +3.20/5 4} exd4 {(e5xd4) -1.50/4 0} 9. Bxd4 {(Be3xd4
+c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +1.15/6 16} c5 {(c6-c5) -1.48/4 0} 10.
+Qe4+ {(Qc2-e4+ Ke8-d8 Na3-c4 Qb6-c7 Nc4xd6) +3.25/5 3} Be6 {(Bc8-e6)
+-0.04/4 0} 11. Nc4 {(Na3-c4 Qb6-c6 Nc4xd6+ Qc6xd6 Qe4xe6+) +3.15/5 3} Qa6
+{(Qb6-a6) -0.04/4 0} 12. Nxd6+ {(Nc4xd6+ Qa6xd6 Bd4-e5 Qd6-e7 Be5xb8)
++3.10/5 3} Qxd6 {(Qa6xd6) -0.24/4 0} 13. Be5 {(Bd4-e5 Qd6-c6 Qe4-d3 Be6xa2
+Ra1xa2) +2.15/5 4} Qb6 {(Qd6-b6) +0.15/4 0} 14. Kg3 {(Kf2-g3 Qb6xb2 c3-c4
+Qb2-a3 Be5xb8) +2.10/5 5} Qxb2 {(Qb6xb2) +2.58/4 0} 15. Rb1 {(Ra1-b1 Qb2xa2
+Qe4xb7 Qa2xb1 Qb7xb1) +3.00/5 4} Qxa2 {(Qb2xa2) +2.93/4 0} 16. Rxb7
+{(Rb1xb7 Be6-d5 Rb7xb8+ Ra8xb8 Be5xb8+) +2.05/5 5} Bd5 {(Be6-d5) +2.59/4 0}
+17. Rxb8+ {(Rb7xb8+ Ra8xb8 Qe4-e3 Rb8-a8 Be5xg7+ Bf8-e7) -2.15/6 20} Rxb8
+{(Ra8xb8) +4.93/4 0} 18. Qe3 {(Qe4-e3 Bd5xf3 Be5xb8+ Bf8-e7 Kg3xf3) +2.02/5
+4} Rb7 {(Rb8-b7) +1.72/4 0} 19. Bxg7+ {(Be5xg7+ Rb7-e7 Qe3xc5 Re7xe2
+Qc5-c8+ Ke8-e7) -2.10/6 17} Re7 {(Rb7-e7) +1.72/4 0} 20. Qxc5 {(Qe3xc5
+Re7-d7 Bg7xf8 Rh8xf8 Qc5-c8+ Ke8-e7) -1.15/6 13} Rd7 {(Re7-d7) +0.27/4 0}
+21. Bxf8 {(Bg7xf8 Rh8-g8+ Kg3-f2 Bd5xf3 Kf2xf3) +1.95/5 2} Rxf8 {(Rh8xf8)
++1.63/4 0} 22. Ne5 {(Nf3-e5 Rf8-g8+ Kg3-f2 Rd7-d8 Qc5xd5) +2.05/5 2} Rg8+
+{(Rf8-g8+) +1.55/4 0} 23. Kf2 {(Kg3-f2 Rd7-d8 Qc5-b5+ Ke8-f8 Qb5-c5+
+Kf8-g7) -1.10/6 5} Bxg2 {(Bd5xg2) +0.15/4 0} 24. Nxd7 {(Ne5xd7 Bg2xh1
+Nd7-f6+ Ke8-d8 Nf6xg8 Qa2xe2+) +2.00/6 5} Kxd7 {(Ke8xd7) -2.29/4 0} 25.
+Bxg2 {(Bf1xg2 Qa2-a4 Bg2-h3+ Kd7-d8 Qc5-d5+ Kd8-e7) +3.08/6 5} Qd2
+{(Qa2-d2) -3.29/4 0} 26. Qxa7+ {(Qc5xa7+ Kd7-e6 Qa7-b6+ Ke6-e5 Qb6-c7+
+Ke5-e6) +4.01/6 10} Ke8 {(Kd7-e8) -9.21/4 0} 27. Qb8+ {(Qa7-b8+ Qd2-d8
+Bg2-c6+ Ke8-e7 Qb8-e5+ Ke7-f8) +4.12/6 8} Ke7 {(Ke8-e7) -9.42/4 0} 28. Qxg8
+{(Qb8xg8 Qd2-f4+ Kf2-g1 Qf4-c1+ Bg2-f1 Qc1xf1+) +6.14/6 3} Qxc3 {(Qd2xc3)
+-9.72/4 0} 29. Qg5+ {(Qg8-g5+ Qc3-f6+ Qg5xf6+ Ke7xf6 Kf2-g1 Kf6-e6) +8.17/6
+4} Qf6+ {(Qc3-f6+) -8.18/4 0} 30. Qxf6+ {(Qg5xf6+ Ke7xf6 e2-e4 Kf6-g7
+Kf2-g1 Kg7-g8) +8.15/6 0} Kxf6 {(Ke7xf6) -8.60/4 0} 31. Kg1 {(Kf2-g1 Kf6-g7
+Bg2-d5 h7-h6 e2-e4 Kg7-g8) +8.20/6 3} Ke5 {(Kf6-e5) -7.72/4 0} 32. e3
+{(e2-e3 f7-f5 Bg2-h3 h7-h6 Bh3-g2 Ke5-d6) +8.17/6 1} Kf5 {(Ke5-f5) -7.54/4
+0} 33. Bd5 {(Bg2-d5 Kf5-f6 e3-e4 Kf6-g7 e4-e5 Kg7-g8) +8.20/6 1} f6
+{(f7-f6) -7.82/4 0} 34. Bg8 {(Bd5-g8 h7-h5 Bg8-f7 Kf5-g5 e3-e4 Kg5-h6)
++8.33/6 1} h6 {(h7-h6) -7.83/4 0} 35. Bh7+ {(Bg8-h7+ Kf5-e5 e3-e4 Ke5-d6
+Bh7-g6 f6-f5) +8.27/6 1} Ke5 {(Kf5-e5) -8.06/4 0} 36. e4 {(e3-e4 Ke5-d6
+Bh7-g6 Kd6-e5 h2-h3 Ke5-d6) +8.27/6 1} Kf4 {(Ke5-f4) -7.97/4 0} 37. Bg6
+{(Bh7-g6 Kf4-e5 h2-h3 Ke5-d6 Rh1-h2 f6-f5) +8.27/6 0} Ke3 {(Kf4-e3) -7.72/4
+0} 38. Kg2 {(Kg1-g2 Ke3-d4 Rh1-a1 Kd4-e5 Ra1-a6 f6-f5) +8.52/6 1} Kf4
+{(Ke3-f4) -8.07/4 0} 39. Bf5 {(Bg6-f5 h6-h5 h2-h4 Kf4-e5 Rh1-d1 Ke5-f4)
++8.59/6 2} Ke3 {(Kf4-e3) -8.11/4 0} 40. Rd1 {(Rh1-d1 Ke3-f4 Kg2-g1 Kf4-e5
+Rd1-d5+ Ke5-f4) +8.82/6 2} Kf4 {(Ke3-f4) -8.32/4 0} 41. Rd5 {(Rd1-d5 Kf4-g5
+Bf5-h7+ Kg5-g4 Kg2-g1 Kg4-f4) +8.82/6 3} h5 {(h6-h5) -8.57/4 0} 42. h4
+{(h2-h4 Kf4-e3 Bf5-g6 Ke3-f4 Rd5xh5 f6-f5) +9.59/6 2} Ke3 {(Kf4-e3) -9.09/4
+0} 43. Bg6 {(Bf5-g6 Ke3-e2 Rd5xh5 Ke2-e3 Kg2-g1 Ke3-d4) +9.70/6 2} Ke2
+{(Ke3-e2) -9.25/4 0} 44. Bxh5+ {(Bg6xh5+ Ke2-e3 Bh5-g6 Ke3-e2 Kg2-g1
+Ke2-e3) +9.82/6 2} Ke3 {(Ke2-e3) -9.17/4 0} 45. Bf3 {(Bh5-f3 f6-f5 Rd5xf5
+Ke3-d3 Kg2-g1 Kd3-d4) +10.70/6 2} f5 {(f6-f5) -10.59/4 0} 46. Rxf5 {(Rd5xf5
+Ke3-d4 Kg2-g1 Kd4-e3 Bf3-g2 Ke3-d4) +10.70/6 2} Kd4 {(Ke3-d4) -10.91/4 0
+Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "11"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:20:43"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 31} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 8} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 10} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 10} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 11} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 13} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 7} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "11"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "01:27:29"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nf3
+{(Ng1-f3) +0.03/4 0} Be7 {(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+)
+-100.00/6 48} 3. Nc3 {(Nb1-c3) +0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4
+f5xe4) +100.00/5 5} 4. d5 {(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6
+Bc1-g5 a6xb5 Bg5xf6) -20.00/6 11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6
+d5xe6 Bc8xe6 Nb5-a3 Ng8-e7 Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0}
+exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "12"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian (Centre Counter)"]
+[Time "01:29:33"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. Bc4 dxc4
+{(d5xc4 Qd1-h5 Qd8-d4 Qh5-b5+ c7-c6 Qb5xc6+) +1.95/6 8} 3. Nf3 {(Ng1-f3)
+-2.47/4 0} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 g2xf3 Qd8xd2+) +3.90/5 4} 4. Nc3
+{(Nb1-c3) -2.42/4 0} Nc6 {(Nb8-c6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) +2.70/6
+19} 5. Nd5 {(Nc3-d5) -2.62/4 0} Ne5 {(Nc6-e5 Nd5-e3 Bg4-h5 Ne3xc4 Bh5xf3)
++5.00/5 3} 6. Qe2 {(Qd1-e2) -2.72/4 0} Bh5 {(Bg4-h5 Nd5-e3 Ng8-f6 Ne3xc4
+Bh5xf3) +5.05/5 3} 7. Qe3 {(Qe2-e3) -2.67/4 0} Bxf3 {(Bh5xf3 g2xf3 c7-c6
+Nd5-b4 Ng8-f6 Qe3xa7) +2.00/6 11} 8. gxf3 {(g2xf3) -2.67/4 0} e6 {(e7-e6
+Nd5-c3 Bf8-b4 Nc3-b5 Qd8xd2+) +4.00/5 3} 9. Nc3 {(Nd5-c3) -2.73/4 0} Qf6
+{(Qd8-f6 Nc3-b5 Ne5xf3+ Ke1-e2 Nf3xh2) +4.90/5 5} 10. f4 {(f3-f4) -2.51/4
+0} Ng4 {(Ne5-g4 Qe3-f3 Ng4-e5 Qf3-d1 Qf6xf4) +3.95/5 4} 11. Qg3 {(Qe3-g3)
+-2.36/4 0} N8h6 {(Ng8-h6 Nc3-b5 Qf6-e7 O-O Ng4xf2) +3.75/5 5} 12. h3
+{(h2-h3) -1.89/4 0} e5 {(e6-e5 Nc3-b5 Qf6xf4 Nb5xc7+ Ke8-e7) +3.05/5 3} 13.
+Nd5 {(Nc3-d5) +0.21/4 0} Qd6 {(Qf6-d6 h3xg4 e5xf4 Nd5xc7+ Qd6xc7) +2.95/5
+2} 14. hxg4 {(h3xg4) +0.26/4 0} f6 {(f7-f6 f4xe5 f6xe5 Nd5-c3 Qd6xd2+)
++1.00/5 3} 15. Qc3 {(Qg3-c3) +1.84/4 0} exf4 {(e5xf4 Qc3xc4 O-O-O Rh1-h4
+Nh6-f7 Qc4xc7+) -0.95/6 16  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "12"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:31:28"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 32} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 18} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 2} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "12"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:40:43"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -5.00/6 9} Qf6 {(Qd8-f6)
+-1.95/4 0} 3. Nf3 {(Ne5-f3 d7-d5 e2-e4 Bc8-d7 Nf3-g1 d5xe4) -15.00/6 22}
+Nc6 {(Nb8-c6) -1.60/4 0} 4. e3 {(e2-e3 Ng8-e7 Bf1-b5 Nc6-a5 Nf3-g1 Qf6xf2+)
+-5.00/6 32} Bb4 {(Bf8-b4) -1.05/4 0} 5. c3 {(c2-c3 Bb4-e7 Bf1-b5 Nc6-a5
+Bb5xd7+) +200.00/5 5} Ba5 {(Bb4-a5) -0.62/4 0} 6. Qa4 {(Qd1-a4 d7-d5 d2-d4
+Ba5xc3+ Nb1xc3) +305.00/5 5} Nge7 {(Ng8-e7) -0.62/4 0} 7. Bb5 {(Bf1-b5
+Ba5-b6 Qa4-e4 Bb6xe3 f2xe3) +305.00/5 10} Qg6 {(Qf6-g6) -0.52/4 0} 8. Bxc6
+{(Bb5xc6 d7xc6 Qa4xa5 Qg6xg2 Qa5xc7) +M500/5 5} Nxc6 {(Ne7xc6) -0.27/4 0}
+9. O-O {(O-O O-O Qa4-a3 Rf8-e8 Qa3xa5) +M500/5 7  Arena Adjudication.
+Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "13"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:42:44"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} f5 2. h3
+{(h2-h3 d7-d5 Nf3-e5 Nb8-d7 Ne5xd7 Bc8xd7) -0.15/6 10} Nc6 3. e3 {(e2-e3
+Nc6-b4 c2-c4 Ng8-f6 a2-a3 d7-d5) -0.15/6 10} Nf6 {(Ng8-f6) +0.10/4 0} 4. c3
+{(c2-c3 Nf6-e4 Bf1-d3 d7-d5 Bd3xe4 f5xe4) -0.20/6 21} Ne4 {(Nf6-e4) +0.78/4
+0} 5. Bd3 {(Bf1-d3 Ne4-d6 O-O b7-b5 Bd3xf5) +1.20/5 4} Rb8 {(Ra8-b8)
++0.55/4 0} 6. O-O {(O-O b7-b5 Nb1-a3 Ne4-f6 Bd3xf5) +1.25/5 4  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "13"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:43:51"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 22} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 9} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 13} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "13"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "01:50:32"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Bf4
+Nc6 {(Nb8-c6 e2-e4 Bf8-b4+ Ke1-e2 Nc6xd4+) +100.00/5 4} 3. Nf3 {(Ng1-f3)
+-0.30/4 0} d5 {(d7-d5 Bf4-g3 Bf8-b4+ c2-c3 Nc6xd4) +115.00/5 4} 4. Nc3
+{(Nb1-c3) +0.25/4 0} Qf6 {(Qd8-f6 Bf4xc7 Bf8-b4 e2-e4 Bb4xc3+) +190.00/5 7}
+5. Bxc7 {(Bf4xc7) +1.88/4 0} Bb4 {(Bf8-b4 Bc7-g3 Bb4xc3+ b2xc3 Qf6xf3)
++200.00/5 5} 6. Be5 {(Bc7-e5) +1.83/4 0} Nxe5 {(Nc6xe5 d4xe5 Qf6-e7 Nf3-d4
+Bb4xc3+ b2xc3) -110.00/6 12} 7. dxe5 {(d4xe5) +1.63/4 0} Bxc3+ {(Bb4xc3+
+b2xc3 Qf6-e7 Qd1-d4 Ng8-h6 Qd4xd5) -215.00/6 17} 8. bxc3 {(b2xc3) +1.47/4
+0} Qd8 {(Qf6-d8 Qd1-d4 Ng8-h6 Qd4-d2 Nh6-f5 Qd2xd5) -215.00/6 16} 9. Qd3
+{(Qd1-d3) +1.77/4 0} Qc7 {(Qd8-c7 O-O-O Bc8-d7 e2-e4 Qc7xe5) -15.00/5 4}
+10. Qe3 {(Qd3-e3) +1.77/4 0} Ne7 {(Ng8-e7 O-O-O O-O Nf3-d4 Qc7xe5) +10.00/5
+5} 11. Qd4 {(Qe3-d4) +1.37/4 0} Nc6 {(Ne7-c6 Qd4-c5 b7-b6 Qc5-b5 Qc7xe5)
++15.00/5 6} 12. Qc5 {(Qd4-c5) +1.45/4 0} Bd7 {(Bc8-d7 Qc5-d6 Qc7-d8 O-O-O
+Nc6xe5) 0.00/5 5} 13. Rd1 {(Ra1-d1) +1.39/4 0} O-O-O {(O-O-O Qc5-d6 Qc7-b6
+e2-e4 Nc6xe5) +30.00/5 8  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "14"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "01:52:40"]
+[Variation "2...Qxd5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "51"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. exd5
+{(e4xd5) +0.20/4 0} Qxd5 {(Qd8xd5 Qd1-e2 Qd5-e6 d2-d4 Qe6xe2+ Ng1xe2)
+-0.15/6 7} 3. Ne2 {(Ng1-e2) +0.30/4 0} Qe6 {(Qd5-e6 d2-d4 Bc8-d7 Nb1-c3
+Qe6xe2+) +2.90/5 3} 4. Nc3 {(Nb1-c3) -0.12/4 0} Bd7 {(Bc8-d7 d2-d4 Qe6-b6
+Nc3-d5 Qb6-a5+ Bc1-d2) -0.25/6 24} 5. d3 {(d2-d3) -0.15/4 0} Qb6 {(Qe6-b6
+d3-d4 Qb6-b4 Bc1-g5 Qb4xc3+) +2.85/5 3} 6. Nf4 {(Ne2-f4) +0.25/4 0} Qd4
+{(Qb6-d4 Bf1-e2 e7-e5 O-O Qd4xc3) +2.85/5 6} 7. Nfd5 {(Nf4-d5) +0.75/4 0}
+Qe5+ {(Qd4-e5+ Bf1-e2 Nb8-a6 d3-d4 Qe5-e6 Nd5xc7+) -1.15/6 15} 8. Be2
+{(Bf1-e2) +1.25/4 0} Bg4 {(Bd7-g4 Nd5xc7+ Qe5xc7 Be2xg4 Qc7xc3+) +1.95/5 3}
+9. Nxc7+ {(Nd5xc7+) +2.18/4 0} Qxc7 {(Qe5xc7 Be2xg4 Qc7-e5+ Nc3-e4 Ng8-f6
+d3-d4) -1.15/6 3} 10. Bxg4 {(Be2xg4) +1.93/4 0} Nf6 {(Ng8-f6 O-O Nf6xg4
+Qd1xg4 Qc7xc3) +1.80/5 3} 11. Be3 {(Bc1-e3) +1.75/4 0} e5 {(e7-e5 Bg4-f3
+Bf8-b4 Be3xa7 Qc7xc3+) +1.10/5 5} 12. Bg5 {(Be3-g5) +2.38/4 0} Bb4 {(Bf8-b4
+Bg4-f3 Nf6-d7 Bf3xb7 Qc7xc3+) +1.10/5 3} 13. Bxf6 {(Bg5xf6) +2.37/4 0}
+Bxc3+ {(Bb4xc3+ b2xc3 Qc7xc3+ Ke1-e2 g7xf6 d3-d4) -0.05/6 13} 14. bxc3
+{(b2xc3) -0.08/4 0} Qxc3+ {(Qc7xc3+ Ke1-e2 g7xf6 Bg4-h5 O-O Bh5xf7+)
+-0.75/6 8} 15. Kf1 {(Ke1-f1) +0.65/4 0} gxf6 {(g7xf6 Ra1-b1 Qc3-c7 Kf1-g1
+O-O Rb1xb7) -0.95/6 13} 16. Rb1 {(Ra1-b1) +0.76/4 0} Qc7 {(Qc3-c7 Bg4-f5
+Nb8-a6 Kf1-g1 Qc7xc2) +0.90/5 4} 17. Kg1 {(Kf1-g1) +0.90/4 0} Na6 {(Nb8-a6
+Bg4-f5 Qc7-c6 Qd1-h5 Qc6xg2+) +0.90/5 3} 18. Qf3 {(Qd1-f3) +1.50/4 0} Qc6
+{(Qc7-c6 Qf3-e2 O-O d3-d4 Na6-c7 Qe2xe5) -1.15/6 11} 19. Rxb7 {(Rb1xb7)
++3.16/4 0} Qxc2 {(Qc6xc2 Rb7xf7 Qc2-b1+ Qf3-d1 Qb1xd1+ Bg4xd1) -1.01/6 5}
+20. Bd7+ {(Bg4-d7+) +4.55/4 0} Kf8 {(Ke8-f8 g2-g4 Qc2xa2 Qf3xf6 Qa2-a1+
+Rb7-b1) -0.10/6 4} 21. Bg4 {(Bd7-g4) +1.72/4 0} Qxa2 {(Qc2xa2 Rb7xf7+
+Kf8xf7 Bg4-h5+ Kf7-g8 Qf3xa8+) +0.10/6 5} 22. Qd1 {(Qf3-d1) +0.55/4 0} Kg8
+{(Kf8-g8 Bg4-f5 h7-h5 Bf5-e4 Qa2xf2+) +2.05/5 4} 23. Bh5 {(Bg4-h5) +2.28/4
+0} Qa5 {(Qa2-a5 Bh5xf7+ Kg8-f8 Qd1-h5 Na6-c7) -0.10/5 2} 24. Qg4+
+{(Qd1-g4+) +3.23/4 0} Kf8 {(Kg8-f8 Rb7xf7+ Kf8-e8 Qg4-d7+) -M4/6 1} 25.
+Rxf7+ {(Rb7xf7+) +299.97/4 0} Ke8 {(Kf8-e8 Qg4-d7+) -M3/6 1} 26. Qd7#
+{(Qg4-d7+) +299.99/4 0} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "14"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "01:55:47"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 31} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 8}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "14"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:05:01"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "74"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -5.00/6 9} Nc6 3. d4 {(d2-d4
+Nc6xe5 d4xe5 Bf8-b4+ c2-c3 Bb4xc3+) +5.00/6 8} Bb4+ {(Bf8-b4+) -1.13/4 0}
+4. Bd2 {(Bc1-d2 Bb4-d6 Ne5xc6 d7xc6 e2-e4 Bd6xh2) +20.00/6 2} Nxe5
+{(Nc6xe5) -1.15/4 0} 5. Bxb4 {(Bd2xb4 Ne5-g4 h2-h3 Qd8-h4 e2-e4 Ng4xf2)
++20.00/6 5} Ng4 {(Ne5-g4) -1.14/4 0} 6. Qd3 {(Qd1-d3 d7-d5 Qd3-h3 Ng4xh2
+Rh1xh2) +305.00/5 5} Ne7 {(Ng8-e7) -1.24/4 0} 7. Qe4 {(Qd3-e4 d7-d6 Nb1-c3
+Ng4xh2 Rh1xh2) +M384/5 8} d6 {(d7-d6) -1.52/4 0} 8. Qf4 {(Qe4-f4 O-O e2-e4
+Ng4xh2 Rh1xh2) +300.00/5 13} Nc6 {(Ne7-c6) -1.15/4 0} 9. d5 {(d4-d5 Nc6xb4
+Qf4xb4 O-O e2-e4 Ng4xh2) -5.00/6 18} Nxb4 {(Nc6xb4) -0.67/4 0} 10. Qe4+
+{(Qf4-e4+ Qd8-e7 Qe4xb4 O-O Qb4-d4 Ng4xh2) -10.00/6 7} Qe7 {(Qd8-e7)
+-0.02/4 0} 11. Qxb4 {(Qe4xb4 O-O Qb4-d4 Qe7-g5 e2-e4 Qg5xd5) -15.00/6 5}
+Nxf2 {(Ng4xf2) -0.47/4 0} 12. Kxf2 {(Ke1xf2 Qe7-f6+ Kf2-g1 O-O e2-e4
+Qf6xf1+) +20.00/6 10} Qe5 {(Qe7-e5) -1.50/4 0} 13. Qc3 {(Qb4-c3 Qe5-f4+
+Qc3-f3 Qf4-d4+ Kf2-g3 Qd4xd5) +195.00/6 23} Bf5 {(Bc8-f5) -1.61/4 0} 14. e4
+{(e2-e4 Bf5xe4 Bf1-b5+ Ke8-d8 Qc3xe5 d6xe5) +195.00/6 14} Bxe4 {(Bf5xe4)
+-0.53/4 0} 15. Qxe5+ {(Qc3xe5+ d6xe5 Nb1-c3 Be4xc2 Bf1-b5+ Ke8-e7)
++103.00/6 15} dxe5 {(d6xe5) -0.68/4 0} 16. Bb5+ {(Bf1-b5+ Ke8-d8 Nb1-c3
+Be4xc2 Kf2-g1 Kd8-c8) +103.00/6 10} Kf8 {(Ke8-f8) -0.68/4 0} 17. Re1
+{(Rh1-e1 Be4xd5 Re1xe5 c7-c6 Bb5-a4 Bd5xg2) +107.00/6 16} Bxc2 {(Be4xc2)
+-0.71/4 0} 18. Na3 {(Nb1-a3 Bc2-g6 Re1xe5 Ra8-d8 Kf2-g1 Rd8xd5) +123.00/6
+17} Bg6 {(Bc2-g6) -0.76/4 0} 19. Rxe5 {(Re1xe5 Ra8-d8 Kf2-g1 Kf8-g8 d5-d6
+c7xd6) +110.00/6 22} Kg8 {(Kf8-g8) -1.08/4 0} 20. Kg1 {(Kf2-g1 c7-c6 d5xc6
+b7xc6 Bb5xc6) +310.00/5 10} Rd8 {(Ra8-d8) -1.53/4 0} 21. Rg5 {(Re5-g5 h7-h6
+Rg5-g4 Bg6-h7 Rg4xg7+) +315.00/5 8} f6 {(f7-f6) 0.00/4 0} 22. Rg4 {(Rg5-g4
+Bg6-f7 Bb5-c4 Bf7xd5 Bc4xd5+ Rd8xd5) +100.00/6 10} Be8 {(Bg6-e8) -1.28/4 0}
+23. Bxe8 {(Bb5xe8 Rd8xe8 Rg4-c4 Re8-e5 Rc4xc7 Re5xd5) +200.00/6 10} Rxe8
+{(Rd8xe8) -1.20/4 0} 24. Rc4 {(Rg4-c4 Re8-e7 Rc4-b4 Re7-e5 Rb4xb7 Re5xd5)
++200.00/6 16} Re2 {(Re8-e2) -1.54/4 0} 25. Rxc7 {(Rc4xc7 Re2-e8 Rc7xb7
+Re8-d8 Rb7xa7 Rd8xd5) +M500/6 7} Re8 {(Re2-e8) -4.38/4 0} 26. Rxb7 {(Rc7xb7
+a7-a6 Rb7-a7 Re8-d8 Ra7xa6 Rd8xd5) +M500/6 16} a6 {(a7-a6) -5.18/4 0} 27.
+Ra7 {(Rb7-a7 Re8-f8 Ra7xa6 Rf8-d8 d5-d6 Rd8xd6) +M500/6 21} Rd8 {(Re8-d8)
+-5.25/4 0} 28. Rxa6 {(Ra7xa6 Kg8-f8 Ra6-a7 Kf8-g8 d5-d6 Rd8xd6) +M500/6 7}
+Rb8 {(Rd8-b8) -6.21/4 0} 29. Rd6 {(Ra6-d6 Kg8-f7 Rd6-d7+ Kf7-g8 Rd7-e7
+Rb8xb2) +M500/6 15} Re8 {(Rb8-e8) -6.13/4 0} 30. Rd7 {(Rd6-d7 Re8-f8 Na3-b5
+Rf8-b8 Nb5-d4 Rb8xb2) +M500/6 19} Rb8 {(Re8-b8) -6.68/4 0} 31. Nb5 {(Na3-b5
+Kg8-f8 Nb5-d4 Kf8-g8 Rd7-e7 Rb8xb2) +M500/6 12} f5 {(f6-f5) -6.24/4 0} 32.
+Nd4 {(Nb5-d4 Rb8-f8 Nd4-e6 Rf8-f7 Rd7xf7 Kg8xf7) +M500/6 9} f4 {(f5-f4)
+-6.87/4 0} 33. Ne6 {(Nd4-e6 Rb8xb2 Rd7xg7+) +M500/6 9} Rb7 {(Rb8-b7)
+-13.53/4 0} 34. Rxb7 {(Rd7xb7 h7-h5 Rb7xg7+) +M500/6 4} f3 {(f4-f3)
+-299.98/4 0} 35. gxf3 {(g2xf3 h7-h5 Rb7xg7+) +M500/6 5} g6 {(g7-g6)
+-299.98/4 0} 36. Nd4 {(Ne6-d4 Kg8-f8 Ra1-c1 Rh8-g8 Rc1-c8+) +M500/6 6} h6
+{(h7-h6) -13.99/4 0} 37. Re1 {(Ra1-e1 Rh8-h7 Re1-e8+) +M500/6 7} Kf8
+{(Kg8-f8) -14.86/4 0 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "15"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "02:12:31"]
+[Variation "2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d5 2. d4
+{(d2-d4 Qd8-d6 e2-e4 Qd6-b4+ c2-c3 Qb4xd4) -1.00/6 11} Nc6 {(Nb8-c6)
+-0.30/4 0} 3. Nc3 {(Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Nc3xd5) +1.05/5 3} Bf5
+{(Bc8-f5) -0.15/4 0} 4. Nh4 {(Nf3-h4 e7-e6 Nh4xf5 e6xf5 Nc3xd5) +1.15/5 5}
+Bg4 {(Bf5-g4) 0.00/4 0} 5. h3 {(h2-h3 Bg4-e6 Bc1-g5 Nc6-b4 Nc3xd5) +1.20/5
+4} Be6 {(Bg4-e6) +0.30/4 0} 6. Qd3 {(Qd1-d3 Nc6-b8 Qd3-b5+ c7-c6 Nc3xd5)
++1.20/5 5} Nf6 {(Ng8-f6) +0.43/4 0} 7. Qb5 {(Qd3-b5 Be6-c8 e2-e4 d5xe4
+Qb5xc6+) +2.05/5 6} a6 {(a7-a6) +0.45/4 0} 8. Qd3 {(Qb5-d3 Nc6-b4 Qd3-d2
+Nb4-c6 e2-e4 Nc6xd4) -1.10/6 21} Ne4 {(Nf6-e4) +0.40/4 1} 9. Nxe4 {(Nc3xe4
+d5xe4 Qd3xe4 Be6-d5 Qe4-d3 Nc6xd4) -0.15/6 22} dxe4 {(d5xe4) +0.79/4 0} 10.
+Qxe4 {(Qd3xe4 Qd8xd4 Qe4xd4 Nc6xd4 e2-e4 Be6xh3) -1.00/6 15} Qxd4 {(Qd8xd4)
++0.53/4 0} 11. Qxd4 {(Qe4xd4 Nc6xd4 Ke1-d1 O-O-O e2-e4 Be6xh3) -1.18/6 12}
+Nxd4 {(Nc6xd4) +1.81/4 0} 12. Kd2 {(Ke1-d2 O-O-O Kd2-c3 Nd4-b5+ Kc3-b4
+Be6xh3) -1.71/6 9} Rd8 {(Ra8-d8) +2.62/4 0} 13. Kc3 {(Kd2-c3 Nd4-b5+ Kc3-b4
+Rd8-d4+ Kb4-c5) -0.56/5 2} Nb5+ {(Nd4-b5+) +4.74/4 0} 14. Kb4 {(Kc3-b4
+Rd8-d4+ c2-c4 Rd4xc4+ Kb4-b3 Rc4xh4+) -4.10/6 2} Nd4 {(Nb5-d4) +4.74/4 0}
+15. Kc3 {(Kb4-c3 Nd4-b5+ Kc3-b4 Rd8-d4+ Kb4-c5 Rd4xh4) -3.56/6 5} Nb5+
+{(Nd4-b5+) +4.74/4 0} 16. Kb4 {(Kc3-b4 Rd8-d4+ c2-c4 Rd4xc4+ Kb4-b3
+Rc4xh4+) -4.10/6 2} Nd4 {(Nb5-d4) +4.74/4 0} 17. Kc3 {(Kb4-c3 Nd4-b5+
+Kc3-b4 Rd8-d4+ Kb4-c5 Rd4xh4) -3.56/6 5 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "15"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:15:09"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 8} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 6} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "15"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "02:21:54"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nf3
+Be7 {(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+) -100.00/6 48} 3. Nc3
+{(Nb1-c3) +0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4 f5xe4) +100.00/5 5} 4.
+d5 {(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6)
+-20.00/6 11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 Nb5-a3
+Ng8-e7 Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7
+Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena Adjudication. Illegal
+move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "16"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:23:57"]
+[Variation "1...d5 2.e4 dxe4"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "34"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. Nc3 dxe4
+{(d5xe4 Nc3xe4 Qd8-d4 Qd1-f3 e7-e5 Qf3xf7+) -0.95/6 10} 3. Nxe4 {(Nc3xe4)
++0.20/4 0} Bd7 {(Bc8-d7 Qd1-h5 Ng8-f6 Ne4xf6+ g7xf6 Qh5xf7+) -0.95/6 22} 4.
+Nf3 {(Ng1-f3) +0.68/4 0} Bc6 {(Bd7-c6 Ne4-c3 Bc6xf3 g2xf3 Qd8xd2+) +0.95/5
+3} 5. Bd3 {(Bf1-d3) +0.73/4 0} Nd7 {(Nb8-d7 O-O e7-e5 Nf3-g5 Bc6xe4 Bd3xe4)
+-0.20/6 21} 6. Neg5 {(Ne4-g5) +0.61/4 0} h6 {(h7-h6 Ng5-h7 Ng8-f6 Nh7xf6+
+g7xf6 O-O) -0.20/6 16} 7. Ne4 {(Ng5-e4) +0.73/4 0} Ngf6 {(Ng8-f6 Ne4xf6+
+Nd7xf6 O-O Bc6xf3) +2.85/5 3} 8. Qe2 {(Qd1-e2) +0.58/4 0} Nh5 {(Nf6-h5
+Nf3-d4 Nh5-f4 Nd4xc6 b7xc6 O-O) -0.25/6 11} 9. Bc4 {(Bd3-c4) +1.31/4 0} e6
+{(e7-e6 Qe2-e3 Bf8-b4 Bc4xe6 Bc6xe4) +2.15/5 3} 10. Nd4 {(Nf3-d4) +1.31/4
+0} Bxe4 {(Bc6xe4 Qe2xe4 Qd8-g5 O-O O-O-O Bc4xe6) -1.10/6 23} 11. Qxe4
+{(Qe2xe4) +1.50/4 0} c6 {(c7-c6 Nd4-f5 Nd7-f6 Qe4-e5 Qd8xd2+) +0.95/5 8}
+12. Nxe6 {(Nd4xe6) +5.01/4 0} Qe7 {(Qd8-e7 Ne6-c7+ Ke8-d8 Qe4xe7+ Bf8xe7
+Nc7xa8) -6.05/6 6} 13. Nc7+ {(Ne6-c7+) +8.12/4 0} Kd8 {(Ke8-d8 Qe4xe7+
+Bf8xe7 Nc7xa8 f7-f5 O-O) -6.21/6 1} 14. Qxe7+ {(Qe4xe7+) +7.33/4 0} Bxe7
+{(Bf8xe7 Nc7xa8 Nd7-e5 Bc4-e2 Nh5-f4 O-O) -6.16/6 3} 15. Nxa8 {(Nc7xa8)
++7.45/4 0} Ne5 {(Nd7-e5 Bc4-b3 Kd8-c8 O-O f7-f5 d2-d4) -6.08/6 12} 16. b3
+{(b2-b3) +6.50/4 0} Nxc4 {(Ne5xc4 b3xc4 Kd8-d7 g2-g4 Rh8xa8 g4xh5) -6.03/6
+22} 17. bxc4 {(b3xc4) +6.61/4 0} Kd7 {(Kd8-d7 Ra1-b1 b7-b6 g2-g4 Rh8xa8
+g4xh5) -6.03/6 12  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "16"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:27:20"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 32} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "16"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:36:33"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "79"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} f5 2. Rg1
+{(Rh1-g1 d7-d5 Nb1-c3 Nb8-c6 Nf3-g5 e7-e5) -15.00/6 21} Nf6 3. d4 {(d2-d4
+e7-e6 Bc1-g5 Bf8-b4+ c2-c3 Bb4xc3+) -90.00/6 26} Nc6 {(Nb8-c6) -0.45/4 0}
+4. c3 {(c2-c3 Nf6-d5 Nf3-e5 Nc6xe5 d4xe5 Nd5xc3) -95.00/6 24} Ng4 {(Nf6-g4)
++0.43/4 0} 5. Qa4 {(Qd1-a4 Nc6-b8 Bc1-g5 Rh8-g8 Bg5xe7) +115.00/5 6} Rg8
+{(Rh8-g8) +0.55/4 0} 6. h3 {(h2-h3 Ng4-f6 Qa4-c4 d7-d5 Qc4xc6+) +300.00/5
+5} Nxf2 {(Ng4xf2) +0.68/4 0} 7. Kxf2 {(Ke1xf2 d7-d5 Nf3-e5 Bc8-d7 Ne5xd7
+Ke8xd7) +195.00/6 10} b6 {(b7-b6) -0.07/4 0} 8. Qb5 {(Qa4-b5 e7-e5 Qb5-d5
+Rg8-h8 Qd5xc6) +M500/5 6} e6 {(e7-e6) +0.30/4 0} 9. Qa4 {(Qb5-a4 Bf8-e7
+e2-e4 Nc6-b8 Qa4xd7+) +M384/5 11} Qf6 {(Qd8-f6) +0.35/4 0} 10. Bf4 {(Bc1-f4
+h7-h6 Bf4xc7 Nc6-e7 Bc7xb6) +M500/5 11} Bd6 {(Bf8-d6) +0.90/4 0} 11. Bxd6
+{(Bf4xd6 c7xd6 Rg1-h1 d6-d5 Kf2-g1 Nc6xd4) +105.00/6 20} cxd6 {(c7xd6)
++0.15/4 0} 12. Rh1 {(Rg1-h1 d6-d5 e2-e4 Nc6-e7 e4xd5) +M384/5 9} b5
+{(b6-b5) -0.70/4 0} 13. Qb3 {(Qa4-b3 Qf6-h6 d4-d5 e6xd5 Qb3xd5 Qh6xh3)
++105.00/6 24} Ba6 {(Bc8-a6) -1.15/4 0} 14. Qa3 {(Qb3-a3 Ba6-b7 Qa3xd6
+Nc6-a5 Qd6xd7+) +M500/5 5} Bb7 {(Ba6-b7) -1.06/4 0} 15. Qxd6 {(Qa3xd6
+Nc6-a5 d4-d5 O-O-O Qd6xd7+) +M500/5 4} Qe7 {(Qf6-e7) -2.41/4 1} 16. Qxe7+
+{(Qd6xe7+ Nc6xe7 Nf3-e5 d7-d6 Ne5-d3 Bb7xg2) +205.00/6 16} Nxe7 {(Nc6xe7)
+-2.41/4 0} 17. Na3 {(Nb1-a3 a7-a6 Nf3-e5 d7-d6 Ne5-d3 Bb7xg2) +210.00/6 33}
+Bxf3 {(Bb7xf3) -2.43/4 0} 18. Nxb5 {(Na3xb5 Bf3xg2 Nb5-d6+ Ke8-d8 Bf1xg2
+e6-e5) +305.00/6 9} Bxg2 {(Bf3xg2) -2.34/4 0} 19. Bxg2 {(Bf1xg2 Ra8-b8
+c3-c4 e6-e5 Nb5-c7+ Ke8-d8) +305.00/6 6} Rb8 {(Ra8-b8) -2.39/4 0} 20. Nxa7
+{(Nb5xa7 d7-d5 Bg2-f3 Rb8xb2 Bf3-h5+ Ke8-d7) +303.00/6 17} Rxb2 {(Rb8xb2)
+-1.95/4 0} 21. Rhb1 {(Rh1-b1 Rb2-c2 Rb1-b8+ Ke8-f7 Rb8xg8 Kf7xg8) +299.00/6
+24} Rc2 {(Rb2-c2) -2.15/4 0} 22. Rc1 {(Rb1-c1 Rc2-d2 Rc1-d1 Rd2-c2 Kf2-g1
+Rc2xc3) +231.00/6 17} Rb2 {(Rc2-b2) -2.15/4 0} 23. Bf3 {(Bg2-f3 Ne7-d5
+Kf2-g1 Nd5-e3 Bf3-d5) +M416/5 4} Ng6 {(Ne7-g6) -1.83/4 0} 24. Bh5 {(Bf3-h5
+Ke8-e7 Rc1-g1 Ng6-h4 Rg1xg7+) +M500/5 6} Rf8 {(Rg8-f8) -2.42/4 0} 25. Rcb1
+{(Rc1-b1 Rb2xb1 Ra1xb1 e6-e5 Bh5xg6+) +M500/5 3} Rc2 {(Rb2-c2) -2.45/4 0}
+26. Bxg6+ {(Bh5xg6+ h7xg6 Rb1-b8+ Ke8-f7 Rb8xf8+ Kf7xf8) +317.00/6 9} hxg6
+{(h7xg6) -2.58/4 0} 27. Rb8+ {(Rb1-b8+ Ke8-f7 Rb8xf8+ Kf7xf8 Kf2-g1 Rc2xc3)
++233.00/6 6} Ke7 {(Ke8-e7) -2.80/4 0} 28. Rxf8 {(Rb8xf8 Ke7xf8 Na7-b5
+Kf8-g8 Kf2-g1 Rc2xc3) +215.00/6 5} Kxf8 {(Ke7xf8) -2.83/4 0} 29. Nb5
+{(Na7-b5 Kf8-g8 Kf2-g1 Rc2xe2 a2-a3 e6-e5) +205.00/6 3} Ke7 {(Kf8-e7)
+-2.73/4 0} 30. Rg1 {(Ra1-g1 Ke7-f6 Nb5-c7 Rc2xc3 Nc7-e8+ Kf6-e7) +213.00/6
+7} Rxa2 {(Rc2xa2) -2.30/4 0} 31. Rxg6 {(Rg1xg6 Ra2-a5 Rg6xg7+ Ke7-f6 Rg7xd7
+Ra5xb5) +208.00/6 4} Kf7 {(Ke7-f7) -2.35/4 0} 32. Rg5 {(Rg6-g5 d7-d5 Rg5-h5
+Kf7-g8 Kf2-g1 Ra2xe2) +205.00/6 4} Kf6 {(Kf7-f6) -2.10/4 0} 33. Rg3
+{(Rg5-g3 Ra2-a8 Nb5-d6 Ra8-h8 Kf2-g1 Rh8xh3) +229.00/6 5} Rb2 {(Ra2-b2)
+-2.18/4 0} 34. Nd6 {(Nb5-d6 g7-g6 Kf2-f3 Kf6-g7 Nd6-e8+ Kg7-g8) +301.00/6
+4} Rb8 {(Rb2-b8) -2.48/4 0} 35. e4 {(e2-e4 f5xe4 Nd6xe4+ Kf6-f7 Kf2-g1
+Kf7-g8) +M384/6 6} Rb2+ {(Rb8-b2+) -2.18/4 0} 36. Kf3 {(Kf2-f3 f5xe4+
+Kf3-e3 e6-e5 Nd6xe4+ Kf6-e6) +310.00/6 0} fxe4+ {(f5xe4+) -2.40/4 0} 37.
+Ke3 {(Kf3-e3 Kf6-e7 Nd6xe4 Ke7-f8 Rg3-f3+ Kf8-g8) +308.00/6 0} Rh2
+{(Rb2-h2) -2.49/4 0} 38. Nxe4+ {(Nd6xe4+ Kf6-f7 c3-c4 Kf7-f8 Rg3-f3+
+Kf8-g8) +308.00/6 1} Kf7 {(Kf6-f7) -2.71/4 0} 39. Nd6+ {(Ne4-d6+ Kf7-f8
+Nd6-e4 d7-d5 Rg3-f3+ Kf8-g8) +298.00/6 2} Kf8 {(Kf7-f8) -2.48/4 0} 40. c4
+{(c3-c4 Rh2-b2 Rg3-f3+ Kf8-g8 Nd6-e4 e6-e5) +298.00/6 3  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "17"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:43:47"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} e5 2. Nxe5
+{(Nf3xe5 Qd8-f6 Ne5-c4 d7-d5 Nc4-a5 Qf6xf2+) -0.05/6 10} Nf6 3. d4 {(d2-d4
+d7-d6 Ne5-f3 Nb8-c6 e2-e4 Nc6xd4) 0.00/6 16} Bb4+ {(Bf8-b4+) -1.27/4 0} 4.
+c3 {(c2-c3 Bb4-d6 Bc1-g5 O-O Bg5xf6 Bd6xe5) +0.85/6 7} Bd6 {(Bb4-d6)
+-1.58/4 0} 5. Bg5 {(Bc1-g5 h7-h6 Bg5xf6 Qd8xf6 Ne5xf7) +2.10/5 3} Qe7
+{(Qd8-e7) -0.77/4 0} 6. Nc4 {(Ne5-c4 O-O Bg5xf6 g7xf6 Nc4xd6) +3.95/5 4}
+Nc6 {(Nb8-c6) -0.84/4 0} 7. d5 {(d4-d5 Qe7-e4 Nc4xd6+ c7xd6 Bg5xf6) +4.05/5
+5} Ne5 {(Nc6-e5) -0.47/4 0} 8. Nba3 {(Nb1-a3 Bd6xa3 Nc4xa3 O-O Bg5xf6
+g7xf6) +0.85/6 22} Bc5 {(Bd6-c5) -0.17/4 0} 9. e3 {(e2-e3 Bc5xa3 Nc4xa3 O-O
+Bg5xf6 g7xf6) +0.85/6 11} Bxa3 {(Bc5xa3) -0.29/4 0} 10. bxa3 {(b2xa3 Ne5xc4
+Bf1xc4 Qe7xa3 Bg5xf6) +3.20/5 3} Nxc4 {(Ne5xc4) -0.24/4 0} 11. Bxc4
+{(Bf1xc4 Qe7xa3 Qd1-d3 Nf6-g4 Qd3xh7) +1.15/5 3} Qe4 {(Qe7-e4) +0.56/4 0}
+12. Qd4 {(Qd1-d4 Qe4xd4 c3xd4 Nf6-e4 Ke1-e2) +1.22/5 3} c5 {(c7-c5) +0.45/4
+0} 13. dxc6 {(d5xc6/ep Qe4xg2 Qd4-e5+ Ke8-f8 Qe5-d6+ Kf8-g8) +0.85/6 9 
+Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "17"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:45:46"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 9} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 22} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 13} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 7} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "17"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "02:52:29"]
+[Variation "1...d5 2.e4 dxe4"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "10"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -95.00/6 11} 2. Nc3
+dxe4 {(d5xe4 Nc3xe4 Qd8-d5 Qd1-f3 e7-e5 Qf3xf7+) -95.00/6 9} 3. Nxe4
+{(Nc3xe4) +0.20/4 0} Bd7 {(Bc8-d7 Ne4-c5 Bd7-c6 Qd1-h5 Qd8-d4 Nc5xb7)
+-95.00/6 21} 4. Nf3 {(Ng1-f3) +0.68/4 0} Bc6 {(Bd7-c6 Ne4-g3 Qd8-d6 d2-d4
+Bc6xf3 g2xf3) -15.00/6 23} 5. Bd3 {(Bf1-d3) +0.73/4 0} Nd7 {(Nb8-d7 Nf3-d4
+Bc6-d5 O-O e7-e5 Bd3-a6) -20.00/6 25 Black resigns} 1-0
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "18"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Time "02:54:06"]
+[Variation "2...Qxd5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "46"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 d5 {(d7-d5 e4-e5 Bc8-d7 Qd1-f3 d5-d4 Qf3xf7+) -0.95/6 8} 2. exd5
+{(e4xd5) +0.20/4 0} Qxd5 {(Qd8xd5 Qd1-e2 Qd5-e6 d2-d4 Qe6xe2+ Ng1xe2)
+-0.15/6 7} 3. Ne2 {(Ng1-e2) +0.30/4 0} Qe6 {(Qd5-e6 d2-d4 Bc8-d7 Nb1-c3
+Qe6xe2+) +2.90/5 3} 4. Nc3 {(Nb1-c3) -0.12/4 0} Bd7 {(Bc8-d7 d2-d4 Qe6-b6
+Nc3-d5 Qb6-a5+ Bc1-d2) -0.25/6 24} 5. d3 {(d2-d3) -0.15/4 0} Qb6 {(Qe6-b6
+d3-d4 Qb6-b4 Bc1-g5 Qb4xc3+) +2.85/5 3} 6. Nf4 {(Ne2-f4) +0.25/4 0} Qd4
+{(Qb6-d4 Bf1-e2 e7-e5 O-O Qd4xc3) +2.85/5 6} 7. Nfd5 {(Nf4-d5) +0.75/4 0}
+Qe5+ {(Qd4-e5+ Bf1-e2 Nb8-a6 d3-d4 Qe5-e6 Nd5xc7+) -1.15/6 15} 8. Be2
+{(Bf1-e2) +1.25/4 0} Bg4 {(Bd7-g4 Nd5xc7+ Qe5xc7 Be2xg4 Qc7xc3+) +1.95/5 3}
+9. Nxc7+ {(Nd5xc7+) +2.18/4 0} Qxc7 {(Qe5xc7 Be2xg4 Qc7-e5+ Nc3-e4 Ng8-f6
+d3-d4) -1.15/6 3} 10. Bxg4 {(Be2xg4) +1.93/4 0} Nf6 {(Ng8-f6 O-O Nf6xg4
+Qd1xg4 Qc7xc3) +1.80/5 3} 11. Be3 {(Bc1-e3) +1.75/4 0} e5 {(e7-e5 Bg4-f3
+Bf8-b4 Be3xa7 Qc7xc3+) +1.10/5 5} 12. Bg5 {(Be3-g5) +2.38/4 0} Bb4 {(Bf8-b4
+Bg4-f3 Nf6-d7 Bf3xb7 Qc7xc3+) +1.10/5 3} 13. Bxf6 {(Bg5xf6) +2.37/4 0}
+Bxc3+ {(Bb4xc3+ b2xc3 Qc7xc3+ Ke1-e2 g7xf6 d3-d4) -0.05/6 13} 14. bxc3
+{(b2xc3) -0.08/4 0} Qxc3+ {(Qc7xc3+ Ke1-e2 g7xf6 Bg4-h5 O-O Bh5xf7+)
+-0.75/6 8} 15. Kf1 {(Ke1-f1) +0.65/4 0} gxf6 {(g7xf6 Ra1-b1 Qc3-c7 Kf1-g1
+O-O Rb1xb7) -0.95/6 13} 16. Rb1 {(Ra1-b1) +0.76/4 0} Qc7 {(Qc3-c7 Bg4-f5
+Nb8-a6 Kf1-g1 Qc7xc2) +0.90/5 4} 17. Kg1 {(Kf1-g1) +0.90/4 0} Na6 {(Nb8-a6
+Bg4-f5 Qc7-c6 Qd1-h5 Qc6xg2+) +0.90/5 3} 18. Qf3 {(Qd1-f3) +1.50/4 0} Qc6
+{(Qc7-c6 Qf3-e2 O-O d3-d4 Na6-c7 Qe2xe5) -1.15/6 11} 19. Rxb7 {(Rb1xb7)
++3.16/4 0} Qxc2 {(Qc6xc2 Rb7xf7 Qc2-b1+ Qf3-d1 Qb1xd1+ Bg4xd1) -1.01/6 5}
+20. Bd7+ {(Bg4-d7+) +4.55/4 0} Kf8 {(Ke8-f8 g2-g4 Qc2xa2 Qf3xf6 Qa2-a1+
+Rb7-b1) -0.10/6 4} 21. Bg4 {(Bd7-g4) +1.72/4 0} Nc5 {(Na6-c5 Rb7xf7+ Kf8xf7
+Qf3-d5+ Kf7-f8) +3.95/5 2} 22. Qxf6 {(Qf3xf6) +1.00/4 0} Qc1+ {(Qc2-c1+
+Bg4-d1 Qc1xd1+) +M4/6 1} 23. Bd1 {(Bg4-d1) -299.98/4 0} Qxd1# {(Qc1xd1+)
++M3/6 0} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "18"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "02:56:57"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 19} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+16} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 31} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 17} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 10} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4)
++99.00/5 4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5
+{(Be7-g5 e3xf4 Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3
+f4xe3 f2xe3 Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4
+Rf1-b1 Ra8-g8 Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8
+Nb3-d4 Nc4xb2) -1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1)
++81.00/6 7} 22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5
+{(Bf4-e5 f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5
+Nb3xa5 b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4
+Rc1xc7+) +103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5
+3} Bf6 {(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2
+{(Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+27. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4
+Kh1-g2 Nb2-d3 Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3
+Nb2-a4 Rc1xc7+) -1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6)
++119.00/6 19} 29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2
+3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "18"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:06:09"]
+[Variation "1...f5"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} f5 2. Rg1
+{(Rh1-g1 d7-d5 Nb1-c3 Nb8-c6 Nf3-g5 e7-e5) -15.00/6 21} Nc6 {(Nb8-c6)
+-0.40/4 0} 3. e3 {(e2-e3 Ng8-f6 Nf3-d4 d7-d5 Nd4xc6 b7xc6) -15.00/6 12} Nf6
+{(Ng8-f6) +0.08/4 0} 4. c3 {(c2-c3 Nf6-e4 Bf1-d3 e7-e5 Bd3xe4 f5xe4)
+-20.00/6 35} Ng4 {(Nf6-g4) +0.48/4 0} 5. h3 {(h2-h3 Ng4-h6 Nf3-d4 e7-e5
+Qd1-h5+ Ke8-e7) -10.00/6 29 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "19"]
+[White "V7P3R_v7.2"]
+[Black "C0BR4_v2.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "03:08:06"]
+[Variation "2.Nf3 Nc6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d5 2. d4
+{(d2-d4 Qd8-d6 e2-e4 Qd6-b4+ c2-c3 Qb4xd4) -1.00/6 11} Nc6 3. Nc3 {(Nb1-c3
+Bc8-g4 Nf3-g5 e7-e5 Nc3xd5) +1.05/5 3} Bf5 {(Bc8-f5) -0.15/4 0} 4. Nh4
+{(Nf3-h4 e7-e6 Nh4xf5 e6xf5 Nc3xd5) +1.15/5 5} Bg4 {(Bf5-g4) 0.00/4 0} 5.
+h3 {(h2-h3 Bg4-e6 Bc1-g5 Nc6-b4 Nc3xd5) +1.20/5 4} Be6 {(Bg4-e6) +0.30/4 0}
+6. Qd3 {(Qd1-d3 Nc6-b8 Qd3-b5+ c7-c6 Nc3xd5) +1.20/5 5} Nf6 {(Ng8-f6)
++0.43/4 0} 7. Qb5 {(Qd3-b5 Be6-c8 e2-e4 d5xe4 Qb5xc6+) +2.05/5 6} a6
+{(a7-a6) +0.45/4 0} 8. Qd3 {(Qb5-d3 Nc6-b4 Qd3-d2 Nb4-c6 e2-e4 Nc6xd4)
+-1.10/6 21} Ne4 {(Nf6-e4) +0.40/4 1} 9. Nxe4 {(Nc3xe4 d5xe4 Qd3xe4 Be6-d5
+Qe4-d3 Nc6xd4) -0.15/6 22} dxe4 {(d5xe4) +0.79/4 0} 10. Qxe4 {(Qd3xe4
+Qd8xd4 Qe4xd4 Nc6xd4 e2-e4 Be6xh3) -1.00/6 15} Qxd4 {(Qd8xd4) +0.53/4 0}
+11. Qxd4 {(Qe4xd4 Nc6xd4 Ke1-d1 O-O-O e2-e4 Be6xh3) -1.18/6 12} Nxd4
+{(Nc6xd4) +1.81/4 0} 12. Kd2 {(Ke1-d2 O-O-O Kd2-c3 Nd4-b5+ Kc3-b4 Be6xh3)
+-1.71/6 9} Rd8 {(Ra8-d8) +2.62/4 0} 13. Kc3 {(Kd2-c3 Nd4-b5+ Kc3-b4 Rd8-d4+
+Kb4-c5) -0.56/5 2} Nb5+ {(Nd4-b5+) +4.74/4 0} 14. Kb4 {(Kc3-b4 Rd8-d4+
+c2-c4 Rd4xc4+ Kb4-b3 Rc4xh4+) -4.10/6 2} Nd4 {(Nb5-d4) +4.74/4 0} 15. Kc3
+{(Kb4-c3 Nd4-b5+ Kc3-b4 Rd8-d4+ Kb4-c5 Rd4xh4) -3.56/6 5} Nb5+ {(Nd4-b5+)
++4.74/4 0} 16. Kb4 {(Kc3-b4 Rd8-d4+ c2-c4 Rd4xc4+ Kb4-b3 Rc4xh4+) -4.10/6
+2} Nd4 {(Nb5-d4) +4.74/4 0} 17. Kc3 {(Kb4-c3 Nd4-b5+ Kc3-b4 Rd8-d4+ Kb4-c5
+Rd4xh4) -3.56/6 5 3-fold repetition} 1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "19"]
+[White "V7P3R_v7.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:10:44"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} d6 {(d7-d6
+Nb1-c3 Bc8-g4 Nf3-g5 e7-e5 Ng5xh7) -0.95/6 12} 2. e3 {(e2-e3 Bc8-d7 Nf3-d4
+Bd7-a4 e3-e4 Ba4xc2) -85.00/6 30} Bg4 {(Bc8-g4 h2-h3 Bg4xf3 Qd1xf3 e7-e5
+Qf3xf7+) -0.90/6 11} 3. Be2 {(Bf1-e2 Bg4-d7 Nf3-d4 Bd7-a4 O-O Ba4xc2)
+-70.00/6 26} f6 {(f7-f6 h2-h3 Bg4-h5 O-O Bh5xf3 g2xf3) -0.25/6 19} 4. Nd4
+{(Nf3-d4 Bg4xe2 Nd4xe2 d6-d5 O-O e7-e5) +5.00/6 7} Bxe2 {(Bg4xe2 Qd1xe2
+Ke8-d7 Qe2-g4+ f6-f5 Qg4xf5+) -1.10/6 6} 5. Qxe2 {(Qd1xe2 e7-e5 Nd4-e6
+Qd8-c8 Qe2-h5+ Ke8-e7) -5.00/6 9} Qc8 {(Qd8-c8 O-O Ke8-d8 Qe2-b5 Ng8-h6
+Qb5xb7) -1.25/6 10} 6. e4 {(e3-e4 e7-e5 Nd4-b5 Qc8-d7 Qe2-h5+ Ke8-d8)
++5.00/6 23} Nc6 {(Nb8-c6 Qe2-b5 Ke8-d8 Nd4-f5 Nc6-b8 Nf5xg7) -1.15/6 10} 7.
+Nxc6 {(Nd4xc6 b7xc6 O-O d6-d5 Qe2-h5+ Ke8-d8) +20.00/6 10} bxc6 {(b7xc6 O-O
+g7-g6 Qe2-c4 Ng8-h6 Qc4xc6+) -1.25/6 7} 8. Qc4 {(Qe2-c4 Qc8-b7 O-O Ng8-h6
+d2-d4 Qb7xb2) -65.00/6 36} Qd7 {(Qc8-d7 O-O e7-e6 d2-d4 O-O-O Qc4xe6)
+-1.20/6 9} 9. d4 {(d2-d4 d6-d5 e4xd5 c6xd5 Qc4-a6 e7-e5) -10.00/6 17} d5
+{(d6-d5 Qc4-e2 d5xe4 Qe2xe4 O-O-O Qe4xe7) -0.90/6 11} 10. exd5 {(e4xd5
+c6xd5 Qc4-e2 e7-e5 Qe2-h5+ Ke8-d8) -10.00/6 12} Qxd5 {(Qd7xd5 Qc4xd5 c6xd5
+Nb1-c3 O-O-O Nc3xd5) -1.02/6 4} 11. Qxd5 {(Qc4xd5 c6xd5 Nb1-c3 O-O-O O-O
+e7-e5) -7.00/6 6} cxd5 {(c6xd5 Nb1-c3 e7-e5 d4xe5 f6xe5 Nc3xd5) -1.00/6 1}
+12. Nc3 {(Nb1-c3 e7-e5 O-O O-O-O d4xe5 f6xe5) -17.00/6 9} O-O-O {(O-O-O O-O
+e7-e5 d4xe5 f6xe5 Nc3xd5) -0.98/6 6} 13. O-O {(O-O Rd8-d7 Nc3-b5 c7-c6
+Nb5-c3 e7-e5) -7.00/6 12} e5 {(e7-e5 d4xe5 d5-d4 Nc3-b5 f6xe5 Nb5xd4)
+-0.98/6 7} 14. Be3 {(Bc1-e3 Ng8-e7 Nc3-b5 Ne7-c6 d4xe5 f6xe5) -17.00/6 7}
+exd4 {(e5xd4 Be3xd4 Bf8-b4 Bd4xa7 Bb4xc3 b2xc3) -0.93/6 9} 15. Bxd4
+{(Be3xd4 c7-c5 Nc3-b5 c5xd4 Nb5xa7+ Kc8-d7) -201.00/6 5} c5 {(c7-c5 Nc3-b5
+c5xd4 Nb5xa7+ Kc8-d7) +2.01/5 2} 16. Be3 {(Bd4-e3 d5-d4 Nc3-b5 d4xe3
+Nb5xa7+ Kc8-d7) -181.00/6 6} d4 {(d5-d4 Nc3-b5 d4xe3 Nb5xa7+ Kc8-d7 f2xe3)
++0.81/6 10} 17. Nb5 {(Nc3-b5 d4xe3 f2xe3 Rd8-d7 e3-e4 Rd7-d5) -192.00/6 5}
+a6 {(a7-a6 Nb5xd4 c5xd4 Rf1-d1 Rd8-d5 Be3xd4) +0.97/6 3} 18. Nxd4 {(Nb5xd4
+c5xd4 Be3-f4 Rd8-d5 Bf4-g3 Ng8-e7) -217.00/6 6 White resigns} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "19"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.0"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "03:17:28"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 Qd1-d3 Ng8-f6 Qd3-b5 Nf6-e4 Qb5xd7+) -100.00/6 19} 2. Nf3
+Be7 {(Bf8-e7 c2-c3 c7-c5 d4xc5 Be7xc5 Qd1xd7+) -100.00/6 48} 3. Nc3
+{(Nb1-c3) +0.10/4 0} f5 {(f7-f5 Nc3-b5 Nb8-c6 e2-e4 f5xe4) +100.00/5 5} 4.
+d5 {(d4-d5) +1.25/4 0} Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6)
+-20.00/6 11} 5. Nb5 {(Nc3-b5) +1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 Nb5-a3
+Ng8-e7 Qd1xd6) -95.00/6 14} 6. Qd2 {(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7
+Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+) -95.00/6 18  Arena Adjudication. Illegal
+move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "20"]
+[White "C0BR4_v2.0"]
+[Black "V7P3R_v7.2"]
+[Result "0-1"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "03:19:32"]
+[Variation "1...e6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "rules infraction"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 c2-c3 Bf8-d6 Qd1-a4 Ng8-f6 Qa4xd7+) -1.00/6 12} 2. Nc3 Be7
+{(Bf8-e7 Nc3-b5 Nb8-c6 e2-e4 Nc6xd4) +1.00/5 3} 3. Nf3 {(Ng1-f3) +0.10/4 0}
+f5 {(f7-f5 a2-a3 Nb8-c6 e2-e4 f5xe4) +1.00/5 4} 4. d5 {(d4-d5) +1.25/4 0}
+Bf6 {(Be7-f6 Nc3-b5 a7-a6 Bc1-g5 a6xb5 Bg5xf6) -0.20/6 11} 5. Nb5 {(Nc3-b5)
++1.76/4 0} d6 {(d7-d6 d5xe6 Bc8xe6 c2-c3 Nb8-c6 Nb5xc7+) -0.95/6 12} 6. Qd2
+{(Qd1-d2) +2.03/4 0} exd5 {(e6xd5 Nb5xa7 Bc8-d7 Qd2xd5 Ra8xa7 Qd5xg8+)
+-0.95/6 18  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "20"]
+[White "V7P3R_v7.2"]
+[Black "V7P3R_v7.0"]
+[Result "1/2-1/2"]
+[BlackElo "2200"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "03:20:40"]
+[Variation "1...d6"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "57"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -0.90/6 8} d6 {(d7-d6
+Nb1-c3 Ng8-f6 Nf3-g5 e7-e5 Ng5xh7) -95.00/6 21} 2. c3 {(c2-c3 c7-c6 Qd1-a4
+Qd8-b6 e2-e4 Qb6xf2+) -0.85/6 13} Bd7 {(Bc8-d7 d2-d4 Bd7-c6 Nf3-g5 d6-d5
+Ng5xh7) -100.00/6 17} 3. d4 {(d2-d4 Ng8-f6 Bc1-g5 Nf6-e4 Bg5-e3 Ne4xf2)
+-0.90/6 12} Nf6 {(Ng8-f6 Bc1-g5 Nf6-e4 Bg5-h4 Ne4xc3) +90.00/5 4} 4. Qb3
+{(Qd1-b3 Bd7-c6 d4-d5 Bc6-d7 Qb3xb7) +1.05/5 3} Bc6 {(Bd7-c6 Bc1-g5 Nf6-e4
+Bg5-h4 Ne4xc3) +90.00/5 6} 5. d5 {(d4-d5 Nf6xd5 Bc1-g5 Nd5xc3 Nb1xc3)
++1.10/5 3} Bxd5 {(Bc6xd5 c3-c4 Bd5-e4 Qb3-b5+ c7-c6 Qb5xc6+) +10.00/6 9} 6.
+c4 {(c3-c4 Bd5-e4 Nb1-c3 Be4-c6 Nf3-d4 Bc6xg2) -1.95/6 18} Bxf3 {(Bd5xf3
+g2xf3 Qd8-c8 Bc1-g5 Nf6-d7 Bg5xe7) 0.00/6 11} 7. gxf3 {(g2xf3 Nb8-c6 Qb3xb7
+Nc6-d4 Bc1-g5 Nd4xf3+) -1.05/6 15} b6 {(b7-b6 Bf1-h3 Rh8-g8 O-O e7-e5
+Qb3xb6) -10.00/6 20} 8. Bg2 {(Bf1-g2 e7-e5 O-O Nb8-c6 Bc1-g5 d6-d5) -1.00/6
+15} e5 {(e7-e5 O-O Bf8-e7 Qb3-b5+ Nb8-d7) +100.00/5 4} 9. O-O {(O-O Bf8-e7
+f3-f4 e5-e4 Qb3-a4+ Nb8-c6) -1.00/6 22} Qd7 {(Qd8-d7 Bc1-g5 Nf6-h5 Qb3-e3
+d6-d5 c4xd5) -25.00/6 32} 10. Bg5 {(Bc1-g5 Nf6-h5 Qb3-c3 d6-d5 c4xd5)
++0.25/5 3} Nc6 {(Nb8-c6 Bg5xf6 g7xf6 e2-e4 O-O-O) +100.00/5 5} 11. Bxf6
+{(Bg5xf6 g7xf6 Qb3-b5 O-O-O Qb5xc6) +1.95/5 2} gxf6 {(g7xf6 f3-f4 Rh8-g8
+Qb3-b5 Rg8xg2+ Kg1xg2) -95.00/6 18} 12. f4 {(f3-f4 Rh8-g8 Qb3-b5 Rg8xg2+
+Kg1xg2) +0.95/5 3} exf4 {(e5xf4 Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2)
+-25.00/6 19} 13. Qb5 {(Qb3-b5 Rh8-g8 Qb5-d5 Rg8xg2+ Qd5xg2) +0.25/5 3} Rg8
+{(Rh8-g8 Kg1-h1 Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) -5.00/6 7} 14. Kh1 {(Kg1-h1
+Rg8xg2 Kh1xg2 Qd7-g4+ Kg2-h1) +0.05/5 3} Rxg2 {(Rg8xg2 Kh1xg2 Nc6-e5 Kg2-g1
+Qd7xb5 c4xb5) -16.00/6 4} 15. Kxg2 {(Kh1xg2 Qd7-g4+ Kg2-h1 Ke8-d7 Nb1-a3
+Qg4xe2) -0.90/6 4} Ne5 {(Nc6-e5 Kg2-g1 Qd7xb5 c4xb5 O-O-O e2-e4) -8.00/6 7}
+16. Qxd7+ {(Qb5xd7+ Ke8xd7 Nb1-d2 Kd7-c8 Kg2-g1 Ne5xc4) -0.92/6 12} Kxd7
+{(Ke8xd7 Nb1-d2 Bf8-e7 Nd2-e4 Ne5xc4 Ne4xf6+) -1.00/6 1} 17. Nd2 {(Nb1-d2
+Bf8-e7 f2-f3 Ra8-g8+ Kg2-f2 Ne5xc4) -0.97/6 8} Be7 {(Bf8-e7 Kg2-h1 Ra8-h8
+Rf1-e1 Kd7-c8 Kh1-g1) +2.00/6 14} 18. Kh1 {(Kg2-h1 f6-f5 Kh1-g2 Ra8-g8+
+Kg2-h3 Ne5xc4) -0.99/6 9} f5 {(f6-f5 Kh1-g2 Ra8-g8+ Kg2-h3 Ne5xc4) +99.00/5
+4} 19. e3 {(e2-e3 Ne5-d3 e3xf4 Nd3xb2 Kh1-g1) +0.19/5 2} Bg5 {(Be7-g5 e3xf4
+Bg5xf4 Rf1-e1 Bf4xd2 Re1xe5) -2.00/6 15} 20. Nb3 {(Nd2-b3 f4xe3 f2xe3
+Ne5xc4 Rf1xf5 Nc4xb2) -1.03/6 9} Nxc4 {(Ne5xc4 e3xf4 Bg5xf4 Rf1-b1 Ra8-g8
+Nb3-d4) +98.00/6 9} 21. exf4 {(e3xf4 Bg5xf4 Ra1-b1 Ra8-g8 Nb3-d4 Nc4xb2)
+-1.98/6 9} Bxf4 {(Bg5xf4 Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) +81.00/6 7}
+22. Rab1 {(Ra1-b1 Nc4-d2 Nb3xd2 Bf4xd2 Kh1-g1) -0.81/5 1} Be5 {(Bf4-e5
+f2-f4 Nc4-e3 Rf1-f3 Be5xf4) +203.00/5 5} 23. Rfc1 {(Rf1-c1 Nc4-a5 Nb3xa5
+b6xa5 Rc1xc7+) -0.08/5 2} Nxb2 {(Nc4xb2 f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+)
++103.00/6 20} 24. f4 {(f2-f4 Be5-f6 Nb3-d2 Nb2-a4 Rc1xc7+) -1.03/5 3} Bf6
+{(Be5-f6 Nb3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 14} 25. Nd2 {(Nb3-d2
+Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3 Rc1-c4
+Nd3xf4+) +304.00/5 4} 26. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+) -1.03/5
+2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19} 27. Nd2
+{(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2} Bd4 {(Bf6-d4 Kh1-g2 Nb2-d3
+Rc1-c4 Nd3xf4+) +304.00/5 4} 28. Nf3 {(Nd2-f3 Bd4-f6 h2-h3 Nb2-a4 Rc1xc7+)
+-1.03/5 2} Bf6 {(Bd4-f6 Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) +119.00/6 19}
+29. Nd2 {(Nf3-d2 Nb2-d3 Rc1-f1 Kd7-c8 Rb1xb6) -1.19/5 2 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Battle 20250827_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.08.28"]
+[Round "20"]
+[White "V7P3R_v7.0"]
+[Black "C0BR4_v2.0"]
+[Result "1-0"]
+[BlackElo "2200"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "03:29:54"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "2200"]
+[TimeControl "300+5"]
+[Termination "normal"]
+[PlyCount "114"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 e7-e6 e2-e4 Qd8-f6 Nf3-g1 Qf6xf2+) -90.00/6 12} c6 2. d4
+{(d2-d4 d7-d5 Bc1-f4 Qd8-a5+ c2-c3 Qa5xc3+) -90.00/6 15} Nf6 {(Ng8-f6)
+-0.65/4 0} 3. c3 {(c2-c3 Qd8-c7 Bc1-g5 Nf6-e4 Bg5-h4 Qc7xh2) -90.00/6 22}
+Ne4 {(Nf6-e4) +0.03/4 0} 4. Bf4 {(Bc1-f4 d7-d6 Qd1-d3 Ne4-f6 Bf4xd6)
++115.00/5 6} Qb6 {(Qd8-b6) +0.72/4 0} 5. Qc2 {(Qd1-c2 d7-d5 Bf4xb8 Ra8xb8
+Qc2xe4) +310.00/5 4} d6 {(d7-d6) +0.30/4 0} 6. Na3 {(Nb1-a3 Ne4-f6 O-O-O
+Nf6-d5 Bf4xd6) +135.00/5 10} Nxf2 {(Ne4xf2) +0.20/4 0} 7. Kxf2 {(Ke1xf2
+e7-e5 Bf4-g5 d6-d5 b2-b4 Qb6xd4+) +90.00/6 32} e5 {(e7-e5) -0.35/4 0} 8.
+Be3 {(Bf4-e3 e5xd4 Be3xd4 Qb6-d8 Qc2xh7) +M384/5 5} exd4 {(e5xd4) -1.50/4
+0} 9. Bxd4 {(Be3xd4 c6-c5 Qc2-e4+ Bc8-e6 Bd4-e3 Qb6xb2) +115.00/6 15} c5
+{(c6-c5) -1.48/4 0} 10. Be3 {(Bd4-e3 Bf8-e7 Kf2-g1 O-O Qc2-e4 Qb6xb2)
++115.00/6 20} Bg4 {(Bc8-g4) -1.55/4 0} 11. Qa4+ {(Qc2-a4+ Bg4-d7 Qa4-e4+
+Bf8-e7 Kf2-g1 Qb6xb2) +130.00/6 30} Nc6 {(Nb8-c6) -0.73/4 0} 12. Qxg4
+{(Qa4xg4 Ke8-d8 Qg4-e4 d6-d5 Qe4xd5+) +M500/5 4} Qxb2 {(Qb6xb2) -0.05/4 0}
+13. Qe4+ {(Qg4-e4+ Ke8-d7 Na3-c2 d6-d5 Qe4xd5+) +M500/5 4} Be7 {(Bf8-e7)
+-0.87/4 0} 14. Nc2 {(Na3-c2 d6-d5 Qe4xd5 Qb2xc2 Qd5xc6+) +M500/5 6} d5
+{(d6-d5) -1.27/4 1} 15. Qxd5 {(Qe4xd5 Qb2xc2 Ra1-c1 Qc2-g6 Qd5xc6+) +M500/5
+6} Qxc2 {(Qb2xc2) -1.75/4 0} 16. Rc1 {(Ra1-c1 Qc2-g6 Kf2-g1 Nc6-a5 Be3xc5)
++M134/5 10} Qa4 {(Qc2-a4) -1.31/4 0} 17. c4 {(c3-c4 Qa4xa2 Qd5-e4 O-O
+Qe4xe7) +M500/5 10} Qa3 {(Qa4-a3) -0.05/4 0} 18. Qe4 {(Qd5-e4 f7-f5 Qe4-e6
+Qa3xa2 Qe6xe7+) +M500/5 8} Qxa2 {(Qa3xa2) -0.45/4 1} 19. Bxc5 {(Be3xc5 O-O
+Bc5xe7 Nc6xe7 Qe4xe7) +M500/5 7} f5 {(f7-f5) -0.37/4 0} 20. Qe6 {(Qe4-e6
+Rh8-f8 Rc1-d1 Rf8-h8 Bc5xe7 Nc6xe7) +200.00/6 20} Qb2 {(Qa2-b2) -0.61/4 0}
+21. Rd1 {(Rc1-d1 Ra8-d8 Rd1xd8+ Ke8xd8 Bc5xe7+ Nc6xe7) +200.00/6 28} Qf6
+{(Qb2-f6) -1.77/4 0} 22. Qd7+ {(Qe6-d7+ Ke8-f8 Bc5xe7+ Nc6xe7 Qd7xb7
+Kf8-g8) +280.00/6 13} Kf8 {(Ke8-f8) -2.64/4 0} 23. Bxe7+ {(Bc5xe7+ Qf6xe7
+Qd7xf5+ Kf8-g8 Qf5-d5+ Qe7-f7) +285.00/6 7} Qxe7 {(Qf6xe7) -2.72/4 0} 24.
+Qxf5+ {(Qd7xf5+ Kf8-g8 Rd1-d7 Ra8-f8 Qf5-d5+ Rf8-f7) +285.00/6 8} Ke8
+{(Kf8-e8) -2.58/4 0} 25. e4 {(e2-e4 a7-a6 Qf5-h5+ Ke8-f8 Qh5xh7) +M500/5 8}
+g6 {(g7-g6) -2.07/4 0} 26. Qg5 {(Qf5-g5 Rh8-f8 Qg5-e3 Qe7-e5 Kf2-g1 Rf8xf3)
++20.00/6 24} Qxg5 {(Qe7xg5) -2.40/4 0} 27. Nxg5 {(Nf3xg5 Rh8-f8+ Kf2-g1
+h7-h6 Rd1-d5 h6xg5) +26.00/6 3} Rd8 {(Ra8-d8) -2.68/4 0} 28. Rxd8+
+{(Rd1xd8+ Nc6xd8 Kf2-g1 Ke8-d7 Bf1-d3 Kd7-c8) +M484/6 2} Nxd8 {(Nc6xd8)
+-2.68/4 0} 29. Be2 {(Bf1-e2 Nd8-f7 Ng5xf7 Ke8xf7 Kf2-g1 Kf7-g8) +315.00/6
+4} Nf7 {(Nd8-f7) -2.66/4 0} 30. Nxf7 {(Ng5xf7 Ke8xf7 Rh1-f1 Rh8-f8 Kf2-g1+
+Kf7-g8) +315.00/6 3} Rf8 {(Rh8-f8) -2.86/4 0} 31. Ra1 {(Rh1-a1 Rf8xf7+
+Kf2-g1 Rf7-e7 Ra1xa7 Re7xe4) +316.00/6 2} a6 {(a7-a6) -3.26/4 0} 32. Kg1
+{(Kf2-g1 Rf8xf7 Be2-d1 Ke8-f8 Bd1-g4 Kf8-g8) +315.00/6 3} Rxf7 {(Rf8xf7)
+-2.97/4 0} 33. Bd1 {(Be2-d1 Rf7-c7 Bd1-a4+ Ke8-e7 e4-e5 Rc7xc4) +229.00/6
+15} Kd7 {(Ke8-d7) -2.59/4 0} 34. Bg4+ {(Bd1-g4+ Kd7-e8 Bg4-d1 Ke8-f8 Bd1-g4
+Kf8-g8) +315.00/6 6} Kd6 {(Kd7-d6) -2.58/4 0} 35. Rd1+ {(Ra1-d1+ Kd6-e5
+Bg4-f3 Ke5-e6 Bf3-g4+ Rf7-f5) +M34/6 4} Kc5 {(Kd6-c5) -2.54/4 0} 36. Rd5+
+{(Rd1-d5+ Kc5-b4 Rd5-d4 Rf7-e7 c4-c5+ Kb4xc5) +282.00/6 7} Kxc4 {(Kc5xc4)
+-1.46/4 0} 37. Be2+ {(Bg4-e2+ Kc4-b4 Be2-g4 Rf7-e7 Rd5-d4+ Kb4-c5)
++282.00/6 6} Kb4 {(Kc4-b4) -1.46/4 0} 38. e5 {(e4-e5 Rf7-e7 h2-h3 Kb4-c3
+Rd5-d3+ Kc3-c4) +277.00/6 12} Rc7 {(Rf7-c7) -1.40/4 0} 39. Bf3 {(Be2-f3
+Rc7-c1+ Rd5-d1 Rc1xd1+ Bf3xd1 Kb4-c5) +272.00/6 7} Kc4 {(Kb4-c4) -1.27/4 0}
+40. e6 {(e5-e6 Rc7-e7 Rd5-e5 Kc4-c3 Re5-c5+ Kc3-d4) +260.00/6 9} Re7
+{(Rc7-e7) -1.16/4 0} 41. Rd7 {(Rd5-d7 Re7-e8 Bf3xb7 Re8xe6 Rd7xh7 Kc4-d4)
++M500/6 4} Re8 {(Re7-e8) -3.60/4 0} 42. Bxb7 {(Bf3xb7 Kc4-c5 Bb7xa6 Re8xe6
+Ba6-b7 Kc5-b6) +M334/6 8} Kc5 {(Kc4-c5) -3.86/4 0} 43. e7 {(e6-e7 Kc5-b6
+Bb7-e4 a6-a5 Rd7-b7+ Kb6-a6) +M16/6 4} a5 {(a6-a5) -3.55/4 0} 44. Bd5
+{(Bb7-d5 Kc5-b6 Bd5-e4 h7-h6 Rd7-b7+ Kb6-a6) +M16/6 8} Rb8 {(Re8-b8)
+-3.55/4 0} 45. Be4 {(Bd5-e4 Rb8-e8 h2-h3 Kc5-b6 Rd7-b7+ Kb6-a6) +M16/6 4}
+Re8 {(Rb8-e8) -3.64/4 0} 46. Rd5+ {(Rd7-d5+ Kc5-b6 Rd5-d7 h7-h6 Rd7-b7+
+Kb6-a6) +M16/6 11} Kb4 {(Kc5-b4) -3.46/4 0} 47. Re5 {(Rd5-e5 Kb4-c3 Be4-c6
+Re8-c8 Bc6-d5 Kc3-d4) +M500/6 4} Kc3 {(Kb4-c3) -4.22/4 0} 48. Re6 {(Re5-e6
+Kc3-d4 Be4-c6 Re8-h8 Re6-e4+ Kd4-c5) +M500/6 5} Kd4 {(Kc3-d4) -6.52/4 0}
+49. Bc6 {(Be4-c6 Re8xe7 Re6xe7 Kd4-c5 Bc6-e4 Kc5-d6) +M500/6 5} Rb8
+{(Re8-b8) -6.52/4 0} 50. e8=Q {(e7-e8Q Rb8xe8 Bc6xe8 Kd4-d5 Be8-f7 Kd5-d4)
++M500/6 2} Rxe8 {(Rb8xe8) -6.70/4 0} 51. Bxe8 {(Bc6xe8 Kd4-d5 Re6-e7 Kd5-d6
+Re7xh7 Kd6-e6) +M500/6 1} Kd5 {(Kd4-d5) -8.23/4 0} 52. Re7 {(Re6-e7 Kd5-d6
+Re7xh7 g6-g5 Rh7-h6+ Kd6-e7) +M500/6 1} Kd4 {(Kd5-d4) -8.61/4 0} 53. Rxh7
+{(Re7xh7 Kd4-e5 Be8xg6 Ke5-d5 Rh7-d7+ Kd5-e6) +M500/6 2} g5 {(g6-g5)
+-9.69/4 0} 54. Rg7 {(Rh7-g7 Kd4-c5 Rg7xg5+ Kc5-b6 Rg5-e5 Kb6-c7) +M500/6 2}
+Kc3 {(Kd4-c3) -10.43/4 0} 55. Rxg5 {(Rg7xg5 Kc3-b4 Rg5-b5+ Kb4-a4 Rb5-e5+
+Ka4-b4) +M500/6 2} Kb4 {(Kc3-b4) -10.84/4 0} 56. Rb5+ {(Rg5-b5+ Kb4-c3
+Rb5xa5 Kc3-c4 Ra5-e5 Kc4-d4) +M500/6 3} Kc3 {(Kb4-c3) -11.58/4 0} 57. Rxa5
+{(Rb5xa5 Kc3-d4 Be8-f7 Kd4-e3 Ra5-a4 Ke3-d3) +M500/6 2} Kd2 {(Kc3-d2)
+-11.90/4 0 Black resigns} 1-0
+

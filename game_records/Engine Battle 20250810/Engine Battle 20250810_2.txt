@@ -1,0 +1,18 @@
+   Engine               Score          Sl         Ce         Ce         Co         V7         Ra         Ce    S-B
+1: SlowMate_v1.0        54.5/60 ·········· 1111111=11 =111=111== 11111111=1 1111111111 1111111111 =1=1=11=1=  1414.0
+2: Cece_v2.0            39.0/60 0000000=00 ·········· 111=10=110 1===111101 1011011=1= =1=1=111=1 1==1111111  912.75
+3: Cece_v1.3            31.0/60 =000=000== 000=01=001 ·········· 1===1111=0 01=10=1=1= 1=111=111= =======0==  784.50
+4: Copycat_v1.0         24.0/60 00000000=0 0===000010 0===0000=1 ·········· =010010101 11=====1== ======1111  582.00
+5: V7P3RAI_v1.0         22.5/60 0000000000 0100100=0= 10=01=0=0= =101101010 ·········· 1011001==0 ==========  568.00
+6: Random_Opponent      20.0/60 0000000000 =0=0=000=0 0=000=000= 00=====0== 0100110==1 ·········· 1===11=111  473.00
+7: Cecilia_v0.1.0_Basic 19.0/60 =0=0=00=0= 0==0000000 =======1== ======0000 ========== 0===00=000 ··········  570.25
+
+210 games played / Tournament is finished
+Name of the tournament: Engine Battle 20250810_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250810_2.pgn
+Website: 
+E-Mail Address: 

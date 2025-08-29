@@ -1,0 +1,2453 @@
+{
+  "date": "2025-08-09",
+  "total_games": 319,
+  "total_engines": 10,
+  "rankings_by_points": [
+    {
+      "name": "SlowMate_v0.0.10_Tactical_Intelligence",
+      "games": 70,
+      "wins": 45,
+      "losses": 22,
+      "draws": 3,
+      "decisive_wins": 15,
+      "points": 46.5,
+      "win_rate": 64.29,
+      "decisive_win_rate": 21.43,
+      "draw_rate": 4.29,
+      "head_to_head": {
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 4,
+          "draws": 2
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 7,
+          "losses": 2,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        }
+      },
+      "version": "0.0.10_Tactical",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.01_Enhanced_Search",
+      "games": 69,
+      "wins": 42,
+      "losses": 20,
+      "draws": 7,
+      "decisive_wins": 21,
+      "points": 45.5,
+      "win_rate": 60.87,
+      "decisive_win_rate": 30.43,
+      "draw_rate": 10.14,
+      "head_to_head": {
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 4,
+          "losses": 3,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        }
+      },
+      "version": "0.2.01_Enhanced",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.0_BETA",
+      "games": 69,
+      "wins": 42,
+      "losses": 23,
+      "draws": 4,
+      "decisive_wins": 17,
+      "points": 44.0,
+      "win_rate": 60.87,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.2.0_BETA",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.01_Tactics",
+      "games": 70,
+      "wins": 40,
+      "losses": 28,
+      "draws": 2,
+      "decisive_wins": 24,
+      "points": 41.0,
+      "win_rate": 57.14,
+      "decisive_win_rate": 34.29,
+      "draw_rate": 2.86,
+      "head_to_head": {
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 1,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        }
+      },
+      "version": "0.1.01_Tactics",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.03_Middlegame",
+      "games": 69,
+      "wins": 36,
+      "losses": 29,
+      "draws": 4,
+      "decisive_wins": 14,
+      "points": 38.0,
+      "win_rate": 52.17,
+      "decisive_win_rate": 20.29,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 1
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "Cece_v1.3": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.1.03_Middlegame",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "V7P3RAI_v1.0",
+      "games": 69,
+      "wins": 31,
+      "losses": 32,
+      "draws": 6,
+      "decisive_wins": 17,
+      "points": 34.0,
+      "win_rate": 44.93,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 8.7,
+      "head_to_head": {
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 3
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.0",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.3",
+      "games": 71,
+      "wins": 28,
+      "losses": 36,
+      "draws": 7,
+      "decisive_wins": 14,
+      "points": 31.5,
+      "win_rate": 39.44,
+      "decisive_win_rate": 19.72,
+      "draw_rate": 9.86,
+      "head_to_head": {
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 1,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 2,
+          "draws": 3
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.3",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.2",
+      "games": 70,
+      "wins": 19,
+      "losses": 39,
+      "draws": 12,
+      "decisive_wins": 12,
+      "points": 25.0,
+      "win_rate": 27.14,
+      "decisive_win_rate": 17.14,
+      "draw_rate": 17.14,
+      "head_to_head": {
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 3
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 4,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 1,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 7,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "1.2",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix",
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "decisive_wins": 5,
+      "points": 7.0,
+      "win_rate": 70.0,
+      "decisive_win_rate": 50.0,
+      "draw_rate": 0.0,
+      "head_to_head": {
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        }
+      },
+      "version": "0.3.03_Version",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Random_Opponent",
+      "games": 71,
+      "wins": 4,
+      "losses": 62,
+      "draws": 5,
+      "decisive_wins": 3,
+      "points": 6.5,
+      "win_rate": 5.63,
+      "decisive_win_rate": 4.23,
+      "draw_rate": 7.04,
+      "head_to_head": {
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 1,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 2
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "Unknown",
+      "test_status": "Unknown"
+    }
+  ],
+  "rankings_by_win_rate": [
+    {
+      "name": "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix",
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "decisive_wins": 5,
+      "points": 7.0,
+      "win_rate": 70.0,
+      "decisive_win_rate": 50.0,
+      "draw_rate": 0.0,
+      "head_to_head": {
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        }
+      },
+      "version": "0.3.03_Version",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.0.10_Tactical_Intelligence",
+      "games": 70,
+      "wins": 45,
+      "losses": 22,
+      "draws": 3,
+      "decisive_wins": 15,
+      "points": 46.5,
+      "win_rate": 64.29,
+      "decisive_win_rate": 21.43,
+      "draw_rate": 4.29,
+      "head_to_head": {
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 4,
+          "draws": 2
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 7,
+          "losses": 2,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        }
+      },
+      "version": "0.0.10_Tactical",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.01_Enhanced_Search",
+      "games": 69,
+      "wins": 42,
+      "losses": 20,
+      "draws": 7,
+      "decisive_wins": 21,
+      "points": 45.5,
+      "win_rate": 60.87,
+      "decisive_win_rate": 30.43,
+      "draw_rate": 10.14,
+      "head_to_head": {
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 4,
+          "losses": 3,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        }
+      },
+      "version": "0.2.01_Enhanced",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.0_BETA",
+      "games": 69,
+      "wins": 42,
+      "losses": 23,
+      "draws": 4,
+      "decisive_wins": 17,
+      "points": 44.0,
+      "win_rate": 60.87,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.2.0_BETA",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.01_Tactics",
+      "games": 70,
+      "wins": 40,
+      "losses": 28,
+      "draws": 2,
+      "decisive_wins": 24,
+      "points": 41.0,
+      "win_rate": 57.14,
+      "decisive_win_rate": 34.29,
+      "draw_rate": 2.86,
+      "head_to_head": {
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 1,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        }
+      },
+      "version": "0.1.01_Tactics",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.03_Middlegame",
+      "games": 69,
+      "wins": 36,
+      "losses": 29,
+      "draws": 4,
+      "decisive_wins": 14,
+      "points": 38.0,
+      "win_rate": 52.17,
+      "decisive_win_rate": 20.29,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 1
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "Cece_v1.3": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.1.03_Middlegame",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "V7P3RAI_v1.0",
+      "games": 69,
+      "wins": 31,
+      "losses": 32,
+      "draws": 6,
+      "decisive_wins": 17,
+      "points": 34.0,
+      "win_rate": 44.93,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 8.7,
+      "head_to_head": {
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 3
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.0",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.3",
+      "games": 71,
+      "wins": 28,
+      "losses": 36,
+      "draws": 7,
+      "decisive_wins": 14,
+      "points": 31.5,
+      "win_rate": 39.44,
+      "decisive_win_rate": 19.72,
+      "draw_rate": 9.86,
+      "head_to_head": {
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 1,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 2,
+          "draws": 3
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.3",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.2",
+      "games": 70,
+      "wins": 19,
+      "losses": 39,
+      "draws": 12,
+      "decisive_wins": 12,
+      "points": 25.0,
+      "win_rate": 27.14,
+      "decisive_win_rate": 17.14,
+      "draw_rate": 17.14,
+      "head_to_head": {
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 3
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 4,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 1,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 7,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "1.2",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Random_Opponent",
+      "games": 71,
+      "wins": 4,
+      "losses": 62,
+      "draws": 5,
+      "decisive_wins": 3,
+      "points": 6.5,
+      "win_rate": 5.63,
+      "decisive_win_rate": 4.23,
+      "draw_rate": 7.04,
+      "head_to_head": {
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 1,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 2
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "Unknown",
+      "test_status": "Unknown"
+    }
+  ],
+  "rankings_by_decisive_wins": [
+    {
+      "name": "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix",
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "decisive_wins": 5,
+      "points": 7.0,
+      "win_rate": 70.0,
+      "decisive_win_rate": 50.0,
+      "draw_rate": 0.0,
+      "head_to_head": {
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        }
+      },
+      "version": "0.3.03_Version",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.01_Tactics",
+      "games": 70,
+      "wins": 40,
+      "losses": 28,
+      "draws": 2,
+      "decisive_wins": 24,
+      "points": 41.0,
+      "win_rate": 57.14,
+      "decisive_win_rate": 34.29,
+      "draw_rate": 2.86,
+      "head_to_head": {
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 1,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        }
+      },
+      "version": "0.1.01_Tactics",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.01_Enhanced_Search",
+      "games": 69,
+      "wins": 42,
+      "losses": 20,
+      "draws": 7,
+      "decisive_wins": 21,
+      "points": 45.5,
+      "win_rate": 60.87,
+      "decisive_win_rate": 30.43,
+      "draw_rate": 10.14,
+      "head_to_head": {
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 4,
+          "losses": 3,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        }
+      },
+      "version": "0.2.01_Enhanced",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "V7P3RAI_v1.0",
+      "games": 69,
+      "wins": 31,
+      "losses": 32,
+      "draws": 6,
+      "decisive_wins": 17,
+      "points": 34.0,
+      "win_rate": 44.93,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 8.7,
+      "head_to_head": {
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 3
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.0",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.2.0_BETA",
+      "games": 69,
+      "wins": 42,
+      "losses": 23,
+      "draws": 4,
+      "decisive_wins": 17,
+      "points": 44.0,
+      "win_rate": 60.87,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.2.0_BETA",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.0.10_Tactical_Intelligence",
+      "games": 70,
+      "wins": 45,
+      "losses": 22,
+      "draws": 3,
+      "decisive_wins": 15,
+      "points": 46.5,
+      "win_rate": 64.29,
+      "decisive_win_rate": 21.43,
+      "draw_rate": 4.29,
+      "head_to_head": {
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 4,
+          "draws": 2
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 7,
+          "losses": 2,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        }
+      },
+      "version": "0.0.10_Tactical",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "SlowMate_v0.1.03_Middlegame",
+      "games": 69,
+      "wins": 36,
+      "losses": 29,
+      "draws": 4,
+      "decisive_wins": 14,
+      "points": 38.0,
+      "win_rate": 52.17,
+      "decisive_win_rate": 20.29,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 1
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "Cece_v1.3": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.1.03_Middlegame",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.3",
+      "games": 71,
+      "wins": 28,
+      "losses": 36,
+      "draws": 7,
+      "decisive_wins": 14,
+      "points": 31.5,
+      "win_rate": 39.44,
+      "decisive_win_rate": 19.72,
+      "draw_rate": 9.86,
+      "head_to_head": {
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 1,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 2,
+          "draws": 3
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.3",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Cece_v1.2",
+      "games": 70,
+      "wins": 19,
+      "losses": 39,
+      "draws": 12,
+      "decisive_wins": 12,
+      "points": 25.0,
+      "win_rate": 27.14,
+      "decisive_win_rate": 17.14,
+      "draw_rate": 17.14,
+      "head_to_head": {
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 3
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 4,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 1,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 7,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "1.2",
+      "test_status": "Unknown"
+    },
+    {
+      "name": "Random_Opponent",
+      "games": 71,
+      "wins": 4,
+      "losses": 62,
+      "draws": 5,
+      "decisive_wins": 3,
+      "points": 6.5,
+      "win_rate": 5.63,
+      "decisive_win_rate": 4.23,
+      "draw_rate": 7.04,
+      "head_to_head": {
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 1,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 2
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "Unknown",
+      "test_status": "Unknown"
+    }
+  ],
+  "all_engines": {
+    "Cece_v1.2": {
+      "name": "Cece_v1.2",
+      "games": 70,
+      "wins": 19,
+      "losses": 39,
+      "draws": 12,
+      "decisive_wins": 12,
+      "points": 25.0,
+      "win_rate": 27.14,
+      "decisive_win_rate": 17.14,
+      "draw_rate": 17.14,
+      "head_to_head": {
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 3
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 4,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 1,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 7,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "1.2",
+      "test_status": "Unknown"
+    },
+    "V7P3RAI_v1.0": {
+      "name": "V7P3RAI_v1.0",
+      "games": 69,
+      "wins": 31,
+      "losses": 32,
+      "draws": 6,
+      "decisive_wins": 17,
+      "points": 34.0,
+      "win_rate": 44.93,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 8.7,
+      "head_to_head": {
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 3
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.0",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+      "name": "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix",
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "draws": 0,
+      "decisive_wins": 5,
+      "points": 7.0,
+      "win_rate": 70.0,
+      "decisive_win_rate": 50.0,
+      "draw_rate": 0.0,
+      "head_to_head": {
+        "Cece_v1.3": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        }
+      },
+      "version": "0.3.03_Version",
+      "test_status": "Unknown"
+    },
+    "Cece_v1.3": {
+      "name": "Cece_v1.3",
+      "games": 71,
+      "wins": 28,
+      "losses": 36,
+      "draws": 7,
+      "decisive_wins": 14,
+      "points": 31.5,
+      "win_rate": 39.44,
+      "decisive_win_rate": 19.72,
+      "draw_rate": 9.86,
+      "head_to_head": {
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 1,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 2,
+          "draws": 3
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 2
+        }
+      },
+      "version": "1.3",
+      "test_status": "Unknown"
+    },
+    "Random_Opponent": {
+      "name": "Random_Opponent",
+      "games": 71,
+      "wins": 4,
+      "losses": 62,
+      "draws": 5,
+      "decisive_wins": 3,
+      "points": 6.5,
+      "win_rate": 5.63,
+      "decisive_win_rate": 4.23,
+      "draw_rate": 7.04,
+      "head_to_head": {
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 0,
+          "losses": 8,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 1,
+          "losses": 8,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 0,
+          "losses": 9,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 1,
+          "losses": 5,
+          "draws": 2
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 2,
+          "losses": 5,
+          "draws": 2
+        }
+      },
+      "version": "Unknown",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.2.01_Enhanced_Search": {
+      "name": "SlowMate_v0.2.01_Enhanced_Search",
+      "games": 69,
+      "wins": 42,
+      "losses": 20,
+      "draws": 7,
+      "decisive_wins": 21,
+      "points": 45.5,
+      "win_rate": 60.87,
+      "decisive_win_rate": 30.43,
+      "draw_rate": 10.14,
+      "head_to_head": {
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 5,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 4,
+          "losses": 3,
+          "draws": 2
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        }
+      },
+      "version": "0.2.01_Enhanced",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.2.0_BETA": {
+      "name": "SlowMate_v0.2.0_BETA",
+      "games": 69,
+      "wins": 42,
+      "losses": 23,
+      "draws": 4,
+      "decisive_wins": 17,
+      "points": 44.0,
+      "win_rate": 60.87,
+      "decisive_win_rate": 24.64,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        "Cece_v1.2": {
+          "wins": 4,
+          "losses": 1,
+          "draws": 3
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.2.0_BETA",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.0.10_Tactical_Intelligence": {
+      "name": "SlowMate_v0.0.10_Tactical_Intelligence",
+      "games": 70,
+      "wins": 45,
+      "losses": 22,
+      "draws": 3,
+      "decisive_wins": 15,
+      "points": 46.5,
+      "win_rate": 64.29,
+      "decisive_win_rate": 21.43,
+      "draw_rate": 4.29,
+      "head_to_head": {
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 3,
+          "losses": 4,
+          "draws": 2
+        },
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 7,
+          "losses": 2,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        }
+      },
+      "version": "0.0.10_Tactical",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.1.01_Tactics": {
+      "name": "SlowMate_v0.1.01_Tactics",
+      "games": 70,
+      "wins": 40,
+      "losses": 28,
+      "draws": 2,
+      "decisive_wins": 24,
+      "points": 41.0,
+      "win_rate": 57.14,
+      "decisive_win_rate": 34.29,
+      "draw_rate": 2.86,
+      "head_to_head": {
+        "SlowMate_v0.1.03_Middlegame": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0
+        },
+        "Cece_v1.3": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 1,
+          "draws": 1
+        },
+        "Random_Opponent": {
+          "wins": 9,
+          "losses": 0,
+          "draws": 0
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 5,
+          "losses": 4,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 0
+        }
+      },
+      "version": "0.1.01_Tactics",
+      "test_status": "Unknown"
+    },
+    "SlowMate_v0.1.03_Middlegame": {
+      "name": "SlowMate_v0.1.03_Middlegame",
+      "games": 69,
+      "wins": 36,
+      "losses": 29,
+      "draws": 4,
+      "decisive_wins": 14,
+      "points": 38.0,
+      "win_rate": 52.17,
+      "decisive_win_rate": 20.29,
+      "draw_rate": 5.8,
+      "head_to_head": {
+        "SlowMate_v0.1.01_Tactics": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "Random_Opponent": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 1
+        },
+        "V7P3RAI_v1.0": {
+          "wins": 3,
+          "losses": 5,
+          "draws": 0
+        },
+        "SlowMate_v0.2.01_Enhanced_Search": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 1
+        },
+        "Cece_v1.2": {
+          "wins": 6,
+          "losses": 3,
+          "draws": 0
+        },
+        "SlowMate_v0.0.10_Tactical_Intelligence": {
+          "wins": 2,
+          "losses": 6,
+          "draws": 1
+        },
+        "Cece_v1.3": {
+          "wins": 5,
+          "losses": 2,
+          "draws": 1
+        },
+        "SlowMate_v0.3.03_Version_vs_Version_Nuclear_Fix": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        "SlowMate_v0.2.0_BETA": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0
+        }
+      },
+      "version": "0.1.03_Middlegame",
+      "test_status": "Unknown"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+    Engine                        Score   St Sl Sl Sl Sl Ce Sl Sl Ce Sl Ce V7 Co Ce Ce Ra    S-B
+01: Stockfish 1%                  29.0/30 ·· 01 11 11 11 11 11 11 11 11 11 11 11 11 11 11  395.00
+02: SlowMate_v1.0                 27.0/30 10 ·· 11 11 11 1= 11 11 11 11 1= 11 11 1= 1= 11  376.25
+03: SlowMate_v0.0.0               20.0/30 00 00 ·· 11 10 11 01 11 01 10 01 01 11 11 11 11  239.00
+04: SlowMate_v0.2.0               19.0/30 00 00 00 ·· 01 == 11 01 10 11 11 10 11 11 11 11  210.50
+04: SlowMate_v0.1.2               19.0/30 00 00 01 10 ·· 00 10 01 11 11 11 10 11 11 11 11  210.50
+06: Cece_v2.0                     18.5/30 00 0= 00 == 11 ·· =0 10 01 11 1= =1 11 1= 11 11  216.50
+07: SlowMate_v0.2.2               16.0/30 00 00 10 00 01 =1 ·· 10 01 01 11 01 == 1= 11 11  183.00
+08: SlowMate_v0.0.1               15.0/30 00 00 00 10 10 01 01 ·· 00 01 10 10 11 11 11 11  157.00
+09: Cece_v1.3                     14.5/30 00 00 10 01 00 10 10 11 ·· 10 =0 01 =1 1= == 11  170.25
+10: SlowMate_v0.1.0               14.0/30 00 00 01 00 00 00 10 10 01 ·· 01 01 11 11 11 11  136.00
+11: Cece_v1.2                     13.0/30 00 0= 10 00 00 0= 00 01 =1 10 ·· 01 11 =1 =1 =1  143.75
+12: V7P3RAI_v1.0                  12.5/30 00 00 10 01 01 =0 10 01 10 10 10 ·· 10 == == 01  162.25
+13: Copycat_v1.0                  8.0/30  00 00 00 00 00 00 == 00 =0 00 00 01 ·· 11 11 1=   62.50
+14: Cecilia_v0.2.0_Enhanced_Fixed 5.5/30  00 0= 00 00 00 0= 0= 00 0= 00 =0 == 00 ·· == ==   66.00
+15: Cecilia_v0.3.0_Advanced_Fixed 4.5/30  00 0= 00 00 00 00 00 00 == 00 =0 == 00 == ·· =0   54.75
+16: Random_Opponent               4.5/30  00 00 00 00 00 00 00 00 00 00 =0 10 0= == =1 ··   35.25
+
+240 games played / Tournament is finished
+Name of the tournament: Engine Battle Demo PC 20250812
+Site/ Country: NETWORK-CLOSET, United States
+Level: Blitz 2/1
+Hardware: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz with 31.9 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle Demo PC 20250812.pgn
+Website: 
+E-Mail Address: 
