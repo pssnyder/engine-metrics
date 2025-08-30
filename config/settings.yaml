@@ -1,0 +1,81 @@
+# Engine Metrics Dashboard Configuration
+
+# Arena Monitor Settings
+arena_monitor:
+  # Arena tournaments directory to monitor
+  arena_tournaments_dir: "C:\\Program Files (x86)\\Arena\\Tournaments"
+  
+  # Target directory for organized files
+  target_dir: "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-metrics\\game_records"
+  
+  # File extensions to monitor
+  file_extensions: [".pgn", ".txt", ".log", ".html", ".res", ".at"]
+  
+  # Tournament name patterns
+  tournament_patterns:
+    engine_battle: "Engine Battle"
+    slowmate_tournament: "SlowMate Tournament"
+    default: "Tournament"
+  
+  # Auto-processing settings
+  auto_process: true
+  process_delay_seconds: 5  # Wait time after file creation before processing
+
+# Real-time Dashboard Settings
+dashboard:
+  auto_refresh_seconds: 30
+  max_concurrent_tournaments: 10
+  show_live_games: true
+  
+# Data Processing Settings
+processing:
+  batch_interval_minutes: 1  # More frequent for real-time
+  encoding_fallbacks: ['utf-8', 'latin-1', 'cp1252', 'iso-8859-1']
+  
+# Engine Filter Settings
+engines:
+  target_engines:
+    - v7p3r
+    - slowmate
+  version_pattern: "v\\d+\\.\\d+"  # Regex pattern for versioned engines
+  
+# Directory Monitoring
+directories:
+  # Local directories to monitor for PGN files
+  local_paths:
+    - "./game_records"
+  
+  # Network directories (Windows shares or synced folders)
+  network_paths:
+    # Examples - uncomment and modify as needed:
+    # - "//DESKTOP-PC1/chess_results"
+    # - "//LAPTOP-PC2/arena_output"
+    # - "./synced_data/pc1_results"
+    # - "./synced_data/pc2_results"
+  
+  # File patterns to monitor
+  file_patterns:
+    - "*.pgn"
+    - "*.PGN"
+
+# Database Settings
+database:
+  path: "./database/chess_metrics.db"
+  backup_interval_hours: 24
+
+# Web Server Settings
+server:
+  host: "0.0.0.0"  # Listen on all interfaces for network access
+  port: 8000
+  debug: false
+  cors_origins:
+    - "http://localhost:3000"  # React dev server
+    - "http://localhost:8000"  # Production
+
+# Metrics Configuration
+metrics:
+  material_advantage_threshold: 3  # Pawns equivalent for missed wins
+  time_control_categories:
+    - blitz
+    - rapid
+    - classical
