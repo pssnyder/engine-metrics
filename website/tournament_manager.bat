@@ -34,8 +34,8 @@ echo This will monitor the Arena tournaments directory and process new files.
 echo Press Ctrl+C to stop the service.
 echo.
 pause
-cd /d "%~dp0services"
-python tournament_monitor.py
+cd /d "%~dp0"
+python services\tournament_monitor.py
 pause
 goto MENU
 
@@ -50,8 +50,8 @@ echo.
 echo Press Ctrl+C to stop the dashboard.
 echo.
 pause
-cd /d "%~dp0dashboard"
-streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+cd /d "%~dp0"
+streamlit run dashboard\streamlit_app.py --server.port 8501 --server.address 0.0.0.0
 pause
 goto MENU
 
@@ -65,13 +65,13 @@ echo.
 pause
 
 REM Start monitor service in new window
-start "Tournament Monitor" cmd /k "cd /d \"%~dp0services\" && python tournament_monitor.py"
+start "Tournament Monitor" cmd /k "cd /d \"%~dp0\" && python services\tournament_monitor.py"
 
 REM Wait a moment for the monitor to start
 timeout /t 3 /nobreak >nul
 
 REM Start dashboard in new window
-start "Streamlit Dashboard" cmd /k "cd /d \"%~dp0dashboard\" && streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0"
+start "Streamlit Dashboard" cmd /k "cd /d \"%~dp0\" && streamlit run dashboard\streamlit_app.py --server.port 8501 --server.address 0.0.0.0"
 
 echo.
 echo Both services are starting...

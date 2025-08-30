@@ -4,7 +4,7 @@ Displays live tournament data with auto-refresh capabilities.
 """
 
 import streamlit as st
-import asyncio
+import requests
 import json
 import sys
 import os
@@ -15,21 +15,19 @@ import plotly.graph_objects as go
 import pandas as pd
 import time
 
-# Add services directory to path
-services_path = os.path.join(os.path.dirname(__file__), '..', 'services')
-sys.path.insert(0, services_path)
+# Configuration
+BACKEND_URL = "http://localhost:8000"
 
-# Add backend directory to path for imports
-backend_path = os.path.join(os.path.dirname(__file__), '..', 'backend')
-sys.path.insert(0, backend_path)
+# Test backend connection
+def test_backend_connection():
+    """Test if backend API is accessible."""
+    try:
+        response = requests.get(f"{BACKEND_URL}/health", timeout=5)
+        return response.status_code == 200
+    except:
+        return False
 
-try:
-    from realtime_etl import RealTimeETL
-    ETL_AVAILABLE = True
-except ImportError as e:
-    st.error(f"Could not import RealTimeETL: {e}")
-    st.info("Please ensure all backend services are properly configured.")
-    ETL_AVAILABLE = False
+BACKEND_AVAILABLE = test_backend_connection()
 
 # Page configuration
 st.set_page_config(
@@ -42,51 +40,192 @@ st.set_page_config(
 # Custom CSS
 st.markdown("""
 <style>
+/* Dark theme compatible metric cards */
 .metric-card {
-    background-color: #f0f2f6;
+    background-color: #262730;
     padding: 1rem;
     border-radius: 0.5rem;
     border-left: 4px solid #1f77b4;
+    color: #fafafa;
 }
 
+/* Tournament status cards */
 .tournament-active {
-    background-color: #d4edda;
+    background-color: #1e4620;
     border-left: 4px solid #28a745;
+    color: #d4edda;
 }
 
 .tournament-recent {
-    background-color: #fff3cd;
+    background-color: #4a3c1d;
     border-left: 4px solid #ffc107;
+    color: #fff3cd;
 }
 
 .tournament-completed {
-    background-color: #f8d7da;
+    background-color: #4a2025;
     border-left: 4px solid #dc3545;
+    color: #f8d7da;
 }
 
+/* Override Streamlit metric styling for dark theme */
 .stMetric {
-    background-color: white;
-    padding: 1rem;
-    border-radius: 0.5rem;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    background-color: #262730 !important;
+    padding: 1rem !important;
+    border-radius: 0.5rem !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3) !important;
+    border: 1px solid #404040 !important;
+}
+
+/* Metric labels and values */
+.stMetric > label {
+    color: #fafafa !important;
+}
+
+.stMetric > div {
+    color: #fafafa !important;
+}
+
+/* Metric value text */
+.stMetric [data-testid="stMetricValue"] {
+    color: #fafafa !important;
+}
+
+/* Metric label text */
+.stMetric [data-testid="stMetricLabel"] {
+    color: #cccccc !important;
+}
+
+/* Main container styling */
+.main > div {
+    background-color: #0e1117;
+}
+
+/* App background */
+.stApp {
+    background-color: #0e1117;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: #262730;
+}
+
+/* Container backgrounds */
+.block-container {
+    background-color: #0e1117;
+}
+
+/* Title styling */
+h1, h2, h3 {
+    color: #fafafa !important;
+}
+
+/* Text and markdown */
+.stMarkdown, .stText {
+    color: #fafafa !important;
+}
+
+/* Caption text */
+.caption {
+    color: #cccccc !important;
+}
+
+/* Info boxes */
+.stInfo {
+    background-color: #1e3a5f !important;
+    border: 1px solid #1f77b4 !important;
+    color: #fafafa !important;
+}
+
+/* Success boxes */
+.stSuccess {
+    background-color: #1e4620 !important;
+    border: 1px solid #28a745 !important;
+    color: #fafafa !important;
+}
+
+/* Warning boxes */
+.stWarning {
+    background-color: #4a3c1d !important;
+    border: 1px solid #ffc107 !important;
+    color: #fafafa !important;
+}
+
+/* Error boxes */
+.stError {
+    background-color: #4a2025 !important;
+    border: 1px solid #dc3545 !important;
+    color: #fafafa !important;
+}
+
+/* Button styling */
+.stButton > button {
+    background-color: #262730;
+    color: #fafafa;
+    border: 1px solid #404040;
+}
+
+/* Selectbox and input styling */
+.stSelectbox > div > div {
+    background-color: #262730;
+    color: #fafafa;
+}
+
+/* Column backgrounds */
+.css-1kyxreq {
+    background-color: #0e1117;
 }
 </style>
 """, unsafe_allow_html=True)
 
 # Initialize session state
-if 'etl' not in st.session_state:
-    st.session_state.etl = None
+if 'last_refresh' not in st.session_state:
     st.session_state.last_refresh = None
     st.session_state.auto_refresh = True
 
-async def initialize_etl():
-    """Initialize the ETL pipeline."""
-    if st.session_state.etl is None:
-        etl = RealTimeETL()
-        if await etl.initialize():
-            st.session_state.etl = etl
-            return True
-    return st.session_state.etl is not None
+def get_backend_data():
+    """Get data from backend API."""
+    if not BACKEND_AVAILABLE:
+        return None
+    
+    try:
+        # Get comprehensive metrics
+        response = requests.get(f"{BACKEND_URL}/api/metrics/comprehensive", timeout=10)
+        if response.status_code == 200:
+            return response.json()
+    except Exception as e:
+        st.error(f"Error fetching data from backend: {e}")
+    
+    return None
+
+def get_backend_status():
+    """Get backend status."""
+    if not BACKEND_AVAILABLE:
+        return {
+            'running': False,
+            'tournaments_tracked': 0,
+            'last_update': None,
+            'error': 'Backend not available'
+        }
+    
+    try:
+        response = requests.get(f"{BACKEND_URL}/api/status", timeout=5)
+        if response.status_code == 200:
+            data = response.json()
+            return {
+                'running': True,
+                'tournaments_tracked': data.get('processing', {}).get('total_files_processed', 0),
+                'last_update': data.get('metrics', {}).get('last_updated'),
+                'total_games': data.get('metrics', {}).get('total_games', 0)
+            }
+    except Exception as e:
+        return {
+            'running': False,
+            'tournaments_tracked': 0,
+            'last_update': None,
+            'error': str(e)
+        }
 
 def format_duration(minutes):
     """Format duration in minutes to human readable format."""
@@ -102,7 +241,30 @@ def display_tournament_card(tournament):
     status = tournament['status']
     status_class = f"tournament-{status}"
     
+    # Color coding based on status
+    if status == 'active':
+        border_color = '#28a745'
+        bg_color = '#1e4620'
+    elif status == 'recent':
+        border_color = '#ffc107'
+        bg_color = '#4a3c1d'
+    else:  # completed
+        border_color = '#dc3545'
+        bg_color = '#4a2025'
+    
     with st.container():
+        # Use custom styling for the container
+        st.markdown(f"""
+            <div style="
+                background-color: {bg_color};
+                border-left: 4px solid {border_color};
+                padding: 1rem;
+                border-radius: 0.5rem;
+                margin-bottom: 1rem;
+                border: 1px solid #404040;
+            ">
+        """, unsafe_allow_html=True)
+        
         col1, col2, col3, col4 = st.columns([3, 1, 1, 1])
         
         with col1:
@@ -117,6 +279,8 @@ def display_tournament_card(tournament):
         
         with col4:
             st.metric("Files", tournament['files_processed'])
+        
+        st.markdown("</div>", unsafe_allow_html=True)
         
         # Last update time
         last_update = datetime.fromisoformat(tournament['last_update'])
@@ -174,6 +338,13 @@ def display_head_to_head(head_to_head_data):
                 title=f"Head-to-Head Results ({total_games} games)",
                 color_discrete_sequence=['#1f77b4', '#ff7f0e', '#2ca02c']
             )
+            # Dark theme styling for plotly
+            fig.update_layout(
+                plot_bgcolor='rgba(0,0,0,0)',
+                paper_bgcolor='rgba(0,0,0,0)',
+                font_color='#fafafa',
+                title_font_color='#fafafa'
+            )
             st.plotly_chart(fig, use_container_width=True)
 
 def display_control_engine_stats(control_stats):
@@ -205,29 +376,43 @@ def display_control_engine_stats(control_stats):
         domain = {'x': [0, 1], 'y': [0, 1]},
         title = {'text': "C0BR4 Control Engine Viability"},
         gauge = {
-            'axis': {'range': [None, 100]},
-            'bar': {'color': "darkblue"},
+            'axis': {'range': [None, 100], 'tickcolor': '#fafafa'},
+            'bar': {'color': "#1f77b4"},
             'steps': [
-                {'range': [0, 25], 'color': "lightgray"},
-                {'range': [25, 50], 'color': "yellow"},
-                {'range': [50, 75], 'color': "orange"},
-                {'range': [75, 100], 'color': "green"}
+                {'range': [0, 25], 'color': "#4a2025"},
+                {'range': [25, 50], 'color': "#4a3c1d"},
+                {'range': [50, 75], 'color': "#1e3a5f"},
+                {'range': [75, 100], 'color': "#1e4620"}
             ],
             'threshold': {
-                'line': {'color': "red", 'width': 4},
+                'line': {'color': "#dc3545", 'width': 4},
                 'thickness': 0.75,
                 'value': 50
             }
         }
     ))
     
-    fig.update_layout(height=300)
+    # Dark theme styling for gauge
+    fig.update_layout(
+        height=300,
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font_color='#fafafa',
+        title_font_color='#fafafa'
+    )
     st.plotly_chart(fig, use_container_width=True)
 
-async def main():
+def main():
     """Main dashboard function."""
     st.title("♕ Chess Engine Tournament Dashboard")
     st.markdown("Real-time monitoring of chess engine tournaments")
+    
+    # Check backend availability
+    if not BACKEND_AVAILABLE:
+        st.error("❌ Backend API is not available!")
+        st.info("Please ensure the backend API is running on http://localhost:8000")
+        st.info("Run: `python backend/app.py` to start the backend")
+        return
     
     # Sidebar controls
     with st.sidebar:
@@ -244,32 +429,30 @@ async def main():
         if st.button("🔄 Refresh Now"):
             st.rerun()
         
-        # ETL status
+        # Backend status
         st.header("System Status")
         
-        # Initialize ETL if needed
-        if await initialize_etl():
-            etl_status = st.session_state.etl.get_status()
-            
-            st.success("✅ ETL Pipeline: Running" if etl_status['running'] else "⚠️ ETL Pipeline: Stopped")
-            st.info(f"📊 Tournaments Tracked: {etl_status['tournaments_tracked']}")
-            
-            if etl_status['last_update']:
-                last_update = datetime.fromisoformat(etl_status['last_update'])
+        backend_status = get_backend_status()
+        
+        st.success("✅ Backend API: Running" if backend_status['running'] else "⚠️ Backend API: Stopped")
+        st.info(f"📊 Total Games: {backend_status.get('total_games', 0)}")
+        
+        if backend_status.get('last_update'):
+            try:
+                last_update = datetime.fromisoformat(backend_status['last_update'].replace('Z', '+00:00'))
                 st.info(f"🕒 Last Update: {last_update.strftime('%H:%M:%S')}")
+            except:
+                st.info("🕒 Last Update: Unknown")
         else:
-            st.error("❌ ETL Pipeline: Failed to initialize")
-            st.stop()
+            st.info("🕒 Last Update: Never")
     
-    # Main dashboard content
-    if st.session_state.etl:
-        try:
-            # Get real-time stats
-            stats = await st.session_state.etl.get_realtime_stats()
-            
-            if 'error' in stats:
-                st.error(f"Error loading stats: {stats['error']}")
-                return
+    # Get metrics data
+    metrics_data = get_backend_data()
+    
+    if metrics_data is None:
+        st.error("❌ No data available from backend")
+        st.info("The backend may still be processing data. Please wait a moment and refresh.")
+        return
             
             # Overview metrics
             st.header("📊 Live Overview")
@@ -338,5 +521,5 @@ async def main():
         st.rerun()
 
 if __name__ == "__main__":
-    # Run the async main function
-    asyncio.run(main())
+    # Run the main function
+    main()

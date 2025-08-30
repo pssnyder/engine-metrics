@@ -41,27 +41,69 @@ class ArenaFileHandler(FileSystemEventHandler):
         try:
             file_path_obj = Path(file_path)
             
-            # Skip if already processed and not a modification
-            if not is_modification and file_path in self.processed_files:
-                return
-                
             # Check if it's a tournament file we care about
             if not self._is_tournament_file(file_path_obj):
+                return
+                
+            # For modifications, always process (tournament might be ongoing)
+            if is_modification:
+                logger.info(f"Tournament file updated: {file_path_obj.name}")
+            
+            # Skip if already processed and not a modification
+            elif file_path in self.processed_files:
                 return
                 
             # Wait a moment for file to be fully written
             time.sleep(2)
             
-            # Move and organize the file
+            # Check if this looks like an active tournament
+            is_active = self._is_likely_active_tournament(file_path_obj)
+            if is_active:
+                logger.info(f"Active tournament detected: {file_path_obj.name} - copying for analysis")
+            
+            # Copy and organize the file (preserving original in Arena)
             destination = self._get_destination_path(file_path_obj)
             if destination:
-                self._move_file(file_path_obj, destination)
-                self.processed_files.add(file_path)
+                self._copy_file(file_path_obj, destination)
+                
+                # Only mark as processed if it's not an active tournament
+                # Active tournaments should be reprocessed on each update
+                if not is_active or not is_modification:
+                    self.processed_files.add(file_path)
                 
                 logger.info(f"Processed tournament file: {file_path_obj.name} -> {destination}")
                 
         except Exception as e:
             logger.error(f"Error processing file {file_path}: {e}")
+    
+    def _is_likely_active_tournament(self, file_path: Path) -> bool:
+        """Check if this appears to be an active tournament."""
+        try:
+            # Check file modification time - if modified very recently, likely active
+            mod_time = file_path.stat().st_mtime
+            current_time = time.time()
+            time_diff = current_time - mod_time
+            
+            # If modified within last 10 minutes, consider active
+            if time_diff < 600:  # 10 minutes
+                return True
+            
+            # Check file size - if very small, might be just starting
+            file_size = file_path.stat().st_size
+            if file_size < 1000:  # Less than 1KB, might be starting
+                return True
+                
+            # Check specific file types that indicate ongoing tournaments
+            filename_lower = file_path.name.lower()
+            if any(indicator in filename_lower for indicator in ['.at', '.log']):
+                # Arena tournament files (.at) and logs are often updated during play
+                return True
+                
+            return False
+            
+        except Exception as e:
+            logger.error(f"Error checking if tournament is active: {e}")
+            return False
     
     def _is_tournament_file(self, file_path: Path) -> bool:
         """Check if the file is a tournament file we should process."""
@@ -126,27 +168,41 @@ class ArenaFileHandler(FileSystemEventHandler):
         else:
             return "Tournament"
     
-    def _move_file(self, source: Path, destination: Path):
-        """Move file to destination, handling conflicts."""
+    def _copy_file(self, source: Path, destination: Path):
+        """Copy file to destination, handling conflicts. Preserves original in Arena directory."""
         try:
-            if destination.exists():
-                # If file exists, compare sizes or timestamps
-                if source.stat().st_size != destination.stat().st_size:
-                    # Different sizes, append timestamp
+            # For active tournaments, always update the copy
+            is_active = self._is_likely_active_tournament(source)
+            
+            if destination.exists() and not is_active:
+                # If file exists and tournament is not active, compare sizes
+                source_size = source.stat().st_size
+                dest_size = destination.stat().st_size
+                
+                if source_size != dest_size:
+                    # Different sizes, append timestamp to avoid overwrite
                     timestamp = datetime.now().strftime("%H%M%S")
                     stem = destination.stem
                     suffix = destination.suffix
                     destination = destination.parent / f"{stem}_{timestamp}{suffix}"
-                else:
-                    # Same size, likely duplicate
-                    logger.info(f"Skipping duplicate file: {source.name}")
+                elif source.stat().st_mtime <= destination.stat().st_mtime:
+                    # Destination is newer or same, skip copy
+                    logger.debug(f"Skipping copy - destination is up to date: {source.name}")
                     return
+            elif destination.exists() and is_active:
+                # For active tournaments, overwrite to keep updated
+                logger.info(f"Updating active tournament file: {source.name}")
             
-            shutil.move(str(source), str(destination))
-            logger.info(f"Moved: {source.name} -> {destination}")
+            # Copy file, preserving original in Arena directory
+            shutil.copy2(str(source), str(destination))
+            
+            if is_active:
+                logger.info(f"Updated active tournament: {source.name} -> {destination}")
+            else:
+                logger.info(f"Copied: {source.name} -> {destination}")
             
         except Exception as e:
-            logger.error(f"Error moving file {source} to {destination}: {e}")
+            logger.error(f"Error copying file {source} to {destination}: {e}")
 
 class ArenaMonitor:
     """Main Arena tournament monitor service."""

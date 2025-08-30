@@ -11,6 +11,24 @@ arena_monitor:
   # File extensions to monitor
   file_extensions: [".pgn", ".txt", ".log", ".html", ".res", ".at"]
   
+  # File operation mode: 'copy' (preserves originals) or 'move' (removes from Arena)
+  # IMPORTANT: Use 'copy' to avoid breaking active tournaments!
+  operation_mode: "copy"
+  
+  # Active tournament detection
+  active_tournament_settings:
+    # Time window to consider a file as part of active tournament (seconds)
+    active_time_window: 600  # 10 minutes
+    
+    # File types that indicate active tournaments
+    active_indicators: [".at", ".log"]
+    
+    # Minimum file size to consider for processing (bytes)
+    min_file_size: 100
+    
+    # Always update copies of active tournaments
+    update_active_copies: true
+  
   # Tournament name patterns
   tournament_patterns:
     engine_battle: "Engine Battle"
@@ -19,7 +37,7 @@ arena_monitor:
   
   # Auto-processing settings
   auto_process: true
-  process_delay_seconds: 5  # Wait time after file creation before processing
+  process_delay_seconds: 2  # Wait time after file creation before processing
 
 # Real-time Dashboard Settings
 dashboard:

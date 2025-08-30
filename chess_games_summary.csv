@@ -1,0 +1,229 @@
+white,black,result,date,event,plycount,time_control,termination,file
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,50,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,39,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,SlowMate_v3.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,65,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,23,600+5,rules infraction,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,42,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,20,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,22,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,32,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,33,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,33,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,20,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,62,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,76,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,45,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,49,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,V7P3R_v7.0,1-0,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,23,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,44,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,29,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,Random_Opponent,1/2-1/2,2025.08.29,Engine Battle 20250829_2,70,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,76,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,19,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,42,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,SlowMate_v3.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,93,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,22,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,12,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,57,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,Random_Opponent,0-1,2025.08.29,Engine Battle 20250829_2,38,600+5,rules infraction,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,56,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,62,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,45,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,63,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,V7P3R_v7.0,1-0,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,38,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,7,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,Random_Opponent,1/2-1/2,2025.08.29,Engine Battle 20250829_2,92,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,50,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,7,600+5,rules infraction,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,42,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,56,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,34,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,12,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,45,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,Random_Opponent,0-1,2025.08.29,Engine Battle 20250829_2,14,600+5,rules infraction,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v7.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,51,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,C0BR4_v2.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,46,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,16,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,45,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,13,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,V7P3R_v7.0,1-0,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,69,600+5,rules infraction,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,54,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,61,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,49,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,SlowMate_v3.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,79,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,19,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,42,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,SlowMate_v3.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,63,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,34,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,26,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,7,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,13,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,40,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,C0BR4_v2.0,0-1,2025.08.29,Engine Battle 20250829_2,39,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,76,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,SlowMate_v3.0,1-0,2025.08.29,Engine Battle 20250829_2,33,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,33,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,V7P3R_v7.0,1-0,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,76,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,28,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,17,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,35,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,SlowMate_v3.0,1-0,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,29,600+5,rules infraction,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,42,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,SlowMate_v3.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,57,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,34,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.29,Engine Battle 20250829_2,56,600+5,rules infraction,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,Random_Opponent,1/2-1/2,2025.08.29,Engine Battle 20250829_2,24,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,15,600+5,normal,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,29,600+5,normal,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v7.0,1/2-1/2,2025.08.29,Engine Battle 20250829_2,46,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,47,600+5,rules infraction,Engine Battle 20250829_2.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.29,Engine Battle 20250829_2,76,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,SlowMate_v3.0,0-1,2025.08.29,Engine Battle 20250829_2,101,600+5,normal,Engine Battle 20250829_2.pgn
+SlowMate_v3.0,Random_Opponent,1-0,2025.08.29,Engine Battle 20250829_2,63,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v9.0,V7P3R_v7.0,1-0,2025.08.29,Engine Battle 20250829_2,30,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v7.0,C0BR4_v2.0,1-0,2025.08.29,Engine Battle 20250829_2,69,600+5,rules infraction,Engine Battle 20250829_2.pgn
+Random_Opponent,V7P3R_v9.0,0-1,2025.08.29,Engine Battle 20250829_2,40,600+5,normal,Engine Battle 20250829_2.pgn
+V7P3R_v6.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,23,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,21,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,20,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v8.0,0-1,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,19,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,26,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,53,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,23,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,14,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,20,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v8.0,0-1,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,19,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,26,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,68,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,23,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,21,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v8.0,0-1,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,19,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,26,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,27,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,23,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,21,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,20,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v8.0,0-1,2025.08.29,Engine Regression Battle 20250829,32,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,19,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,26,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v9.0,1/2-1/2,2025.08.29,Engine Regression Battle 20250829,60,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,31,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,21,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.29,Engine Regression Battle 20250829,14,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,17,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,12,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.29,Engine Regression Battle 20250829,10,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v6.0,V7P3R_v8.0,0-1,2025.08.29,Engine Regression Battle 20250829,16,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.29,Engine Regression Battle 20250829,23,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v7.0,V7P3R_v6.0,1-0,2025.08.29,Engine Regression Battle 20250829,26,120+1,normal,Engine Regression Battle 20250829.pgn
+V7P3R_v8.0,V7P3R_v9.0,0-1,2025.08.29,Engine Regression Battle 20250829,21,120+1,normal,Engine Regression Battle 20250829.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,9,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,29,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,33,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,21,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,17,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,18,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,23,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,C0BR4_v2.0,1/2-1/2,2025.08.30,Engine Battle 20250830,38,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v9.0,0-1,2025.08.30,Engine Battle 20250830,41,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,24,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,53,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v9.2,0-1,2025.08.30,Engine Battle 20250830,14,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,19,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,17,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,10,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,12,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,20,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,13,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,12,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,58,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v9.2,0-1,2025.08.30,Engine Battle 20250830,41,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,31,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v7.0,1/2-1/2,2025.08.30,Engine Battle 20250830,117,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,21,120+1,rules infraction,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,29,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,29,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,25,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,17,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,68,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,25,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,51,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,30,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v8.0,0-1,2025.08.30,Engine Battle 20250830,8,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v7.0,SlowMate_v3.0,1/2-1/2,2025.08.30,Engine Battle 20250830,61,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,14,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,17,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,SlowMate_v3.0,0-1,2025.08.30,Engine Battle 20250830,17,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,16,120+1,rules infraction,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v9.0,0-1,2025.08.30,Engine Battle 20250830,21,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,18,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,29,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,18,120+1,normal,Engine Battle 20250830.pgn
+C0BR4_v2.0,SlowMate_v3.0,1/2-1/2,2025.08.30,Engine Battle 20250830,89,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v9.2,0-1,2025.08.30,Engine Battle 20250830,35,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,31,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v7.0,1/2-1/2,2025.08.30,Engine Battle 20250830,119,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.2,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,19,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v8.0,V7P3R_v7.0,0-1,2025.08.30,Engine Battle 20250830,21,120+1,normal,Engine Battle 20250830.pgn
+SlowMate_v3.0,V7P3R_v9.2,1-0,2025.08.30,Engine Battle 20250830,22,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,C0BR4_v2.0,0-1,2025.08.30,Engine Battle 20250830,75,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v9.0,V7P3R_v8.0,1-0,2025.08.30,Engine Battle 20250830,10,120+1,normal,Engine Battle 20250830.pgn
+V7P3R_v7.0,V7P3R_v9.0,1-0,2025.08.30,Engine Battle 20250830,16,120+1,normal,Engine Battle 20250830_145216.pgn
+V7P3R_v9.2,C0BR4_v2.0,1-0,2025.08.30,Engine Battle 20250830,7,120+1,rules infraction,Engine Battle 20250830_145236.pgn
