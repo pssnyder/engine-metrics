@@ -1,9 +1,9 @@
 [Settings]
-TournamentName=Engine Battle 20250829
+TournamentName=Engine Battle 20250829_2
 Type=0
 CurrSwissRound=0
 Rounds=10
-CurrentPair=5
+CurrentPair=10
 CurrentRound=10
 Level=2 10\0/5#0
 [Options]
@@ -31,10 +31,10 @@ ShutdownComputerAfterGamesValue=10
 [Save]
 SaveGamesPGN=1
 SaveIncompleteGamesPGN=1
-PGNFile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829.pgn
-Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829.log
-TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829.txt
-TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829.html
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829_2.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829_2.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829_2.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20250829_2.html
 SaveTurTabText=1
 SaveTurTabHTML=1
 HTMLuseCountry=0
@@ -58,7 +58,7 @@ FCHnames=
 [Data]
 LastPGNEPDindex=1
 FirstGameDate=2025.08.29
-FirstGameTime=11:05:10
+FirstGameTime=15:15:37
 Country=United States
 Site=MAIN-DESKTOP
 Hardware=11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
@@ -67,21 +67,21 @@ Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
 LastGameDate=2025.08.29
-LastGameTime=15:14:42
+LastGameTime=22:24:07
 [PairingResults]
-Random_Opponent ------ SlowMate_v3.0=0½0½0½0000
-C0BR4_v2.0 ------ Stockfish 1%=0000000000
-Stockfish 1% ------ V7P3R_v9.0=1111111111
-C0BR4_v2.0 ------ SlowMate_v3.0=01½1½0½1½1
-C0BR4_v2.0 ------ Random_Opponent=1011110101
-SlowMate_v3.0 ------ V7P3R_v9.0=111111111?
-SlowMate_v3.0 ------ Stockfish 1%=000000000
-Random_Opponent ------ V7P3R_v9.0=000000000
-C0BR4_v2.0 ------ V7P3R_v9.0=111011101
-Random_Opponent ------ Stockfish 1%=000000000
+SlowMate_v3.0 ------ V7P3R_v9.0=1111111111
+C0BR4_v2.0 ------ Random_Opponent=1100000101
+Random_Opponent ------ V7P3R_v7.0=00½0½½000½
+C0BR4_v2.0 ------ SlowMate_v3.0=½0000½½110
+C0BR4_v2.0 ------ V7P3R_v9.0=0111001101
+SlowMate_v3.0 ------ V7P3R_v7.0=0101010001
+Random_Opponent ------ SlowMate_v3.0=00½000½0½0
+V7P3R_v7.0 ------ V7P3R_v9.0=1010101010
+C0BR4_v2.0 ------ V7P3R_v7.0=0101000000
+Random_Opponent ------ V7P3R_v9.0=00000000½0
 [Participants]
 Engine1=SlowMate_v3.0
 Engine2=C0BR4_v2.0
-Engine3=Stockfish 1%
-Engine4=Random_Opponent
-Engine5=V7P3R_v9.0
+Engine3=Random_Opponent
+Engine4=V7P3R_v9.0
+Engine5=V7P3R_v7.0
