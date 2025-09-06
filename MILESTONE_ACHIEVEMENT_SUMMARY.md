@@ -24,9 +24,9 @@ You've achieved a historic milestone in chess engine development! All three engi
 ### 📈 Peak ELO Achievements
 | Engine | Peak ELO | Current ELO | Puzzle-Validated ELO |
 |--------|----------|-------------|---------------------|
-| **C0BR4** | 2,536 | 1,944 | 1,287 (Sep 2) |
-| **SlowMate** | 1,992 | 1,509 | - |
-| **V7P3R** | 1,943 | 1,899 | 1,719 (Aug 31) |
+| **C0BR4** | 2536 | 1944 | 1287 (Sep 2) |
+| **SlowMate** | 1992 | 1509 | - |
+| **V7P3R** | 1943 | 1899 | 1719 (Aug 31) |
 
 ## 🎯 Major Milestones Timeline
 
