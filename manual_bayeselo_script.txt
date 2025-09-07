@@ -1,0 +1,121 @@
+reset
+addplayer "C0BR4 v2 9"
+addplayer "Random Opponent"
+addplayer "SlowMate v3 1"
+addplayer "Stockfish 1%"
+addplayer "V7P3R v10 2"
+addresult "C0BR4 v2 9" "Random Opponent" 2
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "Stockfish 1%" "V7P3R v10 2" 2
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "Random Opponent" "SlowMate v3 1" 0
+addresult "C0BR4 v2 9" "Stockfish 1%" 0
+addresult "V7P3R v10 2" "C0BR4 v2 9" 0
+addresult "Stockfish 1%" "Random Opponent" 2
+addresult "SlowMate v3 1" "Stockfish 1%" 0
+addresult "Random Opponent" "V7P3R v10 2" 0
+addresult "Random Opponent" "C0BR4 v2 9" 0
+addresult "SlowMate v3 1" "V7P3R v10 2" 0
+addresult "V7P3R v10 2" "Stockfish 1%" 0
+addresult "C0BR4 v2 9" "SlowMate v3 1" 0
+addresult "SlowMate v3 1" "Random Opponent" 2
+addresult "Stockfish 1%" "C0BR4 v2 9" 2
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "Random Opponent" "Stockfish 1%" 0
+addresult "Stockfish 1%" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "Random Opponent" 2
+addresult "C0BR4 v2 9" "Random Opponent" 2
+addresult "V7P3R v10 2" "SlowMate v3 1" 1
+addresult "Stockfish 1%" "V7P3R v10 2" 2
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "Random Opponent" "SlowMate v3 1" 0
+addresult "C0BR4 v2 9" "Stockfish 1%" 0
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "Stockfish 1%" "Random Opponent" 2
+addresult "SlowMate v3 1" "Stockfish 1%" 1
+addresult "Random Opponent" "V7P3R v10 2" 0
+addresult "Random Opponent" "C0BR4 v2 9" 0
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "Stockfish 1%" 0
+addresult "C0BR4 v2 9" "SlowMate v3 1" 0
+addresult "SlowMate v3 1" "Random Opponent" 2
+addresult "Stockfish 1%" "C0BR4 v2 9" 2
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "Random Opponent" "Stockfish 1%" 0
+addresult "Stockfish 1%" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "Random Opponent" 2
+addresult "C0BR4 v2 9" "Random Opponent" 2
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "Stockfish 1%" "V7P3R v10 2" 2
+addresult "SlowMate v3 1" "C0BR4 v2 9" 1
+addresult "Random Opponent" "SlowMate v3 1" 0
+addresult "C0BR4 v2 9" "Stockfish 1%" 0
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "Stockfish 1%" "Random Opponent" 2
+addresult "SlowMate v3 1" "Stockfish 1%" 1
+addresult "Random Opponent" "V7P3R v10 2" 0
+addresult "C0BR4 v2 9" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 1
+addresult "C0BR4 v2 9" "SlowMate v3 1" 1
+addresult "V7P3R v10 2" "C0BR4 v2 9" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 0
+addresult "V7P3R v10 2" "SlowMate v3 1" 1
+addresult "C0BR4 v2 9" "SlowMate v3 1" 1
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "C0BR4 v2 9" "SlowMate v3 1" 1
+addresult "V7P3R v10 2" "C0BR4 v2 9" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 2
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "C0BR4 v2 9" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "SlowMate v3 1" "V7P3R v10 2" 0
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 0
+addresult "C0BR4 v2 9" "SlowMate v3 1" 1
+addresult "V7P3R v10 2" "C0BR4 v2 9" 0
+addresult "SlowMate v3 1" "V7P3R v10 2" 0
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 2
+addresult "V7P3R v10 2" "SlowMate v3 1" 1
+addresult "C0BR4 v2 9" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "C0BR4 v2 9" 1
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 1
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 1
+addresult "C0BR4 v2 9" "SlowMate v3 1" 0
+addresult "V7P3R v10 2" "C0BR4 v2 9" 0
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "SlowMate v3 1" "C0BR4 v2 9" 0
+addresult "C0BR4 v2 9" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 0
+addresult "C0BR4 v2 9" "SlowMate v3 1" 2
+addresult "V7P3R v10 2" "C0BR4 v2 9" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+addresult "SlowMate v3 1" "V7P3R v10 2" 1
+addresult "V7P3R v10 2" "SlowMate v3 1" 2
+elo
+mm
+exactdist
+ratings > manual_test_results.txt
+x

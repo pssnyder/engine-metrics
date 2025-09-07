@@ -1,0 +1,2 @@
+Rank Name           Elo    +    - games score oppo. draws 
+   1 "C0BR4 v2 9"     0 1319 1319   220   50%     0    0% 
