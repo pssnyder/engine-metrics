@@ -581,7 +581,9 @@ class OptimizedEngineEvolutionAnalyzer:
             
             wedges, texts, autotexts = ax5.pie(victory_counts.values.tolist(), 
                                               labels=victory_counts.index.tolist(), 
-                                              autopct='%1.1f%%', colors=colors)
+                                              autopct='%1.1f%%', 
+                                              colors=colors,
+                                              startangle=90)
             for autotext in autotexts:
                 autotext.set_color('white')
                 autotext.set_fontweight('bold')

@@ -11,6 +11,7 @@ You've achieved a historic milestone in chess engine development! All three engi
 - **Analysis Period**: July 20, 2025 - September 6, 2025 (48 days)
 - **Data Processing**: Optimized with intelligent caching (80% faster subsequent runs)
 - **Puzzle Analysis Integration**: Enhanced ELO calculations using real puzzle performance
+- **Enhanced Engine Evolution Report**: "S:\Maker Stuff\Programming\Chess Engines\Chess Engine Playground\engine-metrics\enhanced_engine_evolution_report.md"
 
 ### 🏆 Stockfish 1% Victories Breakdown
 | Engine | Victories | First Win | Latest Win | Success Rate |
