@@ -1,11 +1,11 @@
 [Settings]
-TournamentName=Engine Regression Battle 20250921_2
+TournamentName=Engine Tournament 20250922
 Type=0
 CurrSwissRound=0
-Rounds=10
-CurrentPair=10
-CurrentRound=10
-Level=2 1\0/1#0
+Rounds=3
+CurrentPair=3
+CurrentRound=3
+Level=5 -1\30/-1#30@-1|30
 [Options]
 QuitAfterTournament=0
 ShutDownAfterTournament=0
@@ -31,10 +31,10 @@ ShutdownComputerAfterGamesValue=10
 [Save]
 SaveGamesPGN=1
 SaveIncompleteGamesPGN=1
-PGNFile=C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20250921_2.pgn
-Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20250921_2.log
-TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20250921_2.txt
-TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20250921_2.html
+PGNFile=C:\Program Files (x86)\Arena\Tournaments\Engine Tournament 20250922.pgn
+Protocolfile=C:\Program Files (x86)\Arena\Tournaments\Engine Tournament 20250922.log
+TurTabTextfile=C:\Program Files (x86)\Arena\Tournaments\Engine Tournament 20250922.txt
+TurTabHTMLfile=C:\Program Files (x86)\Arena\Tournaments\Engine Tournament 20250922.html
 SaveTurTabText=1
 SaveTurTabHTML=1
 HTMLuseCountry=0
@@ -57,8 +57,8 @@ FCHdir=
 FCHnames=
 [Data]
 LastPGNEPDindex=1
-FirstGameDate=2025.09.21
-FirstGameTime=18:36:57
+FirstGameDate=2025.09.22
+FirstGameTime=18:36:36
 Country=United States
 Site=MAIN-DESKTOP
 Hardware=11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
@@ -66,22 +66,13 @@ OS=Windows 10 Enterprise Professional (Build 9200) 64 bit
 Website=
 E-Mail=
 ArenaVersion=Arena 3.5.1
-LastGameDate=2025.09.21
-LastGameTime=22:02:22
+LastGameDate=2025.09.22
+LastGameTime=20:42:57
 [PairingResults]
-V7P3R_v11.2 ------ V7P3R_v11.4=1111111111
-V7P3R_v10.6 ------ V7P3R_v10.8=110100000½
-V7P3R_v10.8 ------ V7P3R_v11.0=11111½1111
-V7P3R_v10.6 ------ V7P3R_v11.4=0111111111
-V7P3R_v10.6 ------ V7P3R_v11.2=1111111111
-V7P3R_v11.0 ------ V7P3R_v11.4=1111111111
-V7P3R_v10.8 ------ V7P3R_v11.4=1111111111
-V7P3R_v11.0 ------ V7P3R_v11.2=111½011111
-V7P3R_v10.6 ------ V7P3R_v11.0=1111111111
-V7P3R_v10.8 ------ V7P3R_v11.2=1111½11½1½
+C0BR4_v2.9 ------ SlowMate_v3.1=½11
+C0BR4_v2.9 ------ V7P3R_v10.8=101
+SlowMate_v3.1 ------ V7P3R_v10.8=00½
 [Participants]
-Engine1=V7P3R_v11.4
-Engine2=V7P3R_v10.6
+Engine1=C0BR4_v2.9
+Engine2=SlowMate_v3.1
 Engine3=V7P3R_v10.8
-Engine4=V7P3R_v11.2
-Engine5=V7P3R_v11.0

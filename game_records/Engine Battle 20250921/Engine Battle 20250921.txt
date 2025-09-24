@@ -1,13 +1,13 @@
-   Engine          Score  St C0 Sl V7 V7 V7 Ra    S-B
-1: Stockfish 1%    8.5/10 ·· 11 =0 1  11 1  11   37.25
-2: C0BR4_v2.9      7.5/11 00 ·· =  11 == 11 11   27.25
-3: SlowMate_v3.1   5.5/10 =1 =  ·· 0= 1  0= =1   26.50
-4: V7P3R_v10.6     5.5/10 0  00 1= ·· 01 11 1    21.25
-5: V7P3R_v10.8     4.5/10 00 == 0  10 ·· =  11   16.00
-6: V7P3R_v11.4     4.0/10 0  00 1= 00 =  ·· 11   11.50
-7: Random_Opponent 0.5/11 00 00 =0 0  00 00 ··    2.75
+   Engine          Score    St   C0   V7   V7   Sl   V7   Ra    S-B
+1: Stockfish 1%    22.0/24 ···· 111= 1111 1111 =011 1111 1111  223.50
+2: C0BR4_v2.9      17.5/24 000= ···· ==== 111= =111 1111 1111  150.25
+3: V7P3R_v10.8     13.5/24 0000 ==== ···· 1010 01== =111 1111  108.75
+4: V7P3R_v10.6     13.0/24 0000 000= 0101 ···· 1=== 1111 1111   92.00
+5: SlowMate_v3.1   10.5/24 =100 =000 10== 0=== ···· 0==1 =1=1  104.25
+6: V7P3R_v11.4     6.5/24  0000 0000 =000 0000 1==0 ···· 1111   31.75
+7: Random_Opponent 1.0/24  0000 0000 0000 0000 =0=0 0000 ····   10.50
 
-36 of 84 games played
+84 games played / Tournament is finished
 Name of the tournament: Engine Battle 20250921
 Site/ Country: MAIN-DESKTOP, United States
 Level: Blitz 2/1
