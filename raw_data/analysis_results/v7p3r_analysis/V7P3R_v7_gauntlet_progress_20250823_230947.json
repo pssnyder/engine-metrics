@@ -1,0 +1,39 @@
+{
+  "test_start": "2025-08-23T23:09:47.658171",
+  "v7p3r_version": "v7.0",
+  "stockfish_version": "17.1",
+  "time_control": "Traditional 8s per move",
+  "elo_brackets": [
+    {
+      "target_elo": 1500,
+      "session_id": "battle_1756004987",
+      "games": [
+        {
+          "game_number": 1,
+          "error": "type object 'ChallengeType' has no attribute 'TRADITIONAL_CHALLENGE'"
+        },
+        {
+          "game_number": 2,
+          "error": "type object 'ChallengeType' has no attribute 'TRADITIONAL_CHALLENGE'"
+        },
+        {
+          "game_number": 3,
+          "error": "type object 'ChallengeType' has no attribute 'TRADITIONAL_CHALLENGE'"
+        },
+        {
+          "game_number": 4,
+          "error": "type object 'ChallengeType' has no attribute 'TRADITIONAL_CHALLENGE'"
+        }
+      ],
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "total_games": 0,
+      "score_rate": 0.0,
+      "performance_elo": 0
+    }
+  ],
+  "games": [],
+  "final_rating_estimate": null,
+  "performance_summary": {}
+}

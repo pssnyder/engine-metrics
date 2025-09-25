@@ -1,0 +1,286 @@
+{
+  "analysis_results": [
+    {
+      "puzzle_id": "000aY",
+      "fen": "r4rk1/pp3ppp/2n1b3/q1pp2B1/8/P1Q2NP1/1PP1PP1P/2KR3R w - - 0 15",
+      "rating": 1436,
+      "themes": [
+        "advantage",
+        "master",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "c3a5",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "c3a5",
+          -49
+        ],
+        [
+          "g5f4",
+          -86
+        ],
+        [
+          "g5e3",
+          -125
+        ],
+        [
+          "h2h3",
+          -178
+        ],
+        [
+          "g3g4",
+          -181
+        ]
+      ],
+      "expected_move": "g5e7",
+      "v7p3r_time_seconds": 30.0,
+      "timestamp": "2025-08-24T23:29:03.143122"
+    },
+    {
+      "puzzle_id": "000hf",
+      "fen": "r1bqk2r/pp1nbNp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 b kq - 0 19",
+      "rating": 1518,
+      "themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "d8a5",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "e8g8",
+          612
+        ],
+        [
+          "d8a5",
+          635
+        ],
+        [
+          "e7f6",
+          704
+        ],
+        [
+          "e7b4",
+          706
+        ],
+        [
+          "h6h5",
+          716
+        ]
+      ],
+      "expected_move": "e8f7",
+      "v7p3r_time_seconds": 30.0,
+      "timestamp": "2025-08-24T23:29:29.296270"
+    },
+    {
+      "puzzle_id": "000lC",
+      "fen": "3r3r/pQNk1ppp/1qnb1n2/1B6/8/8/PPP3PP/3R1R1K w - - 5 19",
+      "rating": 1496,
+      "themes": [
+        "advantage",
+        "hangingPiece",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "b7b6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "b5c6",
+          505
+        ],
+        [
+          "b7b6",
+          -103
+        ],
+        [
+          "d1d6",
+          -439
+        ],
+        [
+          "b7a6",
+          -456
+        ],
+        [
+          "c7e8",
+          -463
+        ]
+      ],
+      "expected_move": "d1d6",
+      "v7p3r_time_seconds": 30.0,
+      "timestamp": "2025-08-24T23:29:54.417348"
+    },
+    {
+      "puzzle_id": "00143",
+      "fen": "r2q1rk1/5ppp/1np5/p1b5/2p1B3/P7/1P3PPP/R1BQ1RK1 b - - 1 17",
+      "rating": 1750,
+      "themes": [
+        "advantage",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "d8d1",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "c5f2",
+          -199
+        ],
+        [
+          "d8d1",
+          -39
+        ],
+        [
+          "c5d4",
+          -30
+        ],
+        [
+          "h7h6",
+          -25
+        ],
+        [
+          "d8h4",
+          -15
+        ]
+      ],
+      "expected_move": "d8f6",
+      "v7p3r_time_seconds": 30.0,
+      "timestamp": "2025-08-24T23:30:02.256363"
+    },
+    {
+      "puzzle_id": "0017R",
+      "fen": "r2qk2r/pp2ppbp/1n1p2p1/3Pn3/2P5/2NBBP1P/PP3P2/R2QK2R b KQkq - 0 12",
+      "rating": 1644,
+      "themes": [
+        "advantage",
+        "fork",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "e5c4",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "a8c8",
+          -215
+        ],
+        [
+          "e8g8",
+          -195
+        ],
+        [
+          "e8f8",
+          -107
+        ],
+        [
+          "a7a6",
+          -91
+        ],
+        [
+          "d8c8",
+          -88
+        ]
+      ],
+      "expected_move": "e5c4",
+      "v7p3r_time_seconds": 30.0,
+      "timestamp": "2025-08-24T23:30:19.858320"
+    }
+  ],
+  "report": {
+    "total_puzzles": 5,
+    "total_score": 17,
+    "max_possible_score": 25,
+    "average_score": 3.4,
+    "percentage_score": 68.0,
+    "top5_hits": 4,
+    "top5_hit_rate": 80.0,
+    "score_distribution": {
+      "0": 1,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 1
+    },
+    "rank_distribution": {
+      "0": 1,
+      "1": 1,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "theme_performance": {
+      "advantage": {
+        "total": 4,
+        "score_sum": 13,
+        "average_score": 3.25,
+        "percentage": 65.0
+      },
+      "master": {
+        "total": 1,
+        "score_sum": 5,
+        "average_score": 5.0,
+        "percentage": 100.0
+      },
+      "middlegame": {
+        "total": 5,
+        "score_sum": 17,
+        "average_score": 3.4,
+        "percentage": 68.0
+      },
+      "short": {
+        "total": 4,
+        "score_sum": 17,
+        "average_score": 4.25,
+        "percentage": 85.0
+      },
+      "mate": {
+        "total": 1,
+        "score_sum": 4,
+        "average_score": 4.0,
+        "percentage": 80.0
+      },
+      "mateIn2": {
+        "total": 1,
+        "score_sum": 4,
+        "average_score": 4.0,
+        "percentage": 80.0
+      },
+      "hangingPiece": {
+        "total": 1,
+        "score_sum": 4,
+        "average_score": 4.0,
+        "percentage": 80.0
+      },
+      "fork": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      },
+      "long": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      }
+    },
+    "timestamp": "2025-08-24T23:30:19.860313"
+  },
+  "metadata": {
+    "v7p3r_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\V7P3R\\V7P3R_v7.0.exe",
+    "stockfish_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\Stockfish\\stockfish-windows-x86-64-avx2.exe",
+    "puzzle_db_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\chess-puzzle-challenger\\puzzles.db",
+    "timestamp": "2025-08-24T23:30:19.860313"
+  }
+}

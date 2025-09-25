@@ -1,0 +1,58 @@
+[
+  {
+    "position": {
+      "name": "Scholar's Mate Setup",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+      "expected": "Should find Qxf7# (checkmate)",
+      "phase": "tactical"
+    },
+    "result": {
+      "move": "h5f7",
+      "eval": 428949,
+      "depth": 6,
+      "nodes": 5432
+    }
+  },
+  {
+    "position": {
+      "name": "Opening Development",
+      "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1",
+      "expected": "Should develop pieces or advance center pawns",
+      "phase": "opening"
+    },
+    "result": {
+      "move": "b8a6",
+      "eval": 2337,
+      "depth": 5,
+      "nodes": 3149
+    }
+  },
+  {
+    "position": {
+      "name": "King and Pawn Endgame",
+      "fen": "8/8/8/8/8/3k4/3P4/3K4 w - - 0 1",
+      "expected": "Should advance the pawn",
+      "phase": "endgame"
+    },
+    "result": {
+      "move": "d1e1",
+      "eval": -9365,
+      "depth": 6,
+      "nodes": 0
+    }
+  },
+  {
+    "position": {
+      "name": "Pin Tactic",
+      "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4",
+      "expected": "Should break the pin or develop safely",
+      "phase": "tactical"
+    },
+    "result": {
+      "move": "f8e7",
+      "eval": 1474,
+      "depth": 5,
+      "nodes": 4115
+    }
+  }
+]

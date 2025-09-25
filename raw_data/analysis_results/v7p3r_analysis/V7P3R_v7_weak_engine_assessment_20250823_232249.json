@@ -1,0 +1,61 @@
+{
+  "test_start": "2025-08-23T23:19:52.155627",
+  "v7p3r_version": "v7.0",
+  "test_strategy": "weak_engine_baseline",
+  "tests": [
+    {
+      "opponent": "SlowMate_Current",
+      "description": "SlowMate baseline test",
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "total_tests": 5,
+      "score_rate": 0.0
+    },
+    {
+      "opponent": "Stockfish_Stockfish_1-second_limit",
+      "description": "Stockfish 1-second limit",
+      "time_limit": 1.0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "total_tests": 5,
+      "score_rate": 0.0
+    }
+  ],
+  "rating_analysis": {
+    "dominated_opponents": [],
+    "competitive_opponents": [],
+    "struggling_opponents": [
+      [
+        "SlowMate baseline test",
+        0.0
+      ],
+      [
+        "Stockfish 1-second limit",
+        0.0
+      ]
+    ],
+    "estimated_rating_range": {
+      "estimated_rating": 600.0,
+      "confidence_range": [
+        317.157287525381,
+        882.842712474619
+      ],
+      "performance_details": [
+        [
+          "SlowMate baseline test",
+          400,
+          0.0
+        ],
+        [
+          "Stockfish 1-second limit",
+          800,
+          0.0
+        ]
+      ]
+    },
+    "analysis_summary": "Insufficient data for rating estimate"
+  },
+  "test_end": "2025-08-23T23:22:49.195265"
+}

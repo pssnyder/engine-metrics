@@ -1,0 +1,1349 @@
+{
+  "summary": {
+    "total_positions": 15,
+    "engines_tested": [
+      "5.0",
+      "6.0",
+      "7.0",
+      "8.0",
+      "9.0",
+      "9.1"
+    ],
+    "stockfish_graded": 15,
+    "timestamp": "2025-08-29T22:04:32.241790"
+  },
+  "engine_performance": {
+    "5.0": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    },
+    "6.0": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    },
+    "7.0": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    },
+    "8.0": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    },
+    "9.0": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    },
+    "9.1": {
+      "success_rate": 0,
+      "average_depth": 0,
+      "average_time": 0,
+      "average_nodes": 0,
+      "total_positions": 0,
+      "successful_positions": 0
+    }
+  },
+  "move_quality_analysis": {
+    "total_graded": 15,
+    "quality_distribution": {
+      "inaccurate": 3,
+      "excellent": 6,
+      "blunder": 3,
+      "good": 2,
+      "mistake": 1
+    },
+    "average_centipawn_loss": 100.4,
+    "excellent_moves": 6,
+    "blunders": 3
+  },
+  "regression_analysis": {},
+  "phase_performance": {
+    "opening": {
+      "total_positions": 15,
+      "engine_agreement": 1,
+      "average_depth": 4.855555555555555,
+      "successful_analyses": 90
+    }
+  },
+  "detailed_results": [
+    {
+      "position_id": "game_1_move_5",
+      "fen": "rnbqk2r/ppppbnpp/4p3/7Q/8/4P3/PPPP1PPP/RNB1KB1R b KQkq - 2 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v9.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 2825,
+          "depth": 4,
+          "nodes": 28399,
+          "time_taken": 24.705005884170532,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -1020,
+          "depth": 3,
+          "nodes": 11335,
+          "time_taken": 71.72461223602295,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "e7f6",
+          "evaluation": 30500,
+          "depth": 5,
+          "nodes": 116586,
+          "time_taken": 7.3550591468811035,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "g7g6",
+          "evaluation": 11500,
+          "depth": 5,
+          "nodes": 29009,
+          "time_taken": 3.3962557315826416,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "e7f6",
+          "evaluation": 30500,
+          "depth": 6,
+          "nodes": 24608,
+          "time_taken": 7.015860319137573,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "g7g6",
+          "evaluation": 91000,
+          "depth": 6,
+          "nodes": 3118,
+          "time_taken": 3.2096567153930664,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "d7d5",
+        "best_eval": 445,
+        "engine_move_eval": 406,
+        "move_quality": "inaccurate",
+        "centipawn_loss": 39
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 4.833333333333333,
+        "average_time": 19.56774167219798
+      }
+    },
+    {
+      "position_id": "game_1_move_5",
+      "fen": "rnbq1rk1/ppppbnpp/4p3/7Q/8/4P3/PPPP1PPP/RNB1KB1R w KQ - 3 6",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v9.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 999999999425,
+          "depth": 4,
+          "nodes": 30851,
+          "time_taken": 38.628254413604736,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 1000000000073,
+          "depth": 3,
+          "nodes": 20777,
+          "time_taken": 131.66979098320007,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "f1d3",
+          "evaluation": 7000,
+          "depth": 5,
+          "nodes": 133302,
+          "time_taken": 6.777172565460205,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f1d3",
+          "evaluation": -30500,
+          "depth": 5,
+          "nodes": 42213,
+          "time_taken": 4.35655403137207,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "f1d3",
+          "evaluation": -12500,
+          "depth": 6,
+          "nodes": 18306,
+          "time_taken": 6.088852405548096,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "f1a6",
+          "evaluation": 12788,
+          "depth": 6,
+          "nodes": 4879,
+          "time_taken": 3.546121597290039,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "b2b3",
+        "best_eval": -428,
+        "engine_move_eval": -461,
+        "move_quality": "inaccurate",
+        "centipawn_loss": 33
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 4.833333333333333,
+        "average_time": 31.844457666079204
+      }
+    },
+    {
+      "position_id": "game_1_move_10",
+      "fen": "r1bq1rk1/pppp1np1/n2bp3/8/8/3PP2P/PPP2PP1/RNB1K1R1 b Q - 0 10",
+      "move_number": 10,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v9.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "b7b6",
+          "evaluation": 6845,
+          "depth": 3,
+          "nodes": 9228,
+          "time_taken": 7.130021810531616,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 3496,
+          "depth": 3,
+          "nodes": 6145,
+          "time_taken": 31.41874670982361,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "",
+          "evaluation": 134100,
+          "depth": 1,
+          "nodes": 31,
+          "time_taken": 20.388241052627563,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "e6e5",
+          "evaluation": 132600,
+          "depth": 5,
+          "nodes": 31464,
+          "time_taken": 3.2455949783325195,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "d8h4",
+          "evaluation": 142600,
+          "depth": 6,
+          "nodes": 22325,
+          "time_taken": 6.886664867401123,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "d8e7",
+          "evaluation": 142100,
+          "depth": 6,
+          "nodes": 17099,
+          "time_taken": 5.7606306076049805,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "a6b4",
+        "best_eval": 916,
+        "engine_move_eval": 869,
+        "move_quality": "inaccurate",
+        "centipawn_loss": 47
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 4,
+        "average_depth": 4.0,
+        "average_time": 12.471650004386902
+      }
+    },
+    {
+      "position_id": "game_1_move_10",
+      "fen": "r1bq1rk1/pppp1np1/n3p3/8/1b6/3PP2P/PPP2PP1/RNB1K1R1 w Q - 1 11",
+      "move_number": 10,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v9.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": -4374,
+          "depth": 4,
+          "nodes": 26719,
+          "time_taken": 25.20380926132202,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -1725,
+          "depth": 3,
+          "nodes": 5102,
+          "time_taken": 24.780925989151,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "c1d2",
+          "evaluation": -142100,
+          "depth": 6,
+          "nodes": 109871,
+          "time_taken": 5.640453100204468,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "c2c3",
+          "evaluation": -132400,
+          "depth": 6,
+          "nodes": 32340,
+          "time_taken": 3.2371301651000977,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "c2c3",
+          "evaluation": -131900,
+          "depth": 6,
+          "nodes": 12900,
+          "time_taken": 5.0671775341033936,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "e1e2",
+          "evaluation": 84411,
+          "depth": 6,
+          "nodes": 776,
+          "time_taken": 2.6545214653015137,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "b1c3",
+        "best_eval": -831,
+        "engine_move_eval": -816,
+        "move_quality": "excellent",
+        "centipawn_loss": -15
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 3,
+        "average_depth": 5.166666666666667,
+        "average_time": 11.097336252530416
+      }
+    },
+    {
+      "position_id": "game_2_move_5",
+      "fen": "rnbqkb1r/pppp1ppp/5n2/6N1/4p3/2N3PB/PPPPPP1P/R1BQK2R b KQkq - 1 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 120,
+          "depth": 4,
+          "nodes": 37957,
+          "time_taken": 42.02177596092224,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -870,
+          "depth": 3,
+          "nodes": 13467,
+          "time_taken": 88.87992739677429,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "d7d5",
+          "evaluation": -11500,
+          "depth": 6,
+          "nodes": 208115,
+          "time_taken": 12.334388017654419,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "d8e7",
+          "evaluation": 9000,
+          "depth": 6,
+          "nodes": 45988,
+          "time_taken": 4.533270597457886,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "d8e7",
+          "evaluation": -1000,
+          "depth": 6,
+          "nodes": 13274,
+          "time_taken": 5.53808331489563,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "f8e7",
+          "evaluation": 1163,
+          "depth": 6,
+          "nodes": 6890,
+          "time_taken": 3.8240528106689453,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "d7d5",
+        "best_eval": 154,
+        "engine_move_eval": 154,
+        "move_quality": "excellent",
+        "centipawn_loss": 0
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 3,
+        "average_depth": 5.166666666666667,
+        "average_time": 26.18858301639557
+      }
+    },
+    {
+      "position_id": "game_2_move_5",
+      "fen": "rnbqkb1r/ppp2ppp/5n2/3p2N1/4p3/2N3PB/PPPPPP1P/R1BQK2R w KQkq - 0 6",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 1155,
+          "depth": 5,
+          "nodes": 65243,
+          "time_taken": 69.8318145275116,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -113,
+          "depth": 3,
+          "nodes": 9635,
+          "time_taken": 69.06951832771301,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "h3c8",
+          "evaluation": -10500,
+          "depth": 6,
+          "nodes": 164313,
+          "time_taken": 13.765358924865723,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "h3c8",
+          "evaluation": 11500,
+          "depth": 6,
+          "nodes": 49047,
+          "time_taken": 4.947208881378174,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "h3c8",
+          "evaluation": 11500,
+          "depth": 6,
+          "nodes": 16116,
+          "time_taken": 5.909434080123901,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "h3c8",
+          "evaluation": 11500,
+          "depth": 6,
+          "nodes": 6764,
+          "time_taken": 4.138268947601318,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "h3g2",
+        "best_eval": -150,
+        "engine_move_eval": -285,
+        "move_quality": "blunder",
+        "centipawn_loss": 135
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": true,
+        "unique_moves": 1,
+        "average_depth": 5.333333333333333,
+        "average_time": 27.94360061486562
+      }
+    },
+    {
+      "position_id": "game_2_move_10",
+      "fen": "rnq1k2r/ppp2ppp/5n2/8/1b2N3/5PP1/PPPP3P/R1BQK2R b KQkq - 2 10",
+      "move_number": 10,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 4314,
+          "depth": 4,
+          "nodes": 11034,
+          "time_taken": 14.190250873565674,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 51,
+          "depth": 3,
+          "nodes": 8856,
+          "time_taken": 53.00841569900513,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "",
+          "evaluation": 51500,
+          "depth": 1,
+          "nodes": 40,
+          "time_taken": 15.160738468170166,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f6e4",
+          "evaluation": 28000,
+          "depth": 6,
+          "nodes": 39404,
+          "time_taken": 3.616297483444214,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "c8e6",
+          "evaluation": 31000,
+          "depth": 6,
+          "nodes": 10903,
+          "time_taken": 4.789391756057739,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "f6d7",
+          "evaluation": 28500,
+          "depth": 6,
+          "nodes": 10027,
+          "time_taken": 4.593230247497559,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "b8d7",
+        "best_eval": 468,
+        "engine_move_eval": 446,
+        "move_quality": "good",
+        "centipawn_loss": 22
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 3,
+        "average_depth": 4.333333333333333,
+        "average_time": 15.893054087956747
+      }
+    },
+    {
+      "position_id": "game_2_move_10",
+      "fen": "rn2k2r/ppp2ppp/4qn2/8/1b2N3/5PP1/PPPP3P/R1BQK2R w KQkq - 3 11",
+      "move_number": 10,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": -3325,
+          "depth": 4,
+          "nodes": 29167,
+          "time_taken": 31.604917526245117,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -1767,
+          "depth": 3,
+          "nodes": 19939,
+          "time_taken": 119.78493022918701,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "",
+          "evaluation": -18000,
+          "depth": 1,
+          "nodes": 17,
+          "time_taken": 22.90729022026062,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "d1e2",
+          "evaluation": -20000,
+          "depth": 6,
+          "nodes": 24494,
+          "time_taken": 2.821993589401245,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "d1e2",
+          "evaluation": -20000,
+          "depth": 6,
+          "nodes": 8874,
+          "time_taken": 4.751546382904053,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "e1e2",
+          "evaluation": 7400,
+          "depth": 6,
+          "nodes": 3299,
+          "time_taken": 3.59053373336792,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "e1g1",
+        "best_eval": -445,
+        "engine_move_eval": -469,
+        "move_quality": "good",
+        "centipawn_loss": 24
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 4.333333333333333,
+        "average_time": 30.91020194689433
+      }
+    },
+    {
+      "position_id": "game_3_move_5",
+      "fen": "rnbqkb1r/p1pppppp/1p2P3/8/8/5Q2/PPPN1PPP/R1B1KBNR b KQkq - 0 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v6.0",
+        "result": "1-0",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": -2815,
+          "depth": 4,
+          "nodes": 22745,
+          "time_taken": 20.059900045394897,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -2563,
+          "depth": 3,
+          "nodes": 2715,
+          "time_taken": 16.282161712646484,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "d7e6",
+          "evaluation": -90500,
+          "depth": 6,
+          "nodes": 107493,
+          "time_taken": 4.610239267349243,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f7e6",
+          "evaluation": -60500,
+          "depth": 6,
+          "nodes": 12515,
+          "time_taken": 1.289367437362671,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "d7e6",
+          "evaluation": -60500,
+          "depth": 6,
+          "nodes": 4948,
+          "time_taken": 3.454127788543701,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "c8b7",
+          "evaluation": 16052,
+          "depth": 6,
+          "nodes": 559,
+          "time_taken": 2.5876712799072266,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "f7e6",
+        "best_eval": -585,
+        "engine_move_eval": -654,
+        "move_quality": "mistake",
+        "centipawn_loss": 69
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 3,
+        "average_depth": 5.166666666666667,
+        "average_time": 8.047244588534037
+      }
+    },
+    {
+      "position_id": "game_3_move_5",
+      "fen": "rnbqkb1r/p1p1pppp/1p2p3/8/8/5Q2/PPPN1PPP/R1B1KBNR w KQkq - 0 6",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v8.0",
+        "black": "V7P3R_v6.0",
+        "result": "1-0",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 3325,
+          "depth": 4,
+          "nodes": 55574,
+          "time_taken": 63.2708261013031,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 1503,
+          "depth": 3,
+          "nodes": 14609,
+          "time_taken": 93.89026951789856,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "",
+          "evaluation": 61500,
+          "depth": 1,
+          "nodes": 44,
+          "time_taken": 21.95952844619751,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f3a8",
+          "evaluation": 61000,
+          "depth": 5,
+          "nodes": 26349,
+          "time_taken": 2.7881860733032227,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "f3a8",
+          "evaluation": 90500,
+          "depth": 6,
+          "nodes": 10050,
+          "time_taken": 4.476850986480713,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "f1a6",
+          "evaluation": 20500,
+          "depth": 6,
+          "nodes": 14831,
+          "time_taken": 5.308682441711426,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "f3a8",
+        "best_eval": 650,
+        "engine_move_eval": 635,
+        "move_quality": "excellent",
+        "centipawn_loss": 15
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 4.166666666666667,
+        "average_time": 31.94905726114909
+      }
+    },
+    {
+      "position_id": "game_4_move_5",
+      "fen": "rnb1k1nr/pppp1ppp/4pq2/1B2P3/3b4/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v7.0",
+        "black": "V7P3R_v9.0",
+        "result": "1-0",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "f6f3",
+          "evaluation": 1000000000079,
+          "depth": 4,
+          "nodes": 10890,
+          "time_taken": 14.082884073257446,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -2814,
+          "depth": 3,
+          "nodes": 8378,
+          "time_taken": 53.53355383872986,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "d4e5",
+          "evaluation": -12000,
+          "depth": 6,
+          "nodes": 98284,
+          "time_taken": 7.957042932510376,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f6f4",
+          "evaluation": 8000,
+          "depth": 6,
+          "nodes": 36425,
+          "time_taken": 4.066718578338623,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "f6e7",
+          "evaluation": -12000,
+          "depth": 6,
+          "nodes": 10896,
+          "time_taken": 4.879092693328857,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "d4f2",
+          "evaluation": -2971,
+          "depth": 6,
+          "nodes": 4125,
+          "time_taken": 3.532013177871704,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "d4e5",
+        "best_eval": -95,
+        "engine_move_eval": -532,
+        "move_quality": "blunder",
+        "centipawn_loss": 437
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 5,
+        "average_depth": 5.166666666666667,
+        "average_time": 14.675217549006144
+      }
+    },
+    {
+      "position_id": "game_4_move_5",
+      "fen": "rnb1k1nr/pppp1ppp/4pq2/1B2P3/8/2N2N2/PPPP1bPP/R1BQK2R w KQkq - 0 6",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v7.0",
+        "black": "V7P3R_v9.0",
+        "result": "1-0",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 4400,
+          "depth": 6,
+          "nodes": 43973,
+          "time_taken": 49.59736251831055,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 703,
+          "depth": 5,
+          "nodes": 73468,
+          "time_taken": 490.08663725852966,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "e1f2",
+          "evaluation": 2500,
+          "depth": 6,
+          "nodes": 87782,
+          "time_taken": 6.207505226135254,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "e1f2",
+          "evaluation": 33500,
+          "depth": 6,
+          "nodes": 14191,
+          "time_taken": 1.549138069152832,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "e1f2",
+          "evaluation": 32500,
+          "depth": 6,
+          "nodes": 5462,
+          "time_taken": 3.5800936222076416,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "e1e2",
+          "evaluation": 2934,
+          "depth": 6,
+          "nodes": 0,
+          "time_taken": 2.658229112625122,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "e1f2",
+        "best_eval": 527,
+        "engine_move_eval": 525,
+        "move_quality": "excellent",
+        "centipawn_loss": 2
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 5.833333333333333,
+        "average_time": 92.27982763449351
+      }
+    },
+    {
+      "position_id": "game_5_move_5",
+      "fen": "rnbq1bnr/ppp2kpp/8/4p3/4p1Q1/8/PPPP1PPP/RNB1KB1R b KQ - 1 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "c8g4",
+          "evaluation": 5055,
+          "depth": 4,
+          "nodes": 6266,
+          "time_taken": 8.182710886001587,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": 795,
+          "depth": 3,
+          "nodes": 9725,
+          "time_taken": 56.919331550598145,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "c8g4",
+          "evaluation": 110500,
+          "depth": 6,
+          "nodes": 96729,
+          "time_taken": 7.585484266281128,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "c8g4",
+          "evaluation": 120000,
+          "depth": 6,
+          "nodes": 32280,
+          "time_taken": 3.312248945236206,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "c8g4",
+          "evaluation": 120800,
+          "depth": 6,
+          "nodes": 5872,
+          "time_taken": 3.8565385341644287,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "g8f6",
+          "evaluation": 90600,
+          "depth": 6,
+          "nodes": 9607,
+          "time_taken": 4.567138433456421,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "c8g4",
+        "best_eval": 778,
+        "engine_move_eval": 776,
+        "move_quality": "excellent",
+        "centipawn_loss": 2
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 5.166666666666667,
+        "average_time": 14.07057543595632
+      }
+    },
+    {
+      "position_id": "game_5_move_5",
+      "fen": "rn1q1bnr/ppp2kpp/8/4p3/4p1b1/8/PPPP1PPP/RNB1KB1R w KQ - 0 6",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v6.0",
+        "black": "V7P3R_v7.0",
+        "result": "0-1",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": -3425,
+          "depth": 4,
+          "nodes": 20091,
+          "time_taken": 20.622631788253784,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -2457,
+          "depth": 3,
+          "nodes": 11516,
+          "time_taken": 57.23023271560669,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "f1c4",
+          "evaluation": -130800,
+          "depth": 6,
+          "nodes": 195420,
+          "time_taken": 13.567914247512817,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f1c4",
+          "evaluation": -121100,
+          "depth": 5,
+          "nodes": 18674,
+          "time_taken": 2.097569704055786,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "h2h3",
+          "evaluation": -102500,
+          "depth": 6,
+          "nodes": 19198,
+          "time_taken": 6.494534730911255,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "f1c4",
+          "evaluation": 79489,
+          "depth": 6,
+          "nodes": 1912,
+          "time_taken": 3.151111125946045,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "d2d4",
+        "best_eval": -788,
+        "engine_move_eval": -788,
+        "move_quality": "excellent",
+        "centipawn_loss": 0
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 2,
+        "average_depth": 5.0,
+        "average_time": 17.19399905204773
+      }
+    },
+    {
+      "position_id": "game_6_move_5",
+      "fen": "rn1qkbnr/pp3ppp/2p1b3/1B1pQ3/8/4P2N/PPPP1PPP/RNB1K2R b KQkq - 1 5",
+      "move_number": 5,
+      "phase": "opening",
+      "game_info": {
+        "white": "V7P3R_v9.0",
+        "black": "V7P3R_v8.0",
+        "result": "1-0",
+        "date": "2025.08.29",
+        "time_control": "120+1"
+      },
+      "engine_analyses": [
+        {
+          "engine_name": "v5.0",
+          "move": "",
+          "evaluation": 1294,
+          "depth": 5,
+          "nodes": 47292,
+          "time_taken": 51.205902099609375,
+          "error": null
+        },
+        {
+          "engine_name": "v6.0",
+          "move": "",
+          "evaluation": -2383,
+          "depth": 3,
+          "nodes": 32211,
+          "time_taken": 213.00427651405334,
+          "error": null
+        },
+        {
+          "engine_name": "v7.0",
+          "move": "",
+          "evaluation": 20500,
+          "depth": 1,
+          "nodes": 33,
+          "time_taken": 26.197216749191284,
+          "error": null
+        },
+        {
+          "engine_name": "v8.0",
+          "move": "f8d6",
+          "evaluation": -9000,
+          "depth": 5,
+          "nodes": 28749,
+          "time_taken": 3.41660475730896,
+          "error": null
+        },
+        {
+          "engine_name": "v9.0",
+          "move": "c6b5",
+          "evaluation": 22000,
+          "depth": 6,
+          "nodes": 16220,
+          "time_taken": 6.546350479125977,
+          "error": null
+        },
+        {
+          "engine_name": "v9.1",
+          "move": "b8d7",
+          "evaluation": 21500,
+          "depth": 6,
+          "nodes": 10848,
+          "time_taken": 4.948177337646484,
+          "error": null
+        }
+      ],
+      "stockfish_grade": {
+        "best_move": "c6b5",
+        "best_eval": 476,
+        "engine_move_eval": -220,
+        "move_quality": "blunder",
+        "centipawn_loss": 696
+      },
+      "analysis_summary": {
+        "successful_engines": 6,
+        "total_engines": 6,
+        "move_agreement": false,
+        "unique_moves": 3,
+        "average_depth": 4.333333333333333,
+        "average_time": 50.88642132282257
+      }
+    }
+  ]
+}

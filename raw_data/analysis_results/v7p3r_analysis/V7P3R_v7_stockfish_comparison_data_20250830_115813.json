@@ -1,0 +1,609 @@
+[
+  {
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+    "description": "Starting position - development principles",
+    "phase": "opening",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 1000,
+      "depth": 1,
+      "time_taken": 13.551976442337036,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "e2e3",
+      "evaluation": 9500,
+      "depth": 6,
+      "time_taken": 4.500007629394531,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "e2e4",
+      "best_eval": 23,
+      "depth": 36,
+      "time_taken": 10.872693538665771,
+      "pv_line": [
+        "e2e4",
+        "e7e5",
+        "g1f3",
+        "b8c6",
+        "f1b5"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 1000,
+      "best_move": "e2e4",
+      "best_eval": 23,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "e2e3",
+      "engine_eval": 9500,
+      "best_move": "e2e4",
+      "best_eval": 23,
+      "centipawn_loss": -9477,
+      "quality_rating": "excellent",
+      "grade_notes": "Move is virtually identical to Stockfish choice"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+    "description": "King's pawn opening - central control",
+    "phase": "opening",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 1000,
+      "depth": 1,
+      "time_taken": 39.764811277389526,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "f1e2",
+      "evaluation": -9500,
+      "depth": 5,
+      "time_taken": 3.6201751232147217,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "g1f3",
+      "best_eval": 25,
+      "depth": 35,
+      "time_taken": 10.287916898727417,
+      "pv_line": [
+        "g1f3",
+        "b8c6"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 1000,
+      "best_move": "g1f3",
+      "best_eval": 25,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "f1e2",
+      "engine_eval": -9500,
+      "best_move": "g1f3",
+      "best_eval": 25,
+      "centipawn_loss": 9525,
+      "quality_rating": "blunder",
+      "grade_notes": "Major tactical or positional error"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+    "description": "Italian Game development",
+    "phase": "opening",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 11500,
+      "depth": 1,
+      "time_taken": 21.888936758041382,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "h1g1",
+      "evaluation": 11500,
+      "depth": 6,
+      "time_taken": 5.054209470748901,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "f1b5",
+      "best_eval": 23,
+      "depth": 36,
+      "time_taken": 10.265140295028687,
+      "pv_line": [
+        "f1b5",
+        "g8f6"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 11500,
+      "best_move": "f1b5",
+      "best_eval": 23,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "h1g1",
+      "engine_eval": 11500,
+      "best_move": "f1b5",
+      "best_eval": 23,
+      "centipawn_loss": -11477,
+      "quality_rating": "excellent",
+      "grade_notes": "Move is virtually identical to Stockfish choice"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "r2q1rk1/ppp2ppp/2n1bn2/2bpP3/3P4/2N1BN2/PPP1BPPP/R2Q1RK1 w - - 0 10",
+    "description": "Complex middlegame - tactical opportunities",
+    "phase": "middlegame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 40500,
+      "depth": 1,
+      "time_taken": 14.524522542953491,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "e5f6",
+      "evaluation": 50000,
+      "depth": 6,
+      "time_taken": 3.8776309490203857,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "e5f6",
+      "best_eval": 558,
+      "depth": 30,
+      "time_taken": 10.275120258331299,
+      "pv_line": [
+        "e5f6",
+        "c5d6",
+        "c3b5",
+        "f8e8",
+        "b5d6"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 40500,
+      "best_move": "e5f6",
+      "best_eval": 558,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "e5f6",
+      "engine_eval": 50000,
+      "best_move": "e5f6",
+      "best_eval": 558,
+      "centipawn_loss": -49442,
+      "quality_rating": "excellent",
+      "grade_notes": "Exact match with Stockfish best move"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "r1bq1rk1/pp3ppp/2n1pn2/3p4/1bPP4/2N1PN2/PP2BPPP/R1BQK2R w KQ - 2 8",
+    "description": "Queen's Gambit Declined - positional play",
+    "phase": "middlegame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 20000,
+      "depth": 1,
+      "time_taken": 18.821473360061646,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "d1c2",
+      "evaluation": -2500,
+      "depth": 6,
+      "time_taken": 4.258703708648682,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "e1g1",
+      "best_eval": 153,
+      "depth": 30,
+      "time_taken": 10.294881820678711,
+      "pv_line": [
+        "e1g1",
+        "c6a5",
+        "c4c5",
+        "b4c3",
+        "b2c3"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 20000,
+      "best_move": "e1g1",
+      "best_eval": 153,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "d1c2",
+      "engine_eval": -2500,
+      "best_move": "e1g1",
+      "best_eval": 153,
+      "centipawn_loss": 2653,
+      "quality_rating": "blunder",
+      "grade_notes": "Major tactical or positional error"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "r3r1k1/pppq1ppp/3p1n2/4p3/4P3/2NP1Q2/PPP2PPP/R4RK1 w - - 0 12",
+    "description": "Heavy piece coordination",
+    "phase": "middlegame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 30500,
+      "depth": 1,
+      "time_taken": 18.1266770362854,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "f3g3",
+      "evaluation": 20500,
+      "depth": 6,
+      "time_taken": 4.908453464508057,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "f3e3",
+      "best_eval": -16,
+      "depth": 31,
+      "time_taken": 10.269535064697266,
+      "pv_line": [
+        "f3e3",
+        "h7h6"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 30500,
+      "best_move": "f3e3",
+      "best_eval": -16,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "f3g3",
+      "engine_eval": 20500,
+      "best_move": "f3e3",
+      "best_eval": -16,
+      "centipawn_loss": -20516,
+      "quality_rating": "excellent",
+      "grade_notes": "Move is virtually identical to Stockfish choice"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "description": "Smothered mate pattern",
+    "phase": "tactical",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "",
+      "evaluation": 11000,
+      "depth": 1,
+      "time_taken": 12.8946533203125,
+      "success": false
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "h5f7",
+      "evaluation": 900000,
+      "depth": 6,
+      "time_taken": 3.4083337783813477,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "h5f7",
+      "best_eval": 900000,
+      "depth": 245,
+      "time_taken": 0.2772340774536133,
+      "pv_line": [
+        "h5f7"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "",
+      "engine_eval": 11000,
+      "best_move": "h5f7",
+      "best_eval": 900000,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "h5f7",
+      "engine_eval": 900000,
+      "best_move": "h5f7",
+      "best_eval": 900000,
+      "centipawn_loss": 0,
+      "quality_rating": "excellent",
+      "grade_notes": "Exact match with Stockfish best move"
+    },
+    "winner": "v9.2"
+  },
+  {
+    "fen": "8/8/8/3r4/8/3R4/3K4/8 w - - 0 1",
+    "description": "Rook pin tactical motif",
+    "phase": "tactical",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "d2e3",
+      "evaluation": 50500,
+      "depth": 6,
+      "time_taken": 0.5915787220001221,
+      "success": true
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "d2e3",
+      "evaluation": 51000,
+      "depth": 6,
+      "time_taken": 2.860430955886841,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "",
+      "best_eval": 0,
+      "depth": 0,
+      "time_taken": 0.0,
+      "pv_line": []
+    },
+    "v70_grade": {
+      "engine_move": "d2e3",
+      "engine_eval": 50500,
+      "best_move": "",
+      "best_eval": 0,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "d2e3",
+      "engine_eval": 51000,
+      "best_move": "",
+      "best_eval": 0,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "winner": "tie"
+  },
+  {
+    "fen": "8/8/8/3k4/8/8/3N4/3K4 w - - 0 1",
+    "description": "Knight fork opportunity",
+    "phase": "tactical",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "d2e4",
+      "evaluation": 0,
+      "depth": 6,
+      "time_taken": 0.23087263107299805,
+      "success": true
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "d2e4",
+      "evaluation": 0,
+      "depth": 6,
+      "time_taken": 2.201099157333374,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "d2f3",
+      "best_eval": 0,
+      "depth": 68,
+      "time_taken": 10.292476415634155,
+      "pv_line": [
+        "d2f3",
+        "d5e4",
+        "d1e2",
+        "e4f4",
+        "f3d2"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "d2e4",
+      "engine_eval": 0,
+      "best_move": "d2f3",
+      "best_eval": 0,
+      "centipawn_loss": 0,
+      "quality_rating": "excellent",
+      "grade_notes": "Move is virtually identical to Stockfish choice"
+    },
+    "v92_grade": {
+      "engine_move": "d2e4",
+      "engine_eval": 0,
+      "best_move": "d2f3",
+      "best_eval": 0,
+      "centipawn_loss": 0,
+      "quality_rating": "excellent",
+      "grade_notes": "Move is virtually identical to Stockfish choice"
+    },
+    "winner": "tie"
+  },
+  {
+    "fen": "8/4kp2/6p1/4K3/6P1/8/5P2/8 w - - 0 40",
+    "description": "King and pawn endgame - opposition",
+    "phase": "endgame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "e5e4",
+      "evaluation": -1400,
+      "depth": 6,
+      "time_taken": 0.824089527130127,
+      "success": true
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "f2f3",
+      "evaluation": -1400,
+      "depth": 6,
+      "time_taken": 2.8855106830596924,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "g4g5",
+      "best_eval": 0,
+      "depth": 76,
+      "time_taken": 10.368399620056152,
+      "pv_line": [
+        "g4g5",
+        "e7d7",
+        "e5f6",
+        "d7e8",
+        "f2f3"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "e5e4",
+      "engine_eval": -1400,
+      "best_move": "g4g5",
+      "best_eval": 0,
+      "centipawn_loss": 1400,
+      "quality_rating": "blunder",
+      "grade_notes": "Major tactical or positional error"
+    },
+    "v92_grade": {
+      "engine_move": "f2f3",
+      "engine_eval": -1400,
+      "best_move": "g4g5",
+      "best_eval": 0,
+      "centipawn_loss": 1400,
+      "quality_rating": "blunder",
+      "grade_notes": "Major tactical or positional error"
+    },
+    "winner": "tie"
+  },
+  {
+    "fen": "8/8/8/8/8/3k4/3R4/3K4 w - - 0 80",
+    "description": "Rook endgame technique",
+    "phase": "endgame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "d1c1",
+      "evaluation": 55700,
+      "depth": 6,
+      "time_taken": 0.7012386322021484,
+      "success": true
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "d1c1",
+      "evaluation": 56200,
+      "depth": 6,
+      "time_taken": 3.290001630783081,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "",
+      "best_eval": 0,
+      "depth": 0,
+      "time_taken": 0.0,
+      "pv_line": []
+    },
+    "v70_grade": {
+      "engine_move": "d1c1",
+      "engine_eval": 55700,
+      "best_move": "",
+      "best_eval": 0,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "v92_grade": {
+      "engine_move": "d1c1",
+      "engine_eval": 56200,
+      "best_move": "",
+      "best_eval": 0,
+      "centipawn_loss": 999,
+      "quality_rating": "error",
+      "grade_notes": "Analysis failed"
+    },
+    "winner": "tie"
+  },
+  {
+    "fen": "4k3/8/4K3/8/8/8/6Q1/8 w - - 0 70",
+    "description": "Queen vs King mate",
+    "phase": "endgame",
+    "v70_result": {
+      "engine_name": "V7P3R_v7.0",
+      "move": "g2g6",
+      "evaluation": 9999800,
+      "depth": 6,
+      "time_taken": 2.3664443492889404,
+      "success": true
+    },
+    "v92_result": {
+      "engine_name": "V7P3R_v9.2",
+      "move": "g2g8",
+      "evaluation": 900000,
+      "depth": 6,
+      "time_taken": 2.884329319000244,
+      "success": true
+    },
+    "stockfish_analysis": {
+      "best_move": "g2a8",
+      "best_eval": 900000,
+      "depth": 245,
+      "time_taken": 0.273360013961792,
+      "pv_line": [
+        "g2a8"
+      ]
+    },
+    "v70_grade": {
+      "engine_move": "g2g6",
+      "engine_eval": 9999800,
+      "best_move": "g2a8",
+      "best_eval": 900000,
+      "centipawn_loss": -9099800,
+      "quality_rating": "excellent",
+      "grade_notes": "Both moves lead to forced mate"
+    },
+    "v92_grade": {
+      "engine_move": "g2g8",
+      "engine_eval": 900000,
+      "best_move": "g2a8",
+      "best_eval": 900000,
+      "centipawn_loss": 0,
+      "quality_rating": "excellent",
+      "grade_notes": "Both moves lead to forced mate"
+    },
+    "winner": "v7.0"
+  }
+]

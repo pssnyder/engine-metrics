@@ -1,0 +1,729 @@
+{
+  "analysis_results": [
+    {
+      "puzzle_id": "00008",
+      "original_fen": "r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2R1/PqP2bPP/7K b - - 0 24",
+      "rating": 1928,
+      "themes": [
+        "crushing",
+        "hangingPiece",
+        "long",
+        "middlegame"
+      ],
+      "solution_sequence": [
+        "f2g3",
+        "e6e7",
+        "b2b1",
+        "b3c1",
+        "b1c1",
+        "h6c1"
+      ],
+      "positions_analyzed": 3,
+      "sequence_results": [
+        true,
+        true,
+        true
+      ],
+      "sequence_accuracy_linear": 100.0,
+      "sequence_accuracy_weighted": 100.0,
+      "perfect_sequence": true,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2b1/PqP3PP/7K w - - 0 25",
+          "opponent_move": "f2g3",
+          "expected_move": "e6e7",
+          "engine_move": "e6e7",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "e6e7",
+              727
+            ],
+            [
+              "h2g3",
+              -632
+            ],
+            [
+              "c2c4",
+              -687
+            ],
+            [
+              "a2a4",
+              -690
+            ],
+            [
+              "c2c3",
+              -693
+            ]
+          ],
+          "analysis_time": 5.248401403427124,
+          "turn_info": "Black to move after opponent's f2g3"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "r6k/pp2R2p/5p1Q/3p4/8/1N1P2b1/P1P3PP/1q5K w - - 1 26",
+          "opponent_move": "b2b1",
+          "expected_move": "b3c1",
+          "engine_move": "b3c1",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "b3c1",
+              669
+            ],
+            [
+              "h6c1",
+              6
+            ],
+            [
+              "e7e1",
+              -9900
+            ]
+          ],
+          "analysis_time": 5.3733861446380615,
+          "turn_info": "Black to move after opponent's b2b1"
+        },
+        {
+          "position_number": 3,
+          "challenge_fen": "r6k/pp2R2p/5p1Q/3p4/8/3P2b1/P1P3PP/2q4K w - - 0 27",
+          "opponent_move": "b1c1",
+          "expected_move": "h6c1",
+          "engine_move": "h6c1",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "h6c1",
+              770
+            ],
+            [
+              "e7e1",
+              -9900
+            ]
+          ],
+          "analysis_time": 6.691731214523315,
+          "turn_info": "Black to move after opponent's b1c1"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-20T00:42:33.723689"
+    },
+    {
+      "puzzle_id": "0000D",
+      "original_fen": "5rk1/1p3ppp/pq3b2/8/8/1P1Q1N2/P4PPP/3R2K1 w - - 2 27",
+      "rating": 1471,
+      "themes": [
+        "advantage",
+        "endgame",
+        "short"
+      ],
+      "solution_sequence": [
+        "d3d6",
+        "f8d8",
+        "d6d8",
+        "f6d8"
+      ],
+      "positions_analyzed": 2,
+      "sequence_results": [
+        false,
+        true
+      ],
+      "sequence_accuracy_linear": 50.0,
+      "sequence_accuracy_weighted": 60.0,
+      "perfect_sequence": false,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "5rk1/1p3ppp/pq1Q1b2/8/8/1P3N2/P4PPP/3R2K1 b - - 3 27",
+          "opponent_move": "d3d6",
+          "expected_move": "f8d8",
+          "engine_move": "b6d6",
+          "engine_found_solution": false,
+          "engine_stockfish_score": 4,
+          "engine_stockfish_rank": 2,
+          "stockfish_top_moves": [
+            [
+              "f8d8",
+              -509
+            ],
+            [
+              "b6d6",
+              -25
+            ],
+            [
+              "b6a5",
+              -19
+            ],
+            [
+              "b6d8",
+              -18
+            ],
+            [
+              "b6b5",
+              -10
+            ]
+          ],
+          "analysis_time": 5.132262706756592,
+          "turn_info": "White to move after opponent's d3d6"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "3Q2k1/1p3ppp/pq3b2/8/8/1P3N2/P4PPP/3R2K1 b - - 0 28",
+          "opponent_move": "d6d8",
+          "expected_move": "f6d8",
+          "engine_move": "f6d8",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "f6d8",
+              -498
+            ],
+            [
+              "b6d8",
+              -31
+            ]
+          ],
+          "analysis_time": 4.018378973007202,
+          "turn_info": "White to move after opponent's d6d8"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-20T00:42:47.302359"
+    },
+    {
+      "puzzle_id": "0008Q",
+      "original_fen": "8/4R3/1p2P3/p4r2/P6p/1P3Pk1/4K3/8 w - - 1 64",
+      "rating": 1361,
+      "themes": [
+        "advantage",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ],
+      "solution_sequence": [
+        "e7f7",
+        "f5e5",
+        "e2f1",
+        "e5e6"
+      ],
+      "positions_analyzed": 2,
+      "sequence_results": [
+        false,
+        true
+      ],
+      "sequence_accuracy_linear": 50.0,
+      "sequence_accuracy_weighted": 60.0,
+      "perfect_sequence": false,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "8/5R2/1p2P3/p4r2/P6p/1P3Pk1/4K3/8 b - - 2 64",
+          "opponent_move": "e7f7",
+          "expected_move": "f5e5",
+          "engine_move": "f5f3",
+          "engine_found_solution": false,
+          "engine_stockfish_score": 0,
+          "engine_stockfish_rank": 0,
+          "stockfish_top_moves": [
+            [
+              "f5e5",
+              -326
+            ],
+            [
+              "f5c5",
+              522
+            ],
+            [
+              "f5g5",
+              571
+            ],
+            [
+              "f5h5",
+              598
+            ],
+            [
+              "f5d5",
+              613
+            ]
+          ],
+          "analysis_time": 4.049006700515747,
+          "turn_info": "White to move after opponent's e7f7"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "8/5R2/1p2P3/p3r3/P6p/1P3Pk1/8/5K2 b - - 4 65",
+          "opponent_move": "e2f1",
+          "expected_move": "e5e6",
+          "engine_move": "e5e6",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "e5e6",
+              -418
+            ],
+            [
+              "h4h3",
+              -22
+            ],
+            [
+              "e5e3",
+              0
+            ],
+            [
+              "b6b5",
+              0
+            ],
+            [
+              "g3h2",
+              501
+            ]
+          ],
+          "analysis_time": 3.1987900733947754,
+          "turn_info": "White to move after opponent's e2f1"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-20T00:42:59.008567"
+    },
+    {
+      "puzzle_id": "0009B",
+      "original_fen": "r2qr1k1/b1p2ppp/pp4n1/P1P1p3/4P1n1/B2P2Pb/3NBP1P/RN1QR1K1 b - - 1 16",
+      "rating": 1080,
+      "themes": [
+        "advantage",
+        "middlegame",
+        "short"
+      ],
+      "solution_sequence": [
+        "b6c5",
+        "e2g4",
+        "h3g4",
+        "d1g4"
+      ],
+      "positions_analyzed": 2,
+      "sequence_results": [
+        true,
+        true
+      ],
+      "sequence_accuracy_linear": 100.0,
+      "sequence_accuracy_weighted": 100.0,
+      "perfect_sequence": true,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "r2qr1k1/b1p2ppp/p5n1/P1p1p3/4P1n1/B2P2Pb/3NBP1P/RN1QR1K1 w - - 0 17",
+          "opponent_move": "b6c5",
+          "expected_move": "e2g4",
+          "engine_move": "e2g4",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "e2g4",
+              285
+            ],
+            [
+              "d2c4",
+              -214
+            ],
+            [
+              "e1f1",
+              -219
+            ],
+            [
+              "d1c2",
+              -275
+            ],
+            [
+              "d1c1",
+              -316
+            ]
+          ],
+          "analysis_time": 4.753244161605835,
+          "turn_info": "Black to move after opponent's b6c5"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "r2qr1k1/b1p2ppp/p5n1/P1p1p3/4P1b1/B2P2P1/3N1P1P/RN1QR1K1 w - - 0 18",
+          "opponent_move": "h3g4",
+          "expected_move": "d1g4",
+          "engine_move": "d1g4",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "d1g4",
+              267
+            ],
+            [
+              "d1c2",
+              -245
+            ],
+            [
+              "d1c1",
+              -267
+            ],
+            [
+              "d2f3",
+              -311
+            ],
+            [
+              "d1b3",
+              -352
+            ]
+          ],
+          "analysis_time": 5.443362474441528,
+          "turn_info": "Black to move after opponent's h3g4"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-20T00:43:13.617087"
+    },
+    {
+      "puzzle_id": "000VW",
+      "original_fen": "r4r2/1p3pkp/p5p1/3R1N1Q/3P4/8/P1q2P2/3R2K1 b - - 3 25",
+      "rating": 2852,
+      "themes": [
+        "crushing",
+        "endgame",
+        "long"
+      ],
+      "solution_sequence": [
+        "g6f5",
+        "d5c5",
+        "c2e4",
+        "h5g5",
+        "g7h8",
+        "g5f6"
+      ],
+      "positions_analyzed": 3,
+      "sequence_results": [
+        true,
+        true,
+        true
+      ],
+      "sequence_accuracy_linear": 100.0,
+      "sequence_accuracy_weighted": 100.0,
+      "perfect_sequence": true,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "r4r2/1p3pkp/p7/3R1p1Q/3P4/8/P1q2P2/3R2K1 w - - 0 26",
+          "opponent_move": "g6f5",
+          "expected_move": "d5c5",
+          "engine_move": "d5c5",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "d5c5",
+              499
+            ],
+            [
+              "h5g5",
+              5
+            ],
+            [
+              "d1d3",
+              0
+            ],
+            [
+              "d5f5",
+              -22
+            ],
+            [
+              "d1e1",
+              -79
+            ]
+          ],
+          "analysis_time": 4.600923538208008,
+          "turn_info": "Black to move after opponent's g6f5"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "r4r2/1p3pkp/p7/2R2p1Q/3Pq3/8/P4P2/3R2K1 w - - 2 27",
+          "opponent_move": "c2e4",
+          "expected_move": "h5g5",
+          "engine_move": "h5g5",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "h5g5",
+              523
+            ],
+            [
+              "c5f5",
+              -28
+            ],
+            [
+              "g1f1",
+              -34
+            ],
+            [
+              "h5f5",
+              -45
+            ],
+            [
+              "d1d3",
+              -48
+            ]
+          ],
+          "analysis_time": 5.438182592391968,
+          "turn_info": "Black to move after opponent's c2e4"
+        },
+        {
+          "position_number": 3,
+          "challenge_fen": "r4r1k/1p3p1p/p7/2R2pQ1/3Pq3/8/P4P2/3R2K1 w - - 4 28",
+          "opponent_move": "g7h8",
+          "expected_move": "g5f6",
+          "engine_move": "g5f6",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "g5f6",
+              561
+            ],
+            [
+              "g5f5",
+              -20
+            ],
+            [
+              "g1f1",
+              -54
+            ],
+            [
+              "f2f3",
+              -117
+            ],
+            [
+              "g5h5",
+              -512
+            ]
+          ],
+          "analysis_time": 4.213248252868652,
+          "turn_info": "Black to move after opponent's g7h8"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-20T00:43:34.492943"
+    }
+  ],
+  "report": {
+    "engine_name": "V7P3R v11",
+    "engine_info": {
+      "name": "V7P3R v11",
+      "author": "Pat Snyder"
+    },
+    "total_puzzles": 5,
+    "total_positions_analyzed": 12,
+    "sequence_metrics": {
+      "avg_linear_accuracy": 80.0,
+      "avg_weighted_accuracy": 84.0,
+      "perfect_sequences": 3,
+      "perfect_sequence_rate": 60.0
+    },
+    "estimated_rating_analysis": {
+      "perfect_sequences": {
+        "count": 3,
+        "min_rating": 1080,
+        "max_rating": 2852,
+        "avg_rating": 1953.3333333333333
+      },
+      "high_accuracy": {
+        "count": 3,
+        "min_rating": 1080,
+        "max_rating": 2852,
+        "avg_rating": 1953.3333333333333
+      }
+    },
+    "position_performance": {
+      "1": {
+        "total": 5,
+        "correct": 3,
+        "stockfish_scores": [
+          5,
+          4,
+          0,
+          5,
+          5
+        ],
+        "accuracy_rate": 60.0,
+        "avg_stockfish_score": 3.8
+      },
+      "2": {
+        "total": 5,
+        "correct": 5,
+        "stockfish_scores": [
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "accuracy_rate": 100.0,
+        "avg_stockfish_score": 5.0
+      },
+      "3": {
+        "total": 2,
+        "correct": 2,
+        "stockfish_scores": [
+          5,
+          5
+        ],
+        "accuracy_rate": 100.0,
+        "avg_stockfish_score": 5.0
+      }
+    },
+    "theme_performance": {
+      "crushing": {
+        "total": 2,
+        "perfect_sequences": 2,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 200.0,
+        "ratings": [
+          1928,
+          2852
+        ],
+        "avg_linear_accuracy": 100.0,
+        "avg_weighted_accuracy": 100.0,
+        "perfect_sequence_rate": 100.0,
+        "avg_rating": 2390.0
+      },
+      "hangingPiece": {
+        "total": 1,
+        "perfect_sequences": 1,
+        "linear_accuracy_sum": 100.0,
+        "weighted_accuracy_sum": 100.0,
+        "ratings": [
+          1928
+        ],
+        "avg_linear_accuracy": 100.0,
+        "avg_weighted_accuracy": 100.0,
+        "perfect_sequence_rate": 100.0,
+        "avg_rating": 1928.0
+      },
+      "long": {
+        "total": 2,
+        "perfect_sequences": 2,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 200.0,
+        "ratings": [
+          1928,
+          2852
+        ],
+        "avg_linear_accuracy": 100.0,
+        "avg_weighted_accuracy": 100.0,
+        "perfect_sequence_rate": 100.0,
+        "avg_rating": 2390.0
+      },
+      "middlegame": {
+        "total": 2,
+        "perfect_sequences": 2,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 200.0,
+        "ratings": [
+          1928,
+          1080
+        ],
+        "avg_linear_accuracy": 100.0,
+        "avg_weighted_accuracy": 100.0,
+        "perfect_sequence_rate": 100.0,
+        "avg_rating": 1504.0
+      },
+      "advantage": {
+        "total": 3,
+        "perfect_sequences": 1,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 220.0,
+        "ratings": [
+          1471,
+          1361,
+          1080
+        ],
+        "avg_linear_accuracy": 66.66666666666667,
+        "avg_weighted_accuracy": 73.33333333333333,
+        "perfect_sequence_rate": 33.33333333333333,
+        "avg_rating": 1304.0
+      },
+      "endgame": {
+        "total": 3,
+        "perfect_sequences": 1,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 220.0,
+        "ratings": [
+          1471,
+          1361,
+          2852
+        ],
+        "avg_linear_accuracy": 66.66666666666667,
+        "avg_weighted_accuracy": 73.33333333333333,
+        "perfect_sequence_rate": 33.33333333333333,
+        "avg_rating": 1894.6666666666667
+      },
+      "short": {
+        "total": 3,
+        "perfect_sequences": 1,
+        "linear_accuracy_sum": 200.0,
+        "weighted_accuracy_sum": 220.0,
+        "ratings": [
+          1471,
+          1361,
+          1080
+        ],
+        "avg_linear_accuracy": 66.66666666666667,
+        "avg_weighted_accuracy": 73.33333333333333,
+        "perfect_sequence_rate": 33.33333333333333,
+        "avg_rating": 1304.0
+      },
+      "rookEndgame": {
+        "total": 1,
+        "perfect_sequences": 0,
+        "linear_accuracy_sum": 50.0,
+        "weighted_accuracy_sum": 60.0,
+        "ratings": [
+          1361
+        ],
+        "avg_linear_accuracy": 50.0,
+        "avg_weighted_accuracy": 60.0,
+        "perfect_sequence_rate": 0.0,
+        "avg_rating": 1361.0
+      }
+    },
+    "accuracy_distribution": {
+      "0-20%": 0,
+      "20-40%": 0,
+      "40-60%": 0,
+      "60-80%": 2,
+      "80-100%": 3
+    },
+    "timestamp": "2025-09-20T00:43:34.492943"
+  },
+  "metadata": {
+    "engine_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\V7P3R\\V7P3R_v11.exe",
+    "engine_name": "V7P3R v11",
+    "engine_info": {
+      "name": "V7P3R v11",
+      "author": "Pat Snyder"
+    },
+    "stockfish_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\Stockfish\\stockfish-windows-x86-64-avx2.exe",
+    "puzzle_db_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engine_utilities\\utility_resources\\puzzles.db",
+    "timestamp": "2025-09-20T00:43:34.492943"
+  }
+}

@@ -1,0 +1,10 @@
+[Event "V7P3R Self-Play Test"]
+[Site "Local"]
+[Date "2025.09.18"]
+[Round "1"]
+[White "V7P3R v11 Phase 3B"]
+[Black "V7P3R v11 Phase 3B"]
+[Result "0-1"]
+[TimeControl "30"]
+
+1. d4 e6 2. Nc3 Nc6 3. Nf3 Nf6 4. Rb1 Bb4 5. d5 Nxd5 6. Qd3 Nxc3 7. bxc3 Be7 8. Kd1 Rb8 9. Ke1 h5 10. Bf4 b6 11. h3 Bb7 12. Rb5 Ba6 13. Bxc7 Qxc7 14. Rxh5 Rxh5 15. Qxa6 Nb4 16. Qc8+ Rxc8 17. cxb4 Qc3+ 18. Kd1 Bxb4 19. Rg1 Qa1# 0-1

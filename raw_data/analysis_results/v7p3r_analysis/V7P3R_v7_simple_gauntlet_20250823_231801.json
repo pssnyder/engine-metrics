@@ -1,0 +1,33 @@
+{
+  "test_start": "2025-08-23T23:13:12.060758",
+  "v7p3r_version": "v7.0",
+  "tests": [
+    {
+      "level": "default",
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "total_tests": 3,
+      "score_rate": 0.3333333333333333,
+      "performance_assessment": "STRUGGLING - near ceiling"
+    },
+    {
+      "level": "fast_weak",
+      "wins": 0,
+      "draws": 0,
+      "losses": 3,
+      "total_tests": 3,
+      "score_rate": 0.0,
+      "performance_assessment": "OVERWHELMED - exceeded ceiling"
+    }
+  ],
+  "summary": {
+    "total_tests": 6,
+    "overall_score_rate": 0.16666666666666666,
+    "peak_level": "default",
+    "peak_score_rate": 0.3333333333333333,
+    "competitive_levels": [],
+    "overall_assessment": "OVERWHELMED - exceeded ceiling"
+  },
+  "test_end": "2025-08-23T23:18:01.832959"
+}

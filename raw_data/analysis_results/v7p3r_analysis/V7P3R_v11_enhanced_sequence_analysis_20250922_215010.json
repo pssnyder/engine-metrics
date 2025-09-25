@@ -1,0 +1,218 @@
+{
+  "analysis_results": [
+    {
+      "puzzle_id": "00008",
+      "original_fen": "r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2R1/PqP2bPP/7K b - - 0 24",
+      "rating": 1928,
+      "themes": [
+        "crushing",
+        "hangingPiece",
+        "long",
+        "middlegame"
+      ],
+      "solution_sequence": [
+        "f2g3",
+        "e6e7",
+        "b2b1",
+        "b3c1",
+        "b1c1",
+        "h6c1"
+      ],
+      "positions_analyzed": 3,
+      "sequence_results": [
+        true,
+        true,
+        false
+      ],
+      "sequence_accuracy_linear": 66.66666666666666,
+      "sequence_accuracy_weighted": 52.63157894736842,
+      "perfect_sequence": false,
+      "position_analyses": [
+        {
+          "position_number": 1,
+          "challenge_fen": "r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2b1/PqP3PP/7K w - - 0 25",
+          "opponent_move": "f2g3",
+          "expected_move": "e6e7",
+          "engine_move": "e6e7",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "e6e7",
+              727
+            ],
+            [
+              "h2g3",
+              -632
+            ],
+            [
+              "c2c4",
+              -687
+            ],
+            [
+              "a2a4",
+              -690
+            ],
+            [
+              "c2c3",
+              -693
+            ]
+          ],
+          "analysis_time": 10.734925746917725,
+          "turn_info": "Black to move after opponent's f2g3"
+        },
+        {
+          "position_number": 2,
+          "challenge_fen": "r6k/pp2R2p/5p1Q/3p4/8/1N1P2b1/P1P3PP/1q5K w - - 1 26",
+          "opponent_move": "b2b1",
+          "expected_move": "b3c1",
+          "engine_move": "b3c1",
+          "engine_found_solution": true,
+          "engine_stockfish_score": 5,
+          "engine_stockfish_rank": 1,
+          "stockfish_top_moves": [
+            [
+              "b3c1",
+              669
+            ],
+            [
+              "h6c1",
+              6
+            ],
+            [
+              "e7e1",
+              -9900
+            ]
+          ],
+          "analysis_time": 12.630211114883423,
+          "turn_info": "Black to move after opponent's b2b1"
+        }
+      ],
+      "engine_time_seconds": 20.0,
+      "timestamp": "2025-09-22T21:50:10.502316"
+    }
+  ],
+  "report": {
+    "engine_name": "V7P3R v11",
+    "engine_info": {
+      "name": "V7P3R v11",
+      "author": "Pat Snyder"
+    },
+    "total_puzzles": 1,
+    "total_positions_analyzed": 3,
+    "sequence_metrics": {
+      "avg_linear_accuracy": 66.66666666666666,
+      "avg_weighted_accuracy": 52.63157894736842,
+      "perfect_sequences": 0,
+      "perfect_sequence_rate": 0.0
+    },
+    "estimated_rating_analysis": {
+      "perfect_sequences": {
+        "count": 0,
+        "min_rating": 0,
+        "max_rating": 0,
+        "avg_rating": 0
+      },
+      "high_accuracy": {
+        "count": 0,
+        "min_rating": 0,
+        "max_rating": 0,
+        "avg_rating": 0
+      }
+    },
+    "position_performance": {
+      "1": {
+        "total": 1,
+        "correct": 1,
+        "stockfish_scores": [
+          5
+        ],
+        "accuracy_rate": 100.0,
+        "avg_stockfish_score": 5.0
+      },
+      "2": {
+        "total": 1,
+        "correct": 1,
+        "stockfish_scores": [
+          5
+        ],
+        "accuracy_rate": 100.0,
+        "avg_stockfish_score": 5.0
+      }
+    },
+    "theme_performance": {
+      "crushing": {
+        "total": 1,
+        "perfect_sequences": 0,
+        "linear_accuracy_sum": 66.66666666666666,
+        "weighted_accuracy_sum": 52.63157894736842,
+        "ratings": [
+          1928
+        ],
+        "avg_linear_accuracy": 66.66666666666666,
+        "avg_weighted_accuracy": 52.63157894736842,
+        "perfect_sequence_rate": 0.0,
+        "avg_rating": 1928.0
+      },
+      "hangingPiece": {
+        "total": 1,
+        "perfect_sequences": 0,
+        "linear_accuracy_sum": 66.66666666666666,
+        "weighted_accuracy_sum": 52.63157894736842,
+        "ratings": [
+          1928
+        ],
+        "avg_linear_accuracy": 66.66666666666666,
+        "avg_weighted_accuracy": 52.63157894736842,
+        "perfect_sequence_rate": 0.0,
+        "avg_rating": 1928.0
+      },
+      "long": {
+        "total": 1,
+        "perfect_sequences": 0,
+        "linear_accuracy_sum": 66.66666666666666,
+        "weighted_accuracy_sum": 52.63157894736842,
+        "ratings": [
+          1928
+        ],
+        "avg_linear_accuracy": 66.66666666666666,
+        "avg_weighted_accuracy": 52.63157894736842,
+        "perfect_sequence_rate": 0.0,
+        "avg_rating": 1928.0
+      },
+      "middlegame": {
+        "total": 1,
+        "perfect_sequences": 0,
+        "linear_accuracy_sum": 66.66666666666666,
+        "weighted_accuracy_sum": 52.63157894736842,
+        "ratings": [
+          1928
+        ],
+        "avg_linear_accuracy": 66.66666666666666,
+        "avg_weighted_accuracy": 52.63157894736842,
+        "perfect_sequence_rate": 0.0,
+        "avg_rating": 1928.0
+      }
+    },
+    "accuracy_distribution": {
+      "0-20%": 0,
+      "20-40%": 0,
+      "40-60%": 1,
+      "60-80%": 0,
+      "80-100%": 0
+    },
+    "timestamp": "2025-09-22T21:50:10.505117"
+  },
+  "metadata": {
+    "engine_path": "s:/Maker Stuff/Programming/Chess Engines/Chess Engine Playground/engine-tester/engines/V7P3R/V7P3R_v12.0.exe",
+    "engine_name": "V7P3R v11",
+    "engine_info": {
+      "name": "V7P3R v11",
+      "author": "Pat Snyder"
+    },
+    "stockfish_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\Stockfish\\stockfish-windows-x86-64-avx2.exe",
+    "puzzle_db_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\databases\\puzzles.db",
+    "timestamp": "2025-09-22T21:50:10.505117"
+  }
+}

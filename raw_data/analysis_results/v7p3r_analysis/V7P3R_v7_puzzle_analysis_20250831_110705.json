@@ -1,0 +1,2974 @@
+{
+  "analysis_results": [
+    {
+      "puzzle_id": "00008",
+      "fen": "r6k/pp2r2p/4Rp1Q/3p4/8/1N1P2R1/PqP2bPP/7K b - - 0 24",
+      "rating": 1928,
+      "themes": [
+        "crushing",
+        "hangingPiece",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "e7f7",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "f2e3",
+          -512
+        ],
+        [
+          "b2b1",
+          -418
+        ],
+        [
+          "e7f7",
+          -16
+        ],
+        [
+          "e7c7",
+          23
+        ],
+        [
+          "e7d7",
+          43
+        ]
+      ],
+      "expected_move": "f2g3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:35:45.814836"
+    },
+    {
+      "puzzle_id": "0008Q",
+      "fen": "8/4R3/1p2P3/p4r2/P6p/1P3Pk1/4K3/8 w - - 1 64",
+      "rating": 1361,
+      "themes": [
+        "advantage",
+        "endgame",
+        "rookEndgame",
+        "short"
+      ],
+      "v7p3r_move": "e7f7",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "e7g7",
+          637
+        ],
+        [
+          "f3f4",
+          363
+        ],
+        [
+          "e2d3",
+          8
+        ],
+        [
+          "e2f1",
+          7
+        ],
+        [
+          "e2e3",
+          0
+        ]
+      ],
+      "expected_move": "e7f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:37:19.908895"
+    },
+    {
+      "puzzle_id": "000Vc",
+      "fen": "8/8/4k1p1/2KpP2p/5PP1/8/8/8 w - - 0 53",
+      "rating": 1615,
+      "themes": [
+        "crushing",
+        "endgame",
+        "long",
+        "pawnEndgame"
+      ],
+      "v7p3r_move": "g4h5",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "f4f5",
+          0
+        ],
+        [
+          "g4g5",
+          -1024
+        ],
+        [
+          "c5d4",
+          -1123
+        ],
+        [
+          "c5c6",
+          -1039
+        ],
+        [
+          "c5b4",
+          -1039
+        ]
+      ],
+      "expected_move": "g4h5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:37:22.658831"
+    },
+    {
+      "puzzle_id": "000Zo",
+      "fen": "4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35",
+      "rating": 1353,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "v7p3r_move": "a3a4",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "a3a4",
+          21
+        ],
+        [
+          "d4e4",
+          -341
+        ],
+        [
+          "c3c2",
+          -375
+        ],
+        [
+          "h2h4",
+          -354
+        ],
+        [
+          "c3c1",
+          -372
+        ]
+      ],
+      "expected_move": "e5f6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:37:34.252622"
+    },
+    {
+      "puzzle_id": "000aY",
+      "fen": "r4rk1/pp3ppp/2n1b3/q1pp2B1/8/P1Q2NP1/1PP1PP1P/2KR3R w - - 0 15",
+      "rating": 1436,
+      "themes": [
+        "advantage",
+        "master",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "c3a5",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "c3a5",
+          -55
+        ],
+        [
+          "g5f4",
+          -86
+        ],
+        [
+          "g5e3",
+          -125
+        ],
+        [
+          "h2h3",
+          -178
+        ],
+        [
+          "g3g4",
+          -181
+        ]
+      ],
+      "expected_move": "g5e7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:37:57.947254"
+    },
+    {
+      "puzzle_id": "000hf",
+      "fen": "r1bqk2r/pp1nbNp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 b kq - 0 19",
+      "rating": 1518,
+      "themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "d8a5",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "e8g8",
+          612
+        ],
+        [
+          "d8a5",
+          635
+        ],
+        [
+          "e7f6",
+          704
+        ],
+        [
+          "e7b4",
+          706
+        ],
+        [
+          "h6h5",
+          716
+        ]
+      ],
+      "expected_move": "e8f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:38:22.908797"
+    },
+    {
+      "puzzle_id": "000lC",
+      "fen": "3r3r/pQNk1ppp/1qnb1n2/1B6/8/8/PPP3PP/3R1R1K w - - 5 19",
+      "rating": 1496,
+      "themes": [
+        "advantage",
+        "hangingPiece",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "b7b6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "b5c6",
+          505
+        ],
+        [
+          "b7b6",
+          -103
+        ],
+        [
+          "d1d6",
+          -439
+        ],
+        [
+          "b7a6",
+          -456
+        ],
+        [
+          "c7e8",
+          -463
+        ]
+      ],
+      "expected_move": "d1d6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:38:47.910091"
+    },
+    {
+      "puzzle_id": "000qP",
+      "fen": "8/7R/8/5p2/4bk1P/8/2r2K2/6R1 w - - 7 51",
+      "rating": 1983,
+      "themes": [
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "long",
+        "skewer"
+      ],
+      "v7p3r_move": "f2e1",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f2e1",
+          -7
+        ],
+        [
+          "f2f1",
+          -639
+        ]
+      ],
+      "expected_move": "f2f1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:39:26.494437"
+    },
+    {
+      "puzzle_id": "00143",
+      "fen": "r2q1rk1/5ppp/1np5/p1b5/2p1B3/P7/1P3PPP/R1BQ1RK1 b - - 1 17",
+      "rating": 1750,
+      "themes": [
+        "advantage",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "d8d1",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "c5f2",
+          -199
+        ],
+        [
+          "d8d1",
+          -39
+        ],
+        [
+          "c5d4",
+          -30
+        ],
+        [
+          "h7h6",
+          -25
+        ],
+        [
+          "d8h4",
+          -15
+        ]
+      ],
+      "expected_move": "d8f6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:39:34.298760"
+    },
+    {
+      "puzzle_id": "0017R",
+      "fen": "r2qk2r/pp2ppbp/1n1p2p1/3Pn3/2P5/2NBBP1P/PP3P2/R2QK2R b KQkq - 0 12",
+      "rating": 1644,
+      "themes": [
+        "advantage",
+        "fork",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "e5c4",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "a8c8",
+          -215
+        ],
+        [
+          "e8g8",
+          -195
+        ],
+        [
+          "e8f8",
+          -107
+        ],
+        [
+          "a7a6",
+          -91
+        ],
+        [
+          "d8c8",
+          -88
+        ]
+      ],
+      "expected_move": "e5c4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:39:51.197066"
+    },
+    {
+      "puzzle_id": "001cr",
+      "fen": "8/3B2pp/p5k1/2p3P1/1p1p1K2/8/1P6/8 b - - 0 38",
+      "rating": 1691,
+      "themes": [
+        "bishopEndgame",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "v7p3r_move": "h7h6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "g6f7",
+          -54
+        ],
+        [
+          "h7h6",
+          -40
+        ],
+        [
+          "h7h5",
+          -11
+        ],
+        [
+          "g6h5",
+          0
+        ],
+        [
+          "c5c4",
+          9900
+        ]
+      ],
+      "expected_move": "c5c4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:41:21.259928"
+    },
+    {
+      "puzzle_id": "001m3",
+      "fen": "7r/6k1/2b1pp2/8/P1N3p1/5nP1/4RP2/Q4K2 w - - 2 38",
+      "rating": 1467,
+      "themes": [
+        "advantage",
+        "endgame",
+        "short",
+        "skewer"
+      ],
+      "v7p3r_move": "e2a2",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "e2a2",
+          299
+        ],
+        [
+          "e2e1",
+          -3
+        ],
+        [
+          "e2e6",
+          -409
+        ],
+        [
+          "e2e4",
+          -443
+        ],
+        [
+          "e2b2",
+          -460
+        ]
+      ],
+      "expected_move": "e2e6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:42:13.255804"
+    },
+    {
+      "puzzle_id": "001uD",
+      "fen": "6k1/1p3pp1/1p5p/2r1p3/2n5/r3PN2/2RnNPPP/2R3K1 b - - 1 32",
+      "rating": 1930,
+      "themes": [
+        "advantage",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "d2f3",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "d2b3",
+          -299
+        ],
+        [
+          "a3d3",
+          -271
+        ],
+        [
+          "d2f3",
+          -219
+        ],
+        [
+          "c5d5",
+          -108
+        ],
+        [
+          "c4e3",
+          93
+        ]
+      ],
+      "expected_move": "f7f6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:42:25.583589"
+    },
+    {
+      "puzzle_id": "002Hv",
+      "fen": "8/8/8/3N2p1/5b2/3p3P/5kP1/3K4 w - - 16 56",
+      "rating": 1562,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "veryLong"
+      ],
+      "v7p3r_move": "g2g4",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "h3h4",
+          -3
+        ],
+        [
+          "d5b4",
+          -10
+        ],
+        [
+          "g2g4",
+          -561
+        ],
+        [
+          "g2g3",
+          -562
+        ],
+        [
+          "d5f6",
+          -592
+        ]
+      ],
+      "expected_move": "d5f4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:43:01.571396"
+    },
+    {
+      "puzzle_id": "002Ua",
+      "fen": "r4rk1/pp3ppp/3p1q2/P1P1p3/2B5/2B2n2/2P2P1P/R2Q1RK1 w - - 0 16",
+      "rating": 1661,
+      "themes": [
+        "crushing",
+        "kingsideAttack",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "g1g2",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "g1g2",
+          167
+        ],
+        [
+          "d1f3",
+          -559
+        ],
+        [
+          "g1h1",
+          -573
+        ]
+      ],
+      "expected_move": "g1h1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:44:49.040390"
+    },
+    {
+      "puzzle_id": "002Uy",
+      "fen": "8/8/1p6/k7/P1R5/1K5r/8/8 w - - 26 64",
+      "rating": 1714,
+      "themes": [
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "long",
+        "rookEndgame"
+      ],
+      "v7p3r_move": "b3b2",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "b3b2",
+          0
+        ],
+        [
+          "b3a2",
+          0
+        ],
+        [
+          "b3c2",
+          -3
+        ],
+        [
+          "c4c3",
+          -7700
+        ]
+      ],
+      "expected_move": "c4c3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:44:53.059052"
+    },
+    {
+      "puzzle_id": "002VP",
+      "fen": "8/6p1/2B1bn2/6k1/3B4/6K1/4P3/8 b - - 4 44",
+      "rating": 1420,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "g5h6",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "g5g6",
+          -1
+        ],
+        [
+          "e6c4",
+          0
+        ],
+        [
+          "e6c8",
+          0
+        ],
+        [
+          "f6d7",
+          2
+        ],
+        [
+          "g5f5",
+          0
+        ]
+      ],
+      "expected_move": "e6d5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:45:06.589096"
+    },
+    {
+      "puzzle_id": "002Z9",
+      "fen": "4r1k1/1p2R1p1/p2p2Pp/P1pP4/5q2/1R3p2/1P1Q3P/5B1K b - - 0 34",
+      "rating": 1237,
+      "themes": [
+        "endgame",
+        "hangingPiece",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "v7p3r_move": "f4f8",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f4f8",
+          9100
+        ],
+        [
+          "f4e5",
+          9300
+        ],
+        [
+          "f4e4",
+          9400
+        ],
+        [
+          "f4a4",
+          9400
+        ],
+        [
+          "e8f8",
+          9400
+        ]
+      ],
+      "expected_move": "f4d2",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:45:14.430090"
+    },
+    {
+      "puzzle_id": "002rd",
+      "fen": "r6k/q1pb1p1p/1b3Pr1/p1ppP2Q/3P2p1/4B3/PP2NRPP/3R2K1 b - - 1 25",
+      "rating": 1795,
+      "themes": [
+        "crushing",
+        "kingsideAttack",
+        "long",
+        "middlegame",
+        "pin"
+      ],
+      "v7p3r_move": "g4g3",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "c5d4",
+          -20
+        ],
+        [
+          "a8g8",
+          0
+        ],
+        [
+          "c7c6",
+          230
+        ],
+        [
+          "a5a4",
+          239
+        ],
+        [
+          "a8f8",
+          275
+        ]
+      ],
+      "expected_move": "d7e6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:45:32.968939"
+    },
+    {
+      "puzzle_id": "003IX",
+      "fen": "8/3pk3/R7/1R2Pp1p/2PPnKr1/8/8/8 w - - 4 43",
+      "rating": 1711,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "v7p3r_move": "f4e3",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "f4f3",
+          0
+        ],
+        [
+          "f4e3",
+          0
+        ],
+        [
+          "f4f5",
+          -9900
+        ]
+      ],
+      "expected_move": "f4f5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:46:15.558171"
+    },
+    {
+      "puzzle_id": "003S3",
+      "fen": "r4k1r/pNqnppb1/6pn/2p3Np/7P/2P2Q2/PP3PP1/R1B1K2R b KQ - 2 15",
+      "rating": 1516,
+      "themes": [
+        "advantage",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "c7e5",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "c7c8",
+          88
+        ],
+        [
+          "f8g8",
+          108
+        ],
+        [
+          "g7f6",
+          131
+        ],
+        [
+          "c7b8",
+          155
+        ],
+        [
+          "d7f6",
+          191
+        ]
+      ],
+      "expected_move": "a8b8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:46:32.238212"
+    },
+    {
+      "puzzle_id": "003Tx",
+      "fen": "2r5/pR5p/5p1k/4p3/4r3/B4nPP/PP3P2/1K2R3 w - - 0 27",
+      "rating": 1535,
+      "themes": [
+        "backRankMate",
+        "endgame",
+        "fork",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "v7p3r_move": "e1d1",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "e1d1",
+          16
+        ],
+        [
+          "e1h1",
+          9
+        ],
+        [
+          "a3f8",
+          -391
+        ],
+        [
+          "a3b4",
+          -506
+        ],
+        [
+          "e1g1",
+          -563
+        ]
+      ],
+      "expected_move": "e1e4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:46:37.013522"
+    },
+    {
+      "puzzle_id": "003UW",
+      "fen": "8/6pk/7p/2p5/2qp4/5PP1/P3QK1P/8 b - - 1 40",
+      "rating": 1527,
+      "themes": [
+        "advantage",
+        "endgame",
+        "queenEndgame",
+        "short"
+      ],
+      "v7p3r_move": "c4e2",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "c4a4",
+          0
+        ],
+        [
+          "c4f7",
+          0
+        ],
+        [
+          "c4g8",
+          0
+        ],
+        [
+          "c4b4",
+          0
+        ],
+        [
+          "c4c3",
+          0
+        ]
+      ],
+      "expected_move": "c4d5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:46:40.218035"
+    },
+    {
+      "puzzle_id": "003aS",
+      "fen": "8/8/5k1p/6p1/1R4PP/1p2KP2/8/1r6 w - - 0 43",
+      "rating": 1995,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "defensiveMove",
+        "endgame",
+        "long",
+        "rookEndgame"
+      ],
+      "v7p3r_move": "b4b6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "b4b6",
+          0
+        ],
+        [
+          "h4g5",
+          0
+        ],
+        [
+          "e3f2",
+          -9
+        ],
+        [
+          "f3f4",
+          -11
+        ],
+        [
+          "e3e2",
+          -453
+        ]
+      ],
+      "expected_move": "h4h5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:46:43.755718"
+    },
+    {
+      "puzzle_id": "003mh",
+      "fen": "r4k1r/1pp2p2/p2p3p/3N4/3P2q1/8/PPP5/1K2Q1NR b - - 1 23",
+      "rating": 1324,
+      "themes": [
+        "advantage",
+        "attraction",
+        "fork",
+        "long",
+        "middlegame",
+        "sacrifice"
+      ],
+      "v7p3r_move": "g4d4",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "g4g2",
+          6
+        ],
+        [
+          "g4d4",
+          6
+        ],
+        [
+          "g4f5",
+          54
+        ],
+        [
+          "g4e6",
+          213
+        ],
+        [
+          "g4g5",
+          258
+        ]
+      ],
+      "expected_move": "a8e8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:00.789074"
+    },
+    {
+      "puzzle_id": "003nQ",
+      "fen": "6rk/pp6/2n5/3ppn1p/3p4/2P2P1q/PP3QNB/R4R1K w - - 2 29",
+      "rating": 1287,
+      "themes": [
+        "crushing",
+        "kingsideAttack",
+        "master",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "c3d4",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "a1d1",
+          155
+        ],
+        [
+          "a1e1",
+          121
+        ],
+        [
+          "c3d4",
+          0
+        ],
+        [
+          "f1e1",
+          0
+        ],
+        [
+          "f1d1",
+          0
+        ]
+      ],
+      "expected_move": "f1g1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:16.922224"
+    },
+    {
+      "puzzle_id": "003wQ",
+      "fen": "2r2rk1/6pp/3Q1q2/8/3N1B2/6P1/PP1K3P/R4b2 w - - 0 24",
+      "rating": 1961,
+      "themes": [
+        "advantage",
+        "discoveredAttack",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "d6f6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "d6f6",
+          40
+        ],
+        [
+          "d6e6",
+          3
+        ],
+        [
+          "b2b3",
+          -7
+        ],
+        [
+          "a2a4",
+          -57
+        ],
+        [
+          "a1c1",
+          -76
+        ]
+      ],
+      "expected_move": "a1f1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:28.629075"
+    },
+    {
+      "puzzle_id": "0047P",
+      "fen": "8/1N3k2/6p1/8/2P3P1/pr6/R5K1/8 w - - 1 56",
+      "rating": 1769,
+      "themes": [
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "fork",
+        "long",
+        "master"
+      ],
+      "v7p3r_move": "b7d6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "b7d6",
+          333
+        ],
+        [
+          "a2a1",
+          37
+        ],
+        [
+          "a2f2",
+          2
+        ],
+        [
+          "b7d8",
+          -23
+        ],
+        [
+          "a2d2",
+          -277
+        ]
+      ],
+      "expected_move": "g2f1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:32.957972"
+    },
+    {
+      "puzzle_id": "0048h",
+      "fen": "4r3/p5k1/2p2R1p/2Pp4/1P1pr1P1/P6P/8/3R3K w - - 1 35",
+      "rating": 1212,
+      "themes": [
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "long",
+        "rookEndgame"
+      ],
+      "v7p3r_move": "f6c6",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "f6f2",
+          -19
+        ],
+        [
+          "f6f3",
+          -19
+        ],
+        [
+          "f6f1",
+          -39
+        ],
+        [
+          "f6f5",
+          -41
+        ],
+        [
+          "d1f1",
+          -65
+        ]
+      ],
+      "expected_move": "f6c6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:41.230137"
+    },
+    {
+      "puzzle_id": "004Ao",
+      "fen": "4qk2/1b3rR1/p7/1p2Q3/4P2P/P2P3K/2r5/3R4 w - - 5 41",
+      "rating": 1711,
+      "themes": [
+        "advantage",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "g7g8",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "g7g8",
+          8600
+        ],
+        [
+          "e5d6",
+          514
+        ],
+        [
+          "e5e8",
+          -134
+        ],
+        [
+          "g7f7",
+          -272
+        ],
+        [
+          "g7g5",
+          -528
+        ]
+      ],
+      "expected_move": "g7f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:51.413269"
+    },
+    {
+      "puzzle_id": "004Ax",
+      "fen": "8/8/4R1kp/p7/5rPK/8/7P/8 b - - 2 42",
+      "rating": 1913,
+      "themes": [
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "long",
+        "rookEndgame"
+      ],
+      "v7p3r_move": "g6g7",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "f4f6",
+          0
+        ],
+        [
+          "g6h7",
+          0
+        ],
+        [
+          "g6g7",
+          11
+        ],
+        [
+          "g6f7",
+          467
+        ]
+      ],
+      "expected_move": "g6f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:47:55.499918"
+    },
+    {
+      "puzzle_id": "004RF",
+      "fen": "5rk1/5ppp/1p6/1qp2P1Q/3p3P/6R1/6PK/8 b - - 0 30",
+      "rating": 1746,
+      "themes": [
+        "attraction",
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "long",
+        "sacrifice"
+      ],
+      "v7p3r_move": "f8e8",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "f7f6",
+          -512
+        ],
+        [
+          "b5c6",
+          -422
+        ],
+        [
+          "b5d7",
+          0
+        ],
+        [
+          "g7g6",
+          0
+        ],
+        [
+          "g8h8",
+          0
+        ]
+      ],
+      "expected_move": "c5c4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:48:26.423110"
+    },
+    {
+      "puzzle_id": "004Ud",
+      "fen": "r1bqk2r/p3Bppp/3p4/1ppn4/4P3/4Q3/PPP2PPP/2KR1B1R b kq - 0 11",
+      "rating": 1708,
+      "themes": [
+        "advantage",
+        "interference",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "d5e3",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "d5e3",
+          -367
+        ],
+        [
+          "c8d7",
+          167
+        ],
+        [
+          "c5c4",
+          219
+        ],
+        [
+          "e8e7",
+          242
+        ],
+        [
+          "a7a6",
+          254
+        ]
+      ],
+      "expected_move": "d5e7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:48:33.469654"
+    },
+    {
+      "puzzle_id": "004d8",
+      "fen": "8/4kr2/R2p4/1p1Pp1p1/5p2/3K1P2/PPP5/8 b - - 0 39",
+      "rating": 1608,
+      "themes": [
+        "crushing",
+        "endgame",
+        "long",
+        "rookEndgame"
+      ],
+      "v7p3r_move": "f7f8",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f7f8",
+          -27
+        ],
+        [
+          "e7f6",
+          0
+        ],
+        [
+          "f7f6",
+          0
+        ],
+        [
+          "e7f8",
+          4
+        ],
+        [
+          "f7f5",
+          15
+        ]
+      ],
+      "expected_move": "g5g4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:48:37.279742"
+    },
+    {
+      "puzzle_id": "004mT",
+      "fen": "5Q2/8/1b1kp1p1/5p2/3p4/5qPK/7P/8 b - - 1 51",
+      "rating": 1380,
+      "themes": [
+        "advantage",
+        "endgame",
+        "short",
+        "skewer"
+      ],
+      "v7p3r_move": "d6d7",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "d6d7",
+          -754
+        ],
+        [
+          "d6e5",
+          -701
+        ],
+        [
+          "d6c7",
+          -584
+        ],
+        [
+          "d6d5",
+          375
+        ],
+        [
+          "d6c6",
+          465
+        ]
+      ],
+      "expected_move": "d6c6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:49:06.528683"
+    },
+    {
+      "puzzle_id": "004zI",
+      "fen": "2q3k1/4br1p/6RQ/1p1n2p1/7P/1P4P1/1B2PP2/6K1 b - - 0 27",
+      "rating": 1462,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "v7p3r_move": "h7g6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "h7g6",
+          9900
+        ],
+        [
+          "f7g7",
+          9900
+        ]
+      ],
+      "expected_move": "h7g6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:49:54.049919"
+    },
+    {
+      "puzzle_id": "005Bm",
+      "fen": "4rk2/p1q5/1p3Q1b/8/1p5N/2P1p3/P3P3/2K5 b - - 0 43",
+      "rating": 1314,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "f8g8",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f8g8",
+          0
+        ],
+        [
+          "c7f7",
+          9800
+        ]
+      ],
+      "expected_move": "c7f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:50:30.848886"
+    },
+    {
+      "puzzle_id": "005YX",
+      "fen": "2rr4/2N2pk1/p1Q1b1pp/1p4q1/3pP3/1B1P4/PPP3PP/6RK w - - 7 25",
+      "rating": 1770,
+      "themes": [
+        "defensiveMove",
+        "equality",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "c7e6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "b3e6",
+          315
+        ],
+        [
+          "c7e6",
+          -21
+        ],
+        [
+          "c6e6",
+          -77
+        ],
+        [
+          "c6b7",
+          -199
+        ],
+        [
+          "c6b6",
+          -232
+        ]
+      ],
+      "expected_move": "c7e6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:50:47.172310"
+    },
+    {
+      "puzzle_id": "005xu",
+      "fen": "8/3k4/1K1P4/2P3r1/R7/5b2/8/8 b - - 0 68",
+      "rating": 1914,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "long"
+      ],
+      "v7p3r_move": "f3d5",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "g5g2",
+          0
+        ],
+        [
+          "g5g1",
+          0
+        ],
+        [
+          "g5g4",
+          0
+        ],
+        [
+          "g5g6",
+          0
+        ],
+        [
+          "g5d5",
+          0
+        ]
+      ],
+      "expected_move": "g5g8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:51:18.519511"
+    },
+    {
+      "puzzle_id": "0068D",
+      "fen": "7r/pppk4/2pb1r2/8/2NP2p1/2P5/PP2RPP1/4R1K1 w - - 2 26",
+      "rating": 1919,
+      "themes": [
+        "crushing",
+        "endgame",
+        "veryLong"
+      ],
+      "v7p3r_move": "c4e5",
+      "v7p3r_score": 1,
+      "v7p3r_rank": 5,
+      "stockfish_top_moves": [
+        [
+          "e2e4",
+          143
+        ],
+        [
+          "e2d2",
+          88
+        ],
+        [
+          "e2e3",
+          50
+        ],
+        [
+          "e2c2",
+          36
+        ],
+        [
+          "c4e5",
+          23
+        ]
+      ],
+      "expected_move": "c4d6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:52:09.848764"
+    },
+    {
+      "puzzle_id": "006E1",
+      "fen": "5rk1/R4pp1/1p5p/3Q4/1PPp2q1/3P2P1/5P2/4nK2 w - - 0 34",
+      "rating": 1703,
+      "themes": [
+        "crushing",
+        "deflection",
+        "endgame",
+        "veryLong"
+      ],
+      "v7p3r_move": "f1e1",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "a7a8",
+          118
+        ],
+        [
+          "d5d7",
+          -453
+        ],
+        [
+          "d5e4",
+          -456
+        ],
+        [
+          "f1g1",
+          -487
+        ],
+        [
+          "f2f3",
+          -492
+        ]
+      ],
+      "expected_move": "f1e1",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:52:20.679008"
+    },
+    {
+      "puzzle_id": "006fF",
+      "fen": "r1b4r/pp1k2pp/2nb2q1/1B1p2B1/3p3Q/8/PPP2PPP/3RR1K1 b - - 5 17",
+      "rating": 1784,
+      "themes": [
+        "advantage",
+        "discoveredAttack",
+        "exposedKing",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "d7c7",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "d7c7",
+          -284
+        ],
+        [
+          "h8e8",
+          -275
+        ],
+        [
+          "a7a6",
+          -249
+        ],
+        [
+          "h8f8",
+          -229
+        ],
+        [
+          "g6f7",
+          -152
+        ]
+      ],
+      "expected_move": "h7h6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:53:52.380217"
+    },
+    {
+      "puzzle_id": "006om",
+      "fen": "1r3k2/5p1p/2p1pp2/P2n4/2r1N3/P4PK1/2R2P1P/2R5 b - - 9 29",
+      "rating": 1885,
+      "themes": [
+        "crushing",
+        "endgame",
+        "fork",
+        "long",
+        "master"
+      ],
+      "v7p3r_move": "c4c2",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "c4c2",
+          -32
+        ],
+        [
+          "c4d4",
+          0
+        ],
+        [
+          "c4a4",
+          381
+        ],
+        [
+          "c4e4",
+          422
+        ],
+        [
+          "d5f4",
+          451
+        ]
+      ],
+      "expected_move": "c4a4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:54:40.728744"
+    },
+    {
+      "puzzle_id": "006pe",
+      "fen": "r4r2/2q1NN2/4bQpk/2n4p/pp5P/8/1PP2PP1/2KR3R b - - 0 28",
+      "rating": 1549,
+      "themes": [
+        "master",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "f8f7",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "e6f7",
+          9800
+        ],
+        [
+          "f8f7",
+          9900
+        ],
+        [
+          "h6h7",
+          9900
+        ]
+      ],
+      "expected_move": "e6f7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:54:46.028731"
+    },
+    {
+      "puzzle_id": "00761",
+      "fen": "3r2k1/1b3pbR/p2P2P1/3p2N1/2p5/2P2N2/PP6/2K5 b - - 0 28",
+      "rating": 1438,
+      "themes": [
+        "attraction",
+        "crushing",
+        "endgame",
+        "exposedKing",
+        "fork",
+        "long",
+        "sacrifice"
+      ],
+      "v7p3r_move": "f7g6",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "d8d6",
+          100
+        ],
+        [
+          "b7c8",
+          529
+        ],
+        [
+          "f7g6",
+          550
+        ],
+        [
+          "d8d7",
+          556
+        ],
+        [
+          "f7f6",
+          604
+        ]
+      ],
+      "expected_move": "f7g6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:56:00.957010"
+    },
+    {
+      "puzzle_id": "007AS",
+      "fen": "r3kb1r/3nnpp1/4p1bp/1NppP3/3P4/6N1/P2BBPPP/R3K2R b KQkq - 0 17",
+      "rating": 1597,
+      "themes": [
+        "crushing",
+        "master",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "e8d8",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "e8d8",
+          -99
+        ],
+        [
+          "e8c8",
+          149
+        ],
+        [
+          "e7c6",
+          221
+        ],
+        [
+          "h6h5",
+          255
+        ],
+        [
+          "c5c4",
+          257
+        ]
+      ],
+      "expected_move": "a8b8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:56:25.669049"
+    },
+    {
+      "puzzle_id": "007ku",
+      "fen": "r1bq3Q/1np2kp1/p5B1/1p1Pp3/1Pn2BP1/2b2P2/P3K3/R4N2 b - - 5 35",
+      "rating": 1627,
+      "themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "f7f6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "f7e7",
+          905
+        ],
+        [
+          "f7f6",
+          9700
+        ],
+        [
+          "f7g6",
+          9800
+        ]
+      ],
+      "expected_move": "f7g6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:57:08.229123"
+    },
+    {
+      "puzzle_id": "008D5",
+      "fen": "r1bqk2r/pp3ppp/4p2n/3pP3/1b1P1P2/2N5/PP4PP/R1BQKB1R b KQkq - 2 9",
+      "rating": 1423,
+      "themes": [
+        "advantage",
+        "fork",
+        "master",
+        "opening",
+        "short"
+      ],
+      "v7p3r_move": "e8g8",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "c8d7",
+          -18
+        ],
+        [
+          "e8g8",
+          -6
+        ],
+        [
+          "d8b6",
+          10
+        ],
+        [
+          "b4a5",
+          38
+        ],
+        [
+          "d8a5",
+          39
+        ]
+      ],
+      "expected_move": "h6f5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:57:22.978913"
+    },
+    {
+      "puzzle_id": "009BH",
+      "fen": "3r2k1/6p1/4Q3/4B3/1p3P2/4PKP1/3q4/8 b - - 17 51",
+      "rating": 1488,
+      "themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "g8h7",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "g8f8",
+          0
+        ],
+        [
+          "g8h7",
+          0
+        ],
+        [
+          "g8h8",
+          9800
+        ]
+      ],
+      "expected_move": "g8h8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:57:57.743658"
+    },
+    {
+      "puzzle_id": "009FS",
+      "fen": "r2qr1k1/p5bp/1pp1b1p1/8/2QN1p2/2P1n2P/PP3PP1/R1B1RNK1 w - - 1 18",
+      "rating": 1714,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "opening",
+        "short"
+      ],
+      "v7p3r_move": "c4e6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "c4e6",
+          -66
+        ],
+        [
+          "c4a4",
+          -155
+        ],
+        [
+          "c4b4",
+          -202
+        ],
+        [
+          "c4c6",
+          -237
+        ],
+        [
+          "c4a6",
+          -241
+        ]
+      ],
+      "expected_move": "d4e6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:58:16.989936"
+    },
+    {
+      "puzzle_id": "009Os",
+      "fen": "r2b2k1/1p3q1p/p2p4/3P2p1/2P1PRQr/8/P2B3P/2R4K w - - 1 29",
+      "rating": 1392,
+      "themes": [
+        "crushing",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "g4h4",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "c1f1",
+          267
+        ],
+        [
+          "f4f7",
+          265
+        ],
+        [
+          "g4h4",
+          251
+        ],
+        [
+          "e4e5",
+          -306
+        ],
+        [
+          "g4e2",
+          -321
+        ]
+      ],
+      "expected_move": "g4g3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:58:29.034847"
+    },
+    {
+      "puzzle_id": "009XT",
+      "fen": "rn1qk2r/pp3ppp/3bp1b1/3p4/3Pn2N/3BB3/PPP2PPP/RN1Q1RK1 w kq - 4 10",
+      "rating": 1961,
+      "themes": [
+        "crushing",
+        "intermezzo",
+        "opening",
+        "short"
+      ],
+      "v7p3r_move": "h4g6",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "g2g3",
+          32
+        ],
+        [
+          "d3b5",
+          -4
+        ],
+        [
+          "h4f3",
+          -51
+        ],
+        [
+          "d1g4",
+          -67
+        ],
+        [
+          "d3e4",
+          -278
+        ]
+      ],
+      "expected_move": "h4g6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:58:42.988733"
+    },
+    {
+      "puzzle_id": "009aD",
+      "fen": "r4k1r/pp3pp1/4p3/3pP1np/6bq/1PP2P2/P3B1PP/RN1Q1RK1 w - - 1 14",
+      "rating": 1412,
+      "themes": [
+        "advantage",
+        "kingsideAttack",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "f3g4",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "d1d4",
+          342
+        ],
+        [
+          "b1a3",
+          155
+        ],
+        [
+          "g2g3",
+          147
+        ],
+        [
+          "d1c1",
+          130
+        ],
+        [
+          "d1d2",
+          116
+        ]
+      ],
+      "expected_move": "f3g4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:58:51.578731"
+    },
+    {
+      "puzzle_id": "009zR",
+      "fen": "3r4/p1p2ppp/4k3/6Q1/5P2/4P3/Prqn2PP/3R1RK1 w - - 3 22",
+      "rating": 1629,
+      "themes": [
+        "discoveredAttack",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "v7p3r_move": "g5e5",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "g5e5",
+          -272
+        ],
+        [
+          "f4f5",
+          -370
+        ],
+        [
+          "g5h5",
+          -395
+        ],
+        [
+          "g1h1",
+          -490
+        ],
+        [
+          "g5g4",
+          -500
+        ]
+      ],
+      "expected_move": "g5d8",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:59:11.412132"
+    },
+    {
+      "puzzle_id": "009zS",
+      "fen": "r3r1k1/1p3p1p/p1p3p1/8/6bP/Q3b3/PP2B1P1/R3K2R w KQ - 2 20",
+      "rating": 1421,
+      "themes": [
+        "advantage",
+        "discoveredAttack",
+        "exposedKing",
+        "long",
+        "middlegame"
+      ],
+      "v7p3r_move": "a3a4",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "a3a4",
+          239
+        ],
+        [
+          "e2g4",
+          197
+        ],
+        [
+          "a3b3",
+          111
+        ],
+        [
+          "h1h3",
+          109
+        ],
+        [
+          "a3d3",
+          49
+        ]
+      ],
+      "expected_move": "g2g3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:59:34.590091"
+    },
+    {
+      "puzzle_id": "00A5m",
+      "fen": "8/1p6/p1p2p2/P3b3/1PK3P1/2PBk3/8/8 b - - 3 60",
+      "rating": 1968,
+      "themes": [
+        "bishopEndgame",
+        "crushing",
+        "endgame",
+        "quietMove",
+        "veryLong"
+      ],
+      "v7p3r_move": "e3d2",
+      "v7p3r_score": 2,
+      "v7p3r_rank": 4,
+      "stockfish_top_moves": [
+        [
+          "e5c7",
+          52
+        ],
+        [
+          "c6c5",
+          54
+        ],
+        [
+          "e5h2",
+          351
+        ],
+        [
+          "e3d2",
+          360
+        ],
+        [
+          "e5g3",
+          398
+        ]
+      ],
+      "expected_move": "e3d2",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:59:41.136142"
+    },
+    {
+      "puzzle_id": "00AB1",
+      "fen": "8/7Q/3p1kp1/1p6/2b5/2P4P/5PPK/4q3 b - - 8 36",
+      "rating": 1242,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short",
+        "skewer"
+      ],
+      "v7p3r_move": "e1f2",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "e1e5",
+          -492
+        ],
+        [
+          "e1f2",
+          -491
+        ],
+        [
+          "f6f5",
+          -443
+        ],
+        [
+          "e1e4",
+          -410
+        ],
+        [
+          "e1e6",
+          -395
+        ]
+      ],
+      "expected_move": "e1c3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:59:45.392730"
+    },
+    {
+      "puzzle_id": "00AHY",
+      "fen": "r6k/3NR1p1/4n2p/5b2/p6P/6R1/8/6K1 w - - 2 43",
+      "rating": 1358,
+      "themes": [
+        "advantage",
+        "endgame",
+        "long"
+      ],
+      "v7p3r_move": "d7b6",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "g3a3",
+          -4
+        ],
+        [
+          "d7b6",
+          -6
+        ],
+        [
+          "g3f3",
+          -15
+        ],
+        [
+          "e7f7",
+          -23
+        ],
+        [
+          "g3g2",
+          -210
+        ]
+      ],
+      "expected_move": "h4h5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T10:59:58.069002"
+    },
+    {
+      "puzzle_id": "00AVR",
+      "fen": "br1qkb1r/p1pp1ppp/4Pn2/6B1/3Qn3/5NP1/P3PPBP/RN1R2K1 b k - 0 15",
+      "rating": 1736,
+      "themes": [
+        "crushing",
+        "opening",
+        "short"
+      ],
+      "v7p3r_move": "f7e6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f7e6",
+          -86
+        ],
+        [
+          "f8c5",
+          -21
+        ],
+        [
+          "e4g5",
+          29
+        ],
+        [
+          "b8b4",
+          112
+        ],
+        [
+          "f8d6",
+          146
+        ]
+      ],
+      "expected_move": "d7e6",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:00:06.729095"
+    },
+    {
+      "puzzle_id": "00AcQ",
+      "fen": "8/1bpp2k1/1p5r/1P2P3/3P1P2/2P1n1K1/2Q3P1/8 w - - 0 30",
+      "rating": 1695,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "c2c1",
+      "v7p3r_score": 2,
+      "v7p3r_rank": 4,
+      "stockfish_top_moves": [
+        [
+          "c2a4",
+          0
+        ],
+        [
+          "c2b1",
+          -40
+        ],
+        [
+          "c2d3",
+          -111
+        ],
+        [
+          "c2c1",
+          -134
+        ],
+        [
+          "c2b3",
+          -140
+        ]
+      ],
+      "expected_move": "c2a2",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:00:17.819025"
+    },
+    {
+      "puzzle_id": "00AdI",
+      "fen": "3r4/4kp1p/1PQ1p1p1/p3b3/1p2P2P/1P6/6PK/8 w - - 1 36",
+      "rating": 1223,
+      "themes": [
+        "crushing",
+        "discoveredAttack",
+        "endgame",
+        "long",
+        "master"
+      ],
+      "v7p3r_move": "g2g3",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "g2g3",
+          229
+        ],
+        [
+          "h2g1",
+          210
+        ],
+        [
+          "h2h3",
+          -957
+        ],
+        [
+          "h2h1",
+          -9900
+        ]
+      ],
+      "expected_move": "h2h3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:00:23.140246"
+    },
+    {
+      "puzzle_id": "00Al5",
+      "fen": "2r3k1/p2q1pbp/1p2pnp1/nB1p4/3P4/1Pr1P2P/P1QB1PP1/2R2RK1 w - - 0 19",
+      "rating": 1560,
+      "themes": [
+        "advantage",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "c2c3",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "c2c3",
+          425
+        ],
+        [
+          "b5d7",
+          -252
+        ],
+        [
+          "d2c3",
+          -261
+        ],
+        [
+          "c2b2",
+          -314
+        ],
+        [
+          "c2b1",
+          -500
+        ]
+      ],
+      "expected_move": "b5d7",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:01:13.355658"
+    },
+    {
+      "puzzle_id": "00Aq4",
+      "fen": "2k1r3/pppn1pp1/3b2b1/3p2Pp/2B2P2/3P3P/PPPR4/2K3NR w - - 0 18",
+      "rating": 1437,
+      "themes": [
+        "backRankMate",
+        "deflection",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame"
+      ],
+      "v7p3r_move": "g1e2",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "d2e2",
+          -375
+        ],
+        [
+          "d2f2",
+          -426
+        ],
+        [
+          "g1e2",
+          -438
+        ],
+        [
+          "g1f3",
+          -499
+        ],
+        [
+          "c1d1",
+          -521
+        ]
+      ],
+      "expected_move": "c4d5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:01:23.590402"
+    },
+    {
+      "puzzle_id": "00AuR",
+      "fen": "8/4bkp1/R6P/4p3/Pp2P3/1P1rB3/6P1/6K1 b - - 0 33",
+      "rating": 1695,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "g7h6",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "g7h6",
+          0
+        ],
+        [
+          "d3d1",
+          209
+        ],
+        [
+          "f7g8",
+          225
+        ],
+        [
+          "e7h4",
+          396
+        ],
+        [
+          "g7g5",
+          405
+        ]
+      ],
+      "expected_move": "d3e3",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:02:23.823706"
+    },
+    {
+      "puzzle_id": "00B3B",
+      "fen": "2K5/3P4/5b2/p1B5/P7/3k4/6p1/8 w - - 7 77",
+      "rating": 1427,
+      "themes": [
+        "crushing",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "d7d8q",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "c8c7",
+          -42
+        ],
+        [
+          "c8b7",
+          -53
+        ],
+        [
+          "c5b6",
+          -306
+        ],
+        [
+          "c5f2",
+          -416
+        ],
+        [
+          "c5a7",
+          -452
+        ]
+      ],
+      "expected_move": "d7d8q",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:02:27.678813"
+    },
+    {
+      "puzzle_id": "00BSo",
+      "fen": "2r3k1/4R1pp/p1p2p2/2p5/2P5/1PbN3P/P4PP1/6K1 w - - 0 25",
+      "rating": 1256,
+      "themes": [
+        "advantage",
+        "endgame",
+        "short"
+      ],
+      "v7p3r_move": "e7d7",
+      "v7p3r_score": 4,
+      "v7p3r_rank": 2,
+      "stockfish_top_moves": [
+        [
+          "g1f1",
+          169
+        ],
+        [
+          "e7d7",
+          163
+        ],
+        [
+          "g2g4",
+          163
+        ],
+        [
+          "g2g3",
+          152
+        ],
+        [
+          "h3h4",
+          90
+        ]
+      ],
+      "expected_move": "d3c5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:04:37.798867"
+    },
+    {
+      "puzzle_id": "00Bg0",
+      "fen": "8/3k4/3P1K2/p2R4/5r2/5P2/8/8 w - - 1 57",
+      "rating": 1312,
+      "themes": [
+        "advancedPawn",
+        "crushing",
+        "endgame",
+        "quietMove",
+        "rookEndgame",
+        "veryLong"
+      ],
+      "v7p3r_move": "f6e5",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "f6e5",
+          0
+        ],
+        [
+          "f6g5",
+          0
+        ],
+        [
+          "f6g6",
+          0
+        ],
+        [
+          "f6g7",
+          0
+        ],
+        [
+          "d5f5",
+          -584
+        ]
+      ],
+      "expected_move": "d5f5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:06:06.494304"
+    },
+    {
+      "puzzle_id": "00Bg4",
+      "fen": "3r2k1/1q3ppp/p2rp3/Qp1B4/7P/P4P2/1PP3P1/1K1R3R b - - 0 21",
+      "rating": 1376,
+      "themes": [
+        "backRankMate",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short",
+        "xRayAttack"
+      ],
+      "v7p3r_move": "e6d5",
+      "v7p3r_score": 3,
+      "v7p3r_rank": 3,
+      "stockfish_top_moves": [
+        [
+          "b7c8",
+          0
+        ],
+        [
+          "b7e7",
+          41
+        ],
+        [
+          "e6d5",
+          49
+        ],
+        [
+          "b7b8",
+          64
+        ],
+        [
+          "b7a7",
+          60
+        ]
+      ],
+      "expected_move": "d6d5",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:06:28.119806"
+    },
+    {
+      "puzzle_id": "00Bp0",
+      "fen": "1r2kr2/pp3p1p/2b1pn2/4N3/2P5/1N1B4/P3KP1P/6R1 b - - 4 21",
+      "rating": 1320,
+      "themes": [
+        "advantage",
+        "capturingDefender",
+        "middlegame",
+        "short"
+      ],
+      "v7p3r_move": "c6e4",
+      "v7p3r_score": 0,
+      "v7p3r_rank": 0,
+      "stockfish_top_moves": [
+        [
+          "f8g8",
+          -438
+        ],
+        [
+          "e8e7",
+          -408
+        ],
+        [
+          "f6d7",
+          -395
+        ],
+        [
+          "b8c8",
+          -388
+        ],
+        [
+          "a7a6",
+          -363
+        ]
+      ],
+      "expected_move": "f6e4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:06:53.692859"
+    },
+    {
+      "puzzle_id": "00BrZ",
+      "fen": "r6r/pp2kb2/3p1p1Q/1N1Pp3/3bP3/P2B2P1/1P4PP/7K w - - 6 28",
+      "rating": 1399,
+      "themes": [
+        "attraction",
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "v7p3r_move": "b5d4",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "b5d4",
+          -224
+        ],
+        [
+          "h6g7",
+          -471
+        ],
+        [
+          "h6f4",
+          -504
+        ],
+        [
+          "h6h8",
+          -522
+        ],
+        [
+          "h6h3",
+          -558
+        ]
+      ],
+      "expected_move": "h6d2",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:07:00.372666"
+    },
+    {
+      "puzzle_id": "00C8e",
+      "fen": "8/5p1k/5Ppb/2p3P1/1p6/8/KB5Q/3q4 b - - 4 58",
+      "rating": 1465,
+      "themes": [
+        "endgame",
+        "equality",
+        "pin",
+        "short"
+      ],
+      "v7p3r_move": "d1d5",
+      "v7p3r_score": 5,
+      "v7p3r_rank": 1,
+      "stockfish_top_moves": [
+        [
+          "d1d5",
+          -676
+        ],
+        [
+          "d1h5",
+          -21
+        ],
+        [
+          "d1a4",
+          0
+        ],
+        [
+          "h7g8",
+          0
+        ],
+        [
+          "b4b3",
+          207
+        ]
+      ],
+      "expected_move": "d1a4",
+      "v7p3r_time_seconds": 20.0,
+      "timestamp": "2025-08-31T11:07:05.031842"
+    }
+  ],
+  "report": {
+    "total_puzzles": 71,
+    "total_score": 238,
+    "max_possible_score": 355,
+    "average_score": 3.352112676056338,
+    "percentage_score": 67.04225352112675,
+    "top5_hits": 56,
+    "top5_hit_rate": 78.87323943661971,
+    "score_distribution": {
+      "0": 15,
+      "1": 1,
+      "2": 2,
+      "3": 9,
+      "4": 14,
+      "5": 30
+    },
+    "rank_distribution": {
+      "0": 15,
+      "1": 30,
+      "2": 14,
+      "3": 9,
+      "4": 2,
+      "5": 1
+    },
+    "theme_performance": {
+      "crushing": {
+        "total": 32,
+        "score_sum": 92,
+        "average_score": 2.875,
+        "percentage": 57.49999999999999
+      },
+      "hangingPiece": {
+        "total": 3,
+        "score_sum": 12,
+        "average_score": 4.0,
+        "percentage": 80.0
+      },
+      "long": {
+        "total": 25,
+        "score_sum": 81,
+        "average_score": 3.24,
+        "percentage": 64.8
+      },
+      "middlegame": {
+        "total": 26,
+        "score_sum": 88,
+        "average_score": 3.3846153846153846,
+        "percentage": 67.6923076923077
+      },
+      "advantage": {
+        "total": 22,
+        "score_sum": 72,
+        "average_score": 3.272727272727273,
+        "percentage": 65.45454545454545
+      },
+      "endgame": {
+        "total": 41,
+        "score_sum": 136,
+        "average_score": 3.317073170731707,
+        "percentage": 66.34146341463415
+      },
+      "rookEndgame": {
+        "total": 7,
+        "score_sum": 23,
+        "average_score": 3.2857142857142856,
+        "percentage": 65.71428571428571
+      },
+      "short": {
+        "total": 37,
+        "score_sum": 128,
+        "average_score": 3.4594594594594597,
+        "percentage": 69.1891891891892
+      },
+      "pawnEndgame": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      },
+      "mate": {
+        "total": 15,
+        "score_sum": 65,
+        "average_score": 4.333333333333333,
+        "percentage": 86.66666666666667
+      },
+      "mateIn2": {
+        "total": 9,
+        "score_sum": 39,
+        "average_score": 4.333333333333333,
+        "percentage": 86.66666666666667
+      },
+      "master": {
+        "total": 9,
+        "score_sum": 41,
+        "average_score": 4.555555555555555,
+        "percentage": 91.11111111111111
+      },
+      "exposedKing": {
+        "total": 8,
+        "score_sum": 26,
+        "average_score": 3.25,
+        "percentage": 65.0
+      },
+      "skewer": {
+        "total": 4,
+        "score_sum": 19,
+        "average_score": 4.75,
+        "percentage": 95.0
+      },
+      "fork": {
+        "total": 7,
+        "score_sum": 26,
+        "average_score": 3.7142857142857144,
+        "percentage": 74.28571428571429
+      },
+      "bishopEndgame": {
+        "total": 2,
+        "score_sum": 6,
+        "average_score": 3.0,
+        "percentage": 60.0
+      },
+      "mateIn1": {
+        "total": 4,
+        "score_sum": 18,
+        "average_score": 4.5,
+        "percentage": 90.0
+      },
+      "oneMove": {
+        "total": 4,
+        "score_sum": 18,
+        "average_score": 4.5,
+        "percentage": 90.0
+      },
+      "advancedPawn": {
+        "total": 5,
+        "score_sum": 18,
+        "average_score": 3.6,
+        "percentage": 72.0
+      },
+      "veryLong": {
+        "total": 5,
+        "score_sum": 11,
+        "average_score": 2.2,
+        "percentage": 44.0
+      },
+      "kingsideAttack": {
+        "total": 5,
+        "score_sum": 13,
+        "average_score": 2.6,
+        "percentage": 52.0
+      },
+      "defensiveMove": {
+        "total": 3,
+        "score_sum": 14,
+        "average_score": 4.666666666666667,
+        "percentage": 93.33333333333333
+      },
+      "pin": {
+        "total": 8,
+        "score_sum": 26,
+        "average_score": 3.25,
+        "percentage": 65.0
+      },
+      "backRankMate": {
+        "total": 3,
+        "score_sum": 11,
+        "average_score": 3.6666666666666665,
+        "percentage": 73.33333333333333
+      },
+      "queenEndgame": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      },
+      "attraction": {
+        "total": 4,
+        "score_sum": 12,
+        "average_score": 3.0,
+        "percentage": 60.0
+      },
+      "sacrifice": {
+        "total": 4,
+        "score_sum": 12,
+        "average_score": 3.0,
+        "percentage": 60.0
+      },
+      "discoveredAttack": {
+        "total": 7,
+        "score_sum": 30,
+        "average_score": 4.285714285714286,
+        "percentage": 85.71428571428571
+      },
+      "interference": {
+        "total": 1,
+        "score_sum": 5,
+        "average_score": 5.0,
+        "percentage": 100.0
+      },
+      "equality": {
+        "total": 2,
+        "score_sum": 9,
+        "average_score": 4.5,
+        "percentage": 90.0
+      },
+      "deflection": {
+        "total": 2,
+        "score_sum": 3,
+        "average_score": 1.5,
+        "percentage": 30.0
+      },
+      "opening": {
+        "total": 4,
+        "score_sum": 14,
+        "average_score": 3.5,
+        "percentage": 70.0
+      },
+      "intermezzo": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      },
+      "quietMove": {
+        "total": 2,
+        "score_sum": 7,
+        "average_score": 3.5,
+        "percentage": 70.0
+      },
+      "mateIn3": {
+        "total": 2,
+        "score_sum": 8,
+        "average_score": 4.0,
+        "percentage": 80.0
+      },
+      "xRayAttack": {
+        "total": 1,
+        "score_sum": 3,
+        "average_score": 3.0,
+        "percentage": 60.0
+      },
+      "capturingDefender": {
+        "total": 1,
+        "score_sum": 0,
+        "average_score": 0.0,
+        "percentage": 0.0
+      }
+    },
+    "timestamp": "2025-08-31T11:07:05.033861"
+  },
+  "metadata": {
+    "v7p3r_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\V7P3R\\V7P3R_v7.0.exe",
+    "stockfish_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\engines\\Stockfish\\stockfish-windows-x86-64-avx2.exe",
+    "puzzle_db_path": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-tester\\chess-puzzle-challenger\\puzzles.db",
+    "timestamp": "2025-08-31T11:07:05.033861"
+  }
+}

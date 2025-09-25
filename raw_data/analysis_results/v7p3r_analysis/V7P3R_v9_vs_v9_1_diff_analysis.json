@@ -1,0 +1,66 @@
+{
+  "version_files": {
+    "v9.0_exe": null,
+    "v9.1_exe": null,
+    "v9.0_source": "..\\..\\V7P3R Chess Engine\\v7p3r-chess-engine\\build\\V7P3R_v9.0",
+    "v9.1_source": "..\\..\\V7P3R Chess Engine\\v7p3r-chess-engine\\build\\V7P3R_v9.1.spec",
+    "confidence_system": "..\\..\\V7P3R Chess Engine\\v7p3r-chess-engine\\src\\v7p3r_confidence_engine.py"
+  },
+  "confidence_changes": [
+    "Found 'confidence' in v7p3r.py",
+    "Found 'safety' in v7p3r.py",
+    "Found 'aggressive' in v7p3r.py",
+    "Found 'threshold' in v7p3r.py",
+    "Found 'evaluation' in v7p3r.py",
+    "Found 'depth' in v7p3r.py",
+    "Found 'pruning' in v7p3r.py",
+    "Found 'confidence' in v7p3r_confidence_engine.py",
+    "Found 'safety' in v7p3r_confidence_engine.py",
+    "Found 'threshold' in v7p3r_confidence_engine.py",
+    "Found 'evaluation' in v7p3r_confidence_engine.py",
+    "Found 'depth' in v7p3r_confidence_engine.py",
+    "Found 'aggressive' in v7p3r_memory_manager.py",
+    "Found 'threshold' in v7p3r_memory_manager.py",
+    "Found 'evaluation' in v7p3r_memory_manager.py",
+    "Found 'depth' in v7p3r_memory_manager.py",
+    "Found 'risk' in v7p3r_performance_monitor.py",
+    "Found 'threshold' in v7p3r_performance_monitor.py",
+    "Found 'evaluation' in v7p3r_performance_monitor.py",
+    "Found 'depth' in v7p3r_performance_monitor.py",
+    "Found 'safety' in v7p3r_scoring_calculation.py",
+    "Found 'threshold' in v7p3r_scoring_calculation.py",
+    "Found 'evaluation' in v7p3r_scoring_calculation.py",
+    "Found 'confidence' in v7p3r_uci.py",
+    "Found 'aggressive' in v7p3r_uci.py",
+    "Found 'threshold' in v7p3r_uci.py",
+    "Found 'evaluation' in v7p3r_uci.py",
+    "Found 'depth' in v7p3r_uci.py"
+  ],
+  "git_changes": [
+    "Git analysis not available"
+  ],
+  "file_analysis": {
+    "recent_modifications": [],
+    "engine_files": [
+      {
+        "file": "test_confidence_system.py",
+        "modified": 1756497245.773383
+      }
+    ],
+    "config_files": [
+      {
+        "file": "pyrightconfig.json",
+        "modified": 1752180342.6001525
+      }
+    ]
+  },
+  "recommendations": [
+    "Review confidence system in ..\\..\\V7P3R Chess Engine\\v7p3r-chess-engine\\src\\v7p3r_confidence_engine.py",
+    "Analyze confidence-related code changes for tactical impact",
+    "Compare evaluation function differences between v9.0 and v9.1",
+    "Check if search depth or pruning algorithms changed",
+    "Validate time management changes didn't affect tactical calculation",
+    "Test v9.0 with v9.1 time management (hybrid approach)",
+    "Create regression test suite from the 4 identified tactical positions"
+  ]
+}
