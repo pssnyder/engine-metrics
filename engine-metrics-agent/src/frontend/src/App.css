@@ -1,0 +1,372 @@
+/* Dark Mode Accessible Color Scheme */
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  background-color: #0d1117 !important;
+  color: #e6e6e6;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+  background-color: #0d1117 !important;
+  min-height: 100vh;
+  color: #e6e6e6;
+  padding: 0;
+  margin: 0;
+}
+
+/* Navigation Bar */
+nav {
+  background-color: #161b22;
+  border-bottom: 1px solid #30363d;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+nav button {
+  background: linear-gradient(135deg, #238636, #2ea043);
+  color: #ffffff;
+  border: none;
+  padding: 8px 16px;
+  margin: 0 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+nav button:hover {
+  background: linear-gradient(135deg, #2ea043, #238636);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(46, 160, 67, 0.3);
+}
+
+nav button:active {
+  transform: translateY(0);
+}
+
+/* Headers and Text */
+.App-header {
+  background-color: #0d1117 !important;
+  padding: 40px;
+  color: #e6e6e6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: #58a6ff;
+  font-size: 2.5rem;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+}
+
+h2 {
+  color: #7ee787;
+  margin: 10px 0;
+  font-weight: 500;
+}
+
+h3 {
+  color: #ffa657;
+  margin: 10px 0;
+  font-weight: 500;
+}
+
+p {
+  font-size: 1.1rem;
+  margin: 0 0 20px 0;
+  color: #c9d1d9;
+  line-height: 1.6;
+}
+
+/* Lists */
+ol, ul {
+  margin: 10px 0;
+  text-align: left;
+  max-width: 600px;
+}
+
+li {
+  margin: 8px 0;
+  color: #d1d5db;
+  line-height: 1.5;
+}
+
+/* Form Elements */
+form {
+  background-color: #161b22;
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid #30363d;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input[type="password"], input[type="text"], select {
+  background-color: #21262d;
+  color: #e6e6e6;
+  border: 1px solid #30363d;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 8px 0;
+  transition: all 0.2s ease;
+}
+
+input[type="password"]:focus, input[type="text"]:focus, select:focus {
+  outline: none;
+  border-color: #64b5f6;
+  box-shadow: 0 0 0 3px rgba(100, 181, 246, 0.2);
+}
+
+button {
+  background: linear-gradient(135deg, #238636, #2ea043);
+  color: #ffffff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  margin: 8px 4px;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #2ea043, #238636);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(46, 160, 67, 0.3);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+button:disabled {
+  background-color: #30363d;
+  color: #7d8590;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* Dashboard Specific */
+.dashboard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #0d1117 !important;
+  min-height: 100vh;
+}
+
+.metrics-section, .chat-section {
+  background-color: #161b22 !important;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.version-filter {
+  margin-bottom: 1rem;
+  background-color: #0d1117 !important;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+  background-color: #0d1117 !important;
+}
+
+.metric-card {
+  background-color: #21262d !important;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+
+.metric-card:hover {
+  border-color: #58a6ff;
+  box-shadow: 0 2px 8px rgba(88, 166, 255, 0.3);
+}
+
+.metric-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #58a6ff;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.metric-label {
+  color: #c9d1d9;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Chat Interface */
+.chat-messages {
+  background-color: #21262d;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 1rem;
+  min-height: 200px;
+  max-height: 400px;
+  overflow-y: auto;
+  margin: 1rem 0;
+  text-align: left;
+}
+
+.chat-input-container {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-end;
+}
+
+.chat-input {
+  flex: 1;
+  min-height: 100px;
+  resize: vertical;
+  font-family: inherit;
+  line-height: 1.4;
+}
+
+/* Status Items */
+.status-item {
+  margin: 5px 0;
+  font-weight: 500;
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: #21262d;
+  border: 1px solid #30363d;
+}
+
+.status-online {
+  border-left: 4px solid #2ea043;
+  background-color: rgba(46, 160, 67, 0.1);
+}
+
+.status-offline {
+  border-left: 4px solid #f85149;
+  background-color: rgba(248, 81, 73, 0.1);
+}
+
+/* Accessibility Enhancements */
+*:focus-visible {
+  outline: 2px solid #64b5f6;
+  outline-offset: 2px;
+}
+
+/* High contrast for links */
+a {
+  color: #79c0ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a5d6ff;
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .App-header {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+  
+  ol, ul {
+    max-width: 300px;
+  }
+  
+  .dashboard-container {
+    padding: 1rem;
+  }
+  
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .chat-input-container {
+    flex-direction: column;
+  }
+  
+  form {
+    padding: 1.5rem;
+    margin: 0 1rem;
+  }
+}
+
+/* Loading States */
+.loading {
+  color: #81c784;
+  font-style: italic;
+}
+
+/* Error States */
+.error {
+  color: #f85149;
+  background-color: rgba(248, 81, 73, 0.1);
+  border: 1px solid rgba(248, 81, 73, 0.3);
+  border-radius: 6px;
+  padding: 12px;
+  margin: 1rem 0;
+}
+
+/* Force dark background on all containers */
+div, section, main, article {
+  background-color: inherit;
+}
+
+/* Ensure React components use dark theme */
+.dashboard-container * {
+  background-color: inherit;
+}
+
+/* Override any white backgrounds */
+* {
+  background-color: inherit !important;
+}
+
+*:not(input):not(button):not(select) {
+  background-color: transparent !important;
+}
+
+input, button, select {
+  background-color: #21262d !important;
+}
+
+.metrics-section, .chat-section, .metric-card, form {
+  background-color: #161b22 !important;
+}
+
+.metric-card {
+  background-color: #21262d !important;
+}

@@ -1,0 +1,46 @@
+{
+  "hosting": {
+    "public": "src/frontend/build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "firestore": {
+    "rules": "config/firestore.rules",
+    "indexes": "config/firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "config/storage.rules"
+  },
+  "functions": {
+    "source": "src/backend/functions",
+    "runtime": "nodejs18"
+  },
+  "emulators": {
+    "functions": {
+      "port": 5010
+    },
+    "firestore": {
+      "port": 8090
+    },
+    "ui": {
+      "enabled": true,
+      "port": 4010
+    },
+    "hub": {
+      "port": 4410
+    },
+    "logging": {
+      "port": 4510
+    },
+    "singleProjectMode": true
+  }
+}
