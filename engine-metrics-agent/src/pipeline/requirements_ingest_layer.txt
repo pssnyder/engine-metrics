@@ -1,0 +1,28 @@
+# Ingest Layer Dependencies
+# BigQuery data lake ingestion for chess engine metrics pipeline
+
+# Google Cloud Platform
+google-cloud-storage>=2.10.0
+google-cloud-bigquery>=3.11.0
+google-cloud-pubsub>=2.18.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# File parsing
+python-chess>=1.999  # For PGN parsing
+markdown>=3.4.0      # For markdown processing
+
+# Utilities
+tqdm>=4.64.0
+pyyaml>=6.0
+
+# Optional: Enhanced logging
+colorlog>=6.0.0
+
+# Optional: Data validation
+great-expectations>=0.17.0
+
+# Optional: Parallel processing
+joblib>=1.3.0

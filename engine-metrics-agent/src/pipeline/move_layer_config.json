@@ -1,0 +1,59 @@
+{
+  "move_layer_config": {
+    "local_paths": {
+      "raw_data_directory": "S:\\Maker Stuff\\Programming\\Chess Engines\\Chess Engine Playground\\engine-metrics\\raw_data",
+      "state_file": "file_tracker_state.json",
+      "log_file": "move_layer.log"
+    },
+    "cloud_storage": {
+      "bucket_name": "chess-engine-metrics-agent.firebasestorage.app",
+      "project_id": "chess-engine-metrics-agent",
+      "credentials_path": null,
+      "raw_data_prefix": "",
+      "metadata": {
+        "source": "chess-engine-raw-data",
+        "retention_days": 365,
+        "data_classification": "tournament-results"
+      }
+    },
+    "monitoring": {
+      "watch_recursive": true,
+      "file_patterns": [
+        "*.pgn",
+        "*.json",
+        "*.csv",
+        "*.md",
+        "*.txt",
+        "*.log"
+      ],
+      "exclude_patterns": [
+        ".*",
+        "*.tmp",
+        "*.lock",
+        "*~"
+      ],
+      "upload_delay_seconds": 2,
+      "retry_attempts": 3,
+      "retry_delay_seconds": 5
+    },
+    "sync_settings": {
+      "perform_initial_sync": true,
+      "check_file_hash": true,
+      "preserve_directory_structure": true,
+      "compress_before_upload": false,
+      "batch_upload_size": 10
+    },
+    "logging": {
+      "level": "INFO",
+      "max_file_size_mb": 10,
+      "backup_count": 5,
+      "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    },
+    "notifications": {
+      "enable_slack": false,
+      "enable_email": false,
+      "success_threshold": 100,
+      "error_threshold": 5
+    }
+  }
+}

@@ -3,6 +3,7 @@ import './App.css';
 import AuthLogin from './components/AuthLogin';
 import AnalyticsDashboard from './components/AnalyticsDashboard';
 import HealthCheck from './components/HealthCheck';
+import LiveGameMonitor from './components/LiveGameMonitor';
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -24,38 +25,23 @@ function App() {
 
   // Navigation component
   const Navigation = () => (
-    <div style={{
-      backgroundColor: '#333',
-      padding: '10px 20px',
-      display: 'flex',
-      justifyContent: 'space-between',
-      alignItems: 'center',
-      color: 'white'
-    }}>
-      <div style={{ display: 'flex', gap: '20px' }}>
+    <nav>
+      <div style={{ display: 'flex', gap: '8px' }}>
         <button
           onClick={() => setCurrentPage('dashboard')}
-          style={{
-            backgroundColor: currentPage === 'dashboard' ? '#4caf50' : 'transparent',
-            color: 'white',
-            border: '1px solid #555',
-            padding: '8px 16px',
-            borderRadius: '5px',
-            cursor: 'pointer'
-          }}
+          className={currentPage === 'dashboard' ? 'nav-active' : ''}
         >
           🏆 Dashboard
         </button>
         <button
+          onClick={() => setCurrentPage('live')}
+          className={currentPage === 'live' ? 'nav-active' : ''}
+        >
+          � Live Monitor
+        </button>
+        <button
           onClick={() => setCurrentPage('health')}
-          style={{
-            backgroundColor: currentPage === 'health' ? '#4caf50' : 'transparent',
-            color: 'white',
-            border: '1px solid #555',
-            padding: '8px 16px',
-            borderRadius: '5px',
-            cursor: 'pointer'
-          }}
+          className={currentPage === 'health' ? 'nav-active' : ''}
         >
           🏥 Health Check
         </button>
@@ -64,17 +50,18 @@ function App() {
       <button
         onClick={handleLogout}
         style={{
-          backgroundColor: '#f44336',
+          backgroundColor: '#f85149',
           color: 'white',
           border: 'none',
           padding: '8px 16px',
-          borderRadius: '5px',
-          cursor: 'pointer'
+          borderRadius: '6px',
+          cursor: 'pointer',
+          fontSize: '14px'
         }}
       >
         🔒 Logout
       </button>
-    </div>
+    </nav>
   );
 
   return (
@@ -82,6 +69,7 @@ function App() {
       <Navigation />
       
       {currentPage === 'dashboard' && <AnalyticsDashboard />}
+      {currentPage === 'live' && <LiveGameMonitor />}
       {currentPage === 'health' && <HealthCheck />}
     </div>
   );

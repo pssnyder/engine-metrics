@@ -11,6 +11,9 @@ const { processDataWithAI } = require('./ai-processing');
 const { handleQuery } = require('./query-handler');
 const { getOverallMetrics, getVersionMetrics, processAnalyticsQuery } = require('./analytics-handler');
 
+// Import data processor for dynamic refresh capabilities
+const dataProcessor = require('./data-processor');
+
 // Import V7P3R-specific modules
 const { 
   migrateRawData, 
@@ -99,6 +102,90 @@ exports.migrateRawData = migrateRawData;
 exports.migrateBulkData = migrateBulkData;
 exports.listStorageFiles = listStorageFiles;
 exports.getMigrationStatus = getMigrationStatus;
+
+// NEW: Dynamic Refresh and Live Monitoring Endpoints
+
+// Check for new data since last timestamp
+exports.checkNewData = functions.https.onRequest((req, res) => {
+  cors(req, res, () => {
+    try {
+      const lastChecked = req.query.lastChecked ? parseInt(req.query.lastChecked) : null;
+      const result = dataProcessor.checkForNewGameData(lastChecked);
+      res.status(200).json(result);
+    } catch (error) {
+      console.error('Error checking for new data:', error);
+      res.status(500).json({ error: 'Failed to check for new data' });
+    }
+  });
+});
+
+// Get current live games (in progress)
+exports.getLiveGames = functions.https.onRequest((req, res) => {
+  cors(req, res, () => {
+    try {
+      const liveGames = dataProcessor.getCurrentLiveGames();
+      res.status(200).json({
+        liveGames,
+        count: liveGames.length,
+        lastUpdated: new Date().toISOString()
+      });
+    } catch (error) {
+      console.error('Error getting live games:', error);
+      res.status(500).json({ error: 'Failed to get live games' });
+    }
+  });
+});
+
+// Get recent game statistics
+exports.getRecentStats = functions.https.onRequest((req, res) => {
+  cors(req, res, () => {
+    try {
+      const daysBack = req.query.days ? parseInt(req.query.days) : 7;
+      const stats = dataProcessor.getRecentGameStats(daysBack);
+      res.status(200).json(stats || { error: 'No stats available' });
+    } catch (error) {
+      console.error('Error getting recent stats:', error);
+      res.status(500).json({ error: 'Failed to get recent statistics' });
+    }
+  });
+});
+
+// Get available battle dates
+exports.getBattleDates = functions.https.onRequest((req, res) => {
+  cors(req, res, () => {
+    try {
+      const dates = dataProcessor.getAvailableBattleDates();
+      res.status(200).json({
+        dates,
+        count: dates.length,
+        mostRecent: dates.length > 0 ? dates[dates.length - 1] : null
+      });
+    } catch (error) {
+      console.error('Error getting battle dates:', error);
+      res.status(500).json({ error: 'Failed to get battle dates' });
+    }
+  });
+});
+
+// Trigger manual metrics refresh
+exports.refreshMetrics = functions.https.onRequest((req, res) => {
+  cors(req, res, async () => {
+    try {
+      const recentStats = dataProcessor.getRecentGameStats(30); // Last 30 days
+      const overallMetrics = await getOverallMetrics();
+      
+      res.status(200).json({
+        message: 'Metrics refreshed successfully',
+        refreshedAt: new Date().toISOString(),
+        recentStats,
+        overallMetrics
+      });
+    } catch (error) {
+      console.error('Error refreshing metrics:', error);
+      res.status(500).json({ error: 'Failed to refresh metrics' });
+    }
+  });
+});
 
 // TODO: Add ETL functions after fixing storage trigger syntax
 // const { 

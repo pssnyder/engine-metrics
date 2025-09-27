@@ -1,0 +1,23 @@
+# Move Layer Dependencies
+# File monitoring and cloud storage integration for chess engine metrics pipeline
+
+# Google Cloud Storage
+google-cloud-storage>=2.10.0
+
+# File system monitoring
+watchdog>=3.0.0
+
+# Hashing and utilities
+hashlib2>=1.0.1
+
+# Logging and configuration
+pyyaml>=6.0
+
+# Optional: Progress tracking
+tqdm>=4.64.0
+
+# Optional: Enhanced logging
+colorlog>=6.0.0
+
+# Optional: System monitoring
+psutil>=5.9.0
