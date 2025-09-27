@@ -120,10 +120,21 @@ class DataProcessor:
                 
                 # Extract moves in SAN (Standard Algebraic Notation)
                 moves = []
-                board = game.board()
-                for move in game.mainline_moves():
-                    moves.append(board.san(move))
-                    board.push(move)
+                try:
+                    board = game.board()
+                    for move in game.mainline_moves():
+                        moves.append(board.san(move))
+                        board.push(move)
+                except Exception as e:
+                    # Handle corrupted moves by extracting what we can
+                    logger.warning(f"Move extraction failed for game {game_index} in {source_file}: {e}")
+                    # Try to get moves as text from PGN
+                    try:
+                        move_text = str(game.mainline())
+                        if move_text and move_text != '*':
+                            moves = move_text.split()[:50]  # Limit to reasonable number
+                    except Exception:
+                        moves = []
                 
                 # Parse date if available
                 date_str = headers.get('Date', '????.??.??')
@@ -170,8 +181,8 @@ class DataProcessor:
                     'game_duration': None,  # Could calculate from timestamps if available
                     'termination': headers.get('Termination'),
                     'source_file': source_file,
-                    'ingested_at': datetime.utcnow(),
-                    'file_modified_at': datetime.utcnow()
+                    'ingested_at': datetime.utcnow().isoformat(),
+                    'file_modified_at': datetime.utcnow().isoformat()
                 }
                 
                 games.append(game_record)
