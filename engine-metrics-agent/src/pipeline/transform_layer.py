@@ -93,7 +93,8 @@ class ChessTransformLayer:
             SELECT 
                 engine,
                 CASE 
-                    WHEN REGEXP_CONTAINS(engine, r'V7P3R|v7p3r') THEN 'V7P3R'
+                    WHEN REGEXP_CONTAINS(engine, r'V7P3R') AND NOT REGEXP_CONTAINS(engine, r'AI') THEN 'V7P3R_Main'
+                    WHEN REGEXP_CONTAINS(engine, r'V7P3RAI') THEN 'V7P3R_Experimental_AI' 
                     WHEN REGEXP_CONTAINS(engine, r'C0BR4|c0br4') THEN 'C0BR4'  
                     WHEN REGEXP_CONTAINS(engine, r'SlowMate|slowmate') THEN 'SlowMate'
                     ELSE 'Other'
@@ -117,10 +118,14 @@ class ChessTransformLayer:
                 gs.games_last_30_days,
                 ev.engine_family,
                 ev.version_number,
-                -- Estimate Elo performance (simplified)
+                -- Estimate Elo performance (handle edge cases properly)
                 CASE 
-                    WHEN gs.avg_opponent_rating IS NOT NULL THEN
+                    WHEN gs.avg_opponent_rating IS NOT NULL AND gs.win_rate > 0.1 AND gs.win_rate < 99.9 THEN
                         ROUND(gs.avg_opponent_rating + 400 * LOG10(gs.win_rate / (100 - gs.win_rate)), 0)
+                    WHEN gs.avg_opponent_rating IS NOT NULL AND gs.win_rate <= 0.1 THEN
+                        ROUND(gs.avg_opponent_rating - 800, 0)  -- Very low performance for near-zero win rate
+                    WHEN gs.avg_opponent_rating IS NOT NULL AND gs.win_rate >= 99.9 THEN  
+                        ROUND(gs.avg_opponent_rating + 800, 0)  -- Very high performance for near-perfect win rate
                     ELSE NULL
                 END as estimated_elo,
                 -- Activity score (games played recently with recency weight)
@@ -238,24 +243,40 @@ class ChessTransformLayer:
         """Create engine development tracking view"""
         view_sql = f"""
         CREATE OR REPLACE VIEW `{self.project_id}.{self.transform_dataset}.development_timeline` AS
-        WITH version_performance AS (
+        WITH engine_games AS (
+            -- Get all games for each engine (as white or black)
+            SELECT 
+                white as engine,
+                date as game_date,
+                CASE WHEN result = '1-0' THEN 1 ELSE 0 END as wins
+            FROM `{self.project_id}.{self.raw_dataset}.pgn_games`
+            WHERE white IS NOT NULL
+            
+            UNION ALL
+            
+            SELECT 
+                black as engine,
+                date as game_date,
+                CASE WHEN result = '0-1' THEN 1 ELSE 0 END as wins
+            FROM `{self.project_id}.{self.raw_dataset}.pgn_games`
+            WHERE black IS NOT NULL
+        ),
+        version_performance AS (
             SELECT 
                 engine,
-                MIN(date) as version_first_seen,
-                MAX(date) as version_last_seen,
+                MIN(game_date) as version_first_seen,
+                MAX(game_date) as version_last_seen,
                 COUNT(*) as games_played,
-                ROUND(SUM(CASE 
-                    WHEN (white = engine AND result = '1-0') OR (black = engine AND result = '0-1') 
-                    THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) as win_rate
-            FROM `{self.project_id}.{self.raw_dataset}.pgn_games`
-            WHERE (white IS NOT NULL OR black IS NOT NULL)
+                ROUND(SUM(wins) * 100.0 / COUNT(*), 2) as win_rate
+            FROM engine_games
             GROUP BY engine
         ),
         engine_families AS (
             SELECT 
                 *,
                 CASE 
-                    WHEN REGEXP_CONTAINS(engine, r'V7P3R|v7p3r') THEN 'V7P3R'
+                    WHEN REGEXP_CONTAINS(engine, r'V7P3R') AND NOT REGEXP_CONTAINS(engine, r'AI') THEN 'V7P3R_Main'
+                    WHEN REGEXP_CONTAINS(engine, r'V7P3RAI') THEN 'V7P3R_Experimental_AI'
                     WHEN REGEXP_CONTAINS(engine, r'C0BR4|c0br4') THEN 'C0BR4'  
                     WHEN REGEXP_CONTAINS(engine, r'SlowMate|slowmate') THEN 'SlowMate'
                     ELSE 'Other'

@@ -101,7 +101,7 @@ def test_transform_views():
         print("-" * 40)
         
         try:
-            # Simulate a common AI agent query: "What's V7P3R's performance?"
+            # Simulate a common AI agent query: "What's V7P3R's performance?" (main engine, not AI)
             ai_query = f"""
             SELECT 
                 engine,
@@ -111,19 +111,32 @@ def test_transform_views():
                 overall_rank,
                 games_last_30_days
             FROM `{project_id}.chess_analytics.engine_performance`
-            WHERE REGEXP_CONTAINS(UPPER(engine), r'V7P3R|V7P3R')
+            WHERE REGEXP_CONTAINS(engine, r'V7P3R') AND NOT REGEXP_CONTAINS(engine, r'AI')
             ORDER BY strength_score DESC
             """
             
             results = list(client.query(ai_query).result())
-            print(f"✅ V7P3R Performance Query: {len(results)} versions found")
+            print(f"✅ V7P3R Main Engine Query: {len(results)} versions found")
             
             if results:
-                print(f"\n🤖 V7P3R ENGINE VERSIONS:")
+                print(f"\n🎯 V7P3R MAIN ENGINE VERSIONS:")
                 for engine in results:
                     print(f"  {engine['engine'][:40]:<40} | Rank: #{engine['overall_rank']:>2} | Win Rate: {engine['win_rate']:>5.1f}% | Recent: {engine['games_last_30_days']:>3} games")
             else:
-                print("  No V7P3R engines found - this indicates potential data parsing issues")
+                print("  No main V7P3R engines found - checking for all V7P3R variants:")
+                
+                # Fallback check for any V7P3R
+                fallback_query = f"""
+                SELECT engine, total_games, win_rate
+                FROM `{project_id}.chess_analytics.engine_performance`
+                WHERE REGEXP_CONTAINS(UPPER(engine), r'V7P3R')
+                ORDER BY total_games DESC
+                LIMIT 5
+                """
+                fallback_results = list(client.query(fallback_query).result())
+                for engine in fallback_results:
+                    engine_type = "AI Experimental" if "AI" in engine['engine'] else "Main"
+                    print(f"  {engine['engine'][:40]:<40} | {engine['total_games']:>4} games | {engine['win_rate']:>5.1f}% | {engine_type}")
                 
         except Exception as e:
             print(f"❌ AI query test failed: {str(e)[:80]}...")
