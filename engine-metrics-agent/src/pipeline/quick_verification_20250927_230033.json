@@ -1,0 +1,26 @@
+{
+  "pgn_games": {
+    "exists": false,
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: f461550e-0eca-4349-89eb-75f46ff89686\n",
+    "status": "ERROR"
+  },
+  "analysis_results": {
+    "exists": false,
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: cac962d5-094e-4655-af07-b75444b0adb5\n",
+    "status": "ERROR"
+  },
+  "documentation": {
+    "exists": false,
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: a0aa8bb3-44f6-4e77-bee7-15d1b1084486\n",
+    "status": "ERROR"
+  },
+  "pgn_quality": {
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: bfef292b-42ad-4032-bf58-a59e762a4843\n"
+  },
+  "recent_samples": {
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: bc65fe15-ef53-4605-908f-c27993b9cae8\n"
+  },
+  "top_engines": {
+    "error": "400 POST https://bigquery.googleapis.com/bigquery/v2/projects/chess-engine-analytics/jobs?prettyPrint=false: ProjectId must be non-empty\n\nLocation: None\nJob ID: 614ceb88-43d4-4fca-b76f-e69b4eba64a6\n"
+  }
+}

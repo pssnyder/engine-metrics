@@ -1,0 +1,26 @@
+{
+  "pgn_games": {
+    "exists": true,
+    "row_count": 29185,
+    "status": "OK"
+  },
+  "analysis_results": {
+    "exists": true,
+    "row_count": 2352,
+    "status": "OK"
+  },
+  "documentation": {
+    "exists": true,
+    "row_count": 122,
+    "status": "OK"
+  },
+  "pgn_quality": {
+    "error": "400 Unrecognized name: white_engine at [4:32]; reason: invalidQuery, location: query, message: Unrecognized name: white_engine at [4:32]\n\nLocation: US\nJob ID: cde5108d-f4fe-4633-9e76-e642826d34ac\n"
+  },
+  "recent_samples": {
+    "error": "400 Unrecognized name: white_engine at [4:17]; reason: invalidQuery, location: query, message: Unrecognized name: white_engine at [4:17]\n\nLocation: US\nJob ID: 0b16b2ec-7954-4f6e-8876-ae68de5ab9f5\n"
+  },
+  "top_engines": {
+    "error": "400 Unrecognized name: white_engine at [4:21]; reason: invalidQuery, location: query, message: Unrecognized name: white_engine at [4:21]\n\nLocation: US\nJob ID: 261736d8-e335-4685-9ea1-8f3228b4679f\n"
+  }
+}
