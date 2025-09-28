@@ -359,6 +359,30 @@ class ChessTransformLayer:
         key_rivalries AS (
             SELECT * FROM `{self.project_id}.{self.transform_dataset}.head_to_head`
             WHERE total_games >= 10 AND statistical_confidence IN ('High', 'Medium')
+        ),
+        engine_rivalries AS (
+            -- Pre-compute rivalries for each engine to avoid correlated subqueries
+            SELECT 
+                engine,
+                ARRAY_AGG(STRUCT(opponent, total_games, win_rate_against, lose_rate_against) ORDER BY total_games DESC LIMIT 5) as top_rivalries
+            FROM (
+                SELECT 
+                    engine_a as engine,
+                    engine_b as opponent, 
+                    total_games,
+                    engine_a_win_rate as win_rate_against,
+                    engine_b_win_rate as lose_rate_against
+                FROM key_rivalries
+                UNION ALL
+                SELECT 
+                    engine_b as engine,
+                    engine_a as opponent,
+                    total_games, 
+                    engine_b_win_rate as win_rate_against,
+                    engine_a_win_rate as lose_rate_against
+                FROM key_rivalries
+            )
+            GROUP BY engine
         )
         SELECT 
             'engine_summary' as insight_type,
@@ -378,16 +402,11 @@ class ChessTransformLayer:
                 rd.improvement_velocity,
                 rd.days_since_previous_version
             ) as development_metrics,
-            ARRAY(
-                SELECT STRUCT(engine_b, total_games, engine_a_win_rate, engine_b_win_rate)
-                FROM key_rivalries kr 
-                WHERE kr.engine_a = les.engine OR kr.engine_b = les.engine
-                ORDER BY total_games DESC
-                LIMIT 5
-            ) as key_rivalries,
+            COALESCE(er.top_rivalries, []) as key_rivalries,
             CURRENT_TIMESTAMP() as last_updated
         FROM latest_engine_stats les
         LEFT JOIN recent_development rd ON les.engine = rd.engine
+        LEFT JOIN engine_rivalries er ON les.engine = er.engine
         WHERE les.total_games >= 10
         
         UNION ALL
@@ -406,7 +425,7 @@ class ChessTransformLayer:
                 SUM(games_last_30_days) as recent_games
             ) as performance_metrics,
             NULL as development_metrics,
-            NULL as key_rivalries,
+            [] as key_rivalries,
             CURRENT_TIMESTAMP() as last_updated
         FROM latest_engine_stats
         GROUP BY engine_family
