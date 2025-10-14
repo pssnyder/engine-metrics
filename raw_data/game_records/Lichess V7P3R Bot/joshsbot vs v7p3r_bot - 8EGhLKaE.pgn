@@ -1,0 +1,22 @@
+[Event "rated rapid game"]
+[Site "https://lichess.org/8EGhLKaE"]
+[Date "2025.10.04"]
+[Round "?"]
+[White "joshsbot"]
+[Black "v7p3r_bot"]
+[Result "*"]
+[GameId "8EGhLKaE"]
+[UTCDate "2025.10.04"]
+[UTCTime "13:23:48"]
+[WhiteElo "1562"]
+[BlackElo "1490"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "600+2"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[Termination "Abandoned"]
+
+1. b4 { [%clk 0:10:00] } *
+

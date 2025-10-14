@@ -1,0 +1,21 @@
+[Event "casual rapid game"]
+[Site "https://lichess.org/7RX7Yp3g"]
+[Date "2025.10.04"]
+[Round "?"]
+[White "v7p3r"]
+[Black "v7p3r_bot"]
+[Result "*"]
+[GameId "7RX7Yp3g"]
+[UTCDate "2025.10.04"]
+[UTCTime "13:16:55"]
+[WhiteElo "1116"]
+[BlackElo "1490"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B00"]
+[Opening "King's Pawn Game"]
+[Termination "Abandoned"]
+
+1. e4 { [%clk 0:10:00] } *
+

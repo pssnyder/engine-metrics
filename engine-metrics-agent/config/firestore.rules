@@ -1,32 +1,141 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    // Users can only read/write their own data
-    match /users/{userId} {
-      allow read, write: if request.auth != null && request.auth.uid == userId;
+    // Enterprise Security Best Practices Implementation
+    // Author: RTS Technology & Solutions LLC
+    // Project: Chess Engine Metrics Agent
+    // Security Level: Private/Internal Use
+    // Last Updated: October 14, 2025
+    
+    // Helper function to check if user is the admin (your email)
+    // This implements the principle of least privilege
+    function isAdmin() {
+      return request.auth != null && 
+             request.auth.token.email == "pat@rapidtechconsultants.com" &&
+             request.auth.token.email_verified == true;
     }
     
-    // Engine data - read only for authenticated users, write for admin
+    // Helper function to check if user is authenticated with verified email
+    function isAuthenticatedAndVerified() {
+      return request.auth != null && 
+             request.auth.token.email_verified == true;
+    }
+    
+    // Helper function for audit logging
+    function isValidWrite() {
+      return request.auth != null && 
+             request.time > timestamp.value(0) &&
+             request.auth.token.email_verified == true;
+    }
+    
+    // V7P3R Engine Analysis Data - Admin only access (Critical Business Data)
+    match /v7p3r_elo_estimates/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin(); // Separate read permission for auditing
+    }
+    
+    match /v7p3r_games/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /v7p3r_consolidated_elo/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /v7p3r_elo_progression/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // System Operations and Audit Logs - Admin only with enhanced logging
+    match /migrations/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /bulk_migrations/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /migration_logs/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // Security audit trail - Write-only for security events
+    match /security_audit/{docId} {
+      allow create: if isAuthenticatedAndVerified();
+      allow read: if isAdmin();
+    }
+    
+    // Engine data - Admin only for this private analysis platform
     match /engines/{engineId} {
-      allow read: if request.auth != null;
-      allow write: if request.auth != null && request.auth.token.admin == true;
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
     }
     
-    // Game data - read only for authenticated users, write for admin
+    // Game data - Admin only
     match /games/{gameId} {
-      allow read: if request.auth != null;
-      allow write: if request.auth != null && request.auth.token.admin == true;
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
     }
     
-    // Analysis results - read only for authenticated users, write for system
+    // Analysis results - Admin only
     match /analysis/{analysisId} {
-      allow read: if request.auth != null;
-      allow write: if request.auth != null && request.auth.token.admin == true;
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
     }
     
-    // Uploaded files metadata
+    // User data - only the authenticated user can access their own data
+    // Future-proofing for multi-user scenarios
+    match /users/{userId} {
+      allow read, write: if isAuthenticatedAndVerified() && 
+                           request.auth.uid == userId &&
+                           isValidWrite();
+      allow read: if isAuthenticatedAndVerified() && request.auth.uid == userId;
+    }
+    
+    // File uploads metadata - Admin only for this private platform
     match /uploads/{uploadId} {
-      allow read, write: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // System queries and AI interactions - Admin only
+    match /queries/{queryId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // Performance metrics and reports - Admin only
+    match /performance/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // Competitive analysis data - Admin only
+    match /competitive_summary/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /performance_trends/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    match /milestone_achievements/{docId} {
+      allow read, write: if isAdmin() && isValidWrite();
+      allow read: if isAdmin();
+    }
+    
+    // Enterprise Security: Explicit deny all other access
+    // This implements default-deny security posture
+    match /{document=**} {
+      allow read, write: if false;
     }
   }
 }

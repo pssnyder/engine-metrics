@@ -1,0 +1,54 @@
+[Event "rated bullet game"]
+[Site "https://lichess.org/0lFdav9S"]
+[Date "2025.10.05"]
+[Round "?"]
+[White "Aarav-Kasula"]
+[Black "v7p3r_bot"]
+[Result "0-1"]
+[GameId "0lFdav9S"]
+[UTCDate "2025.10.05"]
+[UTCTime "00:48:58"]
+[WhiteElo "1013"]
+[BlackElo "1523"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+5"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } ( 1... e6 2. d4 Qh4 3. Nc3
+{ [%eval 0.30,4] } ) 2. d4 { [%clk 0:00:58] } 2... Qh4 { [%clk 0:01:00] } (
+2... Qh4 3. Nc3 { [%eval 0.00,1] } ) 3. Nc3 { [%clk 0:00:56] } 3... Bb4
+{ [%clk 0:00:59] } ( 3... Bb4 4. Qf3 { [%eval 0.05,2] } ) 4. Nf3
+{ [%clk 0:00:55] } 4... Bxc3+ { [%clk 0:00:58] } ( 4... Bxc3+ 5. bxc3 Qxe4+
+{ [%eval -2.67,3] } ) 5. bxc3 { [%clk 0:00:51] } 5... Qxe4+ { [%clk 0:00:57] }
+( 5... Qxe4+ 6. Be3 f6 { [%eval -2.36,3] } ) 0-1
+
+[Event "rated bullet game"]
+[Site "https://lichess.org/wHKXKb06"]
+[Date "2025.10.05"]
+[Round "?"]
+[White "v7p3r_bot"]
+[Black "Aarav-Kasula"]
+[Result "1-0"]
+[GameId "wHKXKb06"]
+[UTCDate "2025.10.05"]
+[UTCTime "00:49:26"]
+[WhiteElo "1528"]
+[BlackElo "1013"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "+0"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } ( 1. e3 e6 2. d4 Qh4 3. Nc3 { [%eval 0.46,5] } ) 1...
+e6 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } ( 2. d4 Qh4 3. Nc3
+{ [%eval 0.00,1] } ) 1-0
+

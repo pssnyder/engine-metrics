@@ -1,0 +1,16 @@
+   Engine          Score          St         C0         V7         Sl         Ra    S-B
+1: Stockfish 1%    35.0/40 ·········· 01=111111= 11=111=110 1111101111 1111111111  535.50
+2: C0BR4_v2.9      25.5/40 10=000000= ·········· 10=1=11=10 1=10==111= 1111111111  335.75
+3: V7P3R_v12.6     24.5/40 00=000=001 01=0=00=01 ·········· 1=111=1111 1111111111  294.75
+4: SlowMate_v3.1   14.5/40 0000010000 0=01==000= 0=000=0000 ·········· 111111=111  140.75
+5: Random_Opponent 0.5/40  0000000000 0000000000 0000000000 000000=000 ··········    7.25
+
+100 games played / Tournament is finished
+Name of the tournament: Engine Battle 20251004_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 1/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20251004_2.pgn
+Website: 
+E-Mail Address: 

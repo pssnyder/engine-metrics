@@ -1,0 +1,41 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/O390mDbG"]
+[Date "2025.10.04"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "baby_eubos"]
+[Result "0-1"]
+[GameId "O390mDbG"]
+[UTCDate "2025.10.04"]
+[UTCTime "19:51:02"]
+[WhiteElo "2046"]
+[BlackElo "1936"]
+[WhiteRatingDiff "-130"]
+[BlackRatingDiff "+4"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+3"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:03] }
+2... Nf6 { [%clk 0:03:03] } 3. Bc4 { [%clk 0:03:04] } ( 3. Bc4 Nc6 4. Ng5 d5
+{ [%eval 0.54,4] } ) 3... Nxe4 { [%clk 0:03:06] } 4. Nxe5 { [%clk 0:03:06] } (
+4. Nxe5 d5 5. Qf3 Be6 { [%eval 0.83,4] } ) 4... Qf6 { [%clk 0:02:58] } 5. Bxf7+
+{ [%clk 0:03:09] } ( 5. Bxf7+ Kd8 6. f3 Qxe5 { [%eval 1.13,4] } ) 5... Kd8
+{ [%clk 0:02:59] } 6. f3 { [%clk 0:03:11] } ( 6. f3 Nd6 7. Nxd7 Nxd7
+{ [%eval 0.85,4] } ) 6... Ng5 { [%clk 0:02:57] } 7. Nxd7 { [%clk 0:03:13] } (
+7. Nxd7 Bxd7 8. Bd5 Kc8 { [%eval 0.23,4] } ) 7... Nxd7 { [%clk 0:02:57] } 8.
+Bc4 { [%clk 0:03:16] } ( 8. Bc4 Ke8 9. Nc3 Bb4 { [%eval -0.13,4] } ) 8... Bd6
+{ [%clk 0:02:53] } 9. Nc3 { [%clk 0:03:18] } ( 9. Nc3 Ke8 10. Nd5 Qd4
+{ [%eval -0.03,4] } ) 9... Re8+ { [%clk 0:02:41] } 10. Be2 { [%clk 0:03:20] } (
+10. Be2 Nxf3+ 11. gxf3 Qxf3 { [%eval 0.28,4] } ) 10... Nxf3+ { [%clk 0:02:28] }
+11. gxf3 { [%clk 0:03:23] } ( 11. gxf3 Qh4+ 12. Kf1 Bxh2 { [%eval -0.63,4] } )
+11... Qh4+ { [%clk 0:02:23] } 12. Kf1 { [%clk 0:03:26] } ( 12. Kf1 Bxh2 13. Qe1
+Qf4 { [%eval -0.68,4] } ) 12... Nf6 { [%clk 0:02:22] } 13. Bb5
+{ [%clk 0:03:28] } ( 13. Bb5 Bd7 14. Bxd7 Nxd7 { [%eval 0.57,4] } ) 13... Bh3+
+{ [%clk 0:02:20] } 14. Kg1 { [%clk 0:03:31] } ( 14. Kg1 Qd4#
+{ [%eval -299.97,3] } ) 14... Qd4# { [%clk 0:02:16] } 0-1
+
