@@ -1,0 +1,37 @@
+[Event "33rd BOTS and Humans League Team Battle"]
+[Site "https://lichess.org/qdnRkJbr"]
+[Date "2025.10.07"]
+[Round "?"]
+[White "realPangu"]
+[Black "c0br4_bot"]
+[Result "0-1"]
+[GameId "qdnRkJbr"]
+[UTCDate "2025.10.07"]
+[UTCTime "17:22:46"]
+[WhiteElo "1326"]
+[BlackElo "2000"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:02:56] }
+2... Nf6 { [%clk 0:03:01] } ( 2... Nf6 3. Bd3 Na6 4. Nf3 { [%eval 0.83,4] } )
+3. Nf3 { [%clk 0:02:54] } 3... Ng4 { [%clk 0:03:01] } ( 3... Ng4 4. Bc4 Nxf2 5.
+Bxf7+ { [%eval 0.68,4] } ) 4. Be2 { [%clk 0:02:52] } 4... e6 { [%clk 0:03:01] }
+( 4... e6 5. Nd4 Bc5 6. Bxg4 { [%eval 0.78,4] } ) 5. O-O { [%clk 0:02:52] }
+5... Bd6 { [%clk 0:03:01] } ( 5... Bd6 6. h3 Ne5 7. Nxe5 { [%eval 0.77,4] } )
+6. Nd4 { [%clk 0:02:49] } 6... Bxh2+ { [%clk 0:03:02] } ( 6... Bxh2+ 7. Kh1 Be5
+8. Kg1 { [%eval -1.77,4] } ) 7. Kh1 { [%clk 0:02:47] } 7... Nxf2+
+{ [%clk 0:03:03] } ( 7... Nxf2+ 8. Rxf2 Qb6 9. Bh5 { [%eval -1.30,4] } ) 8.
+Rxf2 { [%clk 0:02:45] } 8... Qh4 { [%clk 0:03:03] } ( 8... Qh4 9. Rf3 Be5+ 10.
+Rh3 { [%eval -1.00,4] } ) 9. g3 { [%clk 0:02:33] } 9... Bxg3+
+{ [%clk 0:03:04] } ( 9... Bxg3+ 10. Kg2 Bxf2 11. Nf3 { [%eval -9.43,4] } ) 10.
+Kg1 { [%clk 0:02:31] } 10... Bxf2+ { [%clk 0:03:05] } ( 10... Bxf2+ 11. Kf1
+Bxd4 12. Bg4 { [%eval -10.75,4] } ) 11. Kf1 { [%clk 0:02:30] } 11... Bxd4
+{ [%clk 0:03:05] } ( 11... Bxd4 12. Kg2 O-O 13. Qh1 { [%eval -13.08,4] } ) 12.
+d3 { [%clk 0:02:05] } 12... Qh1# { [%clk 0:03:05] } ( 12... Qh1#
+{ [%eval -299.97,2] } ) 0-1
+

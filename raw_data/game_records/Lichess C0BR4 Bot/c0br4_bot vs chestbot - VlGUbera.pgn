@@ -1,0 +1,22 @@
+[Event "casual bullet game"]
+[Site "https://lichess.org/VlGUbera"]
+[Date "2025.10.07"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "chestbot"]
+[Result "*"]
+[GameId "VlGUbera"]
+[UTCDate "2025.10.07"]
+[UTCTime "04:49:47"]
+[WhiteElo "1505"]
+[BlackElo "1710"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+2"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Termination "Abandoned"]
+
+1. d4 { [%clk 0:01:00] } *
+

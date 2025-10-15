@@ -1,0 +1,44 @@
+[Event "33rd BOTS and Humans League Team Battle"]
+[Site "https://lichess.org/Cvu9fiMQ"]
+[Date "2025.10.07"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "InvinxibleFlxsh"]
+[Result "0-1"]
+[GameId "Cvu9fiMQ"]
+[UTCDate "2025.10.07"]
+[UTCTime "17:13:43"]
+[WhiteElo "2000"]
+[BlackElo "3009"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack: Two Knights System"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:03:00] }
+2... d5 { [%clk 0:03:01] } 3. Bg5 { [%clk 0:03:00] } ( 3. Bg5 Nc6 4. Bxf6 gxf6
+{ [%eval 0.00,4] } ) 3... Nbd7 { [%clk 0:03:02] } 4. Nf3 { [%clk 0:02:59] } (
+4. Nf3 e6 5. Ne5 Bb4 { [%eval 0.50,4] } ) 4... e6 { [%clk 0:03:03] } 5. Ne5
+{ [%clk 0:02:58] } ( 5. Ne5 Bb4 6. Bxf6 Nxf6 { [%eval 0.30,4] } ) 5... c6
+{ [%clk 0:03:03] } 6. Qd3 { [%clk 0:02:58] } ( 6. Qd3 Bb4 7. Nxf7 Kxf7
+{ [%eval 1.10,4] } ) 6... Qb6 { [%clk 0:03:04] } 7. Nxf7 { [%clk 0:02:58] } (
+7. Nxf7 Kxf7 8. Bxf6 Nxf6 { [%eval 1.35,4] } ) 7... Kxf7 { [%clk 0:02:59] } 8.
+Bxf6 { [%clk 0:02:58] } ( 8. Bxf6 Nxf6 9. Na4 Bb4+ { [%eval 0.65,4] } ) 8...
+Nxf6 { [%clk 0:02:54] } 9. O-O-O { [%clk 0:02:57] } ( 9. O-O-O Kg8 10. Qg3 Bb4
+{ [%eval -0.90,4] } ) 9... Bd6 { [%clk 0:02:47] } 10. Qh3 { [%clk 0:02:55] } (
+10. Qh3 Kg8 11. Qf3 Rb8 { [%eval -1.15,4] } ) 10... e5 { [%clk 0:02:43] } 11.
+Qg3 { [%clk 0:02:55] } ( 11. Qg3 Kg8 12. dxe5 Bc7 { [%eval 0.55,4] } ) 11...
+Re8 { [%clk 0:02:31] } 12. dxe5 { [%clk 0:02:55] } ( 12. dxe5 Bxe5 13. f4 Bxc3
+{ [%eval 1.08,4] } ) 12... Bxe5 { [%clk 0:02:30] } 13. f4 { [%clk 0:02:56] } (
+13. f4 Bxc3 14. Qxc3 Kg8 { [%eval -1.20,4] } ) 13... Ne4 { [%clk 0:02:27] } 14.
+Qf3 { [%clk 0:02:56] } ( 14. Qf3 Bxc3 15. Qh5+ { [%eval -1.75,4] } ) 14... Bxc3
+{ [%clk 0:02:24] } 15. Qh5+ { [%clk 0:02:57] } ( 15. Qh5+ Kf8 16. bxc3 Nxc3
+{ [%eval -1.75,4] } ) 15... Kf8 { [%clk 0:02:21] } 16. bxc3 { [%clk 0:02:58] }
+( 16. bxc3 Qe3+ 17. Kb1 Nxc3+ { [%eval -3.10,4] } ) 16... Nxc3
+{ [%clk 0:02:19] } 17. Re1 { [%clk 0:02:59] } ( 17. Re1 Qb1+ 18. Kd2 Ne4+
+{ [%eval -4.93,4] } ) 17... Nxa2+ { [%clk 0:02:19] } 18. Kd1 { [%clk 0:02:59] }
+( 18. Kd1 Qd4# { [%eval -299.97,3] } ) 18... Qd4# { [%clk 0:02:19] } 0-1
+

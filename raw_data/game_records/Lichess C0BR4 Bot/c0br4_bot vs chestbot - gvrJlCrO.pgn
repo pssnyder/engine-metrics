@@ -1,0 +1,22 @@
+[Event "casual blitz game"]
+[Site "https://lichess.org/gvrJlCrO"]
+[Date "2025.10.06"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "chestbot"]
+[Result "*"]
+[GameId "gvrJlCrO"]
+[UTCDate "2025.10.06"]
+[UTCTime "13:47:00"]
+[WhiteElo "1450"]
+[BlackElo "1742"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Termination "Abandoned"]
+
+1. d4 { [%clk 0:03:00] } *
+

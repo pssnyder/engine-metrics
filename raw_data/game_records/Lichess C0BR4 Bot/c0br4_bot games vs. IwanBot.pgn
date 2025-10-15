@@ -1,0 +1,115 @@
+[Event "rated blitz game"]
+[Site "https://lichess.org/mMQHiO8X"]
+[Date "2025.10.09"]
+[Round "?"]
+[White "IwanBot"]
+[Black "c0br4_bot"]
+[Result "1-0"]
+[GameId "mMQHiO8X"]
+[UTCDate "2025.10.09"]
+[UTCTime "23:48:17"]
+[WhiteElo "1357"]
+[BlackElo "1418"]
+[WhiteRatingDiff "+81"]
+[BlackRatingDiff "-6"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. exd5 { [%clk 0:03:01] }
+2... Qxd5 { [%clk 0:03:00] } ( 2... Qxd5 3. Nc3 Qd4 4. Nf3 { [%eval 0.70,4] } )
+3. Nc3 { [%clk 0:03:02] } 3... Qe5+ { [%clk 0:02:59] } ( 3... Qe5+ 4. Be2 Bg4
+5. Nf3 { [%eval 0.68,4] } ) 4. Be2 { [%clk 0:03:03] } 4... Bg4
+{ [%clk 0:02:59] } ( 4... Bg4 5. Nf3 Bxf3 6. gxf3 { [%eval 0.68,4] } ) 5. d4
+{ [%clk 0:03:04] } 5... Qe6 { [%clk 0:02:59] } ( 5... Qe6 6. Nf3 Bxf3 7. gxf3
+{ [%eval 0.18,4] } ) 6. Nf3 { [%clk 0:03:05] } 6... Bxf3 { [%clk 0:02:58] } (
+6... Bxf3 7. gxf3 Nc6 8. O-O { [%eval 0.43,4] } ) 7. gxf3 { [%clk 0:03:06] }
+7... Nd7 { [%clk 0:02:58] } ( 7... Nd7 8. Bf4 Qb6 9. Bb5 { [%eval 0.26,4] } )
+8. d5 { [%clk 0:03:07] } 8... Qb6 { [%clk 0:02:58] } ( 8... Qb6 9. Bb5 O-O-O
+10. Bf4 { [%eval -0.27,4] } ) 9. Be3 { [%clk 0:03:07] } 9... Qxb2
+{ [%clk 0:02:57] } ( 9... Qxb2 10. Nb5 Qb4+ 11. Qd2 { [%eval -1.70,4] } ) 10.
+Na4 { [%clk 0:03:08] } 10... Qb4+ { [%clk 0:02:57] } ( 10... Qb4+ 11. c3 Qh4
+12. Nc5 { [%eval -1.84,4] } ) 11. c3 { [%clk 0:03:09] } 11... Qa5
+{ [%clk 0:02:57] } ( 11... Qa5 12. O-O Ngf6 13. Bc4 { [%eval -1.77,4] } ) 12.
+O-O { [%clk 0:03:10] } 12... Ngf6 { [%clk 0:02:56] } ( 12... Ngf6 13. Rb1 O-O-O
+14. Bb5 { [%eval -2.00,4] } ) 13. c4 { [%clk 0:03:11] } 13... O-O-O
+{ [%clk 0:02:54] } ( 13... O-O-O 14. Rb1 Rg8 15. Bf4 { [%eval -2.05,4] } ) 14.
+Rb1 { [%clk 0:03:12] } 14... Rg8 { [%clk 0:02:53] } ( 14... Rg8 15. Qb3 Qa6 16.
+Nc3 { [%eval -1.90,4] } ) 15. c5 { [%clk 0:03:13] } 15... c6 { [%clk 0:02:50] }
+( 15... c6 16. dxc6 bxc6 17. Bd3 { [%eval -0.97,4] } ) 16. dxc6
+{ [%clk 0:03:14] } 16... bxc6 { [%clk 0:02:50] } ( 16... bxc6 17. Qc2 Ne5 18.
+Nc3 { [%eval -0.82,4] } ) 17. Qc2 { [%clk 0:03:15] } 17... Ne5
+{ [%clk 0:02:49] } ( 17... Ne5 18. f4 Ng6 19. Nc3 { [%eval -0.72,4] } ) 18.
+Nb6+ { [%clk 0:03:16] } 18... axb6 { [%clk 0:02:48] } ( 18... axb6 19. Rxb6 Nd5
+20. Ba6+ { [%eval -2.52,4] } ) 19. cxb6 { [%clk 0:03:17] } 19... Qd5
+{ [%clk 0:02:48] } ( 19... Qd5 20. b7+ Kb8 21. Rfd1 { [%eval -1.47,4] } ) 20.
+b7+ { [%clk 0:03:18] } 20... Kb8 { [%clk 0:02:48] } ( 20... Kb8 21. Rfd1 Qa5
+22. Rdc1 { [%eval -0.77,4] } ) 21. Rfc1 { [%clk 0:03:19] } 21... Nxf3+
+{ [%clk 0:02:47] } ( 21... Nxf3+ 22. Bxf3 Qxf3 23. Qxc6 { [%eval -2.11,4] } )
+22. Bxf3 { [%clk 0:03:20] } 22... Qxf3 { [%clk 0:02:47] } ( 22... Qxf3 23. Rb4
+Rd6 24. Rc4 { [%eval -2.37,4] } ) 23. Qxc6 { [%clk 0:03:21] } 23... Rd1+
+{ [%clk 0:02:47] } ( 23... Rd1+ 24. Rxd1 Qxc6 25. Rd8+ { [%eval -5.58,4] } )
+24. Rxd1 { [%clk 0:03:21] } 24... Qg4+ { [%clk 0:02:47] } ( 24... Qg4+ 25. Kf1
+Qe4 26. Rd8# { [%eval 3.00,4] } ) 25. Kf1 { [%clk 0:03:22] } 25... Qh3+
+{ [%clk 0:02:47] } ( 25... Qh3+ 26. Kg1 Qg4+ { [%eval 3.00,4] } ) 26. Qg2
+{ [%clk 0:03:23] } 26... Qxg2+ { [%clk 0:02:46] } ( 26... Qxg2+ 27. Kxg2 Ng4
+28. Kg1 { [%eval 2.20,4] } ) 27. Kxg2 { [%clk 0:03:24] } 27... Nd7
+{ [%clk 0:02:46] } ( 27... Nd7 28. Rxd7 Rh8 29. Kg1 { [%eval 6.15,4] } ) 28.
+Rxd7 { [%clk 0:03:25] } 28... Rh8 { [%clk 0:02:46] } ( 28... Rh8 29. Rd8+ Kc7
+30. b8=Q+ { [%eval 14.40,4] } ) 29. Rd8+ { [%clk 0:03:26] } 29... Kc7
+{ [%clk 0:02:46] } ( 29... Kc7 30. b8=Q+ Kc6 31. Rxf8 { [%eval 15.74,4] } ) 30.
+b8=Q+ { [%clk 0:03:27] } 30... Kc6 { [%clk 0:02:46] } ( 30... Kc6 31. Rc1#
+{ [%eval 299.97,3] } ) 31. Rc8+ { [%clk 0:03:28] } 31... Kd5 { [%clk 0:02:46] }
+( 31... Kd5 32. Kg1 Ke4 33. Rxf8 { [%eval 15.80,4] } ) 32. Rd1+
+{ [%clk 0:03:29] } 1-0
+
+[Event "rated bullet game"]
+[Site "https://lichess.org/GYiQgmAV"]
+[Date "2025.10.10"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "IwanBot"]
+[Result "1-0"]
+[GameId "GYiQgmAV"]
+[UTCDate "2025.10.10"]
+[UTCTime "00:05:01"]
+[WhiteElo "1532"]
+[BlackElo "1496"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-38"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:01:01] }
+2... Nc6 { [%clk 0:01:01] } 3. Nf3 { [%clk 0:01:00] } ( 3. Nf3 Nd4 4. Bc4 Nf6
+{ [%eval 0.61,4] } ) 3... g6 { [%clk 0:01:02] } 4. Bc4 { [%clk 0:01:00] } ( 4.
+Bc4 Nf6 5. O-O Qb6 { [%eval 1.33,4] } ) 4... Bg7 { [%clk 0:01:03] } 5. O-O
+{ [%clk 0:00:59] } ( 5. O-O Nh6 6. Nd5 { [%eval 1.38,4] } ) 5... d6
+{ [%clk 0:01:04] } 6. Ng5 { [%clk 0:00:59] } ( 6. Ng5 Nh6 7. Nd5 Bd4
+{ [%eval 1.90,4] } ) 6... e6 { [%clk 0:01:05] } 7. Nxf7 { [%clk 0:00:58] } ( 7.
+Nxf7 Kxf7 8. Qg4 Ke8 { [%eval 2.03,4] } ) 7... Kxf7 { [%clk 0:01:06] } 8. Qg4
+{ [%clk 0:00:57] } ( 8. Qg4 Nf6 9. Qh3 Kg8 { [%eval 1.13,4] } ) 8... Nge7
+{ [%clk 0:01:07] } 9. Rb1 { [%clk 0:00:56] } ( 9. Rb1 Bxc3 10. bxc3 Kg8
+{ [%eval 0.93,4] } ) 9... Nd4 { [%clk 0:01:07] } 10. Nb5 { [%clk 0:00:54] } (
+10. Nb5 Nxb5 11. Qf3+ Kg8 { [%eval 0.03,4] } ) 10... Nxb5 { [%clk 0:01:08] }
+11. Bxb5 { [%clk 0:00:53] } ( 11. Bxb5 Kg8 12. Bc4 Qd7 { [%eval 0.18,4] } )
+11... e5 { [%clk 0:01:09] } 12. Qf3+ { [%clk 0:00:52] } ( 12. Qf3+ Kg8 13. Bc4+
+d5 { [%eval 1.58,4] } ) 12... Bf6 { [%clk 0:01:10] } 13. Bc4+
+{ [%clk 0:00:52] } ( 13. Bc4+ Kg7 14. Bd5 Qb6 { [%eval 2.73,4] } ) 13... Be6
+{ [%clk 0:01:11] } 14. Bxe6+ { [%clk 0:00:52] } ( 14. Bxe6+ Kxe6 15. Qb3+ Kd7
+{ [%eval 4.09,4] } ) 14... Kxe6 { [%clk 0:01:12] } 15. b4 { [%clk 0:00:51] } (
+15. b4 cxb4 16. Rxb4 Qc7 { [%eval 2.41,4] } ) 15... cxb4 { [%clk 0:01:13] } 16.
+Rxb4 { [%clk 0:00:51] } ( 16. Rxb4 Kd7 17. Rd1 Kc8 { [%eval 2.78,4] } ) 16...
+Nc6 { [%clk 0:01:14] } 17. Rxb7 { [%clk 0:00:51] } ( 17. Rxb7 d5 18. Bb2 Qd6
+{ [%eval 4.66,4] } ) 17... Rb8 { [%clk 0:01:15] } 18. Qg4# { [%clk 0:00:50] } (
+18. Qg4# { [%eval 299.97,2] } ) 1-0
+

@@ -1,0 +1,37 @@
+[Event "34th BOTS and Humans League Team Battle"]
+[Site "https://lichess.org/4FF9goaM"]
+[Date "2025.10.14"]
+[Round "?"]
+[White "Vasilispap18"]
+[Black "c0br4_bot"]
+[Result "0-1"]
+[GameId "4FF9goaM"]
+[UTCDate "2025.10.14"]
+[UTCTime "17:46:46"]
+[WhiteElo "1222"]
+[BlackElo "2000"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "C42"]
+[Opening "Petrov's Defense: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] }
+2... Nf6 { [%clk 0:01:01] } 3. Bc4 { [%clk 0:00:58] } 3... Nxe4
+{ [%clk 0:01:02] } ( 3... Nxe4 4. Nxe5 Nxf2 5. Bxf7+ { [%eval 0.68,4] } ) 4.
+Nxe5 { [%clk 0:00:57] } 4... Nd6 { [%clk 0:01:02] } ( 4... Nd6 5. O-O Qf6 6.
+Re1 { [%eval 0.90,4] } ) 5. Qf3 { [%clk 0:00:51] } 5... Qe7 { [%clk 0:01:03] }
+( 5... Qe7 6. Bxf7+ Nxf7 7. Qxf7+ { [%eval 0.20,4] } ) 6. O-O
+{ [%clk 0:00:47] } 6... Qxe5 { [%clk 0:01:04] } ( 6... Qxe5 7. Bd5 Nc6 8. Nc3
+{ [%eval -2.10,4] } ) 7. Qxf7+ { [%clk 0:00:44] } 7... Nxf7 { [%clk 0:01:05] }
+( 7... Nxf7 8. Bxf7+ Kxf7 9. Nc3 { [%eval -7.27,4] } ) 8. Bxf7+
+{ [%clk 0:00:44] } 8... Kxf7 { [%clk 0:01:05] } ( 8... Kxf7 9. d4 Qxd4 10. Nc3
+{ [%eval -8.97,4] } ) 9. d3 { [%clk 0:00:41] } 9... Kg8 { [%clk 0:01:06] } (
+9... Kg8 10. Nd2 Qe2 11. Rb1 { [%eval -11.00,4] } ) 10. Bf4 { [%clk 0:00:40] }
+10... Qxf4 { [%clk 0:01:06] } ( 10... Qxf4 11. g3 Qb4 12. b3
+{ [%eval -14.38,4] } ) 11. g3 { [%clk 0:00:40] } 11... Qb4 { [%clk 0:01:07] } (
+11... Qb4 12. b3 Nc6 13. Rd1 { [%eval -15.18,4] } ) 12. c3 { [%clk 0:00:40] }
+12... Qxb2 { [%clk 0:01:08] } ( 12... Qxb2 13. Na3 Bxa3 14. c4
+{ [%eval -19.01,4] } ) 0-1
+

@@ -1,0 +1,22 @@
+[Event "rated bullet game"]
+[Site "https://lichess.org/dYH40Oo7"]
+[Date "2025.10.06"]
+[Round "?"]
+[White "jchess_engine"]
+[Black "c0br4_bot"]
+[Result "*"]
+[GameId "dYH40Oo7"]
+[UTCDate "2025.10.06"]
+[UTCTime "07:52:28"]
+[WhiteElo "1493"]
+[BlackElo "1503"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+*
+

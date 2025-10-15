@@ -1,0 +1,42 @@
+[Event "34th BOTS and Humans League Team Battle"]
+[Site "https://lichess.org/sZwJ2GqF"]
+[Date "2025.10.14"]
+[Round "?"]
+[White "JomfishH"]
+[Black "c0br4_bot"]
+[Result "1-0"]
+[GameId "sZwJ2GqF"]
+[UTCDate "2025.10.14"]
+[UTCTime "17:27:52"]
+[WhiteElo "2780"]
+[BlackElo "2000"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "C40"]
+[Opening "King's Knight Opening"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] }
+2... Be7 { [%clk 0:01:01] } 3. Nxe5 { [%clk 0:00:58] } 3... Nh6
+{ [%clk 0:01:01] } ( 3... Nh6 4. Bb5 Nc6 5. Bxc6 { [%eval 1.85,4] } ) 4. d4
+{ [%clk 0:00:57] } 4... Bb4+ { [%clk 0:01:02] } ( 4... Bb4+ 5. Bd2 Nc6 6. Nxc6
+{ [%eval 1.17,4] } ) 5. c3 { [%clk 0:00:58] } 5... Bd6 { [%clk 0:01:02] } (
+5... Bd6 6. Bb5 Bxe5 7. dxe5 { [%eval 0.90,4] } ) 6. Qh5 { [%clk 0:00:58] }
+6... Qe7 { [%clk 0:01:03] } ( 6... Qe7 7. Bg5 Qe6 8. Bc4 { [%eval 1.40,4] } )
+7. Bg5 { [%clk 0:00:58] } 7... Qf8 { [%clk 0:01:03] } ( 7... Qf8 8. Bxh6 gxh6
+9. Nd2 { [%eval 1.52,4] } ) 8. Bxh6 { [%clk 0:00:59] } 8... gxh6
+{ [%clk 0:01:03] } ( 8... gxh6 9. Nd2 Bxe5 10. Qxe5+ { [%eval 1.52,4] } ) 9.
+Bc4 { [%clk 0:00:59] } 9... Qe7 { [%clk 0:01:04] } ( 9... Qe7 10. Bxf7+ Kd8 11.
+Nd2 { [%eval 4.30,4] } ) 10. Nxf7 { [%clk 0:00:58] } 10... Qxe4+
+{ [%clk 0:01:04] } ( 10... Qxe4+ 11. Kf1 O-O 12. Nxd6+ { [%eval 3.30,4] } ) 11.
+Kd1 { [%clk 0:00:58] } 11... Qxg2 { [%clk 0:01:05] } ( 11... Qxg2 12. Nxh8+ Kd8
+13. Nf7+ { [%eval 4.32,4] } ) 12. Re1+ { [%clk 0:00:57] } 12... Kf8
+{ [%clk 0:01:06] } ( 12... Kf8 13. Nxh8 Qxh2 14. Qf7# { [%eval 4.37,4] } ) 13.
+Nxd6 { [%clk 0:00:58] } 13... Qg6 { [%clk 0:01:06] } ( 13... Qg6 14. Qxg6 hxg6
+15. Nxc8 { [%eval 6.48,4] } ) 14. Qf3+ { [%clk 0:00:57] } 14... Qf5
+{ [%clk 0:01:07] } ( 14... Qf5 15. Qxf5+ Kg7 16. Re7# { [%eval 14.80,4] } ) 15.
+Qxf5+ { [%clk 0:00:58] } 15... Kg7 { [%clk 0:01:07] } ( 15... Kg7 16. Re7#
+{ [%eval 299.97,3] } ) 16. Rg1# { [%clk 0:00:58] } 1-0
+

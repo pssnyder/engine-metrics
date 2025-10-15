@@ -1,0 +1,39 @@
+[Event "33rd BOTS and Humans League Team Battle"]
+[Site "https://lichess.org/YwEZhIAU"]
+[Date "2025.10.07"]
+[Round "?"]
+[White "c0br4_bot"]
+[Black "JulesBloss"]
+[Result "1-0"]
+[GameId "YwEZhIAU"]
+[UTCDate "2025.10.07"]
+[UTCTime "18:17:58"]
+[WhiteElo "2000"]
+[BlackElo "1049"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:01] }
+2... Nc6 { [%clk 0:02:59] } 3. Bg5 { [%clk 0:03:01] } ( 3. Bg5 Bg4 4. Nbd2 Nf6
+{ [%eval 0.10,4] } ) 3... f6 { [%clk 0:02:59] } 4. Be3 { [%clk 0:03:02] } ( 4.
+Be3 Nh6 5. Nc3 Nf5 { [%eval 0.53,4] } ) 4... e5 { [%clk 0:03:00] } 5. dxe5
+{ [%clk 0:03:02] } ( 5. dxe5 fxe5 6. Nc3 Nf6 { [%eval 1.05,4] } ) 5... fxe5
+{ [%clk 0:02:59] } 6. Nc3 { [%clk 0:03:03] } ( 6. Nc3 Bb4 7. Qd3 Nf6
+{ [%eval 0.79,4] } ) 6... d4 { [%clk 0:03:00] } 7. Bg5 { [%clk 0:03:03] } ( 7.
+Bg5 Nf6 8. Bxf6 Qxf6 { [%eval 1.00,4] } ) 7... dxc3 { [%clk 0:03:00] } 8. Bxd8
+{ [%clk 0:03:04] } ( 8. Bxd8 cxb2 9. Rb1 Nxd8 { [%eval 5.20,4] } ) 8... Kf7
+{ [%clk 0:02:59] } 9. bxc3 { [%clk 0:03:05] } ( 9. bxc3 Bd6 10. Qd5+ Ke8
+{ [%eval 8.87,4] } ) 9... Nxd8 { [%clk 0:02:59] } 10. Qxd8 { [%clk 0:03:05] } (
+10. Qxd8 Bd6 11. Ng5+ Kg6 { [%eval 10.90,4] } ) 10... Be7 { [%clk 0:02:59] }
+11. Nxe5+ { [%clk 0:03:06] } ( 11. Nxe5+ Ke6 12. Qxc7 Kf5 { [%eval 13.58,4] } )
+11... Ke6 { [%clk 0:02:58] } 12. Qxc7 { [%clk 0:03:07] } ( 12. Qxc7 Bd6 13.
+Qxg7 Bxe5 { [%eval 12.38,4] } ) 12... Bd6 { [%clk 0:02:57] } 13. Qf7+
+{ [%clk 0:03:08] } ( 13. Qf7+ Kxe5 14. Qxg7+ Nf6 { [%eval 15.76,4] } ) 13...
+Kxe5 { [%clk 0:02:56] } 14. Qxg7+ { [%clk 0:03:09] } ( 14. Qxg7+ Nf6 15. Qxh8
+Kf5 { [%eval 15.38,4] } ) 14... Ke6 { [%clk 0:02:56] } 15. Qxh8
+{ [%clk 0:03:09] } ( 15. Qxh8 Nf6 16. O-O-O Bf4+ { [%eval 15.97,4] } ) 1-0
+

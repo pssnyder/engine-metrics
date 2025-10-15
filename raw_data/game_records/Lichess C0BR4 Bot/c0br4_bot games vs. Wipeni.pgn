@@ -1,0 +1,36 @@
+[Event "casual rapid game"]
+[Site "https://lichess.org/arKvQam3"]
+[Date "2025.10.09"]
+[Round "?"]
+[White "Wipeni"]
+[Black "c0br4_bot"]
+[Result "0-1"]
+[GameId "arKvQam3"]
+[UTCDate "2025.10.09"]
+[UTCTime "10:06:27"]
+[WhiteElo "1632"]
+[BlackElo "1533"]
+[BlackTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "1200+3"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:20:00] } 1... f5 { [%clk 0:20:00] } 2. exf5 { [%clk 0:19:58] }
+2... Nf6 { [%clk 0:20:03] } 3. d4 { [%clk 0:19:52] } 3... Nc6
+{ [%clk 0:20:05] } ( 3... Nc6 4. Nc3 d6 5. Qd3 { [%eval 0.38,4] } ) 4. Nf3
+{ [%clk 0:19:49] } 4... Ne4 { [%clk 0:20:08] } ( 4... Ne4 5. Nbd2 Nxf2 6. Kxf2
+{ [%eval 0.47,4] } ) 5. Bd3 { [%clk 0:19:48] } 5... d5 { [%clk 0:20:11] } (
+5... d5 6. Nc3 Bxf5 7. O-O { [%eval 0.80,4] } ) 6. O-O { [%clk 0:19:46] } 6...
+Bxf5 { [%clk 0:20:13] } ( 6... Bxf5 7. Bf4 Qd7 8. Nc3 { [%eval 0.78,4] } ) 7.
+Nbd2 { [%clk 0:19:36] } 7... Qd7 { [%clk 0:20:15] } ( 7... Qd7 8. Ne5 Nxe5 9.
+dxe5 { [%eval 0.58,4] } ) 8. Re1 { [%clk 0:19:29] } 8... Nxf2
+{ [%clk 0:20:18] } ( 8... Nxf2 9. Kxf2 Bxd3 10. cxd3 { [%eval 0.00,4] } ) 9.
+Kxf2 { [%clk 0:19:31] } 9... Bxd3 { [%clk 0:20:20] } ( 9... Bxd3 10. cxd3 Qg4
+11. Kg1 { [%eval 0.58,4] } ) 10. cxd3 { [%clk 0:19:31] } 10... Qf5
+{ [%clk 0:20:22] } ( 10... Qf5 11. Kg1 Qxd3 12. Qa4 { [%eval 0.73,4] } ) 11.
+Qe2 { [%clk 0:19:26] } 11... Nxd4 { [%clk 0:20:24] } ( 11... Nxd4 12. Qe5 Qxe5
+13. Nxe5 { [%eval -1.07,4] } ) 12. Rb1 { [%clk 0:19:13] } 12... Nxe2
+{ [%clk 0:20:26] } ( 12... Nxe2 13. Rxe2 Qxd3 14. Kf1 { [%eval -8.57,4] } ) 0-1
+
