@@ -131,12 +131,22 @@ This project prioritizes:
 
 ---
 
-## � Documentation
+## 📚 Documentation
 
-- [**Sustainable Pipeline Roadmap**](docs/SUSTAINABLE_PIPELINE_ROADMAP.md) - Complete implementation plan
-- [**Enhanced Pipeline Architecture**](docs/V7P3R_ENHANCED_PIPELINE_ARCHITECTURE.md) - System design
-- [**Security Implementation**](docs/RTS-Firebase-Security-Standards.md) - Security framework
+### 🎯 Project Management
+- [**Project Status & Recovery Guide**](docs/PROJECT-STATUS-DOCUMENTATION.md) - Complete current status and recovery context
+- [**Sustainable Pipeline Roadmap**](docs/SUSTAINABLE_PIPELINE_ROADMAP.md) - Complete 10-phase implementation plan
+- [**Decision Log**](docs/DECISION-LOG.md) - Architectural and technical decisions with rationale
+- [**Troubleshooting Guide**](docs/TROUBLESHOOTING-GUIDE.md) - Common issues and solutions
+
+### 🏗️ Architecture & Design
+- [**Enhanced Pipeline Architecture**](docs/V7P3R_ENHANCED_PIPELINE_ARCHITECTURE.md) - System design overview
+- [**Data Architecture**](docs/DATA_ARCHITECTURE.md) - Data flow and storage design
+- [**Transform Layer Design**](docs/TRANSFORM_LAYER_DESIGN.md) - Data processing architecture
+
+### 🔧 Implementation & Testing
 - [**API Testing Results**](scripts/test_lichess_api.py) - Lichess integration validation
+- [**Environment Validation**](scripts/validate-environment.js) - Development environment checker
 
 ---
 

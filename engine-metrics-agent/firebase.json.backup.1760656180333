@@ -11,17 +11,6 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ],
-    "headers": [
-      {
-        "source": "/api/**",
-        "headers": [
-          {
-            "key": "Access-Control-Allow-Origin",
-            "value": "*"
-          }
-        ]
-      }
     ]
   },
   "firestore": {
@@ -33,16 +22,7 @@
   },
   "functions": {
     "source": "src/backend/functions",
-    "runtime": "nodejs18",
-    "timeout": "60s",
-    "memory": "256MB",
-    "environmentVariables": {
-      "NODE_ENV": "development",
-      "LOG_LEVEL": "debug",
-      "ENABLE_DETAILED_LOGGING": "true",
-      "API_RATE_LIMIT": "1000",
-      "LICHESS_API_BASE_URL": "https://lichess.org/api"
-    }
+    "runtime": "nodejs18"
   },
   "emulators": {
     "functions": {
@@ -50,12 +30,6 @@
     },
     "firestore": {
       "port": 8090
-    },
-    "storage": {
-      "port": 9199
-    },
-    "hosting": {
-      "port": 5000
     },
     "ui": {
       "enabled": true,

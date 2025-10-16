@@ -1,0 +1,104 @@
+{
+  "projectId": "chess-engine-metrics-agent",
+  "description": "Production environment configuration with enterprise security",
+  "environment": "production",
+  "configuration": {
+    "hosting": {
+      "public": "src/frontend/build",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ],
+      "headers": [
+        {
+          "source": "/api/**",
+          "headers": [
+            {
+              "key": "Access-Control-Allow-Origin",
+              "value": "https://chess-engine-metrics-agent.web.app"
+            },
+            {
+              "key": "Strict-Transport-Security",
+              "value": "max-age=31536000; includeSubDomains"
+            },
+            {
+              "key": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "key": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "key": "X-XSS-Protection",
+              "value": "1; mode=block"
+            }
+          ]
+        }
+      ]
+    },
+    "firestore": {
+      "rules": "config/firestore.rules",
+      "indexes": "config/firestore.indexes.json"
+    },
+    "storage": {
+      "rules": "config/storage.rules"
+    },
+    "functions": {
+      "source": "src/backend/functions",
+      "runtime": "nodejs18",
+      "timeout": "540s",
+      "memory": "1GB",
+      "minInstances": 1,
+      "maxInstances": 10,
+      "environmentVariables": {
+        "NODE_ENV": "production",
+        "LOG_LEVEL": "warn",
+        "ENABLE_DETAILED_LOGGING": "false",
+        "API_RATE_LIMIT": "100",
+        "LICHESS_API_BASE_URL": "https://lichess.org/api"
+      }
+    }
+  },
+  "features": {
+    "enableEmulators": false,
+    "enableDetailedLogging": false,
+    "enableCORS": false,
+    "enableRateLimiting": true,
+    "enableAuthentication": true
+  },
+  "services": {
+    "lichessApi": {
+      "baseUrl": "https://lichess.org/api",
+      "rateLimitPerHour": 1000
+    },
+    "analytics": {
+      "enabled": true,
+      "port": 5020
+    }
+  },
+  "monitoring": {
+    "errorReporting": true,
+    "performanceMonitoring": true,
+    "alerting": {
+      "errorThreshold": 5,
+      "latencyThreshold": 2000,
+      "uptimeThreshold": 99.9
+    },
+    "backupSchedule": "0 2 * * *"
+  },
+  "security": {
+    "enableSecurityHeaders": true,
+    "enableCSP": true,
+    "enableHSTS": true,
+    "maxRequestSize": "10MB",
+    "enableRequestValidation": true
+  }
+}
