@@ -1,0 +1,18 @@
+   Engine                  Score          Sl
+1: SlowMate_v3.2           53.0/60 ·········· 
+2: SlowMate_v3.1           5.0/10  ========== 
+3: RandomOpponent          1.5/10  00000=0=0= 
+4: CoverageOpponent_v2.0   0.5/10  00000=0000 
+5: CaptureOpponent_v3.0    0.0/10  0000000000 
+5: MaterialOpponent_v2.0   0.0/10  0000000000 
+5: PositionalOpponent_v2.0 0.0/10  0000000000 
+
+60 games played / Tournament is finished
+Name of the tournament: SlowMate Regression Testing 20251122
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\SlowMate Regression Testing 20251122.pgn
+Website: 
+E-Mail Address: 

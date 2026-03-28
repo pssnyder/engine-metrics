@@ -1,0 +1,22 @@
+[Event "casual rapid game"]
+[Site "https://lichess.org/e68K458O"]
+[Date "2025.12.06"]
+[White "v7p3r_bot"]
+[Black "v7p3r"]
+[Result "1/2-1/2"]
+[GameId "e68K458O"]
+[UTCDate "2025.12.06"]
+[UTCTime "16:58:30"]
+[WhiteElo "1596"]
+[BlackElo "1438"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:10:00] } 2. c4 { [%clk 0:10:05] } 2... e6 { [%clk 0:09:58] } 3. Nc3 { [%clk 0:10:10] } { D31 Queen's Gambit Declined: Queen's Knight Variation } 3... Bb4 { [%clk 0:09:57] } 4. Qb3 { [%clk 0:10:11] } 4... Bxc3+ { [%clk 0:09:57] } 5. Qxc3 { [%clk 0:10:14] } 5... Nf6 { [%clk 0:09:47] } 6. Nf3 { [%clk 0:10:13] } 6... Nc6 { [%clk 0:09:43] } 7. Bg5 { [%clk 0:10:08] } 7... O-O { [%clk 0:09:37] } 8. Ne5 { [%clk 0:10:07] } 8... Ne4 { [%clk 0:09:13] } 9. Bxd8 { [%clk 0:10:04] } 9... Nxc3 { [%clk 0:09:15] } 10. Bxc7 { [%clk 0:10:07] } 10... dxc4 { [%clk 0:08:49] } 11. bxc3 { [%clk 0:09:59] } 11... Nxe5 { [%clk 0:08:41] } 12. dxe5 { [%clk 0:09:57] } 12... Bd7 { [%clk 0:08:39] } 13. Rd1 { [%clk 0:09:54] } 13... Ba4 { [%clk 0:08:41] } 14. Rd4 { [%clk 0:09:08] } 14... Rac8 { [%clk 0:08:35] } 15. Bd6 { [%clk 0:09:04] } 15... Rfd8 { [%clk 0:08:33] } 16. Be7 { [%clk 0:08:49] } 16... Rxd4 { [%clk 0:08:14] } 17. cxd4 { [%clk 0:08:18] } 17... c3 { [%clk 0:08:17] } 18. Bc5 { [%clk 0:08:06] } 18... c2 { [%clk 0:08:12] } 19. Kd2 { [%clk 0:08:07] } 19... b6 { [%clk 0:08:04] } 20. Ba3 { [%clk 0:08:05] } 20... b5 { [%clk 0:08:00] } 21. e4 { [%clk 0:08:02] } 21... a5 { [%clk 0:07:59] } 22. Bb2 { [%clk 0:07:57] } 22... b4 { [%clk 0:07:55] } 23. Bd3 { [%clk 0:07:52] } 23... b3 { [%clk 0:07:53] } 24. axb3 { [%clk 0:07:43] } 24... Bxb3 { [%clk 0:07:56] } 25. Bc3 { [%clk 0:07:29] } 25... a4 { [%clk 0:07:53] } 26. Bxc2 { [%clk 0:07:25] } 26... Bxc2 { [%clk 0:07:48] } 27. Kxc2 { [%clk 0:07:24] } 27... Ra8 { [%clk 0:07:43] } 28. Rb1 { [%clk 0:07:22] } 28... h6 { [%clk 0:07:46] } 29. Kd3 { [%clk 0:07:17] } 29... a3 { [%clk 0:07:49] } 30. Rb7 { [%clk 0:07:09] } 30... a2 { [%clk 0:07:47] } 31. Ba1 { [%clk 0:07:06] } 31... Ra3+ { [%clk 0:07:34] } 32. Kc4 { [%clk 0:06:55] } 32... f6 { [%clk 0:07:11] } 33. exf6 { [%clk 0:06:55] } 33... gxf6 { [%clk 0:07:13] } 34. e5 { [%clk 0:06:56] } 34... Ra4+ { [%clk 0:06:58] } 35. Kb3 { [%clk 0:06:50] } 35... Rxd4 { [%clk 0:06:57] } 36. Bxd4 { [%clk 0:06:52] } 36... fxe5 { [%clk 0:07:00] } 37. Bxe5 { [%clk 0:06:55] } 37... a1=Q { [%clk 0:06:57] } 38. Bxa1 { [%clk 0:06:55] } 38... e5 { [%clk 0:06:57] } 39. Bxe5 { [%clk 0:06:52] } 39... Kf8 { [%clk 0:07:00] } 40. f4 { [%clk 0:06:54] } 40... Ke8 { [%clk 0:07:05] } 41. f5 { [%clk 0:06:56] } 41... Kd8 { [%clk 0:07:10] } 42. f6 { [%clk 0:06:58] } 42... Kc8 { [%clk 0:07:15] } 43. Rc7+ { [%clk 0:06:47] } 43... Kb8 { [%clk 0:07:15] } 44. Rh7+ { [%clk 0:06:44] } 44... Kc8 { [%clk 0:07:17] } 45. Rc7+ { [%clk 0:06:46] } 45... Kb8 { [%clk 0:07:20] } 46. Rh7+ { [%clk 0:06:44] } 46... Kc8 { [%clk 0:07:24] } 47. Rc7+ { [%clk 0:06:46] } { The game is a draw. } 1/2-1/2
+
+

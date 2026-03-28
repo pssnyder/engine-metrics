@@ -1,0 +1,51 @@
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2025.12.21"]
+[Round "-"]
+[White "Abominable-Chessman-BOT"]
+[Black "v7p3r"]
+[Result "1-0"]
+[CurrentPosition "3r4/5k1p/3P1pp1/P1p2p2/1bN5/3R3P/5PP1/5RK1 b - - 0 32"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Two-Knights-Attack"]
+[UTCDate "2025.12.21"]
+[UTCTime "00:44:54"]
+[WhiteElo "1825"]
+[BlackElo "518"]
+[TimeControl "?"]
+[Termination "Abominable-Chessman-BOT won by resignation"]
+[StartTime "00:44:54"]
+[EndDate "2025.12.21"]
+[EndTime "01:23:38"]
+[Link "https://www.chess.com/analysis/game/computer/500056805/analysis?move=40"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/502197973.6575112e.50x50o.418bf63dde75.jpg"]
+[WhiteCountry "57"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/49232028.9f5c9557.50x50o.88dec9675429.png"]
+[BlackCountry "2"]
+[BlackTitle ""]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 e6 $2 {[%c_effect
+e6;square;e6;type;Mistake;persistent;true]} 6. Nxf5 $1 {[%c_effect
+f5;square;f5;type;GreatFind;persistent;true]} 6... exf5 7. Qe2+ Qe7 8. Qxe7+ $6
+{[%c_effect e7;square;e7;type;Inaccuracy;persistent;true]} 8... Bxe7 9. d4 g6
+10. Bd2 $6 {[%c_effect d2;square;d2;type;Inaccuracy;persistent;true]} 10... Nf6
+11. Be2 O-O 12. Bh6 Re8 13. O-O Bf8 14. Be3 $4 {[%c_effect
+e3;square;e3;type;Blunder;size;100%2525;animated;false;persistent;true]} 14...
+Bg7 $9 {[%c_effect
+g7;square;g7;type;Miss;size;100%25;animated;false;persistent;true]} 15. Bd3 Nbd7
+16. c4 b6 17. h3 c5 18. d5 Rad8 19. Bg5 $6 {[%c_effect
+g5;square;g5;type;Inaccuracy;size;100%25;animated;false;persistent;true]} 19...
+a6 $6 {[%c_effect
+a6;square;a6;type;Inaccuracy;size;100%25;animated;false;persistent;true]} 20.
+Rad1 b5 $2 {[%c_effect
+b5;square;b5;type;Mistake;size;100%25;animated;false;persistent;true]} 21. cxb5 $1
+{[%c_effect
+b5;square;b5;type;GreatFind;size;100%25;animated;false;persistent;true]} 21...
+axb5 22. Bxb5 Rb8 23. a4 Rbc8 $6 {[%c_effect
+c8;square;c8;type;Inaccuracy;persistent;true]} 24. Bxf6 Bxf6 25. Bxd7 Bxb2 26.
+Bxe8 Rxe8 27. Rd2 Bc3 28. Rd3 Bb4 29. d6 Rd8 30. Ne5 f6 31. Nc4 Kf7 32. a5
+{[%c_effect
+g1;square;g1;type;Winner;animated;true,f7;square;f7;type;ResignBlack;animated;true]}
+1-0

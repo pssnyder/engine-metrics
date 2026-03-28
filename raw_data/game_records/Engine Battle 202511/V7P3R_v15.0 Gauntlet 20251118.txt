@@ -1,0 +1,19 @@
+   Engine             Score   V7
+1: V7P3R_v15.1        11.5/21 ··· 
+2: MaterialOpponent   3.0/3   111 
+3: Stockfish 1%       2.5/3   1=1 
+4: V7P3R_v14.1        2.0/3   =1= 
+5: SlowMate_v3.1      1.5/3   =10 
+6: C0BR4_v3.1         0.5/3   00= 
+7: RandomOpponent     0.0/3   000 
+7: PositionalOpponent 0.0/3   000 
+
+21 games played / Tournament is finished
+Name of the tournament: V7P3R_v15.0 Gauntlet 20251118
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R_v15.0 Gauntlet 20251118.pgn
+Website: 
+E-Mail Address: 

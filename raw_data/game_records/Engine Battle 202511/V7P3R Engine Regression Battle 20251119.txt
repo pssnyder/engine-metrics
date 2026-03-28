@@ -1,0 +1,18 @@
+   Engine             Score V7V7MaPoV7RaV7    S-B
+1: V7P3R_v15.1        5.0/6  · = = 1 1 1 1    9.00
+2: V7P3R_v14.1        4.5/5  = · ? 1 1 1 1    7.50
+3: MaterialOpponent   3.5/4  = ? · ? 1 1 1    6.00
+4: PositionalOpponent 1.5/4  0 0 ? · =   1    1.75
+4: V7P3R_v15.3        1.5/6  0 0 0 = · 0 1    1.75
+6: RandomOpponent     1.0/5  0 0 0   1 · 0    1.50
+7: V7P3R_v15.4        1.0/6  0 0 0 0 0 1 ·    1.00
+
+18 of 63 games played
+Name of the tournament: V7P3R Engine Regression Battle 20251119
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R Engine Regression Battle 20251119.pgn
+Website: 
+E-Mail Address: 

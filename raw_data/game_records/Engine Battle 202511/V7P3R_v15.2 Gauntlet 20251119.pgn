@@ -1,0 +1,103 @@
+[Event "V7P3R_v15.2 Gauntlet 20251119"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.11.19"]
+[Round "1"]
+[White "V7P3R_v15.2"]
+[Black "V7P3R_v15.1"]
+[Result "0-1"]
+[BlackElo "1560"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "09:24:25"]
+[WhiteElo "2000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "32"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3 e7-e5 Nh3-g5 Qd8xg5 Rh1-g1) +0.20/6 10} Nh6 {(Ng8-h6 Nh3-g5
+Nb8-c6 Nb1-c3 Nh6-f5 Ng5-e4) 0.00/6 2} 2. Na3 {(Nb1-a3 Nh6-f5 Nh3-f4
+Nf5-d4) +0.20/6 9} Nc6 {(Nb8-c6 d2-d4 Nh6-f5 e2-e3 a7-a6 Nh3-f4) 0.00/6 2}
+3. d4 {(d2-d4 e7-e5 Bc1xh6 g7xh6 d4xe5) -0.20/6 8} Nf5 4. Qd3 {(Qd1-d3
+Nf5xd4 Qd3-e4 e7-e5 Qe4xe5+) +0.40/7 8} Nfxd4 {(Nf5xd4 e2-e3 Nd4-e6 Qd3-d5
+d7-d6 Bc1-d2) +1.00/6 7} 5. Qe4 d5 {(d7-d5 Qe4-e3 Bc8xh3 g2xh3 Qd8-d6
+Bf1-g2) +1.90/6 6} 6. Qxd4 {(Qe4xd4 Nc6xd4 g2-g3 Nd4-f3+ e2xf3) +3.30/6 7}
+Nxd4 {(Nc6xd4 Bc1-e3 Nd4-c6 Nh3-f4 Qd8-d6 Nf4-d3) +7.00/6 1} 7. g3 Qd6
+{(Qd8-d6 Bc1-e3 Qd6-e5 Nh3-f4 Nd4-f5 O-O-O) +7.70/6 9} 8. c3 {(c2-c3 Nd4-e6
+Bc1-f4 Ne6xf4 Nh3xf4 Qd6-e5) -7.70/6 7} Nc6 {(Nd4-c6 Bc1-f4 e7-e5 Na3-b5
+Qd6-c5 Nb5xc7+) +7.20/6 8} 9. Nc4 {(Na3-c4 d5xc4 Nh3-f4 Qd6-c5 Ke1-d2)
+-7.00/6 6} dxc4 {(d5xc4 Nh3-g5 f7-f6 Ng5-e4 Qd6-d5 Bf1-g2) +10.20/6 2} 10.
+Nf4 e5 {(e7-e5 Nf4-g2 Qd6-d5 f2-f3 Bc8-f5 Ng2-e3) +11.10/6 3} 11. e4
+{(e2-e4 e5xf4 Bc1xf4 Qd6-e6 Bf1-g2) -9.60/6 7} exf4 {(e5xf4 Bc1xf4 Qd6-e6
+f2-f3 Bf8-d6 Bf4xd6) +12.00/6 2} 12. Bxf4 Qe6 13. Be5 {(Bf4-e5 Nc6xe5
+Bf1xc4 Ne5-f3+ Ke1-e2) -11.10/6 6} Qxe5 {(Qe6xe5 Bf1-g2 g7-g5 O-O Rh8-g8
+Bg2-f3) +15.00/6 2} 14. Bxc4 {(Bf1xc4 Qe5xe4+ Ke1-f1 Qe4xc4+ Kf1-g2)
+-14.20/6 5} Qxe4+ {(Qe5xe4+ Ke1-d2 Qe4xc4 Rh1-e1+ Bc8-e6 Re1-f1) +18.00/6
+1} 15. Kf1 Bh3+ {(Bc8-h3+ Kf1-g1 Qe4-g2+) +299.97/6 1} 16. Kg1 {(Kf1-g1
+Qe4-g2+) -299.98/8 2} Qg2# 0-1
+
+[Event "V7P3R_v15.2 Gauntlet 20251119"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.11.19"]
+[Round "1"]
+[White "V7P3R_v15.2"]
+[Black "C0BR4_v3.1"]
+[Result "0-1"]
+[BlackElo "1530"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "09:26:53"]
+[WhiteElo "2000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "40"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 e7-e5 d2-d4 Nb8-c6 d4xe5) +0.80/6 10} c6 2. Nf3 {(Ng1-f3
+d7-d5 Nf3-e5 f7-f6 Ne5xc6 b7xc6) +1.40/7 9} Nf6 3. b4 {(b2-b4 d7-d5 Nc3xd5
+c6xd5 Nf3-d4) +0.80/6 8} Qc7 {(Qd8-c7 Bc1-b2 Qc7-f4 Bb2-a3) -0.25/4 0} 4.
+Ne4 {(Nc3-e4 Nf6xe4 Nf3-d4 Ne4xf2) +1.10/6 8} Nxe4 {(Nf6xe4 d2-d3 Ne4xf2
+Ke1xf2) +3.38/4 0} 5. Nd4 Nxf2 {(Ne4xf2 Ke1xf2 Qc7-f4+ Nd4-f3) +4.23/4 0}
+6. Kxf2 {(Ke1xf2 Qc7-e5 Bc1-b2 d7-d5 Bb2-c3 Qe5-f5+) -1.60/7 7} Qb6
+{(Qc7-b6 e2-e3 c6-c5 b4xc5) +3.48/4 0} 7. e4 {(e2-e4 Qb6xd4+ Kf2-f3 Qd4xa1
+Bc1-b2) +1.00/7 7} Qxd4+ {(Qb6xd4+ Kf2-e1 Qd4xa1 Bf1-c4) +9.51/4 0} 8. Kf3
+Qxa1 {(Qd4xa1 Kf3-f2 Qa1-d4+ Kf2-e1) +11.40/4 0} 9. d4 {(d2-d4 e7-e5 d4-d5
+Qa1-c3+ Qd1-d3 Qc3xd3+) -6.50/6 7} Qxa2 {(Qa1xa2 Kf3-f2 Nb8-a6 Kf2-g1)
++12.85/4 0} 10. Qd3 {(Qd1-d3 Qa2-e6 Bc1-b2 Ke8-d8 Rh1-g1) -5.80/6 7} Na6
+{(Nb8-a6 Bc1-a3 e7-e6 Qd3-c3) +13.76/4 0} 11. b5 {(b4-b5 Na6-b4 Qd3-e3
+Qa2-e6 b5xc6) -5.70/6 6} Nb4 {(Na6-b4 Qd3-c4 Qa2xc2 Qc4xc2) +14.58/4 0} 12.
+Qe3 Nxc2 {(Nb4xc2 Qe3-c3 Qa2-a4 Bf1-c4) +15.81/4 0} 13. bxc6 {(b5xc6 Nc2xe3
+c6xd7+ Ke8-d8 d7xc8Q+ Ra8xc8) -4.50/7 5} Nxe3 {(Nc2xe3 c6xd7+ Bc8xd7
+Bc1xe3) +19.66/4 0} 14. cxd7+ Bxd7 {(Bc8xd7 Bc1xe3 Qa2-e6 Bf1-d3) +19.77/4
+0} 15. Kxe3 {(Kf3xe3 Qa2-e6 Bf1-b5 Bd7xb5 Bc1-b2) -12.80/7 5} Qb3+
+{(Qa2-b3+ Ke3-f4 Rh8-g8 Kf4-e5) +20.12/4 0} 16. Ke2 {(Ke3-e2 Qb3-c4+ Ke2-e3
+Qc4xc1+ Ke3-e2 Qc1-c4+ Ke2-f2) -13.20/8 5} Qc2+ {(Qb3-c2+ Bc1-d2 Qc2xe4+
+Bd2-e3) +21.49/4 0} 17. Ke1 {(Ke2-e1 Qc2xe4+ Ke1-d2 Qe4xd4+ Bf1-d3 O-O-O
+Bc1-a3) -13.20/8 5} Qxc1+ {(Qc2xc1+ Ke1-f2 Bd7-c6 Kf2-g1) +22.61/4 0} 18.
+Kf2 {(Ke1-f2 Qc1-f4+ Kf2-e1 Qf4xe4+ Ke1-d2 Qe4xd4+ Bf1-d3 O-O-O) -15.50/8
+5} Qf4+ {(Qc1-f4+ Kf2-e1 Qf4xe4+ Bf1-e2) +24.29/4 0} 19. Ke1 Qe3+ {(Qf4-e3+
+Bf1-e2 Bd7-b5 d4-d5) +24.90/4 0} 20. Kd1 {(Ke1-d1 Bd7-a4+) -17.10/8 5} Ba4#
+{(Bd7-a4+) +299.97/2 0} 0-1
+
+[Event "V7P3R_v15.2 Gauntlet 20251119"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.11.19"]
+[Round "1"]
+[White "V7P3R_v15.2"]
+[Black "MaterialOpponent"]
+[Result "*"]
+[BlackElo "1400"]
+[ECO "A00"]
+[Opening "Amar (Paris) Opening"]
+[Time "09:28:53"]
+[WhiteElo "2000"]
+[TimeControl "120+1"]
+[Termination "unterminated"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nh3 {(Ng1-h3 e7-e5 Nh3-g5 Qd8xg5 Rh1-g1) +0.20/6 9} *
+

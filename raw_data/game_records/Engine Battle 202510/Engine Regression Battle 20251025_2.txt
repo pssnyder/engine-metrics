@@ -1,0 +1,15 @@
+   Engine          Score         V7        V7        V7        Ra    S-B
+1: V7P3R_v14.0     20.5/24 ········· 0=010111  11111111  11111111   151.75
+2: V7P3R_v12.6     19.5/24 1=101000  ········· 11111111  11111111?  135.75
+3: V7P3R_v13.2     8.0/24  00000000  00000000  ········· 11111111     0.00
+4: Random_Opponent 0.0/24  00000000  00000000? 00000000  ·········    0.00
+
+48 of 60 games played
+Name of the tournament: Engine Regression Battle 20251025_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 2/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20251025_2.pgn
+Website: 
+E-Mail Address: 

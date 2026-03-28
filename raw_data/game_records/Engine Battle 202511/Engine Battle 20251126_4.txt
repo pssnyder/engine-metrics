@@ -1,0 +1,17 @@
+   Engine                  Score  V7
+1: V7P3R_v17.4             7.0/10 ·· 
+2: Stockfish 1%            2.0/2  11 
+3: V7P3R_v17.3             1.0/2  01 
+4: C0BR4_v3.2              0.0/2  00 
+4: SlowMate_v3.1           0.0/2  00 
+4: PositionalOpponent_v2.0 0.0/2  00 
+
+10 games played / Tournament is finished
+Name of the tournament: Engine Battle 20251126_4
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 10/5
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20251126_4.pgn
+Website: 
+E-Mail Address: 

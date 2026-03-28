@@ -1,0 +1,20 @@
+   Engine      Score   V7  V7  V7  V7  V7  V7  V7  V7  V7    S-B
+1: V7P3R_v17.1 13.0/16 ··· ==  ==  1=  1=  11  11  11  11    77.50
+2: V7P3R_v17.2 12.5/17 ==  ··· ==  01  =1  11= =1  11  11    73.25
+3: V7P3R_v17.3 11.5/15 ==  ==  ··· 10  =1  11  1?  11  11    69.50
+4: V7P3R_v17.0 10.0/15 0=  10  01  ··· =   11  =1  =1  11    57.75
+5: V7P3R_v17.7 7.0/14  0=  =0  =0  =   ··· =0  1=  1   11    37.75
+6: V7P3R_v12.6 5.0/16  00  00= 00  00  =1  ··· ==  01  1     25.75
+7: V7P3R_v17.6 4.5/14  00  =0  0?  =0  0=  ==  ··· ==  1     24.25
+8: V7P3R_v14.1 4.0/15  00  00  00  =0  0   10  ==  ··· =1    15.25
+9: V7P3R_v16.1 0.5/14  00  00  00  00  00  0   0   =0  ···    2.00
+
+68 of 72 games played
+Name of the tournament: V7P3R Regression Battle 20251210_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 30/5
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R Regression Battle 20251210_2.pgn
+Website: 
+E-Mail Address: 

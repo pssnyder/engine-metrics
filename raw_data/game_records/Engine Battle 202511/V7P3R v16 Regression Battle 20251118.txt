@@ -1,0 +1,19 @@
+   Engine             Score  V7
+1: V7P3R_v16.0        6.0/11 ·· 
+2: V7P3R_v14.1        2.0/2  11 
+2: MaterialOpponent   2.0/2  11 
+4: V7P3R_v12.6        1.0/2  10 
+5: PositionalOpponent 0.0/2  00 
+5: CoverageOpponent   0.0/1  0? 
+5: RandomOpponent     0.0/1  0  
+5: CaptureOpponent    0.0/1  0  
+
+11 of 14 games played
+Name of the tournament: V7P3R v16 Regression Battle 20251118
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 1/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R v16 Regression Battle 20251118.pgn
+Website: 
+E-Mail Address: 

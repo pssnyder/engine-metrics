@@ -1,0 +1,2107 @@
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v13.2_Engine"]
+[Black "V7P3R_v14.0"]
+[Result "*"]
+[BlackElo "100"]
+[Time "18:57:26"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "unterminated"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+ *
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v12.6"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:01:20"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "31"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nf6 2. Nc3 {(Nb1-c3 e7-e6
+d2-d4) +0.61/3 1} h6 3. Nf3 {(Ng1-f3 e7-e6 d2-d4) +0.73/3 1} Ne4 4. Nxe4
+{(Nc3xe4 f7-f5 Ne4-c3 e7-e6) +6.01/4 2} g5 5. d4 {(d2-d4 e7-e6 Ne4-c3)
++7.03/3 1} e5 6. Nxe5 {(Nf3xe5 c7-c6 Ne4-c3 Qd8-f6) +8.77/4 7} Qf6 7. Nxf6+
+{(Ne4xf6+ Ke8-e7 Nf6-d5+ Ke7-e8 Nd5xc7+) +30.74/5 10} Ke7 8. Nd5+ {(Nf6-d5+
+Ke7-e8 Nd5xc7+) 0.00/1 0} Ke8 9. Nxc7+ {(Nd5xc7+) 0.00/1 0} Kd8 10. Nxa8
+{(Nc7xa8 Rh8-h7 a2-a3 d7-d5) +39.37/4 3} Bc5 11. Nxf7+ {(Ne5xf7+ Kd8-e7
+Nf7xh8 Bc5-b4+) +50.56/4 4} Ke7 12. Nxh8 {(Nf7xh8 Bc5-b4+) 0.00/1 0} Ba3
+13. bxa3 {(b2xa3 Ke7-f8 Bf1-c4 Kf8-g7) +56.91/4 3} g4 14. Qxg4 {(Qd1xg4
+Nb8-c6 Qg4-h4+ Ke7-e8 Qh4xh6) +63.33/5 6} Kd6 15. Qe4 {(Qg4-e4 Nb8-c6
+Nh8-f7+) +289.96/5 10} b5 16. Nf7# {(Nh8-f7+) +289.97/4 2} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:02:28"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} Nc6 {(Nb8-c6 Nf3-g5
+Nc6-b4 c2-c3 f7-f6) -1.65/5 1} 2. e3 {(e2-e3 e7-e6 Bf1-b5 Ng8-f6) +0.24/4
+2} Nb4 {(Nc6-b4 Nf3-g5 f7-f6 Qd1-h5+ g7-g6) -1.03/5 3} 3. c3 {(c2-c3 Nb4-c6
+Bf1-b5 e7-e6) +0.70/4 5} Nc6 {(Nb4-c6 Qd1-a4 Ng8-f6 Nf3-g5 Nf6-d5) -1.73/5
+3} 4. Bb5 {(Bf1-b5 e7-e6) 0.00/1 0} Nf6 {(Ng8-f6 Nf3-g5 Nf6-e4 Rh1-g1
+Ra8-b8) -3.22/5 3} 5. Bxc6 {(Bb5xc6 d7xc6 d2-d3 e7-e6) +0.78/4 8} Nd5
+{(Nf6-d5 Nf3-e5 d7xc6 Qd1-f3) -0.92/5 5} 6. Bxd5 {(Bc6xd5 e7-e6 Bd5-e4
+f7-f6) +12.38/4 1} e6 {(e7-e6 Nf3-g5 e6xd5 Qd1-f3 Bf8-b4) -6.24/6 2} 7. Be4
+{(Bd5-e4 f7-f6) 0.00/1 0} Bd6 {(Bf8-d6 Nf3-g5 Qd8-f6 Qd1-f3) -4.87/5 4} 8.
+Qb3 {(Qd1-b3 c7-c6 d2-d3) +12.88/3 1} f5 {(f7-f5 Nf3-g5 Qd8-f6 Qb3-a4
+f5xe4) -3.30/5 5} 9. Bd3 {(Be4-d3 O-O O-O f5-f4) +12.20/4 5} Qf6 {(Qd8-f6
+Nf3-g5 Rh8-g8 Qb3-b5 Bd6-f4) -7.18/5 5} 10. O-O {(O-O O-O h2-h3) +12.71/3
+2} Bf4 {(Bd6-f4 e3xf4 Qf6-h6 Nf3-e5) -5.65/5 3} 11. exf4 {(e3xf4 O-O h2-h3
+d7-d5) +18.18/4 4} Qh6 {(Qf6-h6 Nf3-e5) 0.00/1} 12. Qb4 {(Qb3-b4 d7-d6
+Qb4-b5+ c7-c6) +19.13/4 8} a5 {(a7-a5 Qb4-d6 Rh8-g8 Qd6xd7+) -0.88/4 3} 13.
+Qc4 {(Qb4-c4 c7-c6 h2-h3 O-O) +18.42/4 5} d5 {(d7-d5 Qc4-c5 Qh6-h5 Qc5-b5+)
+-7.29/4 2} 14. Qxc7 {(Qc4xc7 O-O h2-h3 g7-g6) +20.14/4 2} d4 {(d5-d4
+Bd3-b5+ Ke8-f8 Qc7-d8+) -9.23/5 4} 15. Bb5+ {(Bd3-b5+ Ke8-f8 Qc7-d8+
+Kf8-f7) +29.25/4 4} Kf8 {(Ke8-f8 Qc7-d8+) 0.00/1} 16. Qd8+ {(Qc7-d8+
+Kf8-f7) 0.00/1 0} Kf7 {(Kf8-f7 Nf3-e5+) -289.97/6 1} 17. Ne5# {(Nf3-e5+)
++289.97/4 3} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:04:35"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "106"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. e3 {(e2-e3 Ng8-f6 d2-d3 d7-d6) +0.20/4 2} f6
+{(f7-f6 Bf1-b5) 0.00/1 0} 3. d3 {(d2-d3 Nb8-c6 Nb1-c3 d7-d6) +0.32/4 3} Nc6
+{(Nb8-c6 h2-h3 d7-d5 Nb1-c3) -0.15/4 8} 4. Nc3 {(Nb1-c3 d7-d6) 0.00/1 0}
+Bb4 {(Bf8-b4 Qd1-d2 d7-d5) +0.11/3 1} 5. Qd2 {(Qd1-d2 Bb4xc3 Qd2xc3 d7-d6)
++0.02/4 2} Bxc3 {(Bb4xc3 Qd2xc3 d7-d5) +0.33/3 2} 6. Qxc3 {(Qd2xc3 d7-d6)
+0.00/1 0} e5 {(e6-e5 a2-a3 d7-d6) +0.28/3 2} 7. g3 {(g2-g3 d7-d5 h2-h4)
++0.18/3 2} d5 {(d7-d5 Qc3-c5 Qd8-d6) +0.23/3 1} 8. h4 {(h2-h4 e5-e4 d3xe4)
+-0.12/3 3} e4 {(e5-e4 Nf3-d4 Ng8-e7) +0.54/3 2} 9. Nd4 {(Nf3-d4 Ng8-e7
+Nd4xc6 Ne7xc6) -0.25/4 5} Nge7 {(Ng8-e7 d3xe4 d5xe4) +0.54/3 2} 10. Nxc6
+{(Nd4xc6 Ne7xc6) 0.00/1 0} Nxc6 {(Ne7xc6 Bf1-g2 Bc8-f5) +0.69/3 1} 11. dxe4
+{(d3xe4 d5xe4 Bf1-b5 Bc8-d7) -0.04/4 3} dxe4 {(d5xe4 Bf1-c4 Nc6-e5 O-O)
+-0.81/4 8} 12. Bb5 {(Bf1-b5 Bc8-d7) 0.00/1 0} Qd5 {(Qd8-d5 Bb5xc6+ Qd5xc6
+O-O) -0.60/4 5} 13. Bxc6+ {(Bb5xc6+ b7xc6 O-O O-O) +0.59/4 3} Qxc6 {(Qd5xc6
+O-O) 0.00/1 0} 14. Qxc6+ {(Qc3xc6+ b7xc6 c2-c3 O-O O-O) +0.67/5 3} bxc6
+{(b7xc6 b2-b3 Bc8-a6 c2-c4 O-O O-O) -1.00/6 8} 15. c3 {(c2-c3 O-O O-O)
+0.00/1 0} Bf5 {(Bc8-f5 b2-b3 O-O-O c3-c4 g7-g5 O-O) -0.27/6 16} 16. a3
+{(a2-a3 O-O-O Ra1-b1 g7-g5 O-O) +0.39/5 4} O-O-O {(O-O-O Ra1-b1 g7-g5 O-O)
+-0.27/4 1} 17. Rb1 {(Ra1-b1 g7-g5 O-O) 0.00/1 0} g5 {(g7-g5 O-O) 0.00/1 0}
+18. O-O {(O-O) 0.00/1 0} gxh4 {(g5xh4 g3xh4 Bf5-h3 Rf1-e1 f6-f5) +1.41/5 3}
+19. gxh4 {(g3xh4 Rh8-g8+ Kg1-h2 Rg8-g4 h4-h5 Rg4-g8) -0.54/6 4} Bh3
+{(Bf5-h3 Rf1-e1 f6-f5) 0.00/1 0} 20. Re1 {(Rf1-e1 Rh8-g8+ Kg1-h2 Bh3-e6
+Rb1-a1 f6-f5) -0.47/6 3} f5 {(f6-f5) 0.00/1 0} 21. Kh2 {(Kg1-h2 Bh3-g4
+Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) -0.45/6 5} Bg4 {(Bh3-g4 Kh2-g1 Bg4-h3 Kg1-h2
+Bh3-g4) +0.37/5 5} 22. Kg1 {(Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} Bh3
+{(Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} 23. Kh2 {(Kg1-h2 Bh3-g4) 0.00/1 0} Bg4
+{(Bh3-g4) 0.00/1 0} 24. Rg1 {(Re1-g1 Bg4-e2 Rb1-a1 h7-h6 Rg1-g7) -0.47/5 3}
+Rhg8 {(Rh8-g8 Rb1-a1 h7-h6 Rg1-f1) +0.62/4 3} 25. Rf1 {(Rg1-f1 Bg4-f3
+Rb1-a1 Rg8-g2+ Kh2-h3) -0.65/5 6} Bf3 {(Bg4-f3 Rf1-g1 Rg8xg1 Kh2xg1 h7-h6)
++1.41/5 6} 26. Ra1 {(Rb1-a1 Rg8-g2+ Kh2-h3) 0.00/1 0} Rg4 {(Rg8-g4 h4-h5
+Rg4-h4+ Kh2-g1) +2.89/4 1} 27. Re1 {(Rf1-e1 Rg4xh4+ Kh2-g3 Rh4-h5 Re1-g1
+h7-h6) -3.62/6 6} Rxh4+ {(Rg4xh4+ Kh2-g3 Rh4-h5 Kg3-f4 h7-h6) +4.37/5 5}
+28. Kg3 {(Kh2-g3 Rh4-h5 Re1-g1 h7-h6) 0.00/1 0} Rh5 {(Rh4-h5 Kg3-f4 h7-h6)
+0.00/1 0} 29. Rg1 {(Re1-g1 h7-h6) 0.00/1 0} Rg8+ {(Rd8-g8+ Kg3-f4 Rg8xg1
+Kf4-e5 Rg1-g6) +12.87/5 5} 30. Kf4 {(Kg3-f4 Rg8xg1 Ra1-b1 Rh5-h1 Kf4xf5
+Rg1xc1) -15.25/6 2} Rxg1 {(Rg8xg1 Kf4-e5 Rg1-g6) 0.00/1 0} 31. Rb1 {(Ra1-b1
+Rh5-h1 Kf4xf5 Rg1xc1) 0.00/1} Rhh1 {(Rh5-h1 Kf4xf5 Kc8-d7 Kf5-f6) +15.36/4
+1} 32. Kxf5 {(Kf4xf5 Rg1xc1) 0.00/1 0} Kd7 {(Kc8-d7 Kf5-f6) 0.00/1} 33. c4
+{(c3-c4 Kd7-e8 b2-b4 Rg1xc1 Rb1xc1) -16.35/5 4} Ke8 {(Kd7-e8 b2-b4 Rg1xc1
+Rb1xc1) +16.46/4 2} 34. b4 {(b2-b4 Rg1xc1 Rb1xc1) 0.00/1} Rxc1 {(Rg1xc1
+Rb1xc1) 0.00/1 0} 35. Rxc1 {(Rb1xc1) 0.00/1 0} Rxc1 {(Rh1xc1 c4-c5 h7-h5
+Kf5-f4 Rc1-a1 Kf4-g5) +18.49/6 3} 36. c5 {(c4-c5 h7-h5 Kf5-f4 Rc1-a1 Kf4-g5
+Ra1xa3) -18.57/6 2} h5 {(h7-h5 Kf5-f4 Rc1-a1 Kf4-g5) 0.00/1} 37. Kf4
+{(Kf5-f4 Rc1-a1 Kf4-g5 Ra1xa3) 0.00/1 0} Ra1 {(Rc1-a1 Kf4-g5) 0.00/1 0} 38.
+Kg5 {(Kf4-g5 Ra1xa3) 0.00/1 0} Rxa3 {(Ra1xa3 Kg5-f6 a7-a5 b4xa5 Ra3xa5
+Kf6-g7) +22.14/6 2} 39. Kf6 {(Kg5-f6 a7-a5 b4xa5 Ra3xa5 Kf6-g7 Ra5xc5)
+-22.20/6 1} a5 {(a7-a5 b4xa5 Ra3xa5 Kf6-g7) 0.00/1 0} 40. bxa5 {(b4xa5
+Ra3xa5 Kf6-g7 Ra5xc5) 0.00/1 0} Rxa5 {(Ra3xa5 Kf6-g7) 0.00/1 0} 41. Kg7
+{(Kf6-g7 Ra5xc5) 0.00/1 0} Rxc5 {(Ra5xc5 Kg7-g6 Bf3-g4 Kg6-h6 Rc5-c2
+Kh6-g7) +24.44/6 0} 42. Kg6 {(Kg7-g6 Rc5-c2 Kg6-h6 Rc2xf2 Kh6-g5 c6-c5)
+-24.53/6 0} Bg4 {(Bf3-g4 Kg6-h6 Rc5-c2 Kh6-g7) 0.00/1 0} 43. Kh6 {(Kg6-h6
+h5-h4 Kh6-h7 Rc5-c2 Kh7-g7 Rc2xf2) -24.73/6 0} Rc2 {(Rc5-c2 Kh6-g7) 0.00/1
+0} 44. Kh7 {(Kh6-h7 Rc2xf2 Kh7-h6 Rf2-f6+ Kh6-h7 Rf6-f2) -27.38/6 0} Rxf2
+{(Rc2xf2 Kh7-h6 Rf2-f3 Kh6-g6 c6-c5 Kg6-g7) +27.64/6 2} 45. Kh6 {(Kh7-h6
+Rf2-f6+ Kh6-h7 Rf6-f2) 0.00/1 0} Rf3 {(Rf2-f3 Kh6-g6 c6-c5 Kg6-g7) 0.00/1}
+46. Kh7 {(Kh6-h7 Rf3xe3 Kh7-h6 c6-c5 Kh6-g5 c5-c4) -27.88/6 0} h4 {(h5-h4
+Kh7-h6 h4-h3 Kh6-g5 Bg4-c8 Kg5-g6) +28.59/6 2} 47. Kh6 {(Kh7-h6 h4-h3
+Kh6-g5 h3-h2 Kg5xg4 h2-h1Q) -33.68/6 1} h3 {(h4-h3 Kh6-g5 Bg4-c8 Kg5-g6)
+0.00/1 0} 48. Kg5 {(Kh6-g5 h3-h2 Kg5xg4 h2-h1Q) 0.00/1 0} Bc8 {(Bg4-c8
+Kg5-g6) 0.00/1 0} 49. Kh6 {(Kg5-h6 h3-h2 Kh6-h7 Rf3xe3 Kh7-g7 h2-h1Q)
+-42.66/6 0} h2 {(h3-h2 Kh6-h7 h2-h1Q+ Kh7-g7 Rf3xe3 Kg7-g6) +44.48/6 3} 50.
+Kh7 {(Kh6-h7 Rf3xe3 Kh7-g7 h2-h1Q) 0.00/1} h1=Q+ {(h2-h1Q+ Kh7-g7 Rf3xe3
+Kg7-g6) 0.00/1 0} 51. Kg7 {(Kh7-g7 Rf3-g3+ Kg7-f6 Qh1-h8+) -289.96/6 3}
+Rxe3 {(Rf3xe3 Kg7-g6) 0.00/1 0} 52. Kg6 {(Kg7-g6 Re3-g3+ Kg6-f6 Qh1-h8+)
+-289.96/6 3} Rg3+ {(Re3-g3+ Kg6-f6 Qh1-h8+) +289.96/5 4} 53. Kf6 {(Kg6-f6
+Qh1-h8+) 0.00/1 0} Qh8# {(Qh1-h8+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v13.2"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "19:08:41"]
+[Variation "1...Nf6 2.Nf3"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "45"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} Nf6 2. Nc3 {(Nb1-c3
+Nf6-g4 Nf3-g5) 0.00/1 0} b5 3. Ng5 {(Nf3-g5 Bc8-b7 Rh1-g1 h7-h6) +1.27/4 1}
+h6 4. g3 {(g2-g3 h6xg5 Bf1-g2 Bc8-b7) +0.20/5 3} Rh7 5. Bg2 {(Bf1-g2 h6xg5
+Bg2xa8 Bc8-b7 Nc3-d5) +0.47/5 2} g6 6. Bxa8 {(Bg2xa8 Bc8-b7 Nc3-d5 Nf6xd5
+c2-c4) +1.53/6 2} c6 7. Rf1 {(Rh1-f1 Bc8-b7 Nc3-e4 h6xg5) +5.22/4 1} a5 8.
+b4 {(b2-b4 a5xb4 Ra1-b1 h6xg5) +5.10/4 2} c5 9. Nce4 {(Nc3-e4 h6xg5 c2-c4
+a5xb4) +5.96/4 2} c4 10. Nxh7 {(Ng5xh7 Bf8-g7 Nh7xf6+ e7xf6 Ne4-d6+)
++9.19/5 3} d5 11. d3 {(d2-d3 Bc8-h3 Ne4xf6+ e7xf6) +10.53/5 3} Qb6 12. Be3
+{(Bc1-e3 d5xe4 Be3xb6 Nf6xh7) +17.17/4 3} Ng4 13. Bb7 {(Ba8-b7 Bf8-g7
+Ne4-f6+ Bg7xf6) +10.81/5 5} Qf6 14. Nhxf6+ {(Nh7xf6+ e7xf6 Bb7-c6+ Nb8xc6
+Ne4xf6+) +13.88/5 4} Nxf6 15. a4 {(a2-a4 Nf6xe4 d3xe4 Bf8-g7) +15.79/5 3}
+e6 16. Nxf6+ {(Ne4xf6+ Ke8-d8 Be3-b6+ Kd8-e7 Nf6xd5+) +19.45/5 3} Kd8 17.
+Bb6+ {(Be3-b6+ Kd8-e7 Nf6xd5+) 0.00/1 0} Ke7 18. Nxd5+ {(Nf6xd5+) 0.00/1}
+Ke8 19. Nf6+ {(Nd5-f6+ Ke8-e7 Nf6-g8+ Ke7-d6 d3xc4+) +21.20/5 3} Ke7 20.
+Ng8+ {(Nf6-g8+ Ke7-d6 d3xc4+) 0.00/1 0} Kd6 21. dxc4+ {(d3xc4+) 0.00/1 0}
+Ke5 22. Qd4+ {(Qd1-d4+ Ke5-f5 Qd4-f4+) +289.96/6 3} Kf5 23. Qf4# {(Qd4-f4+)
+0.00/1 0} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:09:49"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 Qd1-f3 Nc6-b4
+Qf3-e4 Nb4xc2+) -1.67/5 2} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 1} Nb4
+{(Nc6-b4 Ng1-f3 Nb4xc2+ Ke1-d2 g7-g6) -0.80/5 3} 3. c3 {(c2-c3 Nb4-c6
+Ng1-f3) +1.30/3 1} e5 {(e7-e5 d4xe5 Nb4-c2+ Ke1-e2 Bf8-b4) -1.94/5 4} 4.
+cxb4 {(c3xb4 Bf8xb4+ Nb1-c3 e5xd4) +4.36/4 3} Nh6 {(Ng8-h6 d4xe5 Bf8xb4+
+Nb1-c3) +0.05/5 5} 5. dxe5 {(d4xe5 Bf8xb4+ Nb1-c3 Bb4xc3+) +6.67/4 6} Bxb4+
+{(Bf8xb4+ Nb1-c3) 0.00/1 0} 6. Nc3 {(Nb1-c3 Bb4xc3+) 0.00/1 0} Qe7 {(Qd8-e7
+Qd1-a4 Nh6-g4 Bf1-c4) +2.09/5 7} 7. Nf3 {(Ng1-f3 c7-c6 Bf1-c4) +6.89/3 2}
+Ng4 {(Nh6-g4 Nf3-g5 Rh8-g8 a2-a3) +0.28/4 2} 8. Qd4 {(Qd1-d4 Bb4xc3+
+Qd4xc3) +6.91/3 3} Bc5 {(Bb4-c5 Nc3-d5 Bc5xd4 Nd5xe7) +0.18/4 4} 9. Qxg4
+{(Qd4xg4 O-O Nc3-d5 Qe7-e6) +12.52/4 7} d6 {(d7-d6 Bf1-b5+ Ke8-d8 Nc3-d5)
+-3.42/4 2} 10. Qxg7 {(Qg4xg7 Qe7-f8 Qg7-f6 c7-c6) +15.92/4 5} Qf6 {(Qe7-f6
+Bf1-b5+ Bc8-d7 Bb5xd7+) -9.49/4 2} 11. exf6 {(e5xf6 Rh8-f8 Qg7xh7 Ke8-d8)
++35.70/4 3} Rf8 {(Rh8-f8 Bf1-b5+ c7-c6 Bb5xc6+) -18.49/5 4} 12. Qxh7
+{(Qg7xh7 Ke8-d8) 0.00/1 0} Bf5 {(Bc8-f5 Bf1-b5+ c7-c6 Bb5-a6 Bc5-b4)
+-15.93/5 3} 13. Qxf5 {(Qh7xf5 Ke8-d8 h2-h4 c7-c6) +42.24/4 3} Rg8 {(Rf8-g8
+Bf1-b5+ c7-c6 Qf5-e4+ Ke8-d8) -22.96/5 3} 14. Qe4+ {(Qf5-e4+ Ke8-d7 Qe4-e7+
+Kd7-c6) +47.41/4 6} Kd7 {(Ke8-d7 Qe4-f5+ Kd7-e8 Bf1-b5+ c7-c6) -23.23/5 2
+Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "1"]
+[White "Random_Opponent"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:11:40"]
+[Variation "1...e6 2.g3"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. g3 e6 {(e7-e6 f2-f3 d7-d6 d2-d3 Ng8-f6) +0.04/5 6} 2. Nf3 Nc6 {(Nb8-c6
+e2-e3 f7-f6 d2-d3) -0.13/4 6} 3. a4 Nf6 {(Ng8-f6 e2-e3 Bf8-b4 Nb1-c3)
++0.24/4 7} 4. e3 Bb4 {(Bf8-b4 Nb1-c3) 0.00/1 0} 5. Bg2 d6 {(d7-d6 c2-c3
+Bb4-c5) +0.24/3 2} 6. Rf1 Ne4 {(Nf6-e4 c2-c3 Bb4-c5) +1.41/3 2} 7. Bh3 e5
+{(e6-e5 Bh3xc8 Qd8xc8) +1.70/3 4} 8. b3 Bxh3 {(Bc8xh3 Rf1-g1 f7-f6 c2-c3)
++7.07/4 5} 9. Qe2 Bxf1 {(Bh3xf1 Ke1xf1 O-O) +11.34/3 2} 10. c3 Bxe2
+{(Bf1xe2 Ke1xe2 Bb4-c5 Ke2-f1) +28.00/4 3} 11. Ba3 Bxc3 {(Bb4xc3 d2xc3
+Be2xf3 Ke1-f1) +36.28/4 6} 12. Bxd6 Bxa1 {(Bc3xa1 Bd6xe5 Qd8-d3 Be5xa1)
++42.59/4 6} 13. a5 Bxf3 {(Be2xf3 Bd6-a3 Qd8-d3 Nb1-c3) +53.48/4 2} 14. Nc3
+Nxd6 {(Ne4xd6 Nc3-a2 Nc6xa5 b3-b4 Na5-c6) +58.71/5 11} 15. Nd5 Bxd5
+{(Bf3xd5 f2-f4 e5xf4 g3xf4 Bd5xb3) +64.66/5 6} 16. d3 Bxb3 {(Bd5xb3 f2-f4
+e5xf4 g3xf4 Nc6xa5) +67.56/5 9} 17. f3 Nxa5 {(Nc6xa5 Ke1-e2 O-O e3-e4)
++68.41/4 1} 18. d4 exd4 {(e5xd4 e3xd4 Ba1xd4 Ke1-f1 O-O) +71.52/5 6} 19. h4
+dxe3 {(d4xe3 Ke1-e2 Nd6-f5 g3-g4) +75.28/4 1} 20. h5 Nf5 {(Nd6-f5 Ke1-f1
+Nf5xg3+ Kf1-g1) +79.42/4 1} 21. f4 Qd1# {(Qd8-d1+) +289.98/5 6} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "Random_Opponent"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:13:39"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "40"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 e6 {(e7-e6 e2-e3 f7-f6 Bf1-b5) -0.24/4 5} 2. e3 f6 {(f7-f6 Bf1-b5)
+0.00/1 0} 3. Ke2 Nc6 {(Nb8-c6 Ke2-e1 d7-d5 Nb1-c3) +1.99/4 6} 4. Rg1 d5
+{(d7-d5 Ke2-e1 Bf8-b4) +2.54/3 1} 5. g4 e5 {(e6-e5 Ke2-e1 e5-e4) +2.81/3 2}
+6. Kd3 e4+ {(e5-e4+ Kd3-e2 e4xf3+) +7.44/3 1} 7. Ke2 exf3+ {(e4xf3+ Ke2-e1
+Bf8-d6 Qd1xf3) +8.04/4 5} 8. Ke1 Bd6 {(Bf8-d6 Qd1xf3) 0.00/1 0} 9. Qxf3
+Bxh2 {(Bd6xh2 Rg1-g2 Qd8-d6) +6.92/3 2} 10. Qf4 Bxf4 {(Bh2xf4 e3xf4 Qd8-e7+
+Bf1-e2) +19.56/4 3} 11. Kd1 Bg5 {(Bf4-g5 d2-d4 Bg5-h4 f2-f3) +24.53/4 9}
+12. Ke1 Nh6 {(Ng8-h6 Bf1-h3 O-O d2-d3) +25.74/4 15} 13. c3 Bxg4 {(Bc8xg4
+Bf1-e2 Bg4xe2 Ke1xe2) +27.51/4 7} 14. d3 O-O {(O-O Bf1-e2 Bg4-h3) +28.69/3
+2} 15. a4 b6 {(b7-b6 Bf1-e2 Bg4-h3) +28.92/3 2} 16. b3 Na5 {(Nc6-a5 Ra1-a3
+c7-c5) +29.37/3 3} 17. f3 Nxb3 {(Na5xb3 Bc1-a3 Rf8-e8 f3xg4) +32.67/4 3}
+18. d4 Bxf3 {(Bg4xf3 Ke1-f2 Nb3xa1 Kf2xf3) +38.42/4 4} 19. a5 Bh4+
+{(Bg5-h4+ Rg1-g3 Bh4xg3+) +289.95/4 2} 20. Rg3 Bxg3# {(Bh4xg3+) 0.00/1 0}
+0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:15:11"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "27"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} Nc6 {(Nb8-c6 e2-e3
+Ng8-f6 d2-d3) -0.38/4 3} 2. Ng5 {(Nf3-g5 Nc6-b4 a2-a3 e7-e6 a3xb4) +0.74/5
+2} e5 {(e7-e5 d2-d3 f7-f6 Ng5-f3) +0.37/4 4} 3. Nc3 {(Nb1-c3 Bf8-b4 a2-a3
+Qd8-f6 a3xb4) -0.67/5 4} Qxg5 {(Qd8xg5 d2-d3 Qg5-h5 f2-f3) +5.71/4 2} 4. d3
+{(d2-d3 Bf8-b4 Bc1xg5 Bb4xc3+) +4.62/5 3} Qh5 {(Qg5-h5 f2-f3) 0.00/1 0} 5.
+Bh6 {(Bc1-h6 Bf8-b4 g2-g4 Bb4xc3+ Qd1-d2) -1.39/5 3} Nxh6 {(Ng8xh6 a2-a3
+f7-f6 f2-f3) +11.87/4 4} 6. Nb5 {(Nc3-b5 Bf8-b4+ c2-c3 Bb4xc3+ b2xc3)
+-4.12/5 2} Bd6 {(Bf8-d6 Nb5xd6+ c7xd6 f2-f3) +11.98/4 2} 7. Qd2 {(Qd1-d2
+Bd6-b4 Nb5xc7+ Ke8-f8) -3.22/5 3} Ng4 {(Nh6-g4 Qd2-c3 f7-f6 e2-e3) +12.28/4
+4} 8. Qc3 {(Qd2-c3 Nc6-b4 Nb5xc7+ Bd6xc7 Qc3-c4) -3.00/5 4} f6 {(f7-f6
+e2-e3) 0.00/1 0} 9. Qc5 {(Qc3-c5 Qh5-f7 h2-h3 a7-a6) -3.88/5 5} Bxc5
+{(Bd6xc5 Nb5xc7+ Ke8-e7 Nc7xa8 Ng4xf2) +20.70/5 4} 10. d4 {(d3-d4 Qh5-f7
+Nb5xc7+ Ke8-d8 f2-f3) -14.53/5 3} Bb6 {(Bc5-b6 f2-f3 e5xd4 O-O-O) +31.62/4
+6} 11. f3 {(f2-f3 Qh5-h4+ g2-g3 Bb6-a5+ c2-c3) -14.30/5 4} exd4 {(e5xd4
+O-O-O) 0.00/1 0} 12. fxg4 {(f3xg4 Bb6-a5+ Ke1-f2 Qh5-h4+ Kf2-g1) -13.51/5
+3} Qxb5 {(Qh5xb5 O-O-O Qb5-g5+ Kc1-b1 O-O) +34.41/5 7} 13. e4 {(e2-e4
+Qb5-b4+ Ke1-d1 f6-f5) -15.24/4 2} Qxb2 {(Qb5xb2 Ra1-d1 Qb2xc2 Rd1-a1
+Qc2xe4+) +42.33/5 7} 14. c3 {(c2-c3 Qb2-d2+ Ke1xd2 d4xc3+ Kd2-e2) -13.86/5
+5 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v14.0"]
+[Result "1/2-1/2"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:17:02"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "83"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 f2-f3 Ng8-f6
+Nb1-c3) -0.38/4 1} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 2} e6 {(e7-e6 Ng1-f3
+d7-d6 Nb1-c3) -0.38/4 5} 3. Bb5 {(Bf1-b5 Qd8-h4 Bb5xc6) +0.37/3 1} Qg5
+{(Qd8-g5 Bb5xc6 d7xc6 Qd1-f3) -0.48/4 4} 4. Bxc6 {(Bb5xc6 d7xc6 Qd1-f3
+Bf8-b4+) +0.29/4 7} dxc6 {(d7xc6 Qd1-f3) 0.00/1 0} 5. Qf3 {(Qd1-f3 Bf8-b4+)
+0.00/1 0} c5 {(c6-c5 c2-c3 c5xd4 c3xd4) -0.41/4 12} 6. h4 {(h2-h4 Qg5-f6
+c2-c3) +0.46/3 2} Qg6 {(Qg5-g6 c2-c3 c5xd4 c3xd4) -0.29/4 5} 7. c3 {(c2-c3
+Qg6-d3 Qf3-e2) +0.01/3 2} cxd4 {(c5xd4 c3xd4) 0.00/1 0} 8. exd4 {(e3xd4
+Ng8-f6 Bc1-d2 Qg6-c2) -0.34/4 10} Nf6 {(Ng8-f6 g2-g3 Qg6-e4+ Bc1-e3)
+-0.11/4 10} 9. Bd2 {(Bc1-d2 Qg6-c2) 0.00/1 0} Bd6 {(Bf8-d6 h4-h5 Qg6-e4+)
++0.24/3 2} 10. Nh3 {(Ng1-h3 O-O O-O) -0.26/3 4} Qc2 {(Qg6-c2 O-O Qc2xb2)
++0.78/3 2} 11. Qd1 {(Qf3-d1 Qc2xb2 Qd1-a4+) -2.03/3 3} Qxb2 {(Qc2xb2 Nb1-a3
+Bd6xa3 O-O) +6.78/4 2} 12. Na3 {(Nb1-a3 Qb2xa3 O-O O-O) -8.37/4 6} Bxa3
+{(Bd6xa3 O-O) 0.00/1 0} 13. O-O {(O-O O-O g2-g3) -7.53/3 1} Ne4 {(Nf6-e4
+Bd2-e1 Ne4xc3 Be1xc3) +8.89/4 3} 14. Be1 {(Bd2-e1 Ne4xc3 Be1xc3) -8.77/3 3}
+Nxc3 {(Ne4xc3 Be1xc3) 0.00/1 0} 15. Bxc3 {(Be1xc3 Qb2xc3 Qd1-b3 Qc3xb3)
+-9.19/4 2} Qxc3 {(Qb2xc3 Qd1-a4+ c7-c6 Qa4-b3 Qc3xb3) +8.95/5 8} 16. Qb3
+{(Qd1-b3 Qc3xb3) 0.00/1 0} Qa5 {(Qc3-a5 Nh3-g5 O-O f2-f3) +9.45/4 2} 17. g3
+{(g2-g3 g7-g6 Nh3-g5 O-O) -9.88/4 11} e5 {(e6-e5 Nh3-g5 e5xd4 Ng5xf7)
++10.52/4 10} 18. Ng5 {(Nh3-g5 O-O d4xe5 g7-g6) -8.08/4 5} exd4 {(e5xd4
+Ng5xf7) 0.00/1 0} 19. Qxf7+ {(Qb3xf7+ Ke8-d8 Qf7xg7 Rh8-f8) -3.19/4 5} Kd8
+{(Ke8-d8 Qf7xg7 Rh8-f8 Qg7xd4+ Bc8-d7) +0.39/5 3} 20. Qxg7 {(Qf7xg7 Rh8-f8)
+0.00/1 0} Rf8 {(Rh8-f8 Qg7xd4+ Bc8-d7) 0.00/1 0} 21. Nxh7 {(Ng5xh7 Rf8-f5
+Qg7-h8+ Kd8-d7) +0.57/4 4} Rf5 {(Rf8-f5 Qg7xd4+ Qa5-d5 Qd4xd5+) +0.39/4 5}
+22. Qh8+ {(Qg7-h8+ Kd8-d7) 0.00/1 0} Ke7 {(Kd8-e7 Qh8xd4 c7-c5 Ra1-e1+
+Ke7-f7) +0.34/5 7} 23. Qxd4 {(Qh8xd4 c7-c5 Qd4-g7+ Rf5-f7) +0.84/4 10} c5
+{(c7-c5 Ra1-e1+ Ke7-f7) 0.00/1 0} 24. Qg7+ {(Qd4-g7+ Rf5-f7) 0.00/1 0} Rf7
+{(Rf5-f7 Ra1-e1+ Bc8-e6 Qg7-g5+) +0.18/4 2} 25. Qg8 {(Qg7-g8 Qa5-c7 f2-f4
+Ke7-d6) +1.02/4 7} Rf3 {(Rf7-f3 Nh7-g5 Rf3-f5) +0.34/3 1} 26. Qd5 {(Qg8-d5
+Rf3-f5 Ra1-e1+) +1.71/3 1} Rf6 {(Rf3-f6 Nh7xf6 Ke7xf6 f2-f4) -4.34/4 5} 27.
+Nxf6 {(Nh7xf6 Ke7xf6 f2-f4) +5.29/3 1} Kxf6 {(Ke7xf6 f2-f4) 0.00/1 0} 28.
+f4 {(f2-f4 Qa5-a6 Qd5-g5+ Kf6-f7) +4.97/4 7} Kg7 {(Kf6-g7 f4-f5 Kg7-h8)
+-4.16/3 1} 29. Qg5+ {(Qd5-g5+ Kg7-h7 f4-f5 a7-a6) +5.11/4 6} Kf8 {(Kg7-f8
+Qg5-h6+ Kf8-e8 f4-f5) -4.35/4 1} 30. Qh6+ {(Qg5-h6+ Kf8-f7 f4-f5 Qa5-a6)
++5.41/4 3} Ke8 {(Kf8-e8 f4-f5) 0.00/1 0} 31. f5 {(f4-f5 c5-c4 f5-f6 Ke8-d7)
++5.41/4 4} Bb2 {(Ba3-b2 Qh6-g6+ Ke8-d7 Qg6-h7+) -4.04/4 2} 32. Qg6+
+{(Qh6-g6+ Ke8-d7 Qg6-e6+ Kd7-c7) +5.24/4 3} Kd7 {(Ke8-d7 Qg6-h7+) 0.00/1 0}
+33. Qe6+ {(Qg6-e6+ Kd7-c7) 0.00/1 0} Kc7 {(Kd7-c7 Qe6-f7+ Bc8-d7 Ra1-d1
+Bb2-d4+) -3.87/5 2} 34. Qe7+ {(Qe6-e7+ Bc8-d7 Ra1-b1 Qa5-b5) +4.57/4 2} Bd7
+{(Bc8-d7 Ra1-d1 Bb2-d4+ Rd1xd4 c5xd4) +0.78/5 3} 35. Rab1 {(Ra1-b1 Qa5-b5)
+0.00/1 0} Bd4+ {(Bb2-d4+ Kg1-h1 Qa5xa2 f5-f6) +0.32/4 1} 36. Kh1 {(Kg1-h1
+Qa5xa2 f5-f6 b7-b6) -1.05/4 1} Qxa2 {(Qa5xa2 f5-f6) 0.00/1 0} 37. f6
+{(f5-f6 b7-b6) 0.00/1 0} Rg8 {(Ra8-g8 Qe7-e4 b7-b5) +0.85/3 1} 38. f7
+{(f6-f7 Qa2-d5+ Kh1-h2) -0.18/3 1} Qd5+ {(Qa2-d5+ Kh1-h2 Qd5-a2+ Kh2-h1)
+-0.26/4 4} 39. Kh2 {(Kh1-h2 Qd5-a2+ Kh2-h1 Qa2-d5+) -0.18/4 1} Qa2+
+{(Qd5-a2+ Kh2-h1) 0.00/1 0} 40. Kh1 {(Kh2-h1 Qa2-d5+) 0.00/1 0} Qd5+
+{(Qa2-d5+ Kh1-h2 Qd5-a2+ Kh2-h1 Qa2-d5+) -0.26/5 7} 41. Kh2 {(Kh1-h2
+Qd5-a2+ Kh2-h1 Qa2-d5+ Kh1-h2) -0.18/5 5} Qa2+ {(Qd5-a2+ Kh2-h1 Qa2-d5+)
+0.00/1 0} 42. Kh1 {(Kh2-h1 Qa2-d5+ Kh1-h2) 0.00/1 0 3-fold repetition}
+1/2-1/2
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "Random_Opponent"]
+[Black "V7P3R_v13.2"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Benko Opening"]
+[Time "19:21:50"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "24"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. g3 Na6 {(Nb8-a6 Ng1-f3 Na6-b4 Bf1-g2 Nb4xc2+) -2.64/5 2} 2. f3 Nb4
+{(Na6-b4 Nb1-c3 Ra8-b8 Bf1-g2 Ng8-f6) -2.14/6 1} 3. a3 Nd5 {(Nb4-d5 Nb1-c3
+Nd5-b6 Bf1-g2) -0.74/5 2} 4. b3 Nh6 {(Ng8-h6 Nb1-c3 e7-e6 Nc3xd5 e6xd5)
+-2.51/5 2} 5. c3 e6 {(e7-e6 Bf1-g2 Bf8-c5 Bc1-b2) +1.06/4 1} 6. b4 Bd6
+{(Bf8-d6 Bf1-g2 Qd8-f6 Bc1-b2) -0.33/4 2} 7. Bh3 Qf6 {(Qd8-f6 e2-e4 Qf6-h4
+Bh3-f5) +0.89/4 3} 8. Kf1 Qg6 {(Qf6-g6 e2-e4 Nd5-f4 g3xf4) +0.41/4 2} 9. g4
+Qc2 {(Qg6-c2 Bh3-g2 Qc2xd1+ Kf1-f2) +12.38/4 2} 10. Bb2 Qxd1+ {(Qc2xd1+
+Kf1-f2 Nh6xg4+ Bh3xg4) +10.53/4 2} 11. Kg2 Nf4+ {(Nd5-f4+ Kg2-f2 Nf4xh3+
+Ng1xh3 Nh6xg4+) +10.88/6 4} 12. Kg3 Qe1# {(Qd1-e1+) +289.98/6 2} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:22:33"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. Nc3 {(Nb1-c3 Qd8-f6 Nc3-b5 Bf8-d6 Nb5xd6+)
+-0.64/5 2} d5 {(d7-d5 e2-e3 Nb8-c6) +0.31/3 1} 3. Nb5 {(Nc3-b5 Qd8-f6
+Nf3-e5 Bf8-b4 Nb5xc7+) +0.26/5 4} c6 {(c7-c6 Nb5-c3 Ng8-f6) +1.00/3 1} 4.
+e4 {(e2-e4 c6xb5 Bf1xb5+ Nb8-c6) +1.08/5 4} dxe4 {(d5xe4 Nf3-e5 c6xb5
+Bf1xb5+) +6.03/4 3} 5. Ng5 {(Nf3-g5 c6xb5 Bf1xb5+ Ke8-e7 Bb5-c6) -1.42/5 4}
+e3 {(e4-e3 Ng5xf7 e3xf2+ Ke1xf2) +5.70/4 11} 6. Nc7+ {(Nb5-c7+ Ke8-d7
+d2xe3+ Kd7xc7 Qd1xd8+) +0.70/5 3} Qxc7 {(Qd8xc7 f2xe3 h7-h6 Ng5-f3 Ng8-f6)
++6.54/5 4} 7. dxe3 {(d2xe3 Qc7-d6 Qd1-d4 Bf8-e7 Bf1-c4) -3.53/5 5} Qa5+
+{(Qc7-a5+ c2-c3 Qa5xg5 h2-h3) +11.20/4 2} 8. Bd2 {(Bc1-d2 Qa5xd2+ Ke1xd2
+Bf8-b4+ Kd2-e2) +1.47/5 4} Qxg5 {(Qa5xg5 c2-c3 Qg5-d5 f2-f3) +12.15/4 4} 9.
+h4 {(h2-h4 Bf8-b4 Bd2xb4 Qg5xe3+) +4.05/5 5} Qd5 {(Qg5-d5 c2-c4 Qd5-d6
+Qd1-h5) +12.26/4 6} 10. Bc3 {(Bd2-c3 Bf8-e7 Bf1-b5 Qd5xd1+) -5.44/4 2} f6
+{(f7-f6 b2-b3 h7-h6) +12.64/3 1} 11. Ba6 {(Bf1-a6 Nb8xa6 Qd1-d4 Na6-b4)
+-4.46/4 3} Qxg2 {(Qd5xg2 Rh1-f1 Nb8xa6 b2-b3) +20.55/4 4} 12. Qg4 {(Qd1-g4
+Nb8xa6 Qg4-h5+ g7-g6) -7.65/4 2} Qxg4 {(Qg2xg4 Ba6-e2 Qg4-f5 Be2-d3)
++32.70/4 3} 13. Bd4 {(Bc3-d4 Nb8xa6 f2-f3 Qg4-g3+) -17.26/4 3} Qf3 {(Qg4-f3
+Rh1-h2 Nb8xa6 c2-c3) +39.17/4 10} 14. Kd2 {(Ke1-d2 b7xa6 Kd2-d3 Qf3-f5+
+Kd3-e2) -18.90/5 7} Nxa6 {(Nb8xa6 Rh1-f1 e6-e5 Bd4-c3) +40.10/4 10} 15. Kd3
+{(Kd2-d3 Na6-b4+ Kd3-d2 Qf3xf2+) -18.94/5 6} e5 {(e6-e5 Bd4-c3 Qf3xf2)
++43.00/3 2} 16. Rhg1 {(Rh1-g1 Na6-b4+ Kd3-c4 e5xd4) -20.37/4 2} exd4
+{(e5xd4 Kd3xd4 Qf3xf2) +46.24/3 1} 17. Rg5 {(Rg1-g5 Na6-b4+ Kd3xd4 Nb4xc2+)
+-21.91/5 5 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "2"]
+[White "V7P3R_v14.0"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:25:18"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "23"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} Nc6 2. e3 {(e2-e3
+e7-e6 Bf1-b5 Ng8-f6) +0.24/4 2} h5 3. Bb5 {(Bf1-b5 e7-e6 Bb5xc6 d7xc6)
++0.66/4 4} e5 4. Bxc6 {(Bb5xc6 d7xc6 Nf3xe5 Ng8-f6) +2.89/4 4} Qg5 5. Bxd7+
+{(Bc6xd7+ Bc8xd7 Nf3xg5 Ng8-f6) +20.07/4 1} Bxd7 6. Nxg5 {(Nf3xg5 Ng8-f6)
+0.00/1 0} Ne7 7. Qf3 {(Qd1-f3 O-O-O Ng5xf7 Bd7-c6) +22.20/4 3} a6 8. Qxf7+
+{(Qf3xf7+ Ke8-d8 Ng5-h7 Rh8xh7) +25.02/4 2} Kd8 9. Nh7 {(Ng5-h7 Rh8xh7)
+0.00/1 0} Rb8 10. Nxf8 {(Nh7xf8 Rb8-a8 Qf7xg7 Rh8-g8) +31.02/4 2} Kc8 11.
+Qxe7 {(Qf7xe7 Bd7-c6 Qe7xg7 Bc6xg2 Qg7xh8) +38.00/5 8} c6 12. Qxd7#
+{(Qe7xd7+) +289.98/5 6} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "V7P3R_v12.6"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:26:13"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} b6 2. Qf3 {(Qd1-f3 c7-c6 d2-d4
+Ng8-f6) +0.34/4 6} e5 3. Qxa8 {(Qf3xa8 Nb8-c6 Bf1-b5 Ng8-e7) +10.59/4 5}
+Bd6 4. Qxb8 {(Qa8xb8 a7-a5 Ng1-f3) +16.67/3 1} Qf6 5. Qxc8+ {(Qb8xc8+
+Qf6-d8 Qc8xd8+ Ke8xd8) +24.22/4 2} Ke7 6. Nc3 {(Nb1-c3 Qf6-f5 Nc3-d5+)
++25.68/3 3} Qg5 7. Nd5+ {(Nc3-d5+ Ke7-e6 Nd5xc7+) +26.95/3 2} Ke6 8. Nxc7+
+{(Nd5xc7+ Bd6xc7 Qc8xc7 Qg5-g6) +27.74/4 8} Kf5 9. Qxd7+ {(Qc8xd7+ Kf5-g6
+Qd7xd6+ f7-f6) +32.65/4 8} Ke4 10. Bd3# {(Bf1-d3+) +289.97/4 4} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:27:04"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "40"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 3} Nc6 {(Nb8-c6 Nf3-g5
+Nc6-b4 c2-c3 f7-f6) -1.65/5 2} 2. e3 {(e2-e3 e7-e6 Bf1-b5 Ng8-f6) +0.24/4
+2} Nb4 {(Nc6-b4 Nf3-g5 f7-f6 Qd1-h5+ g7-g6) -1.03/5 2} 3. c3 {(c2-c3 Nb4-c6
+Bf1-b5 e7-e6) +0.70/4 5} Nc6 {(Nb4-c6 Qd1-a4 Ng8-f6 Nf3-g5 Nf6-d5) -1.73/5
+3} 4. Bb5 {(Bf1-b5 e7-e6) 0.00/1 0} Nf6 {(Ng8-f6 Nf3-g5 Nf6-e4 Rh1-g1
+Ra8-b8) -3.22/5 3} 5. Bxc6 {(Bb5xc6 d7xc6 d2-d3 e7-e6) +0.78/4 8} Nd5
+{(Nf6-d5 Nf3-e5 d7xc6 Qd1-f3) -0.92/5 5} 6. Bxd5 {(Bc6xd5 e7-e6 Bd5-b3
+f7-f6 d2-d3) +12.68/5 6} e6 {(e7-e6 Nf3-g5 e6xd5 Qd1-f3 Bf8-b4) -6.24/6 2}
+7. Bb3 {(Bd5-b3 f7-f6 d2-d3) 0.00/1 0} Bd6 {(Bf8-d6 Nf3-g5 Bd6-e5 Qd1-f3)
+-4.74/5 3} 8. d3 {(d2-d3 f7-f6 a2-a3 h7-h6) +12.65/4 4} Bg3 {(Bd6-g3 f2xg3
+Qd8-f6 O-O) -7.37/5 3} 9. hxg3 {(h2xg3 f7-f6 a2-a3 O-O O-O) +18.46/5 7} Qf6
+{(Qd8-f6 Nf3-e5 Qf6-h6 Ke1-e2 d7-d6) -14.83/5 3} 10. a3 {(a2-a3 O-O O-O
+d7-d5) +18.66/4 7} Rg8 {(Rh8-g8 Nf3-e5 Qf6-g5 Rh1-h5) -8.12/5 4} 11. Rxh7
+{(Rh1xh7 c7-c6 Qd1-c2 d7-d6) +20.51/4 6} Qh6 {(Qf6-h6 Nf3-e5 f7-f6 Qd1-h5+)
+-8.05/5 4} 12. Rxh6 {(Rh7xh6 g7xh6 e3-e4 Rg8-h8 Ke1-d2) +29.25/5 4} gxh6
+{(g7xh6 Nf3-e5 d7-d6 Bb3-a4+ b7-b5) -15.42/6 2} 13. e4 {(e3-e4 Rg8-h8
+Ke1-d2) 0.00/1 0} d5 {(d7-d5 Bb3-a4+ Ke8-e7 Nf3-e5 b7-b5) -15.91/5 4} 14.
+exd5 {(e4xd5 e6xd5 Bb3xd5 c7-c6 Qd1-a4) +30.99/5 4} Kf8 {(Ke8-f8 Bc1xh6+
+Kf8-e8 Bb3-a4+) -16.07/5 3} 15. Bxh6+ {(Bc1xh6+ Kf8-e8 Qd1-e2 e6-e5 Nf3xe5)
++35.02/5 5} Ke8 {(Kf8-e8 Bb3-a4+) 0.00/1 0} 16. Qe2 {(Qd1-e2 e6-e5 Nf3xe5)
+0.00/1 0} Rg6 {(Rg8-g6 Nf3-e5 Rg6-f6 Bb3-a4+) -16.88/4 2} 17. Qe3 {(Qe2-e3
+Ke8-e7 Ke1-d2 f7-f5) +32.99/4 6} Ke7 {(Ke8-e7 Qe3-c5+ Ke7-d7 Bb3-a4+)
+-16.60/4 3} 18. Kd2 {(Ke1-d2 f7-f5) 0.00/1 0} Bd7 {(Bc8-d7 Qe3-c5+ Ke7-d8
+Qc5-f8+) -16.67/4 3} 19. Kc1 {(Kd2-c1 c7-c6 d5xe6) +35.59/3 2} Rag8
+{(Ra8-g8 Bh6-g5+ Ke7-e8 Qe3-e4) -15.09/5 12} 20. d4 {(d3-d4 c7-c6 d5xe6)
++35.65/3 2} Rf6 {(Rg6-f6 Qe3-g5 Bd7-e8) -18.74/3 1 Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:29:50"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "106"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. e3 {(e2-e3 Ng8-f6 d2-d3 d7-d6) +0.20/4 2} f6
+{(f7-f6 Bf1-b5) 0.00/1 0} 3. d3 {(d2-d3 Nb8-c6 Nb1-c3 d7-d6) +0.32/4 3} Nc6
+{(Nb8-c6 h2-h3 d7-d5 Nb1-c3) -0.15/4 8} 4. Nc3 {(Nb1-c3 d7-d6) 0.00/1 0}
+Bb4 {(Bf8-b4 Qd1-d2 d7-d5) +0.11/3 1} 5. Qd2 {(Qd1-d2 Bb4xc3 Qd2xc3 d7-d6)
++0.02/4 2} Bxc3 {(Bb4xc3 Qd2xc3 d7-d5) +0.33/3 2} 6. Qxc3 {(Qd2xc3 d7-d6)
+0.00/1 0} e5 {(e6-e5 a2-a3 d7-d6) +0.28/3 2} 7. g3 {(g2-g3 d7-d5 h2-h4)
++0.18/3 2} d5 {(d7-d5 Qc3-c5 Qd8-d6) +0.23/3 2} 8. h4 {(h2-h4 e5-e4 d3xe4)
+-0.12/3 3} e4 {(e5-e4 Nf3-d4 Ng8-e7) +0.54/3 2} 9. Nd4 {(Nf3-d4 Ng8-e7
+Nd4xc6 Ne7xc6) -0.25/4 5} Nge7 {(Ng8-e7 d3xe4 d5xe4) +0.54/3 1} 10. Nxc6
+{(Nd4xc6 Ne7xc6) 0.00/1 0} Nxc6 {(Ne7xc6 Bf1-g2 Bc8-f5) +0.69/3 1} 11. dxe4
+{(d3xe4 d5xe4 Bf1-b5 Bc8-d7) -0.04/4 3} dxe4 {(d5xe4 Bf1-c4 Nc6-e5 O-O)
+-0.81/4 8} 12. Bb5 {(Bf1-b5 Bc8-d7) 0.00/1 0} Qd5 {(Qd8-d5 Bb5xc6+ Qd5xc6
+O-O) -0.60/4 5} 13. Bxc6+ {(Bb5xc6+ b7xc6 O-O O-O) +0.59/4 3} Qxc6 {(Qd5xc6
+O-O) 0.00/1 0} 14. Qxc6+ {(Qc3xc6+ b7xc6 c2-c3 O-O O-O) +0.67/5 2} bxc6
+{(b7xc6 b2-b3 Bc8-a6 c2-c4 O-O O-O) -1.00/6 8} 15. c3 {(c2-c3 O-O O-O)
+0.00/1 0} Bf5 {(Bc8-f5 b2-b3 O-O-O c3-c4 g7-g5 O-O) -0.27/6 16} 16. a3
+{(a2-a3 O-O-O Ra1-b1 g7-g5 O-O) +0.39/5 4} O-O-O {(O-O-O Ra1-b1 g7-g5 O-O)
+-0.27/4 1} 17. Rb1 {(Ra1-b1 g7-g5 O-O) 0.00/1 0} g5 {(g7-g5 O-O) 0.00/1 0}
+18. O-O {(O-O) 0.00/1 0} gxh4 {(g5xh4 g3xh4 Bf5-h3 Rf1-e1 f6-f5) +1.41/5 3}
+19. gxh4 {(g3xh4 Rh8-g8+ Kg1-h2 Rg8-g4 h4-h5 Rg4-g8) -0.54/6 4} Bh3
+{(Bf5-h3 Rf1-e1 f6-f5) 0.00/1 0} 20. Re1 {(Rf1-e1 Rh8-g8+ Kg1-h2 Bh3-e6
+Rb1-a1 f6-f5) -0.47/6 3} f5 {(f6-f5) 0.00/1 0} 21. Kh2 {(Kg1-h2 Bh3-g4
+Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) -0.45/6 5} Bg4 {(Bh3-g4 Kh2-g1 Bg4-h3 Kg1-h2
+Bh3-g4) +0.37/5 6} 22. Kg1 {(Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} Bh3
+{(Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} 23. Kh2 {(Kg1-h2 Bh3-g4) 0.00/1 0} Bg4
+{(Bh3-g4) 0.00/1 0} 24. Rg1 {(Re1-g1 Bg4-e2 Rb1-a1 h7-h6 Rg1-g7) -0.47/5 2}
+Rhg8 {(Rh8-g8 Rb1-a1 h7-h6 Rg1-f1) +0.62/4 3} 25. Rf1 {(Rg1-f1 Bg4-f3
+Rb1-a1 Rg8-g2+ Kh2-h3) -0.65/5 6} Bf3 {(Bg4-f3 Rf1-g1 Rg8xg1 Kh2xg1 h7-h6)
++1.41/5 6} 26. Ra1 {(Rb1-a1 Rg8-g2+ Kh2-h3) 0.00/1 0} Rg4 {(Rg8-g4 h4-h5
+Rg4-h4+ Kh2-g1 Rh4xh5) +2.89/5 7} 27. Re1 {(Rf1-e1 Rg4xh4+ Kh2-g3 Rh4-h5
+Re1-g1 h7-h6) -3.62/6 6} Rxh4+ {(Rg4xh4+ Kh2-g3 Rh4-h5 Kg3-f4 h7-h6)
++4.37/5 4} 28. Kg3 {(Kh2-g3 Rh4-h5 Re1-g1 h7-h6) 0.00/1 0} Rh5 {(Rh4-h5
+Kg3-f4 h7-h6) 0.00/1 0} 29. Rg1 {(Re1-g1 h7-h6) 0.00/1 0} Rg8+ {(Rd8-g8+
+Kg3-f4 Rg8xg1 Kf4-e5 Rg1-g6) +12.87/5 5} 30. Kf4 {(Kg3-f4 Rg8xg1 Ra1-b1
+Rh5-h1 Kf4xf5 Rg1xc1) -15.25/6 2} Rxg1 {(Rg8xg1 Kf4-e5 Rg1-g6) 0.00/1 0}
+31. Rb1 {(Ra1-b1 Rh5-h1 Kf4xf5 Rg1xc1) 0.00/1 0} Rhh1 {(Rh5-h1 Kf4xf5
+Kc8-d7 Kf5-f6) +15.36/4 1} 32. Kxf5 {(Kf4xf5 Rg1xc1) 0.00/1 0} Kd7 {(Kc8-d7
+Kf5-f6) 0.00/1 0} 33. c4 {(c3-c4 Kd7-e8 b2-b4 Rg1xc1 Rb1xc1) -16.35/5 4}
+Ke8 {(Kd7-e8 b2-b4 Rg1xc1 Rb1xc1) +16.46/4 1} 34. b4 {(b2-b4 Rg1xc1 Rb1xc1)
+0.00/1 0} Rxc1 {(Rg1xc1 Rb1xc1) 0.00/1 0} 35. Rxc1 {(Rb1xc1) 0.00/1 0} Rxc1
+{(Rh1xc1 c4-c5 Rc1-c2 Kf5-g5 Rc2xf2) +18.46/5 1} 36. c5 {(c4-c5 h7-h5
+Kf5-f4 Rc1-a1 Kf4-g5 Ra1xa3) -18.57/6 2} Rc2 {(Rc1-c2 Kf5-g5 Rc2xf2) 0.00/1
+0} 37. Kf6 {(Kf5-f6 Rc2xf2 Kf6-g7 Rf2-e2 Kg7xh7 Re2xe3) -19.46/6 1} Rxf2
+{(Rc2xf2 Kf6-f5 Rf2-a2 Kf5-g5 h7-h5 Kg5-g6) +20.69/6 2} 38. Kg7 {(Kf6-g7
+Rf2-e2 Kg7xh7 Re2xe3) 0.00/1 0} h5 {(h7-h5 Kg7-g6 Rf2-e2 a3-a4 Bf3-g4
+a4-a5) +21.76/6 2} 39. a4 {(a3-a4 Rf2-e2 Kg7-g6 Re2xe3 Kg6-g5 Bf3-g4)
+-21.85/6 2} Re2 {(Rf2-e2 b4-b5 c6xb5 a4xb5 h5-h4 c5-c6) +22.14/6 1} 40. Kg6
+{(Kg7-g6 Re2xe3 Kg6-g5 Bf3-g4) 0.00/1 0} Rxe3 {(Re2xe3 a4-a5 Re3-b3 Kg6-f5
+Rb3xb4 Kf5-g6) +24.24/6 0} 41. Kg5 {(Kg6-g5 Bf3-g4) 0.00/1 0} Rb3 {(Re3-b3
+a4-a5 Rb3xb4 Kg5-f6 Rb4-b5 Kf6-g7) +27.44/6 1} 42. b5 {(b4-b5 c6xb5 a4xb5
+Rb3xb5 Kg5-g6 Rb5xc5) -27.23/6 1} cxb5 {(c6xb5 a4xb5 Rb3xb5 Kg5-f4 c7-c6
+Kf4-g3) +27.64/6 3} 43. axb5 {(a4xb5 Rb3xb5 Kg5-g6 Rb5xc5) 0.00/1 0} Rxb5
+{(Rb3xb5 Kg5-f4 c7-c6 Kf4-g3) 0.00/1 0} 44. Kg6 {(Kg5-g6 Rb5xc5) 0.00/1 0}
+e3 {(e4-e3 Kg6-g5 e3-e2 Kg5-f4 e2-e1Q Kf4xf3) +36.36/6 2} 45. Kg5 {(Kg6-g5
+e3-e2 Kg5-f4 Bf3-g4 c5-c6 e2-e1Q) -39.46/6 2} e2 {(e3-e2 Kg5-f4 e2-e1Q
+Kf4xf3) 0.00/1 0} 46. Kf4 {(Kg5-f4 Bf3-g4 c5-c6 e2-e1Q) 0.00/1 0} e1=Q
+{(e2-e1Q Kf4xf3) 0.00/1 0} 47. Kxf3 {(Kf4xf3 Rb5xc5 Kf3-f4 h5-h4 Kf4-g4
+a7-a5) -36.68/6 3} Rxc5 {(Rb5xc5 Kf3-f4 h5-h4 Kf4-g4 a7-a5) +36.99/5 3} 48.
+Kf4 {(Kf3-f4 h5-h4 Kf4-g4 a7-a5) 0.00/1 0} h4 {(h5-h4 Kf4-g4 a7-a5) 0.00/1
+0} 49. Kg4 {(Kf4-g4 a7-a5) 0.00/1 0} a5 {(a7-a5) 0.00/1 0} 50. Kf3 {(Kg4-f3
+Rc5-f5+ Kf3-g4 Rf5-c5 Kg4-f3 Rc5-f5+) -37.84/6 3} h3 {(h4-h3 Kf3-g4 h3-h2
+Kg4-h3 h2-h1Q+) +52.91/5 3} 51. Kg4 {(Kf3-g4 h3-h2 Kg4-f3 h2-h1Q+ Kf3-g4
+a5-a4) -51.86/6 3} h2 {(h3-h2 Kg4-h3 h2-h1Q+) 0.00/1 0} 52. Kf3 {(Kg4-f3
+h2-h1Q+ Kf3-g4 a5-a4) 0.00/1 0} h1=Q+ {(h2-h1Q+ Kf3-g4 Qe1-h4+) +289.95/4
+1} 53. Kg4 {(Kf3-g4 a5-a4) 0.00/1 0} Qeh4# {(Qe1-h4+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "V7P3R_v13.2"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:34:09"]
+[Variation "1...c5"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "39"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} c5 2. Ng5 {(Nf3-g5
+Qd8-a5 Nb1-c3 f7-f6 d2-d4) +0.57/5 2} Nh6 3. Rg1 {(Rh1-g1 Qd8-a5 Nb1-c3
+f7-f6 Nc3-d5) +0.03/5 3} c4 4. Na3 {(Nb1-a3 e7-e5 Rg1-h1 Nh6-g4) +0.64/4 2}
+d6 5. Nb5 {(Na3-b5 Nb8-c6 d2-d3 Qd8-a5+) +1.24/4 1} Qc7 6. b3 {(b2-b3 f7-f6
+Nb5xc7+ Ke8-d8) +10.83/4 1} c3 7. Rh1 {(Rg1-h1 c3xd2+ Qd1xd2 Nh6-g4)
++8.59/5 1} Kd7 8. Nxc7 {(Nb5xc7 Kd7xc7 d2xc3 Nh6-g4) +8.61/4 1} f5 9. e4
+{(e2-e4 c3xd2+ Ke1xd2 Kd7xc7) +9.11/5 7} a6 10. Nge6 {(Ng5-e6 c3xd2+ Ke1xd2
+Nh6-g4) +13.56/4 3} cxd2+ 11. Kxd2 {(Ke1xd2 Nh6-g4) 0.00/1 0} Kc6 12. Kc3
+{(Kd2-c3 f5xe4 Qd1-d5+ Kc6-d7) +14.09/4 3} f4 13. Qd5+ {(Qd1-d5+ Kc6-d7
+Bf1-b5+ a6xb5 Nc7xa8) +13.84/5 5} Kd7 14. Bb5+ {(Bf1-b5+ a6xb5 Nc7xa8)
+0.00/1 0} axb5 15. Nxa8 {(Nc7xa8) 0.00/1 0} Ng8 16. Nb6+ {(Na8-b6+ Kd7-e8
+Nb6xc8 b5-b4+ Kc3xb4) +14.83/6 3} Ke8 17. Nxc8 {(Nb6xc8 b5-b4+ Kc3xb4)
+0.00/1 0} Nd7 18. Qc6 {(Qd5-c6 g7-g6 Ne6-c7+ Ke8-f7) +17.07/4 2} d5 19.
+Nc7+ {(Ne6-c7+ Ke8-d8 Nc7-e6+ Kd8-e8 Ne6-c7+) +15.89/5 3} Kf7 20. Qe6#
+{(Qc6-e6+) +289.98/6 2} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:35:13"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 Qd1-f3 Nc6-b4
+Qf3-e4 Nb4xc2+) -1.67/5 2} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 2} Nb4
+{(Nc6-b4 Ng1-f3 Nb4xc2+ Ke1-d2 g7-g6) -0.80/5 2} 3. c3 {(c2-c3 Nb4-c6
+Ng1-f3) +1.30/3 1} e5 {(e7-e5 d4xe5 Nb4-c2+ Ke1-e2 Bf8-b4) -1.94/5 4} 4.
+cxb4 {(c3xb4 Bf8xb4+ Nb1-c3 e5xd4) +4.36/4 3} Nh6 {(Ng8-h6 d4xe5 Bf8xb4+
+Nb1-c3) +0.05/5 5} 5. dxe5 {(d4xe5 Bf8xb4+ Nb1-c3 Bb4xc3+) +6.67/4 5} Bxb4+
+{(Bf8xb4+ Nb1-c3) 0.00/1 0} 6. Nc3 {(Nb1-c3 Bb4xc3+) 0.00/1 0} Qe7 {(Qd8-e7
+Qd1-a4 Nh6-g4 Bf1-c4) +2.09/5 6} 7. Nf3 {(Ng1-f3 c7-c6 Bf1-c4) +6.89/3 2}
+Ng4 {(Nh6-g4 Nf3-g5 Rh8-g8 a2-a3) +0.28/4 2} 8. Qd4 {(Qd1-d4 Bb4xc3+
+Qd4xc3) +6.91/3 3} Bc5 {(Bb4-c5 Nc3-d5 Bc5xd4 Nd5xe7) +0.18/4 3} 9. Qxg4
+{(Qd4xg4 O-O Nc3-d5 Qe7-e6) +12.52/4 6} d6 {(d7-d6 Bf1-b5+ Ke8-d8 Nc3-d5)
+-3.42/4 2} 10. Qxg7 {(Qg4xg7 Qe7-f8 Qg7-f6 c7-c6) +15.92/4 5} Qf6 {(Qe7-f6
+Bf1-b5+ Bc8-d7 Bb5xd7+) -9.49/4 2} 11. exf6 {(e5xf6 Rh8-f8 Qg7xh7 Ke8-d8)
++35.70/4 3} Rf8 {(Rh8-f8 Bf1-b5+ c7-c6 Bb5xc6+) -18.49/5 4} 12. Qxh7
+{(Qg7xh7 Ke8-d8) 0.00/1 0} Bf5 {(Bc8-f5 Bf1-b5+ c7-c6 Bb5-a6 Bc5-b4)
+-15.93/5 3} 13. Qxf5 {(Qh7xf5 Ke8-d8 h2-h4 c7-c6) +42.24/4 3} Rg8 {(Rf8-g8
+Bf1-b5+ c7-c6 Qf5-e4+ Ke8-d8) -22.96/5 3} 14. Qe4+ {(Qf5-e4+ Ke8-d7 Qe4-e7+
+Kd7-c6) +47.41/4 5} Kd7 {(Ke8-d7 Qe4-f5+ Kd7-e8 Bf1-b5+ c7-c6) -23.23/5 2
+Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "3"]
+[White "Random_Opponent"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Benko Opening"]
+[Time "19:36:59"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. g3 e6 {(e7-e6 f2-f3 d7-d6 d2-d3 Ng8-f6) +0.04/5 6} 2. f3 d6 {(d7-d6
+d2-d3 Ng8-f6) 0.00/1 0} 3. c4 Nc6 {(Nb8-c6 d2-d3 Ng8-f6 Nb1-c3) -0.02/4 2}
+4. b3 Qg5 {(Qd8-g5 Nb1-c3 Ng8-f6 d2-d4) -0.04/4 4} 5. b4 Nxb4 {(Nc6xb4
+Nb1-c3 Ng8-f6 d2-d3) +1.79/4 5} 6. e3 Nf6 {(Ng8-f6 Nb1-c3 Nb4-c6 d2-d4)
++2.00/4 5} 7. Qb3 Nc6 {(Nb4-c6 Nb1-c3 Qg5-e5 d2-d3) +1.97/4 10} 8. Nh3 Qh5
+{(Qg5-h5 Nh3-g1 Nc6-a5 Qb3-b5+) +2.15/4 10} 9. Qc2 Qxf3 {(Qh5xf3 Rh1-g1
+Nf6-e4 Nb1-c3) +4.69/4 6} 10. Ng1 Qxh1 {(Qf3xh1 Ng1-e2 Qh1xh2 Nb1-c3)
++16.86/4 2} 11. Ke2 Qxh2+ {(Qh1xh2+ Ke2-f3 Nc6-e5+ Kf3-f4) +24.59/4 3} 12.
+Kf3 Ne5+ {(Nc6-e5+ Kf3-f4) 0.00/1 0} 13. Kf4 Qh6# {(Qh2-h6+) +289.97/4 2}
+0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "Random_Opponent"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A01"]
+[Opening "Nimzowitsch-Larsen Attack"]
+[Time "19:38:13"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "44"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. b3 e6 {(e7-e6 e2-e3 Qd8-f6 Nb1-c3) -0.08/4 2} 2. d3 d5 {(d7-d5 Ng1-f3
+d5-d4 c2-c3) +0.20/4 7} 3. c3 Nc6 {(Nb8-c6 Ng1-f3 Ng8-f6) +0.68/3 1} 4. Nd2
+b6 {(b7-b6 e2-e4 Qd8-f6 Nd2-b1) +0.63/4 12} 5. Ba3 Bxa3 {(Bf8xa3 Qd1-c2
+Ng8-f6 Nd2-f3) +6.71/4 4} 6. g4 Bb2 {(Ba3-b2 Ra1-b1 Bb2xc3) +9.94/3 2} 7.
+h3 Bxa1 {(Bb2xa1 Qd1xa1 Ng8-f6 Nd2-f3) +11.13/4 14} 8. c4 Bc3 {(Ba1-c3
+c4xd5 Qd8xd5) +17.31/3 2} 9. Bg2 g6 {(g7-g6 Qd1-c2 Qd8-f6) +16.92/3 2} 10.
+Qc1 Bxd2+ {(Bc3xd2+ Qc1xd2 Ng8-f6 c4xd5) +16.48/4 5} 11. Kf1 Bxc1 {(Bd2xc1
+c4xd5 e6xd5 Ng1-f3) +40.30/4 3} 12. d4 Nxd4 {(Nc6xd4 c4xd5 e6xd5 f2-f3)
++42.47/4 4} 13. e4 dxc4 {(d5xc4 e4-e5 c4xb3 Bg2xa8) +43.16/4 5} 14. h4 cxb3
+{(c4xb3 e4-e5 Bc8-a6+ Kf1-e1) +50.14/4 2} 15. e5 Ba6+ {(Bc8-a6+ Kf1-e1)
+0.00/1 0} 16. Ne2 bxa2 {(b3xa2 Bg2-c6+ Nd4xc6 Kf1-g2) +60.07/4 2} 17. g5
+Bxe2+ {(Ba6xe2+ Kf1-g1 a2-a1Q Bg2xa8) +69.41/4 2} 18. Kg1 a1=Q {(a2-a1Q
+Bg2xa8) 0.00/1 0} 19. f4 Be3+ {(Bc1-e3+ Kg1-h2 Be3xf4+) +75.77/3 1} 20. Kh2
+Bxf4+ {(Be3xf4+ Kh2-h3 Qa1-c3+) +75.72/3 1} 21. Kh3 Qc3+ {(Qa1-c3+ Bg2-f3
+Qc3xf3+) +289.95/4 3} 22. Bf3 Qxf3# {(Qc3xf3+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:39:49"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} Nc6 {(Nb8-c6 e2-e3
+Ng8-f6 d2-d3) -0.38/4 3} 2. Ng5 {(Nf3-g5 Nc6-b4 a2-a3 e7-e6 a3xb4) +0.74/5
+2} e5 {(e7-e5 d2-d3 f7-f6 Ng5-f3) +0.37/4 4} 3. Nc3 {(Nb1-c3 Bf8-b4 a2-a3
+Qd8-f6 a3xb4) -0.67/5 4} Qxg5 {(Qd8xg5 d2-d3 Qg5-h5 f2-f3) +5.71/4 2} 4. d3
+{(d2-d3 Bf8-b4 Bc1xg5 Bb4xc3+) +4.62/4 1} Qh5 {(Qg5-h5 f2-f3) 0.00/1 0} 5.
+Bh6 {(Bc1-h6 Bf8-b4 g2-g4 Bb4xc3+ Qd1-d2) -1.39/5 3} Nxh6 {(Ng8xh6 a2-a3
+f7-f6 f2-f3) +11.87/4 4} 6. Nb5 {(Nc3-b5 Bf8-b4+ c2-c3 Bb4xc3+ b2xc3)
+-4.12/5 2} Bb4+ {(Bf8-b4+ c2-c3 Bb4-a5 f2-f3 e5-e4) +12.11/5 6} 7. c3
+{(c2-c3 Bb4xc3+ b2xc3) 0.00/1 0} Ba5 {(Bb4-a5 f2-f3 e5-e4) 0.00/1 0} 8. g4
+{(g2-g4 a7-a6 Nb5xc7+ Ba5xc7) -1.70/4 2} Nxg4 {(Nh6xg4 e2-e3 Qh5-h4 Qd1-f3)
++14.34/4 5} 9. Bg2 {(Bf1-g2 Nc6-d4 Nb5xc7+ Ba5xc7) -1.88/4 2} Nxh2 {(Ng4xh2
+e2-e3 Qh5xd1+) +16.48/3 1} 10. Qa4 {(Qd1-a4 Qh5-g4 Nb5xc7+ Ba5xc7) -5.04/5
+4} a6 {(a7-a6 Bg2xc6 b7xc6) +16.28/3 3} 11. Qh4 {(Qa4-h4 a6xb5 b2-b4
+Nh2-f3+) -8.04/5 4} Qxh4 {(Qh5xh4 Nb5-a3 Ba5-b6 Bg2xc6 d7xc6) +34.38/5 9}
+12. Be4 {(Bg2-e4 a6xb5 Ke1-d1 Nc6-b4) -14.13/5 4} axb5 {(a6xb5 b2-b4 Ba5-b6
+O-O-O) +39.14/4 5} 13. Kd1 {(Ke1-d1 Nc6-b4) 0.00/1 0} Qxf2 {(Qh4xf2 Be4xc6
+b7xc6 a2-a3) +42.92/4 4} 14. b4 {(b2-b4 Qf2-f1+ Rh1xf1 Nh2xf1 Kd1-c2)
+-17.64/5 4} Bb6 {(Ba5-b6 Be4xc6 d7xc6 e2-e4) +43.08/4 6} 15. Bd5 {(Be4-d5
+Qf2-g2 a2-a4 Qg2xh1+) -17.92/4 3} O-O {(O-O Bd5xc6 d7xc6) +44.04/3 1} 16.
+a4 {(a2-a4 Qf2-g2 d3-d4 Qg2xh1+) -17.51/4 4} bxa4 {(b5xa4 b4-b5 Nc6-e7
+Bd5-e4) +47.28/4 5} 17. Be4 {(Bd5-e4 Qf2-f1+ Rh1xf1 Nh2xf1) -13.69/4 3} a3
+{(a4-a3 Be4xc6 d7xc6) +48.15/3 1} 18. Kd2 {(Kd1-d2 Qf2-f4+ Kd2-d1 Bb6-d4)
+-18.95/4 2 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:42:10"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "41"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 f2-f3 Ng8-f6
+Nb1-c3) -0.38/4 1} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 1} e6 {(e7-e6 Ng1-f3
+d7-d6 Nb1-c3) -0.38/4 6} 3. Bb5 {(Bf1-b5 Qd8-h4 Bb5xc6) +0.37/3 1} Qg5
+{(Qd8-g5 Bb5xc6 d7xc6 Qd1-f3) -0.48/4 4} 4. Bxc6 {(Bb5xc6 d7xc6 Qd1-f3
+Bf8-b4+) +0.29/4 7} dxc6 {(d7xc6 Qd1-f3) 0.00/1 0} 5. Qf3 {(Qd1-f3 Bf8-b4+)
+0.00/1 0} c5 {(c6-c5 c2-c3 c5xd4 c3xd4) -0.41/4 11} 6. h4 {(h2-h4 Qg5-f6
+c2-c3) +0.46/3 2} Qg6 {(Qg5-g6 c2-c3 c5xd4 c3xd4) -0.29/4 4} 7. c3 {(c2-c3
+Qg6-d3 Qf3-e2) +0.01/3 2} cxd4 {(c5xd4 c3xd4) 0.00/1 0} 8. exd4 {(e3xd4
+Ng8-f6 Bc1-d2 Qg6-c2) -0.34/4 10} Nf6 {(Ng8-f6 g2-g3 Qg6-e4+ Bc1-e3)
+-0.11/4 9} 9. Bd2 {(Bc1-d2 Qg6-c2) 0.00/1 0} Bd6 {(Bf8-d6 h4-h5 Qg6-e4+)
++0.24/3 1} 10. Nh3 {(Ng1-h3 O-O O-O) -0.26/3 3} Qc2 {(Qg6-c2 O-O Qc2xb2)
++0.78/3 2} 11. Qd1 {(Qf3-d1 Qc2xb2 Qd1-a4+) -2.03/3 4} Qxb2 {(Qc2xb2 Nb1-a3
+Bd6xa3 O-O) +6.78/4 2} 12. Kf1 {(Ke1-f1 Qb2xa1 Qd1-a4+) -2.48/4 6} Qxa1
+{(Qb2xa1 Qd1-a4+ Ke8-f8 Qa4-b3) +12.32/4 2} 13. Qa4+ {(Qd1-a4+) 0.00/1 0}
+Kf8 {(Ke8-f8 Qa4-b3) 0.00/1 0} 14. Ke2 {(Kf1-e2 e6-e5 Bd2-g5) -12.27/3 2}
+e5 {(e6-e5 d4xe5 Bd6xe5) +12.98/3 2} 15. dxe5 {(d4xe5 Bd6xe5 Qa4-b4+
+Be5-d6) -12.86/4 14} Bxe5 {(Bd6xe5 f2-f4 Bc8xh3 Rh1xh3) +12.65/4 7} 16.
+Qb4+ {(Qa4-b4+ Be5-d6) 0.00/1 0} Bd6 {(Be5-d6 Qb4-b3 Bc8xh3 Rh1xh3)
++12.98/4 4} 17. Qb3 {(Qb4-b3 Bc8xh3 Rh1xh3) -13.03/3 5} Bxh3 {(Bc8xh3
+Rh1xh3) 0.00/1 0} 18. Rxh3 {(Rh1xh3 Ra8-e8+ Rh3-e3) -12.39/3 2} Re8+
+{(Ra8-e8+ Ke2-f1 Nf6-e4 Bd2-g5) +12.41/4 8} 19. Re3 {(Rh3-e3 b7-b6 g2-g3)
+-12.44/3 1} Rb8 {(Re8-b8 Ke2-f1 Bd6-c5 Re3-e5) +12.62/4 7} 20. Kf1 {(Ke2-f1
+Bd6-c5 Re3-e5) -11.80/3 3} Bc5 {(Bd6-c5 Re3-e5) 0.00/1 0} 21. Re5 {(Re3-e5
+Bc5-d6 Re5-e2) -11.71/3 2 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "Random_Opponent"]
+[Black "V7P3R_v13.2"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:45:00"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "60"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 Nc6 {(Nb8-c6 Nf3-g5 Nc6-b4 c2-c3 f7-f6) -1.65/5 1} 2. g3 Nb4
+{(Nc6-b4 Bf1-h3 d7-d5 Nf3-g5 Nb4xc2+) -1.01/5 3} 3. h4 e6 {(e7-e6 Nf3-g5
+Qd8-f6 Bf1-g2 Nb4xc2+) -0.16/5 2} 4. e4 Bc5 {(Bf8-c5 Nf3-e5 Qd8-f6 Qd1-f3)
++2.91/4 2} 5. Be2 Bd4 {(Bc5-d4 Nf3xd4 Qd8-f6 e4-e5 Qf6xf2+) -0.56/5 3} 6.
+Ne5 Bxe5 {(Bd4xe5 Nb1-c3 Qd8-f6 O-O d7-d5) +1.88/5 4} 7. f4 f5 {(f7-f5
+Be2-b5 f5xe4 f4xe5) +2.70/4 2} 8. fxe5 Nxc2+ {(Nb4xc2+ Ke1-f2 f5xe4 Be2-h5+
+g7-g6) +1.00/5 2} 9. Qxc2 Nh6 {(Ng8-h6 Be2-h5+ g7-g6 d2-d4 g6xh5) -3.19/5
+6} 10. Qb3 d6 {(d7-d6 d2-d3 d6xe5 Qb3-b5+) -2.13/5 5} 11. Nc3 dxe5 {(d6xe5
+Be2-h5+ g7-g6 d2-d4 g6xh5) -2.52/5 6} 12. d4 Rg8 {(Rh8-g8 Be2-h5+ Ke8-d7
+Qb3-b5+) -3.12/4 4} 13. Bc4 Kf8 {(Ke8-f8 Bc1-g5 Ra8-b8) -9.01/3 1} 14. Nb1
+Rh8 {(Rg8-h8 Bc1-g5 b7-b5 Bg5xd8 f5xe4) -7.35/5 9} 15. Qb5 fxe4 {(f5xe4
+Qb5-c5+ Kf8-g8 Bc1-g5) -1.28/4 2} 16. Qd5 exd5 {(e6xd5 Bc1-g5 Kf8-e8 Bg5xd8
+Ke8xd8) +1.42/5 3} 17. Ke2 dxc4 {(d5xc4 Rh1-f1+ Nh6-f5 Rf1xf5+) +12.56/4 2}
+18. Ke1 Nf5 {(Nh6-f5 Bc1-g5 Bc8-d7 Bg5xd8) +6.08/4 2} 19. a4 Qe8 {(Qd8-e8
+b2-b3 e5xd4 Bc1-b2 Qe8-c6) +12.64/5 5} 20. Bd2 exd4 {(e5xd4 g3-g4 c4-c3
+g4xf5) +15.20/4 1} 21. Kd1 e3 {(e4-e3 Bd2-b4+ Kf8-f7 g3-g4) +18.22/4 3} 22.
+Ra3 Qe4 {(Qe8-e4 Bd2-b4+ Kf8-e8 Ra3-c3) +21.29/4 3} 23. Re1 Qf3+ {(Qe4-f3+
+Kd1-c1 Qf3-f2 Bd2-b4+) +18.23/4 2} 24. Re2 Bd7 {(Bc8-d7 Bd2-b4+ Kf8-f7
+Nb1-d2) +20.40/4 3} 25. Rc3 dxc3 {(d4xc3 Kd1-c1 c3xb2+ Kc1xb2) +23.80/4 5}
+26. Kc1 cxb2+ {(c3xb2+ Kc1xb2) 0.00/1 0} 27. Kc2 exd2 {(e3xd2 Kc2xd2
+Qf3-d3+ Kd2-e1) +27.32/4 4} 28. Rh2 d1=Q+ {(d2-d1Q+ Kc2xb2 Qf3-b3+ Kb2-a1)
++33.12/4 2} 29. Kxb2 Qfb3+ {(Qf3-b3+ Kb2-a1) 0.00/1 0} 30. Ka1 Qbxb1#
+{(Qb3xb1+) +289.98/6 2} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:47:04"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "55"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. Nc3 {(Nb1-c3 Qd8-f6 Nc3-b5 Bf8-d6 Nb5xd6+)
+-0.64/5 3} d5 {(d7-d5 e2-e3 Nb8-c6) +0.31/3 1} 3. Nb5 {(Nc3-b5 Qd8-f6
+Nf3-e5 Bf8-b4 Nb5xc7+) +0.26/5 4} c6 {(c7-c6 Nb5-c3 Ng8-f6) +1.00/3 1} 4.
+e4 {(e2-e4 c6xb5 Bf1xb5+ Nb8-c6) +1.08/5 4} dxe4 {(d5xe4 Nf3-e5 c6xb5
+Bf1xb5+) +6.03/4 3} 5. Ng5 {(Nf3-g5 c6xb5 Bf1xb5+ Ke8-e7 Bb5-c6) -1.42/5 4}
+e3 {(e4-e3 Ng5xf7 e3xf2+ Ke1xf2) +5.70/4 11} 6. Nc7+ {(Nb5-c7+ Ke8-d7
+d2xe3+ Kd7xc7 Qd1xd8+) +0.70/5 3} Qxc7 {(Qd8xc7 f2xe3 h7-h6 Ng5-f3 Ng8-f6)
++6.54/5 4} 7. dxe3 {(d2xe3 Qc7-d6 Qd1-d4 Bf8-e7 Bf1-c4) -3.53/5 5} Qa5+
+{(Qc7-a5+ c2-c3 Qa5xg5 h2-h3) +11.20/4 2} 8. Bd2 {(Bc1-d2 Qa5xd2+ Ke1xd2
+Bf8-b4+ Kd2-e2) +1.47/5 4} Qxg5 {(Qa5xg5 c2-c3 Qg5-d5 f2-f3) +12.15/4 4} 9.
+e4 {(e3-e4 Ng8-f6 Bd2xg5 Bf8-b4+) +1.90/4 2} Qe5 {(Qg5-e5 Bf1-d3 Qe5xb2
+O-O) +13.52/4 9} 10. Bc3 {(Bd2-c3 Qe5xe4+ Bf1-e2 Bf8-b4) -4.53/4 2} Qxe4+
+{(Qe5xe4+ Qd1-e2 Qe4xe2+ Bf1xe2) +14.71/4 2} 11. Be2 {(Bf1-e2 Bf8-b4)
+0.00/1 0} Qxg2 {(Qe4xg2 Be2-f3 Qg2-g5 b2-b3) +16.33/4 12} 12. Bf3 {(Be2-f3
+Qg2xh1+ Bf3xh1 Ng8-h6 Bh1xc6+) -2.28/5 3} Qg5 {(Qg2-g5 b2-b3) 0.00/1 0} 13.
+Bf6 {(Bc3-f6 Bf8-b4+ c2-c3 g7xf6) -6.51/5 5} Nxf6 {(Ng8xf6 c2-c3 Bf8-c5
+a2-a3) +23.07/4 5} 14. Qd2 {(Qd1-d2 Qg5xd2+ Ke1xd2 Bf8-b4+) -11.62/4 2}
+Qxd2+ {(Qg5xd2+ Ke1xd2 Bf8-c5 Kd2-e2) +23.97/4 4} 15. Kxd2 {(Ke1xd2
+Bf8-b4+) 0.00/1 0} Bc5 {(Bf8-c5 Kd2-e2) 0.00/1 0} 16. Rhe1 {(Rh1-e1 O-O
+Re1-e5 Rf8-d8+) -11.35/4 2} Bxf2 {(Bc5xf2 Re1-d1 O-O Kd2-c1) +27.20/4 10}
+17. Ke2 {(Kd2-e2 Nf6-g4 Bf3xg4 h7-h5) -8.48/4 2} Bxe1 {(Bf2xe1 Ra1xe1 O-O
+c2-c3) +31.78/4 1} 18. Bxc6+ {(Bf3xc6+ Nb8xc6 Ke2xe1 Nc6-b4 c2-c3) -17.76/6
+1} Nxc6 {(Nb8xc6 Ra1xe1 O-O c2-c3 g7-g6) +35.98/5 3} 19. Kxe1 {(Ke2xe1
+Nc6-b4 c2-c3) 0.00/1 0} Nd4 {(Nc6-d4 Ke1-d1 Nd4-f3 h2-h3) +35.93/4 1} 20.
+c4 {(c2-c4 Nd4-f3+ Ke1-d1 b7-b5 c4-c5) -18.56/6 1} Nc2+ {(Nd4-c2+ Ke1-e2
+Nc2xa1 b2-b3 O-O) +45.01/5 2} 21. Kd2 {(Ke1-d2 Nf6-e4+ Kd2-d3 b7-b5 Kd3xc2)
+-15.45/5 3} Nxa1 {(Nc2xa1 Kd2-c1 O-O Kc1-b1 Nf6-g4) +42.90/5 4} 22. c5
+{(c4-c5 Nf6-e4+ Kd2-e2 O-O c5-c6) -21.76/6 1} Ne4+ {(Nf6-e4+ Kd2-e2 Ne4xc5
+b2-b3) +46.23/4 1} 23. Ke2 {(Kd2-e2 O-O c5-c6) 0.00/1 0} Nxc5 {(Ne4xc5
+b2-b3) 0.00/1 0} 24. Ke3 {(Ke2-e3 Na1-c2+ Ke3-f3 Nc2-d4+ Kf3-g2) -23.64/6
+1} Na4 {(Nc5-a4 h2-h3 Na4xb2 Ke3-f3) +48.31/4 2} 25. b3 {(b2-b3 Na1-c2+
+Ke3-d3 Nc2-e1+ Kd3-e3) -23.20/6 1} Nc3 {(Na4-c3 b3-b4 Nc3xa2 b4-b5 O-O)
++49.34/5 4} 26. a3 {(a2-a3 Nc3-d5+ Ke3-e2 Nd5-f4+ Ke2-e1) -23.49/6 1} Nxb3
+{(Na1xb3 Ke3-d3 Nc3-b5 Kd3-c2) +49.53/4 1} 27. Kf4 {(Ke3-f4 Nc3-d5+ Kf4-f3
+Nb3-d2+ Kf3-g3) -25.00/6 2} Nb5 {(Nc3-b5 Kf4-g3 Nb5xa3 h2-h4) +51.69/4 1}
+28. a4 {(a3-a4 g7-g5+ Kf4-g4 e6-e5+ Kg4xg5) -24.77/6 1 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "4"]
+[White "V7P3R_v14.0"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:50:19"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "23"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 Ng8-f6 f2-f3 Nb8-c6) +0.08/4 1} Nf6 2. f3 {(f2-f3 Nb8-c6)
+0.00/1 0} Ng4 3. fxg4 {(f3xg4 e7-e6 Ng1-f3 f7-f6 Nb1-c3) +6.12/5 3} h5 4.
+gxh5 {(g4xh5 e7-e6 Nb1-c3 f7-f6) +7.82/4 1} c5 5. Nc3 {(Nb1-c3 f7-f6 h2-h3
+e7-e6) +8.02/4 4} Rh6 6. d3 {(d2-d3 e7-e6 e3-e4 Qd8-h4+) +9.19/4 6} Rh7 7.
+h3 {(h2-h3 e7-e6 Qd1-g4 f7-f6) +9.13/4 6} c4 8. dxc4 {(d3xc4 Qd8-a5 Bf1-e2
+d7-d6) +10.36/4 2} g6 9. hxg6 {(h5xg6 f7xg6 Ng1-f3 d7-d6) +10.61/4 3} e5
+10. gxh7 {(g6xh7 Qd8-h4+ g2-g3 Qh4xh7) +20.96/4 2} b5 11. h8=Q {(h7-h8Q
+f7-f6 Qd1-h5+ Ke8-e7) +40.62/4 5} Ke7 12. Qxe5# {(Qh8xe5+) +289.97/4 3} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "V7P3R_v12.6"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:51:13"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "13"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} b5 2. Bxb5 {(Bf1xb5 c7-c6
+Qd1-f3 Ng8-f6) +2.34/4 5} a6 3. Qf3 {(Qd1-f3 c7-c6 Bb5-c4 e7-e6) +2.45/4 4}
+Nh6 4. Qxa8 {(Qf3xa8 a6xb5 Qa8xb8 c7-c6) +12.96/4 4} c5 5. Qxb8 {(Qa8xb8
+a6xb5 Qb8xb5 e7-e6) +15.63/4 6} Qb6 6. Qxc8+ {(Qb8xc8+ Qb6-d8 Bb5xd7+)
++289.96/5 6} Qd8 7. Bxd7# {(Bb5xd7+) 0.00/1 0} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:51:48"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} Nc6 {(Nb8-c6 Nf3-g5
+Nc6-b4 c2-c3 f7-f6) -1.65/5 1} 2. e3 {(e2-e3 e7-e6 Bf1-b5 Ng8-f6) +0.24/4
+2} Nb4 {(Nc6-b4 Nf3-g5 f7-f6 Qd1-h5+ g7-g6) -1.03/5 3} 3. c3 {(c2-c3 Nb4-c6
+Bf1-b5 e7-e6) +0.70/4 5} Nc6 {(Nb4-c6 Qd1-a4 Ng8-f6 Nf3-g5 Nf6-d5) -1.73/5
+3} 4. Bb5 {(Bf1-b5 e7-e6) 0.00/1 0} Nf6 {(Ng8-f6 Qd1-c2 Nf6-g4 Qc2-e4)
+-1.33/4 1} 5. Bxc6 {(Bb5xc6 d7xc6 d2-d3 e7-e6) +0.78/4 8} Nd5 {(Nf6-d5
+Nf3-e5 d7xc6 Qd1-f3) -0.92/5 5} 6. Bxd5 {(Bc6xd5 e7-e6 Bd5-e4 f7-f6)
++12.38/4 1} e6 {(e7-e6 Nf3-g5 e6xd5 Qd1-f3 Bf8-b4) -6.24/6 2} 7. Be4
+{(Bd5-e4 f7-f6) 0.00/1 0} Bd6 {(Bf8-d6 Nf3-g5 Qd8-f6 Qd1-f3) -4.87/5 4} 8.
+Qb3 {(Qd1-b3 c7-c6 d2-d3) +12.88/3 1} f5 {(f7-f5 Nf3-g5 Qd8-f6 Qb3-a4
+f5xe4) -3.30/5 5} 9. Bd3 {(Be4-d3 O-O O-O f5-f4) +12.20/4 5} Qf6 {(Qd8-f6
+Nf3-g5 Rh8-g8 Qb3-b5) -3.68/4 2} 10. O-O {(O-O O-O h2-h3) +12.71/3 2} Bf4
+{(Bd6-f4 e3xf4 Qf6-h6 Nf3-e5) -5.65/5 4} 11. exf4 {(e3xf4 O-O h2-h3 d7-d5)
++18.18/4 4} Qh6 {(Qf6-h6 Nf3-e5) 0.00/1 0} 12. Qb4 {(Qb3-b4 d7-d6 Qb4-b5+
+c7-c6) +19.13/4 8} a5 {(a7-a5 Qb4-d6 Rh8-g8 Qd6xd7+) -0.88/4 3} 13. Qc4
+{(Qb4-c4 c7-c6 h2-h3 O-O) +18.42/4 5} b5 {(b7-b5 Bd3-e4 f5xe4 Nf3-e5
+Qh6-f6) -5.89/5 5} 14. Qxc7 {(Qc4xc7 b5-b4 a2-a3 b4xa3) +21.58/4 4} Bb7
+{(Bc8-b7 Nf3-d4 Ra8-c8 Qc7xc8+) -6.01/4 3} 15. Qxb7 {(Qc7xb7 O-O Qb7xd7
+b5-b4) +27.94/4 2} Rf8 {(Rh8-f8 Nf3-g5 Rf8-g8 Qb7xa8+) -14.57/4 3} 16.
+Qxa8+ {(Qb7xa8+ Ke8-f7 Qa8xa5 d7-d5 Bd3xb5) +40.65/5 5} Ke7 {(Ke8-e7
+Qa8xf8+ Ke7xf8 b2-b4 Kf8-e8) -13.12/5 3} 17. Qxa5 {(Qa8xa5 Qh6xf4 Qa5-a3+
+Ke7-f7) +41.07/4 1} Ra8 {(Rf8-a8 Nf3-d4 e6-e5 Qa5-b4+) -16.24/4 3} 18. Qxa8
+{(Qa5xa8 Qh6xf4 Qa8-a3+ Ke7-f7) +50.99/4 1} Kf7 {(Ke7-f7 Nf3-e5+ Kf7-e7
+Qa8-a3+) -21.38/5 5} 19. Bxb5 {(Bd3xb5 d7-d5 Qa8-e8+ Kf7-f6) +53.03/4 3}
+Ke7 {(Kf7-e7 Qa8-g8 Ke7-d6 Qg8-f8+) -23.90/5 5 Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:54:22"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "106"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. e3 {(e2-e3 Ng8-f6 d2-d3 d7-d6) +0.20/4 2} f6
+{(f7-f6 Bf1-b5) 0.00/1 0} 3. d3 {(d2-d3 Nb8-c6 Nb1-c3 d7-d6) +0.32/4 3} Nc6
+{(Nb8-c6 h2-h3 d7-d5 Nb1-c3) -0.15/4 8} 4. Nc3 {(Nb1-c3 d7-d6) 0.00/1 0}
+Bb4 {(Bf8-b4 Qd1-d2 d7-d5) +0.11/3 2} 5. Qd2 {(Qd1-d2 Bb4xc3 Qd2xc3 d7-d6)
++0.02/4 2} Bxc3 {(Bb4xc3 Qd2xc3 d7-d5) +0.33/3 2} 6. Qxc3 {(Qd2xc3 d7-d6)
+0.00/1 0} e5 {(e6-e5 a2-a3 d7-d6) +0.28/3 2} 7. g3 {(g2-g3 d7-d5 h2-h4)
++0.18/3 2} d5 {(d7-d5 Qc3-c5 Qd8-d6) +0.23/3 2} 8. h4 {(h2-h4 e5-e4 d3xe4)
+-0.12/3 3} e4 {(e5-e4 Nf3-d4 Ng8-e7) +0.54/3 2} 9. Nd4 {(Nf3-d4 Ng8-e7
+Nd4xc6 Ne7xc6) -0.25/4 5} Nge7 {(Ng8-e7 d3xe4 d5xe4) +0.54/3 1} 10. Nxc6
+{(Nd4xc6 Ne7xc6) 0.00/1 0} Nxc6 {(Ne7xc6 Bf1-g2 Bc8-f5) +0.69/3 2} 11. dxe4
+{(d3xe4 d5xe4 Bf1-b5 Bc8-d7) -0.04/4 3} dxe4 {(d5xe4 Bf1-c4 Nc6-e5 O-O)
+-0.81/4 8} 12. Bb5 {(Bf1-b5 Bc8-d7) 0.00/1 0} Qd5 {(Qd8-d5 Bb5xc6+ Qd5xc6
+O-O) -0.60/4 5} 13. Bxc6+ {(Bb5xc6+ b7xc6 O-O O-O) +0.59/4 4} Qxc6 {(Qd5xc6
+O-O) 0.00/1 0} 14. Qxc6+ {(Qc3xc6+ b7xc6 c2-c3 O-O O-O) +0.67/5 2} bxc6
+{(b7xc6 b2-b3 Bc8-a6 c2-c4 O-O O-O) -1.00/6 8} 15. c3 {(c2-c3 O-O O-O)
+0.00/1 0} Bf5 {(Bc8-f5 b2-b3 O-O-O c3-c4 g7-g5 O-O) -0.27/6 16} 16. a3
+{(a2-a3 O-O-O Ra1-b1 g7-g5 O-O) +0.39/5 4} O-O-O {(O-O-O Ra1-b1 g7-g5 O-O)
+-0.27/4 1} 17. Rb1 {(Ra1-b1 g7-g5 O-O) 0.00/1 0} g5 {(g7-g5 O-O) 0.00/1}
+18. O-O {(O-O) 0.00/1 0} gxh4 {(g5xh4 g3xh4 Bf5-h3 Rf1-e1 f6-f5) +1.41/5 3}
+19. gxh4 {(g3xh4 Rh8-g8+ Kg1-h2 Rg8-g4 h4-h5 Rg4-g8) -0.54/6 4} Bh3
+{(Bf5-h3 Rf1-e1 f6-f5) 0.00/1 0} 20. Re1 {(Rf1-e1 Rh8-g8+ Kg1-h2 Bh3-e6
+Rb1-a1 f6-f5) -0.47/6 3} f5 {(f6-f5) 0.00/1 0} 21. Kh2 {(Kg1-h2 Bh3-g4
+Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) -0.45/6 5} Bg4 {(Bh3-g4 Kh2-g1 Bg4-h3 Kg1-h2
+Bh3-g4) +0.37/5 6} 22. Kg1 {(Kh2-g1 Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} Bh3
+{(Bg4-h3 Kg1-h2 Bh3-g4) 0.00/1 0} 23. Kh2 {(Kg1-h2 Bh3-g4) 0.00/1 0} Bg4
+{(Bh3-g4) 0.00/1 0} 24. Rg1 {(Re1-g1 Bg4-e2 Rb1-a1 h7-h6 Rg1-g7) -0.47/5 2}
+Rhg8 {(Rh8-g8 Rb1-a1 h7-h6 Rg1-f1) +0.62/4 3} 25. Rf1 {(Rg1-f1 Bg4-f3
+Rb1-a1 Rg8-g2+ Kh2-h3) -0.65/5 6} Bf3 {(Bg4-f3 Rf1-g1 Rg8xg1 Kh2xg1 h7-h6)
++1.41/5 7} 26. Ra1 {(Rb1-a1 Rg8-g2+ Kh2-h3) 0.00/1 0} Rg4 {(Rg8-g4 h4-h5
+Rg4-h4+ Kh2-g1) +2.89/4 1} 27. Re1 {(Rf1-e1 Rg4xh4+ Kh2-g3 Rh4-h5 Re1-g1
+h7-h6) -3.62/6 6} Rxh4+ {(Rg4xh4+ Kh2-g3 Rh4-h5 Kg3-f4 h7-h6) +4.37/5 5}
+28. Kg3 {(Kh2-g3 Rh4-h5 Re1-g1 h7-h6) 0.00/1 0} Rh5 {(Rh4-h5 Kg3-f4 h7-h6)
+0.00/1 0} 29. Rg1 {(Re1-g1 h7-h6) 0.00/1 0} Rg8+ {(Rd8-g8+ Kg3-f4 Rg8xg1
+Kf4-e5 Rg1-g6) +12.87/5 5} 30. Kf4 {(Kg3-f4 Rg8xg1 Ra1-b1 Rh5-h1 Kf4xf5
+Rg1xc1) -15.25/6 2} Rxg1 {(Rg8xg1 Kf4-e5 Rg1-g6) 0.00/1 0} 31. Rb1 {(Ra1-b1
+Rh5-h1 Kf4xf5 Rg1xc1) 0.00/1 0} Rhh1 {(Rh5-h1 Kf4xf5 Kc8-d7 Kf5-f6)
++15.36/4 1} 32. Kxf5 {(Kf4xf5 Rg1xc1) 0.00/1 0} Kd7 {(Kc8-d7 Kf5-f6) 0.00/1
+0} 33. c4 {(c3-c4 Kd7-e8 b2-b4 Rg1xc1 Rb1xc1) -16.35/5 4} Ke8 {(Kd7-e8
+b2-b4 Rg1xc1 Rb1xc1) +16.46/4 2} 34. b4 {(b2-b4 Rg1xc1 Rb1xc1) 0.00/1 0}
+Rxc1 {(Rg1xc1 Rb1xc1) 0.00/1 0} 35. Rxc1 {(Rb1xc1) 0.00/1 0} Rxc1 {(Rh1xc1
+c4-c5 Rc1-c2 Kf5-g5 Rc2xf2) +18.46/5 1} 36. c5 {(c4-c5 h7-h5 Kf5-f4 Rc1-a1
+Kf4-g5 Ra1xa3) -18.57/6 3} Rc2 {(Rc1-c2 Kf5-g5 Rc2xf2) 0.00/1 0} 37. Kf6
+{(Kf5-f6 Rc2xf2 Kf6-g7 Rf2-e2 Kg7xh7 Re2xe3) -19.46/6 1} Rxf2 {(Rc2xf2
+Kf6-f5 Rf2-a2 Kf5-g5 h7-h5 Kg5-g6) +20.69/6 2} 38. Kg7 {(Kf6-g7 Rf2-e2
+Kg7xh7 Re2xe3) 0.00/1 0} h5 {(h7-h5 Kg7-g6 Rf2-e2 a3-a4 Bf3-g4 a4-a5)
++21.76/6 2} 39. a4 {(a3-a4 Rf2-e2 Kg7-g6 Re2xe3 Kg6-g5 Bf3-g4) -21.85/6 2}
+Re2 {(Rf2-e2 b4-b5 c6xb5 a4xb5 h5-h4 c5-c6) +22.14/6 2} 40. Kg6 {(Kg7-g6
+Re2xe3 Kg6-g5 Bf3-g4) 0.00/1 0} Rxe3 {(Re2xe3 a4-a5 Re3-b3 Kg6-f5 Rb3xb4
+Kf5-g6) +24.24/6 1} 41. Kg5 {(Kg6-g5 Bf3-g4) 0.00/1 0} Rb3 {(Re3-b3 a4-a5
+Rb3xb4 Kg5-f6 Rb4-b5 Kf6-g7) +27.44/6 1} 42. b5 {(b4-b5 c6xb5 a4xb5 Rb3xb5
+Kg5-g6 Rb5xc5) -27.23/6 1} cxb5 {(c6xb5 a4xb5 Rb3xb5 Kg5-f4 c7-c6 Kf4-g3)
++27.64/6 3} 43. axb5 {(a4xb5 Rb3xb5 Kg5-g6 Rb5xc5) 0.00/1 0} Rxb5 {(Rb3xb5
+Kg5-f4 c7-c6 Kf4-g3) 0.00/1 0} 44. Kg6 {(Kg5-g6 Rb5xc5) 0.00/1 0} e3
+{(e4-e3 Kg6-g5 e3-e2 Kg5-f4 e2-e1Q Kf4xf3) +36.36/6 2} 45. Kg5 {(Kg6-g5
+e3-e2 Kg5-f4 Bf3-g4 c5-c6 e2-e1Q) -39.46/6 2} e2 {(e3-e2 Kg5-f4 e2-e1Q
+Kf4xf3) 0.00/1 0} 46. Kf4 {(Kg5-f4 Bf3-g4 c5-c6 e2-e1Q) 0.00/1 0} e1=Q
+{(e2-e1Q Kf4xf3) 0.00/1 0} 47. Kxf3 {(Kf4xf3 Rb5xc5 Kf3-f4 h5-h4 Kf4-g4
+a7-a5) -36.68/6 3} Rxc5 {(Rb5xc5 Kf3-f4 h5-h4 Kf4-g4 a7-a5) +36.99/5 3} 48.
+Kf4 {(Kf3-f4 h5-h4 Kf4-g4 a7-a5) 0.00/1 0} h4 {(h5-h4 Kf4-g4 a7-a5) 0.00/1
+0} 49. Kg4 {(Kf4-g4 a7-a5) 0.00/1 0} a5 {(a7-a5) 0.00/1 0} 50. Kf3 {(Kg4-f3
+Rc5-f5+ Kf3-g4 Rf5-c5 Kg4-f3 Rc5-f5+) -37.84/6 3} h3 {(h4-h3 Kf3-g4 h3-h2
+Kg4-h3 h2-h1Q+) +52.91/5 3} 51. Kg4 {(Kf3-g4 h3-h2 Kg4-f3 h2-h1Q+ Kf3-g4
+a5-a4) -51.86/6 4} h2 {(h3-h2 Kg4-h3 h2-h1Q+) 0.00/1} 52. Kf3 {(Kg4-f3
+h2-h1Q+ Kf3-g4 a5-a4) 0.00/1 0} h1=Q+ {(h2-h1Q+ Kf3-g4 Qe1-h4+) +289.95/4
+1} 53. Kg4 {(Kf3-g4 a5-a4) 0.00/1 0} Qeh4# {(Qe1-h4+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "V7P3R_v13.2"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "19:58:44"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "27"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} a6 2. Ng5 {(Nf3-g5
+Ng8-f6 e2-e3 Nf6-e4 Bf1-b5) +0.37/6 1} f5 3. e4 {(e2-e4 h7-h6 Qd1-h5+
+g7-g6) +2.57/4 1} d5 4. Rg1 {(Rh1-g1 h7-h6 Qd1-h5+ Ke8-d7) +2.01/5 4} b6 5.
+Rh1 {(Rg1-h1 h7-h6 Qd1-h5+ Ke8-d7) +1.71/5 4} Qd6 6. Rg1 {(Rh1-g1 d5xe4
+Bf1-c4 Qd6-b4) +2.32/4 3} Qa3 7. bxa3 {(b2xa3 f5xe4 Qd1-f3 Ng8-f6) +9.03/4
+2} Nf6 8. Bb2 {(Bc1-b2 f5xe4 Bb2-e5 Bc8-g4) +8.07/5 3} b5 9. Bd4 {(Bb2-d4
+Nb8-c6 Bf1-d3 Nc6xd4) +8.20/5 3} Kd8 10. Bc3 {(Bd4-c3 f5xe4 Ng5-f7+ Kd8-e8)
++10.17/5 3} e6 11. Bd4 {(Bc3-d4 d5xe4 Bd4-e5 Nf6-g4) +10.10/5 4} Bb7 12.
+Bxf6+ {(Bd4xf6+ g7xf6 Ng5xe6+ Kd8-e7 Bf1-d3) +9.16/5 5} Kc8 13. Qh5
+{(Qd1-h5 g7-g6 Bf6xh8 g6xh5) +10.23/5 3} a5 14. Qe8# {(Qh5-e8+) +289.98/6
+2} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:59:43"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "28"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 2} Nc6 {(Nb8-c6 Qd1-f3 Nc6-b4
+Qf3-e4 Nb4xc2+) -1.67/5 3} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 2} Nb4
+{(Nc6-b4 Ng1-f3 Nb4xc2+ Ke1-d2 g7-g6) -0.80/5 3} 3. c3 {(c2-c3 Nb4-c6
+Ng1-f3) +1.30/3 1} e5 {(e7-e5 d4xe5 Nb4-c2+ Ke1-e2 Bf8-b4) -1.94/5 5} 4.
+cxb4 {(c3xb4 Bf8xb4+ Nb1-c3 e5xd4) +4.36/4 3} Nh6 {(Ng8-h6 d4xe5 Bf8xb4+
+Nb1-c3) +0.05/5 5} 5. dxe5 {(d4xe5 Bf8xb4+ Nb1-c3 Bb4xc3+) +6.67/4 5} Bxb4+
+{(Bf8xb4+ Nb1-c3) 0.00/1 0} 6. Nc3 {(Nb1-c3 Bb4xc3+) 0.00/1 0} Qe7 {(Qd8-e7
+Qd1-a4 Nh6-g4 Bf1-c4) +2.09/5 7} 7. Nf3 {(Ng1-f3 c7-c6 Bf1-c4) +6.89/3 2}
+Ng4 {(Nh6-g4 Nf3-g5 Rh8-g8 a2-a3) +0.28/4 2} 8. Qd4 {(Qd1-d4 Bb4xc3+
+Qd4xc3) +6.91/3 3} Bc5 {(Bb4-c5 Nc3-d5 Bc5xd4 Nd5xe7) +0.18/4 3} 9. Qxg4
+{(Qd4xg4 O-O Nc3-d5 Qe7-e6) +12.52/4 7} d6 {(d7-d6 Bf1-b5+ Ke8-d8 Nc3-d5)
+-3.42/4 2} 10. Qxg7 {(Qg4xg7 Qe7-f8 Qg7-f6 c7-c6) +15.92/4 5} Qf6 {(Qe7-f6
+Bf1-b5+ Bc8-d7 Bb5xd7+) -9.49/4 2} 11. exf6 {(e5xf6 Rh8-f8 Qg7xh7 Ke8-d8)
++35.70/4 3} Rf8 {(Rh8-f8 Bf1-b5+ c7-c6 Bb5xc6+) -18.49/5 4} 12. Qxh7
+{(Qg7xh7 Ke8-d8) 0.00/1 0} Bf5 {(Bc8-f5 Bf1-b5+ c7-c6 Bb5-a6 Bc5-b4)
+-15.93/5 3} 13. Qxf5 {(Qh7xf5 Ke8-d8 h2-h4 c7-c6) +42.24/4 3} Rg8 {(Rf8-g8
+Bf1-b5+ c7-c6 Qf5-e4+ Ke8-d8) -22.96/5 3} 14. Qe4+ {(Qf5-e4+ Ke8-d7 Qe4-e7+
+Kd7-c6) +47.41/4 5} Kd7 {(Ke8-d7 Qe4-f5+ Kd7-e8 Bf1-b5+ c7-c6) -23.23/5 2
+Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "5"]
+[White "Random_Opponent"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Kadas (Desprez) Opening"]
+[Time "20:01:33"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "42"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. h4 Nc6 {(Nb8-c6 f2-f3 Ng8-f6 e2-e3) -0.08/4 1} 2. d4 e6 {(e7-e6 e2-e3
+f7-f6 Nb1-c3) +0.04/4 4} 3. f4 Nf6 {(Ng8-f6 e2-e3 d7-d6 Nb1-c3) +0.19/4 6}
+4. Rh2 Bb4+ {(Bf8-b4+ c2-c3 Nf6-g4 Rh2-h3) +1.51/4 5} 5. Nd2 Ng4 {(Nf6-g4
+Rh2-h3 Nc6xd4 g2-g3) +3.54/4 6} 6. h5 Ne3 {(Ng4-e3 c2-c3 Ne3xd1 c3xb4)
++14.05/4 3} 7. h6 gxh6 {(g7xh6 c2-c3 Ne3xd1 c3xb4) +15.58/4 3} 8. Nf3 Nxd1
+{(Ne3xd1 Ke1xd1 Bb4xd2 Kd1xd2) +15.94/4 5} 9. Kxd1 Bxd2 {(Bb4xd2 Kd1xd2)
+0.00/1 0} 10. c4 Bxc1 {(Bd2xc1 Kd1xc1 Qd8-f6 e2-e3) +19.39/4 2} 11. Rb1
+Bxf4 {(Bc1xf4 Rh2-h4 Bf4-g5 Rh4-h5) +27.79/4 2} 12. b3 Bxh2 {(Bf4xh2 Nf3xh2
+Nc6xd4 Kd1-e1) +34.18/4 3} 13. Ne5 Nxd4 {(Nc6xd4 Ne5-f3 Nd4xf3 e2xf3 O-O)
++40.62/5 6} 14. Ng6 hxg6 {(h7xg6 e2-e3 Nd4-c6 Kd1-c2 O-O) +47.60/5 5} 15.
+g3 O-O {(O-O e2-e3 Nd4-f5 Kd1-c2) +50.80/4 2} 16. Rb2 Bxg3 {(Bh2xg3 e2-e3
+Qd8-f6 Kd1-d2) +51.59/4 4} 17. Bh3 Qg5 {(Qd8-g5 Rb2-d2 e6-e5 e2-e4)
++51.98/4 9} 18. Rb1 f6 {(f7-f6 Bh3-f1 d7-d5) +52.34/3 1} 19. Rb2 Qh5
+{(Qg5-h5 Bh3-g2 d7-d5 c4xd5) +52.56/4 5} 20. Rb1 Qxe2+ {(Qh5xe2+ Kd1-c1
+Bg3-f4+) +289.95/4 1} 21. Kc1 Bf4# {(Bg3-f4+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "Random_Opponent"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[Time "20:03:13"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c3 e6 {(e7-e6 e2-e3 Qd8-h4 d2-d4) -0.44/4 2} 2. d3 Nc6 {(Nb8-c6 Ng1-f3
+d7-d5 Bc1-g5) -0.24/4 6} 3. Nf3 d5 {(d7-d5 Bc1-g5) 0.00/1 0} 4. a3 Nf6
+{(Ng8-f6 e2-e3 b7-b6) +0.52/3 3} 5. Rg1 h6 {(h7-h6 Qd1-a4 Bf8-c5) +1.55/3
+4} 6. Bd2 b6 {(b7-b6 Qd1-a4 Qd8-d6) +1.89/3 4} 7. Rh1 a5 {(a7-a5 Qd1-a4
+Qd8-d6) +1.97/3 4} 8. Nd4 Nxd4 {(Nc6xd4 c3xd4 Qd8-d7 f2-f3) +1.79/4 5} 9.
+f4 Nc6 {(Nd4-c6 Qd1-a4 Qd8-d6) +7.34/3 1} 10. g3 Bc5 {(Bf8-c5 d3-d4 Bc5-d6)
++7.33/3 1} 11. Be3 Bxe3 {(Bc5xe3 Qd1-a4 Qd8-d6 Ke1-d1) +13.40/4 4} 12. a4
+Ng4 {(Nf6-g4 Qd1-b3 Ng4-f2 Rh1-g1) +16.00/4 6} 13. Nd2 Bf2# {(Be3-f2+)
++289.97/4 3} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:04:11"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} Nc6 {(Nb8-c6 e2-e3
+Ng8-f6 d2-d3) -0.38/4 4} 2. Ng5 {(Nf3-g5 Nc6-b4 a2-a3 e7-e6 a3xb4) +0.74/5
+2} e5 {(e7-e5 d2-d3 f7-f6 Ng5-f3) +0.37/4 4} 3. Nc3 {(Nb1-c3 Bf8-b4 a2-a3
+Qd8-f6 a3xb4) -0.67/5 4} Qxg5 {(Qd8xg5 d2-d3 Qg5-h5 f2-f3) +5.71/4 2} 4. d3
+{(d2-d3 Bf8-b4 Bc1xg5 Bb4xc3+) +4.62/4 1} Qh5 {(Qg5-h5 f2-f3) 0.00/1 0} 5.
+Bh6 {(Bc1-h6 Bf8-b4 g2-g4 Bb4xc3+ Qd1-d2) -1.39/5 3} Nxh6 {(Ng8xh6 a2-a3
+f7-f6 f2-f3) +11.87/4 5} 6. Nb5 {(Nc3-b5 Bf8-b4+ c2-c3 Bb4xc3+ b2xc3)
+-4.12/5 2} Bb4+ {(Bf8-b4+ c2-c3 Bb4-a5 f2-f3 e5-e4) +12.11/5 6} 7. c3
+{(c2-c3 Bb4xc3+ b2xc3) 0.00/1 0} Ba5 {(Bb4-a5 f2-f3 e5-e4) 0.00/1 0} 8. g4
+{(g2-g4 a7-a6 Nb5xc7+ Ba5xc7) -1.70/4 2} Nxg4 {(Nh6xg4 e2-e3 Qh5-h4 Qd1-f3)
++14.34/4 5} 9. Bg2 {(Bf1-g2 Nc6-d4 Nb5xc7+ Ba5xc7) -1.88/4 3} Nxh2 {(Ng4xh2
+e2-e3 Qh5xd1+) +16.48/3 1} 10. Qa4 {(Qd1-a4 Qh5-g4 Nb5xc7+ Ba5xc7) -5.04/5
+4} a6 {(a7-a6 Bg2xc6 b7xc6) +16.28/3 3} 11. Qh4 {(Qa4-h4 a6xb5 b2-b4
+Nh2-f3+) -8.04/5 4} Qxh4 {(Qh5xh4 b2-b4 a6xb5 Bg2xc6) +34.42/4 2} 12. Be4
+{(Bg2-e4 a6xb5 Ke1-d1 Nc6-b4) -14.13/5 5} axb5 {(a6xb5 b2-b4 Ba5-b6 O-O-O)
++39.14/4 6} 13. Kd1 {(Ke1-d1 Nc6-b4) 0.00/1 0} Qxf2 {(Qh4xf2 Be4xc6 b7xc6
+a2-a3) +42.92/4 4} 14. b4 {(b2-b4 Qf2-f1+ Rh1xf1 Nh2xf1 Kd1-c2) -17.64/5 4}
+Bb6 {(Ba5-b6 Be4xc6 d7xc6 e2-e4) +43.08/4 7} 15. Bd5 {(Be4-d5 Qf2-g2 a2-a4
+Qg2xh1+) -17.92/4 3} O-O {(O-O Bd5xc6 d7xc6) +44.04/3 1} 16. a4 {(a2-a4
+Qf2-g2 d3-d4 Qg2xh1+) -17.51/4 4} bxa4 {(b5xa4 b4-b5 Nc6-e7 Bd5-e4)
++47.28/4 5} 17. Be4 {(Bd5-e4 Qf2-f1+ Rh1xf1 Nh2xf1) -13.69/4 3} a3 {(a4-a3
+Be4xc6 d7xc6) +48.15/3 1} 18. Kd2 {(Kd1-d2 Qf2-f4+ Kd2-d1 Bb6-d4) -18.95/4
+3 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:06:25"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "142"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 2} Nc6 {(Nb8-c6 f2-f3 Ng8-f6
+Nb1-c3) -0.38/4 1} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 2} e6 {(e7-e6 Ng1-f3
+d7-d6 Nb1-c3) -0.38/4 5} 3. Bb5 {(Bf1-b5 Qd8-h4 Bb5xc6) +0.37/3 1} Qg5
+{(Qd8-g5 Bb5xc6 d7xc6 Qd1-f3) -0.48/4 4} 4. Bxc6 {(Bb5xc6 d7xc6 Qd1-f3
+Bf8-b4+) +0.29/4 7} dxc6 {(d7xc6 Qd1-f3) 0.00/1 0} 5. Qf3 {(Qd1-f3 Bf8-b4+)
+0.00/1 0} c5 {(c6-c5 c2-c3 c5xd4 c3xd4) -0.41/4 12} 6. h4 {(h2-h4 Qg5-f6
+c2-c3) +0.46/3 2} Qg6 {(Qg5-g6 c2-c3 c5xd4 c3xd4) -0.29/4 5} 7. c3 {(c2-c3
+Qg6-d3 Qf3-e2) +0.01/3 2} cxd4 {(c5xd4 c3xd4) 0.00/1 0} 8. exd4 {(e3xd4
+Qg6-c2 Nb1-d2) +0.13/3 2} Nf6 {(Ng8-f6 g2-g3 Qg6-e4+ Bc1-e3) -0.11/4 10} 9.
+Bg5 {(Bc1-g5 Bf8-e7 g2-g3) +0.47/3 3} Qc2 {(Qg6-c2 Bg5xf6 Qc2xb2 Bf6xg7)
+-0.05/4 8} 10. Qe2 {(Qf3-e2 Qc2xe2+ Ng1xe2) +0.08/3 2} Qxe2+ {(Qc2xe2+
+Ng1xe2 h7-h6 Bg5xf6) -0.36/4 2} 11. Nxe2 {(Ng1xe2 Bf8-e7 O-O O-O g2-g3)
++0.75/5 9} h6 {(h7-h6 Bg5xf6) 0.00/1 0} 12. Bxf6 {(Bg5xf6 g7xf6 O-O c7-c5
+g2-g3) +1.96/5 5} gxf6 {(g7xf6 f2-f3 Bf8-d6 O-O O-O) -0.79/5 2} 13. O-O
+{(O-O c7-c5 g2-g3) 0.00/1 0} b6 {(b7-b6 Rf1-d1 Bc8-d7 Rd1-f1 O-O-O) -0.37/5
+7} 14. Nd2 {(Nb1-d2 Bc8-a6 Ra1-e1 O-O-O) +0.52/4 3} Ba6 {(Bc8-a6 Ra1-e1
+O-O-O f2-f3) -0.50/4 1} 15. Rae1 {(Ra1-e1 O-O-O) 0.00/1 0} O-O-O {(O-O-O
+f2-f3) 0.00/1 0} 16. Ne4 {(Nd2-e4 Ba6xe2 Re1xe2 f6-f5) +0.39/4 5} c6
+{(c7-c6 f2-f3 Ba6xe2 Re1xe2) -0.20/4 4} 17. f3 {(f2-f3 Bf8-e7 a2-a3 e6-e5)
++0.68/4 4} Bxe2 {(Ba6xe2 Re1xe2) 0.00/1 0} 18. Rxe2 {(Re1xe2 Bf8-e7 a2-a3
+e6-e5) +0.68/4 2} f5 {(f6-f5 Ne4-d2 f5-f4 Re2-e1) -0.30/4 4} 19. Ng3
+{(Ne4-g3 Bf8-d6 Ng3-h5 c6-c5) +0.29/4 5} Be7 {(Bf8-e7 h4-h5 f5-f4 Ng3-h1)
+-0.22/4 4} 20. Nxf5 {(Ng3xf5 Be7-f6 Nf5-g3 Bf6xh4) +0.72/4 3} Bf6 {(Be7-f6
+Nf5-e3 Bf6xh4 Ne3-d1) -0.30/4 2} 21. Ng3 {(Nf5-g3 Bf6xh4) 0.00/1 0} Bxh4
+{(Bf6xh4 Ng3-h1 a7-a6 a2-a3) -0.31/4 2} 22. Nh5 {(Ng3-h5 Rd8-d5 g2-g4
+Rh8-d8) +0.50/4 4} a6 {(a7-a6 Re2-e4 Bh4-g5 Re4-e1) -0.26/4 6} 23. Re4
+{(Re2-e4 Bh4-g5 b2-b3 b6-b5) +0.77/4 8} Bg5 {(Bh4-g5 Re4-e1) 0.00/1 0} 24.
+b3 {(b2-b3 b6-b5) 0.00/1 0} Bd2 {(Bg5-d2 c3-c4 Bd2-c3 c4-c5) -0.21/4 7} 25.
+c4 {(c3-c4 Bd2-c3 c4-c5 Bc3xd4+) +0.47/4 5} Bc3 {(Bd2-c3 c4-c5) 0.00/1 0}
+26. c5 {(c4-c5 Bc3xd4+) 0.00/1 0} bxc5 {(b6xc5 d4xc5 Bc3-d4+ Re4xd4 Rd8xd4)
++2.13/5 4} 27. dxc5 {(d4xc5 Bc3-d4+ Re4xd4 Rd8xd4) -1.53/4 2} Bd4+
+{(Bc3-d4+ Re4xd4 Rd8xd4) 0.00/1 0} 28. Rxd4 {(Re4xd4 Rd8xd4) 0.00/1 0} Rxd4
+{(Rd8xd4) 0.00/1 0} 29. Nf6 {(Nh5-f6 Rh8-d8 f3-f4 Rd4-d2) -2.97/4 2} Rhd8
+{(Rh8-d8 Nf6-e4 Rd4-d5 Ne4-d6+) +3.13/4 2} 30. f4 {(f3-f4 Rd4-d2) 0.00/1 0}
+Rd1 {(Rd4-d1 b3-b4 Rd1xf1+ Kg1xf1 Kc8-c7) +3.67/5 4} 31. a4 {(a2-a4 Rd1-d3
+Nf6-g4 Rd3xb3 Ng4xh6) -3.83/5 2} Rxf1+ {(Rd1xf1+ Kg1xf1 Rd8-d4 g2-g3
+Rd4-d8) +4.50/5 1} 32. Kxf1 {(Kg1xf1 Rd8-d3 Nf6-g4 Rd3xb3 Ng4xh6 Rb3-b1+)
+-4.15/6 4} Rd4 {(Rd8-d4 g2-g3 Rd4-d8) 0.00/1 0} 33. g3 {(g2-g3 Rd4-d3
+Nf6-g8 Rd3xb3 Ng8xh6 f7-f5) -4.00/6 3} Rd8 {(Rd4-d8) 0.00/1 0} 34. Ng4
+{(Nf6-g4 Rd8-d3 Ng4xh6 f7-f5 Kf1-e1) -3.00/5 1} Rd3 {(Rd8-d3 Ng4xh6 Rd3xb3
+Kf1-e1 Kc8-c7) +3.20/5 1} 35. Nxh6 {(Ng4xh6 f7-f5 Kf1-e1) 0.00/1 0} Rxb3
+{(Rd3xb3 Kf1-e1 Kc8-c7) 0.00/1 0} 36. Nxf7 {(Nh6xf7 Rb3xg3 Nf7-d6+ Kc8-c7
+Kf1-e1 Rg3-g2) -3.11/6 1} Rxg3 {(Rb3xg3 Nf7-d6+ Kc8-d7 f4-f5 Rg3-a3 f5xe6+)
++4.41/6 1} 37. Nd6+ {(Nf7-d6+ Kc8-c7 Kf1-e1 Rg3-g2) 0.00/1 0} Kd7 {(Kc8-d7
+f4-f5 Rg3-a3 f5xe6+) 0.00/1 0} 38. Kf2 {(Kf1-f2 Rg3-a3 Nd6-c4 Ra3-a2+
+Kf2-e1 Ra2xa4) -5.46/6 3} Ra3 {(Rg3-a3 Nd6-c4 Ra3-a2+ Kf2-e1 Ra2-a1+
+Ke1-f2) +6.25/6 2} 39. Nc4 {(Nd6-c4 Ra3-a2+ Kf2-e1 Ra2xa4) 0.00/1 0} Ra2+
+{(Ra3-a2+ Kf2-e1 Ra2-a1+ Ke1-f2) 0.00/1 0} 40. Ke1 {(Kf2-e1 Ra2xa4) 0.00/1
+0} Ra1+ {(Ra2-a1+ Ke1-f2) 0.00/1 0} 41. Kd2 {(Ke1-d2 Kd7-e8 a4-a5 Ke8-f8
+Kd2-d3 Kf8-e8) -4.66/6 3} Ke8 {(Kd7-e8 a4-a5 Ke8-f8 Kd2-d3 Kf8-e8) +4.59/5
+1} 42. a5 {(a4-a5 Ke8-f8 Kd2-d3 Kf8-e8) 0.00/1 0} Kf8 {(Ke8-f8 Kd2-d3
+Kf8-e8) 0.00/1 0} 43. Kd3 {(Kd2-d3 Kf8-e8) 0.00/1 0} Ke8 {(Kf8-e8) 0.00/1
+0} 44. Kc2 {(Kd3-c2 Ra1-a2+ Kc2-b3 Ra2-a1 Nc4-d6+ Ke8-e7) -3.95/6 3} Rf1
+{(Ra1-f1 Nc4-d6+ Ke8-d7 Kc2-d2 Rf1xf4 Kd2-e1) +5.72/6 2} 45. Nd6+ {(Nc4-d6+
+Ke8-d7 Kc2-d2 Rf1xf4 Kd2-e1 e6-e5) -6.06/6 1} Kd7 {(Ke8-d7 Kc2-d2 Rf1xf4
+Kd2-e1) 0.00/1 0} 46. Kd2 {(Kc2-d2 Rf1xf4 Kd2-e1 e6-e5) 0.00/1 0} Rxf4
+{(Rf1xf4 Kd2-e1) 0.00/1 0} 47. Ke1 {(Kd2-e1 e6-e5) 0.00/1 0} Ra4 {(Rf4-a4
+Nd6-b7 Ra4-a1+ Ke1-f2 Kd7-c7 Nb7-d6) +8.85/6 2} 48. Nb7 {(Nd6-b7 Ra4-a1+
+Ke1-f2 Kd7-c7 Nb7-d6 Ra1xa5) -8.65/6 1} Ra1+ {(Ra4-a1+ Ke1-f2 Kd7-c7
+Nb7-d6) 0.00/1 0} 49. Kf2 {(Ke1-f2 Kd7-c7 Nb7-d6 Ra1xa5) 0.00/1 0} Kc7
+{(Kd7-c7 Nb7-d6) 0.00/1 0} 50. Nd6 {(Nb7-d6 Ra1xa5) 0.00/1 0} Rxa5 {(Ra1xa5
+Nd6-e4 e6-e5 Kf2-e2 Ra5-a1 Ne4-f6) +8.95/6 1} 51. Ne4 {(Nd6-e4 Ra5-a2+
+Kf2-f3 Ra2-a3+ Kf3-f4 a6-a5) -9.22/6 1} e5 {(e6-e5 Kf2-e2 Ra5-a1 Ne4-f6)
+0.00/1 0} 52. Kf3 {(Kf2-f3 Kc7-d7 Kf3-g4 Kd7-e6 Ne4-g5+ Ke6-e7) -9.35/6 2}
+Kd7 {(Kc7-d7 Kf3-g4 Kd7-e6 Kg4-g5 Ke6-f7 Ne4-d6+) +9.40/6 2} 53. Kg4
+{(Kf3-g4 Kd7-e6 Ne4-g5+ Ke6-e7) 0.00/1 0} Ke6 {(Kd7-e6 Kg4-g5 Ke6-f7
+Ne4-d6+) 0.00/1 0} 54. Ng5+ {(Ne4-g5+ Ke6-e7) 0.00/1 0} Kd5 {(Ke6-d5 Kg4-f5
+Ra5xc5 Ng5-e4 Rc5-c2 Ne4-f6+) +11.64/6 0} 55. Kf5 {(Kg4-f5 Ra5xc5 Ng5-e4
+Rc5-c4 Ne4-f6+ Kd5-d6) -11.70/6 1} Rxc5 {(Ra5xc5 Ng5-e4 Rc5-c2 Ne4-f6+)
+0.00/1 0} 56. Ne4 {(Ng5-e4 Rc5-c4 Ne4-f6+ Kd5-d6) 0.00/1 0} Rc2 {(Rc5-c2
+Ne4-f6+) 0.00/1 0} 57. Nf6+ {(Ne4-f6+ Kd5-d4 Nf6-e4 a6-a5 Ne4-f6 a5-a4)
+-12.18/6 1} Kd4 {(Kd5-d4 Nf6-e4 a6-a5 Ne4-g5 Rc2-f2+ Kf5-e6) +12.14/6 2}
+58. Ne4 {(Nf6-e4 a6-a5 Ne4-f6 a5-a4) 0.00/1 0} a5 {(a6-a5 Ne4-g5 Rc2-f2+
+Kf5-e6) 0.00/1 0} 59. Nf6 {(Ne4-f6 a5-a4) 0.00/1 0} a4 {(a5-a4 Nf6-g4 a4-a3
+Kf5-e6 e5-e4 Ng4-f6) +13.29/6 2} 60. Kg6 {(Kf5-g6 Rc2-g2+ Kg6-f7 a4-a3
+Kf7-e7 a3-a2) -13.31/6 4} a3 {(a4-a3 Nf6-g4 a3-a2 Ng4-e3 Kd4xe3 Kg6-f5)
++19.75/6 2} 61. Ng4 {(Nf6-g4 a3-a2 Kg6-f5 a2-a1Q Ng4xe5 Rc2-f2+) -24.53/6
+3} a2 {(a3-a2 Ng4-e3 Kd4xe3 Kg6-f5) 0.00/1 0} 62. Kf5 {(Kg6-f5 a2-a1Q
+Ng4xe5 Rc2-f2+) 0.00/1 0} e4 {(e5-e4 Kf5-g5 a2-a1Q Kg5-f4 Qa1-f1+ Kf4-g5)
++27.88/6 2} 63. Nf6 {(Ng4-f6 a2-a1Q Kf5-f4 e4-e3 Kf4-g4) -27.91/5 1} a1=Q
+{(a2-a1Q Kf5-f4 e4-e3 Kf4-g3 e3-e2) +28.58/5 1} 64. Kf4 {(Kf5-f4 e4-e3
+Kf4-g4) 0.00/1 0} e3 {(e4-e3 Kf4-g3 e3-e2) 0.00/1 0} 65. Kg4 {(Kf4-g4)
+0.00/1 0} Rg2+ {(Rc2-g2+ Kg4-f5 e3-e2 Kf5-f4 e2-e1Q) +41.75/5 1} 66. Kf5
+{(Kg4-f5 e3-e2 Kf5-e6 e2-e1Q+ Ke6-d7) -42.50/5 2} e2 {(e3-e2 Kf5-f4 e2-e1Q)
+0.00/1 0} 67. Ke6 {(Kf5-e6 e2-e1Q+ Ke6-d7) 0.00/1 0} e1=Q+ {(e2-e1Q+ Ke6-d7
+Rg2-g6 Nf6-h5 c6-c5) +42.67/5 4} 68. Kd7 {(Ke6-d7) 0.00/1 0} Rg6 {(Rg2-g6
+Nf6-h5 c6-c5) 0.00/1 0} 69. Ne8 {(Nf6-e8 Qe1-e6+ Kd7-d8 Qa1-a5+) -44.46/4
+2} Qa7+ {(Qa1-a7+ Ne8-c7 Qe1-e5 Kd7-d8) +48.99/4 1} 70. Nc7 {(Ne8-c7
+Qe1-e6+ Kd7-d8 Qa7-b8+) -289.95/5 2} Qe5 {(Qe1-e5 Kd7-d8) 0.00/1 0} 71. Kd8
+{(Kd7-d8 Qa7xc7+) -289.97/5 1} Qaxc7# {(Qa7xc7+) +289.98/5 4} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "Random_Opponent"]
+[Black "V7P3R_v13.2"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Polish (Sokolsky-Orangutan) Opening"]
+[Time "20:11:50"]
+[Variation "1...Nf6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "26"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. b4 Nf6 {(Ng8-f6 Ng1-f3 Nf6-e4 Bc1-b2 e7-e6) -1.71/6 1} 2. d3 Ng4
+{(Nf6-g4 Ng1-f3 e7-e6 Bc1-g5 Bf8xb4+) -1.23/5 1} 3. b5 Rg8 {(Rh8-g8 b5-b6
+a7xb6 Ng1-f3 Nb8-c6) -0.84/5 3} 4. Bd2 a6 {(a7-a6 h2-h3 a6xb5 h3xg4)
+-0.60/4 1} 5. Bc3 h6 {(h7-h6 h2-h3 a6xb5 h3xg4) -0.75/5 3} 6. Bb4 e6
+{(e7-e6 Qd1-d2 a6xb5 Bb4-e7) +2.79/4 2} 7. a3 Qf6 {(Qd8-f6 Bb4-c3 Qf6xf2+
+Ke1-d2 Qf2-e3+) +3.69/5 4} 8. Bc5 Bxc5 {(Bf8xc5 Qd1-c1 Qf6-b2 Nb1-c3
+Qb2xc3+) +6.98/5 4} 9. bxa6 Bxf2+ {(Bc5xf2+ Ke1-d2 Bf2-e3+ Kd2-e1 Be3-f2+)
++11.27/5 3} 10. Kd2 Be3+ {(Bf2-e3+ Kd2-e1 Be3-f2+) 0.00/1 0} 11. Ke1 Bf2+
+{(Be3-f2+) 0.00/1 0} 12. Kd2 Be3+ {(Bf2-e3+ Kd2-e1 Qf6-f2+) +289.96/6 3}
+13. Ke1 Qf2# {(Qf6-f2+) 0.00/1 0} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:12:35"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 6} 2. Nc3 {(Nb1-c3 Qd8-f6 Nc3-b5 Bf8-d6 Nb5xd6+)
+-0.64/5 3} d5 {(d7-d5 e2-e3 Nb8-c6) +0.31/3 1} 3. Nb5 {(Nc3-b5 Qd8-f6
+Nf3-e5 Bf8-b4 Nb5xc7+) +0.26/5 4} c6 {(c7-c6 Nb5-c3 Ng8-f6) +1.00/3 1} 4.
+e4 {(e2-e4 c6xb5 Bf1xb5+ Nb8-c6) +1.08/5 5} dxe4 {(d5xe4 Nf3-e5 c6xb5
+Bf1xb5+) +6.03/4 3} 5. Ng5 {(Nf3-g5 c6xb5 Bf1xb5+ Ke8-e7 Bb5-c6) -1.42/5 4}
+e3 {(e4-e3 Ng5xf7 e3xf2+ Ke1xf2) +5.70/4 11} 6. Nc7+ {(Nb5-c7+ Ke8-d7
+d2xe3+ Kd7xc7 Qd1xd8+) +0.70/5 3} Qxc7 {(Qd8xc7 f2xe3 h7-h6 Ng5-f3 Ng8-f6)
++6.54/5 5} 7. dxe3 {(d2xe3 Bf8-b4+ Ke1-e2 Qc7-d6) -1.85/4 2} Qa5+ {(Qc7-a5+
+c2-c3 Qa5xg5 h2-h3) +11.20/4 3} 8. Bd2 {(Bc1-d2 Qa5xd2+ Ke1xd2 Bf8-b4+
+Kd2-e2) +1.47/5 4} Qxg5 {(Qa5xg5 c2-c3 Qg5-d5 f2-f3) +12.15/4 5} 9. h4
+{(h2-h4 Bf8-b4 Bd2xb4 Qg5xe3+) +4.05/5 5} Qd5 {(Qg5-d5 c2-c4 Qd5-d6 Qd1-h5)
++12.26/4 6} 10. Bc3 {(Bd2-c3 Bf8-e7 Bf1-b5 Qd5xd1+) -5.44/4 2} f6 {(f7-f6
+b2-b3 h7-h6) +12.64/3 1} 11. Ba6 {(Bf1-a6 Nb8xa6 Qd1-d4 Na6-b4) -4.46/4 3}
+Qxg2 {(Qd5xg2 Rh1-f1 Nb8xa6 b2-b3) +20.55/4 4} 12. Qg4 {(Qd1-g4 Nb8xa6
+Qg4-h5+ g7-g6) -7.65/4 2} Qxg4 {(Qg2xg4 Ba6-e2 Qg4-f5 Be2-d3) +32.70/4 3}
+13. Bd4 {(Bc3-d4 Nb8xa6 f2-f3 Qg4-g3+) -17.26/4 3} Qf3 {(Qg4-f3 Rh1-h2
+Nb8xa6 c2-c3) +39.17/4 11} 14. Kd2 {(Ke1-d2 b7xa6 Kd2-d3 Qf3-f5+ Kd3-e2)
+-18.82/5 8} Nxa6 {(Nb8xa6 Rh1-f1 e6-e5 Bd4-c3) +40.10/4 10} 15. Kd3
+{(Kd2-d3 Na6-b4+ Kd3-d2 Qf3xf2+) -18.94/5 6} e5 {(e6-e5 Bd4-c3 Qf3xf2)
++43.00/3 2} 16. Rhg1 {(Rh1-g1 Na6-b4+ Kd3-c4 e5xd4) -20.37/4 2} exd4
+{(e5xd4 Kd3xd4 Qf3xf2) +46.24/3 1} 17. Rg5 {(Rg1-g5 Na6-b4+ Kd3xd4 Nb4xc2+)
+-21.91/5 5 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "6"]
+[White "V7P3R_v14.0"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A05"]
+[Opening "Reti Opening"]
+[Time "20:15:21"]
+[Variation "1...Nf6 2.e3"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "31"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} Nf6 2. e3 {(e2-e3
+Nf6-e4 Nb1-c3) 0.00/1 0} Ne4 3. Nc3 {(Nb1-c3) 0.00/1 0} Na6 4. Nxe4
+{(Nc3xe4 Na6-b4 d2-d3 Nb4-c6 Ne4-c3) +6.98/5 5} h5 5. Bxa6 {(Bf1xa6 b7xa6
+d2-d3 f7-f6) +7.59/4 1} Rg8 6. Bb5 {(Ba6-b5 f7-f6 Ne4-g3 g7-g6) +13.45/4 4}
+Rb8 7. d3 {(d2-d3 f7-f6 Ne4-g3 g7-g6) +14.41/4 7} g6 8. Neg5 {(Ne4-g5 e7-e6
+c2-c3 Bf8-g7) +14.44/4 8} c5 9. O-O {(O-O Qd8-a5 Bb5-c4 e7-e6) +14.05/4 3}
+f5 10. e4 {(e3-e4 f5xe4 d3xe4 Qd8-a5) +14.48/4 5} e5 11. Nxe5 {(Nf3xe5
+f5xe4 d3xe4 Bf8-h6) +16.52/4 8} fxe4 12. dxe4 {(d3xe4 Bf8-h6) 0.00/1 0} Bg7
+13. Qd5 {(Qd1-d5 Ke8-e7 Ne5xg6+ Ke7-f6) +19.74/4 9} Qe7 14. Nxg6 {(Ne5xg6
+Qe7-f6 Qd5xg8+ Bg7-f8) +29.38/4 3} Qxg5 15. Qxg8+ {(Qd5xg8+ Bg7-f8 Qg8xf8+)
++289.95/4 2} Bf8 16. Qxf8# {(Qg8xf8+) 0.00/1 0} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "V7P3R_v12.6"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:16:42"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} a6 2. Nc3 {(Nb1-c3 e7-e6
+d2-d4) +0.73/3 1} d6 3. d4 {(d2-d4 e7-e6 Ng1-f3) +0.52/3 2} f6 4. Bc4
+{(Bf1-c4 e7-e6 Qd1-h5+) +0.62/3 1} a5 5. Bxg8 {(Bc4xg8 Rh8xg8 Qd1-h5+
+g7-g6) +4.03/4 4} Ra6 6. Bc4 {(Bg8-c4 Ra6-a8 Qd1-h5+ g7-g6) +7.85/4 4} Nd7
+7. Bxa6 {(Bc4xa6 b7xa6 Qd1-h5+ g7-g6) +13.41/4 2} b5 8. Bxb5 {(Ba6xb5 g7-g6
+d4-d5 Bf8-g7) +19.46/4 3} h6 9. Qh5+ {(Qd1-h5+ g7-g6 Qh5xg6+) +289.96/5 5}
+g6 10. Qxg6# {(Qh5xg6+) 0.00/1 0} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:17:17"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "38"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} Nc6 {(Nb8-c6 Nf3-g5
+Nc6-b4 c2-c3 f7-f6) -1.65/5 1} 2. e3 {(e2-e3 e7-e6 Bf1-b5 Ng8-f6) +0.24/4
+2} Nb4 {(Nc6-b4 Nf3-g5 f7-f6 Qd1-h5+ g7-g6) -1.03/5 2} 3. c3 {(c2-c3 Nb4-c6
+Bf1-b5 e7-e6) +0.70/4 5} Nc6 {(Nb4-c6 Qd1-a4 Ng8-f6 Nf3-g5 Nf6-d5) -1.73/5
+3} 4. Bb5 {(Bf1-b5 e7-e6) 0.00/1 0} Nf6 {(Ng8-f6 Qd1-c2 Nf6-g4 Qc2-e4)
+-1.33/4 1} 5. Bxc6 {(Bb5xc6 d7xc6 d2-d3 e7-e6) +0.78/4 8} Nd5 {(Nf6-d5
+Nf3-e5 d7xc6 Qd1-f3) -0.92/5 5} 6. Bxd5 {(Bc6xd5 e7-e6 Bd5-e4 f7-f6)
++12.38/4 1} e6 {(e7-e6 Nf3-g5 e6xd5 Qd1-f3 Bf8-b4) -6.24/5 2} 7. Be4
+{(Bd5-e4 f7-f6) 0.00/1 0} Bd6 {(Bf8-d6 Nf3-g5 Qd8-f6 Qd1-f3) -4.87/5 4} 8.
+Qb3 {(Qd1-b3 c7-c6 d2-d3) +12.88/3 1} f5 {(f7-f5 Nf3-g5 Qd8-f6 Qb3-a4
+f5xe4) -3.30/5 6} 9. Bd3 {(Be4-d3 O-O O-O f5-f4) +12.20/4 5} Qf6 {(Qd8-f6
+Nf3-g5 Rh8-g8 Qb3-b5) -3.68/4 2} 10. O-O {(O-O O-O h2-h3) +12.71/3 2} Bf4
+{(Bd6-f4 e3xf4 Qf6-h6 Nf3-e5) -5.65/5 3} 11. exf4 {(e3xf4 O-O h2-h3 d7-d5)
++18.18/4 4} Qh6 {(Qf6-h6 Nf3-e5) 0.00/1 0} 12. Qb4 {(Qb3-b4 d7-d6 Qb4-b5+
+c7-c6) +19.13/4 8} a5 {(a7-a5 Qb4-d6 Rh8-g8 Qd6xd7+) -0.88/4 3} 13. Qc4
+{(Qb4-c4 c7-c6 h2-h3 O-O) +18.42/4 5} b5 {(b7-b5 Bd3-e4 f5xe4 Nf3-e5
+Qh6-f6) -5.89/5 5} 14. Qxc7 {(Qc4xc7 b5-b4 a2-a3 b4xa3) +21.58/4 4} Bb7
+{(Bc8-b7 Nf3-d4 Ra8-c8 Qc7xc8+) -6.01/4 3} 15. Qxb7 {(Qc7xb7 O-O Qb7xd7
+b5-b4 c3-c4) +28.66/5 8} Rf8 {(Rh8-f8 Nf3-g5 Rf8-g8 Qb7xa8+) -14.57/4 2}
+16. Qxa8+ {(Qb7xa8+ Ke8-f7 Qa8xa5 d7-d5 Bd3xb5) +40.65/5 6} Ke7 {(Ke8-e7
+Qa8xf8+ Ke7xf8 b2-b4 Kf8-e8) -13.12/5 3} 17. Qxa5 {(Qa8xa5 Qh6xf4 Qa5-a3+
+Ke7-f7) +41.07/4 1} Ra8 {(Rf8-a8 Nf3-d4 e6-e5 Qa5-b4+) -16.24/4 3} 18. Qxa8
+{(Qa5xa8 Qh6xf4 Qa8-a3+ Ke7-f7) +50.99/4 1} Kf7 {(Ke7-f7 Nf3-e5+ Kf7-e7
+Qa8-a3+) -21.38/5 4} 19. Bxb5 {(Bd3xb5 d7-d5 Qa8-e8+ Kf7-f6) +53.03/4 4}
+Ke7 {(Kf7-e7 Qa8-g8 Ke7-d6 Qg8-f8+) -23.90/5 4 Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "V7P3R_v14.0"]
+[Black "V7P3R_v12.6"]
+[Result "1-0"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:19:57"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "145"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. e3 {(e2-e3 Ng8-f6 d2-d3 d7-d6) +0.20/4 2} f6
+{(f7-f6 Bf1-b5) 0.00/1 0} 3. d3 {(d2-d3 Nb8-c6 Nb1-c3 d7-d6) +0.32/4 3} Nc6
+{(Nb8-c6 h2-h3 d7-d5 Nb1-c3) -0.15/4 8} 4. Nc3 {(Nb1-c3 d7-d6) 0.00/1 0}
+Bb4 {(Bf8-b4 Qd1-d2 d7-d5) +0.11/3 1} 5. Qd2 {(Qd1-d2 Bb4xc3 Qd2xc3 d7-d6)
++0.02/4 2} Bxc3 {(Bb4xc3 Qd2xc3 d7-d5) +0.33/3 2} 6. Qxc3 {(Qd2xc3 d7-d6)
+0.00/1 0} e5 {(e6-e5 a2-a3 d7-d6) +0.28/3 2} 7. g3 {(g2-g3 d7-d5 h2-h4)
++0.18/3 2} d5 {(d7-d5 Qc3-c5 Qd8-d6) +0.23/3 2} 8. h4 {(h2-h4 e5-e4 d3xe4)
+-0.12/3 3} e4 {(e5-e4 Nf3-d4 Ng8-e7) +0.54/3 2} 9. Nd4 {(Nf3-d4 Ng8-e7
+Nd4xc6 Ne7xc6) -0.25/4 6} Nge7 {(Ng8-e7 d3xe4 d5xe4) +0.54/3 2} 10. Nxc6
+{(Nd4xc6 Ne7xc6) 0.00/1 0} Nxc6 {(Ne7xc6 Bf1-g2 Bc8-f5) +0.69/3 1} 11. dxe4
+{(d3xe4 d5xe4 Bf1-b5 Bc8-d7) -0.04/4 3} dxe4 {(d5xe4 Bf1-c4 Nc6-e5 O-O)
+-0.81/4 8} 12. Bb5 {(Bf1-b5 Bc8-d7) 0.00/1 0} Qd5 {(Qd8-d5 Bb5xc6+ Qd5xc6
+O-O) -0.60/4 5} 13. Bxc6+ {(Bb5xc6+ b7xc6 O-O O-O) +0.59/4 3} Qxc6 {(Qd5xc6
+O-O) 0.00/1 0} 14. Qxc6+ {(Qc3xc6+ b7xc6 c2-c3 O-O O-O) +0.67/5 3} bxc6
+{(b7xc6 Bc1-d2 Ra8-b8 O-O-O O-O) +0.04/5 2} 15. c3 {(c2-c3 O-O O-O) 0.00/1
+0} Ba6 {(Bc8-a6 Bc1-d2 Ba6-c4 b2-b3 Bc4-a6) +0.22/5 2} 16. b3 {(b2-b3
+Ra8-d8 Bc1-a3 Ke8-f7 Ba3-c5 Rd8-a8) +0.61/6 10} h5 {(h7-h5 c3-c4 Rh8-g8 O-O
+Ba6xc4) -0.06/5 10} 17. Ba3 {(Bc1-a3 O-O-O Ba3-c5 Kc8-b7 Bc5-e7) +1.07/5 2}
+O-O-O {(O-O-O Ba3-c5 Kc8-b8 c3-c4) -0.72/4 2} 18. Bc5 {(Ba3-c5 Kc8-b7
+Bc5-e7) 0.00/1 0} Kb8 {(Kc8-b8 c3-c4) 0.00/1 0} 19. Bd4 {(Bc5-d4 Kb8-c8
+Bd4xa7 Ba6-d3) +1.92/4 3} Bd3 {(Ba6-d3 c3-c4 Kb8-c8 Bd4xa7) -1.90/4 7} 20.
+O-O-O {(O-O-O a7-a6 f2-f4 Kb8-c8) +1.07/4 5} a6 {(a7-a6 c3-c4 Kb8-c8)
+-0.65/3 1} 21. f4 {(f2-f4 Kb8-c8) 0.00/1 0} Kb7 {(Kb8-b7 c3-c4 Kb7-c8)
+-0.67/3 2} 22. Rd2 {(Rd1-d2 Kb7-c8 Rd2-d1 Rh8-g8) +1.07/4 5} Kc8 {(Kb7-c8
+c3-c4 a6-a5 Rd2-d1) -0.59/4 10} 23. Rdd1 {(Rd2-d1 Rh8-g8) 0.00/1 0} Be2
+{(Bd3-e2 Rd1-g1 Be2-d3 Bd4-a7) +0.58/4 4} 24. Rde1 {(Rd1-e1 Be2-g4 Bd4-c5
+Rh8-g8) -0.35/4 3} Bf3 {(Be2-f3 Rh1-h2 a6-a5 Kc1-b2) +0.21/4 3} 25. Rhg1
+{(Rh1-g1 Rh8-g8 Rg1-f1 f6-f5) -0.35/4 2} Rhf8 {(Rh8-f8 Kc1-b2 g7-g6 Bd4-a7)
+0.00/4 4} 26. Bc5 {(Bd4-c5 Rf8-e8 Rg1-f1 Re8-g8 Bc5-d4) -0.35/5 4} Rfe8
+{(Rf8-e8 Kc1-b2 g7-g6 Bc5-a7) 0.00/4 2} 27. Rgf1 {(Rg1-f1 Re8-g8 Bc5-d4)
+0.00/1 0} f5 {(f6-f5 Kc1-b2 g7-g6 Bc5-a7) +0.26/4 6} 28. Kc2 {(Kc1-c2 g7-g6
+Rf1-f2 Re8-g8) -0.48/4 3} g6 {(g7-g6 Kc2-b2 Bf3-g2 Rf1-f2) +0.51/4 7} 29.
+Rf2 {(Rf1-f2 Re8-g8) 0.00/1 0} a5 {(a6-a5 Kc2-b1 Bf3-d1) +0.97/3 0} 30. Rg1
+{(Re1-g1 Re8-e6 c3-c4 Re6-e8) -0.47/4 2} Rd5 {(Rd8-d5 Bc5-a7 Re8-d8)
++1.01/3 1} 31. Bd4 {(Bc5-d4 Re8-f8 Bd4-g7 Rf8-d8) -0.33/4 3} Red8 {(Re8-d8
+Kc2-b1 Rd5-d6) +0.72/3 1} 32. Bf6 {(Bd4-f6 Bf3-d1+ Kc2-c1 Rd8-d6) +1.06/4
+2} Rd1 {(Rd5-d1 Rg1xd1 Bf3xd1+ Kc2-b1) +0.80/4 4} 33. Rxd1 {(Rg1xd1 Bf3xd1+
+Kc2-b2 Rd8-d6 Bf6-e5) +0.96/5 3} Bxd1+ {(Bf3xd1+ Kc2-b1) 0.00/1 0} 34. Kb2
+{(Kc2-b2 Rd8-d6 Bf6-e5) 0.00/1 0} Rd3 {(Rd8-d3 Bf6-d4 a5-a4 Bd4-a7) -0.47/4
+3} 35. Kc1 {(Kb2-c1 Rd3xe3 Kc1xd1 Re3xg3) +0.57/4 3} c5 {(c6-c5 Bf6-e7
+Bd1-f3 Be7xc5) +0.49/4 3} 36. Be7 {(Bf6-e7 Kc8-d7 Be7xc5 Rd3xc3+) +0.17/4
+2} Bf3 {(Bd1-f3 Be7xc5) 0.00/1 0} 37. Bxc5 {(Be7xc5 Rd3xc3+ Rf2-c2 Rc3xc2+
+Kc1xc2) +0.75/5 3} Rxc3+ {(Rd3xc3+ Rf2-c2 Rc3-d3 Kc1-b2) -0.11/4 2} 38. Rc2
+{(Rf2-c2 Rc3xc2+ Kc1xc2) 0.00/1 0} Rd3 {(Rc3-d3 Kc1-b2) 0.00/1 0} 39. Bb6
+{(Bc5-b6 Kc8-d7 Bb6xc7 Kd7-e8) +1.52/4 2} Kd8 {(Kc8-d8 Rc2xc7 Kd8-e8
+Kc1-b2) -1.56/4 2} 40. Bxc7+ {(Bb6xc7+ Kd8-e8 Bc7xa5 Rd3xe3 Kc1-b2) +1.87/5
+2} Ke8 {(Kd8-e8 Bc7xa5 Rd3xe3 Kc1-b1) -1.44/4 0} 41. Bxa5 {(Bc7xa5 Rd3xe3
+Kc1-b2) 0.00/1 0} Rxe3 {(Rd3xe3 Kc1-b1) 0.00/1 0} 42. Kb2 {(Kc1-b2) 0.00/1
+0} Re2 {(Re3-e2 Rc2xe2 Bf3xe2 a2-a4) -1.86/4 0} 43. Rxe2 {(Rc2xe2 Bf3xe2
+a2-a4 Be2-g4 Ba5-b6 Bg4-h3) +1.99/6 2} Bxe2 {(Bf3xe2 a2-a4) 0.00/1 0} 44.
+a4 {(a2-a4 Be2-g4 Ba5-b6 Bg4-h3) 0.00/1 0} Bd3 {(Be2-d3 Ba5-b6 Bd3-a6 a4-a5
+Ba6-d3) -1.88/5 1} 45. Bb6 {(Ba5-b6 Bd3-e2 b3-b4 Ke8-f7 b4-b5 Kf7-e8)
++2.54/6 1} Ba6 {(Bd3-a6 a4-a5 Ba6-d3) 0.00/1 0} 46. b4 {(b3-b4 Ba6-d3 b4-b5
+Bd3-e2 Kb2-c3 Be2-d3) +2.58/6 1} Be2 {(Ba6-e2 b4-b5 Be2-f1 Bb6-c5 Bf1-g2
+a4-a5) -1.93/6 2} 47. b5 {(b4-b5 Be2-d1 Kb2-a3 Bd1-e2 Ka3-b2 Be2-d1)
++2.58/6 3} Bf1 {(Be2-f1 Bb6-c5 Bf1-g2 a4-a5) 0.00/1 0} 48. Bc5 {(Bb6-c5
+Ke8-f7 b5-b6 Bf1-a6 a4-a5 Kf7-e8) +3.54/6 1} Bg2 {(Bf1-g2 a4-a5) 0.00/1 0}
+49. b6 {(b5-b6 Ke8-d7 a4-a5 Kd7-c6 Bc5-d4 Kc6-d6) +4.13/6 1} Kd7 {(Ke8-d7
+a4-a5 Kd7-c6 Bc5-d4 Kc6-d7) -4.10/5 1} 50. a5 {(a4-a5 Kd7-c6 Bc5-d4 Kc6-d6)
+0.00/1 0} Kc6 {(Kd7-c6 Bc5-d4 Kc6-d7) 0.00/1 0} 51. Bd4 {(Bc5-d4 Kc6-d6)
+0.00/1 0} Kd7 {(Kc6-d7) 0.00/1 0} 52. a6 {(a5-a6 Kd7-c6 b6-b7 Kc6-c7
+Bd4-e5+ Kc7-c6) +6.30/6 4} Kc6 {(Kd7-c6 b6-b7 Kc6-c7 Bd4-e5+ Kc7-d7)
+-6.17/5 1} 53. b7 {(b6-b7 Kc6-c7 Bd4-e5+ Kc7-c6) 0.00/1 0} Kc7 {(Kc6-c7
+Bd4-e5+ Kc7-d7) 0.00/1 0} 54. Be5+ {(Bd4-e5+ Kc7-c6) 0.00/1 0} Kd7
+{(Kc7-d7) 0.00/1 0} 55. b8=Q {(b7-b8Q Bg2-f3 a6-a7 e4-e3 a7-a8Q) +20.27/5
+1} Ke7 {(Kd7-e7 Qb8-g8 e4-e3 Qg8xg6) -21.10/4 1} 56. Qg8 {(Qb8-g8 Bg2-f3
+a6-a7 e4-e3) +20.48/4 1} e3 {(e4-e3 Qg8xg6) 0.00/1 0} 57. Qg7+ {(Qg8-g7+
+Ke7-e6 Qg7xg6+ Ke6-d5) +23.11/4 1} Kd8 {(Ke7-d8 Qg7xg6 Bg2-e4 Kb2-a3 e3-e2)
+-23.49/5 2} 58. Bf6+ {(Be5-f6+ Kd8-c8 Qg7xg6 Kc8-d7 Qg6xf5+) +23.16/5 5}
+Kc8 {(Kd8-c8 Qg7xg6 Bg2-e4 Kb2-a3 e3-e2) -23.59/5 1} 59. Qxg6 {(Qg7xg6
+Kc8-d7 Qg6xf5+) 0.00/1 0} Be4 {(Bg2-e4 Kb2-a3 e3-e2) 0.00/1 0} 60. Qxh5
+{(Qg6xh5 Be4-d3 a6-a7 Kc8-d7) +23.38/4 1} Bd3 {(Be4-d3 Qh5-e8+ Kc8-c7
+Bf6-e5+) -24.50/4 1} 61. a7 {(a6-a7 Kc8-d7) 0.00/1 0} Kb7 {(Kc8-b7 Qh5-h7+
+Kb7-a8 Kb2-a3) -25.25/4 1} 62. Qe8 {(Qh5-e8 Kb7xa7 Qe8xe3+ Ka7-b7) +29.16/4
+2} Kxa7 {(Kb7xa7 Qe8xe3+ Ka7-b7 Qe3xd3) -29.33/4 1} 63. Qxe3+ {(Qe8xe3+
+Ka7-b7) 0.00/1 0} Kb7 {(Ka7-b7 Qe3xd3) 0.00/1 0} 64. Qxd3 {(Qe3xd3 Kb7-c6
+Qd3xf5 Kc6-d6 h4-h5) +33.44/5 1} Kb6 {(Kb7-b6 Qd3xf5 Kb6-c7 h4-h5 Kc7-b7)
+-33.88/5 1} 65. Qxf5 {(Qd3xf5 Kb6-b7 h4-h5 Kb7-c6 h5-h6) +34.14/5 2} Kc7
+{(Kb6-c7 h4-h5 Kc7-b7) 0.00/1 0} 66. Qe5+ {(Qf5-e5+ Kc7-d7 h4-h5 Kd7-c6)
++34.14/5 2} Kb7 {(Kc7-b7 h4-h5 Kb7-c8 h5-h6 Kc8-b7) -34.58/5 2} 67. Qd5+
+{(Qe5-d5+ Kb7-b8 h4-h5 Kb8-c7 h5-h6) +34.18/5 1} Kb8 {(Kb7-b8 h4-h5 Kb8-c8
+h5-h6 Kc8-c7) -34.68/5 1} 68. h5 {(h4-h5 Kb8-c7 h5-h6) 0.00/1 0} Kc8
+{(Kb8-c8 h5-h6 Kc8-c7) 0.00/1 0} 69. Qc6+ {(Qd5-c6+ Kc8-b8 h5-h6 Kb8-a7
+h6-h7) +35.00/5 2} Kb8 {(Kc8-b8 Bf6-e5+ Kb8-a7 Be5-d4+ Ka7-b8 Bd4-e5+)
+-35.49/6 2} 70. h6 {(h5-h6 Kb8-a7 h6-h7) 0.00/1 0} Ka7 {(Kb8-a7 Bf6-d4+
+Ka7-b8 Bd4-f6 Kb8-a7 Bf6-d4+) -50.24/6 2} 71. h7 {(h6-h7) 0.00/1 0} Kb8
+{(Ka7-b8 h7-h8Q+ Kb8-a7 Qh8-a8+) -289.95/5 0} 72. h8=Q+ {(h7-h8Q+ Kb8-a7
+Qh8-a8+) +289.96/5 3} Ka7 {(Kb8-a7 Qh8-a8+) 0.00/1 0} 73. Qha8# {(Qh8-a8+)
+0.00/1 0} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "V7P3R_v13.2"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:25:43"]
+[Variation "1...d6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "23"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} d6 2. Nc3 {(Nb1-c3
+Ng8-f6 Nf3-g5 Nb8-c6 Nc3-b5) -1.45/5 2} b5 3. Ng5 {(Nf3-g5 Bc8-b7 h2-h3
+Qd8-c8) +1.44/4 1} Na6 4. Nd5 {(Nc3-d5 e7-e6 e2-e3 e6xd5) +1.59/4 2} Bg4 5.
+e3 {(e2-e3 c7-c6 Nd5-c7+) -1.57/3 1} f6 6. Bxb5+ {(Bf1xb5+ Bg4-d7 Qd1-h5+
+g7-g6 Bb5xd7+) +3.44/5 4} c6 7. Bxc6+ {(Bb5xc6+ Bg4-d7 Qd1-h5+ g7-g6
+Nd5xf6+) +4.99/5 3} Bd7 8. Qh5+ {(Qd1-h5+ g7-g6 Nd5xf6+) 0.00/1 0} g6 9.
+Nxf6+ {(Nd5xf6+) 0.00/1 0} exf6 10. Bxd7+ {(Bc6xd7+ Ke8-e7 Ng5-e6 Qd8-b6
+Qh5xh7+) +0.07/5 3} Kxd7 11. Qh3+ {(Qh5-h3+ Kd7-c6 Qh3-f3+ Kc6-b6 Rh1-g1)
++1.21/5 4} Ke7 12. Qe6# {(Qh3-e6+) +289.98/6 1} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v13.2"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:26:24"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 Qd1-f3 Nc6-b4
+Qf3-e4 Nb4xc2+) -1.67/5 2} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 2} Nb4
+{(Nc6-b4 Ng1-f3 Nb4xc2+ Ke1-d2 g7-g6) -0.80/5 3} 3. c3 {(c2-c3 Nb4-c6
+Ng1-f3) +1.30/3 1} e5 {(e7-e5 d4xe5 Nb4-c2+ Ke1-e2 Bf8-b4) -1.94/5 5} 4.
+cxb4 {(c3xb4 Bf8xb4+ Nb1-c3 e5xd4) +4.36/4 3} Nh6 {(Ng8-h6 d4xe5 Bf8xb4+
+Nb1-c3) +0.05/5 5} 5. dxe5 {(d4xe5 Bf8xb4+ Nb1-c3 Bb4xc3+) +6.67/4 6} Bxb4+
+{(Bf8xb4+ Nb1-c3) 0.00/1 0} 6. Nc3 {(Nb1-c3 Bb4xc3+) 0.00/1 0} Ng4 {(Nh6-g4
+Bf1-c4 Bb4xc3+ b2xc3) +0.04/4 2} 7. Qxg4 {(Qd1xg4 Bb4xc3+ b2xc3 O-O Ng1-f3)
++12.88/5 6} h5 {(h7-h5 e5-e6 h5xg4 e6xf7+) +1.88/4 2} 8. Qxb4 {(Qg4xb4
+b7-b6 Ng1-f3 c7-c5) +18.97/4 4} a5 {(a7-a5 e5-e6 f7xe6 Nc3-d5) -1.14/4 3}
+9. Qa3 {(Qb4-a3 b7-b6 Ng1-f3 c7-c5) +18.97/4 10} Qh4 {(Qd8-h4 Ng1-f3 d7-d6
+Nf3xh4) -12.01/4 2} 10. Qc5 {(Qa3-c5 c7-c6 g2-g3) +19.55/3 1} Qb4 {(Qh4-b4
+Bf1-c4 Qb4xc5 b2-b4 a5xb4) -1.54/5 3} 11. Qxc7 {(Qc5xc7 O-O Qc7-c4 g7-g6)
++19.81/4 4} Qb6 {(Qb4-b6 Bf1-c4 d7-d5 Bc4-b5+ Qb6xb5) -14.30/5 5} 12. Qxb6
+{(Qc7xb6 O-O Bf1-c4 h5-h4) +37.98/4 3} Rh6 {(Rh8-h6 Qb6-d8+ Ke8xd8 e3-e4
+f7-f5) -13.55/6 2} 13. Qb3 {(Qb6-b3 Rh6-e6 Bf1-c4 Re6xe5) +39.65/4 9} a4
+{(a5-a4 e3-e4 Rh6-g6 Bf1-e2 f7-f6) -20.65/5 3} 14. Nxa4 {(Nc3xa4 Ra8-b8
+Ng1-f3 g7-g6) +41.51/4 6} Ra5 {(Ra8-a5 Qb3-b5 Rh6-g6 Qb5-b6) -15.41/4 3}
+15. Nb6 {(Na4-b6 Rh6xb6 Qb3xb6 Ra5xe5) +43.18/4 6} Rc6 {(Rh6-c6 Qb3-d5
+Ke8-d8 e5-e6) -15.87/4 3 Black resigns} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "7"]
+[White "Random_Opponent"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[Time "20:28:37"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. f4 Nc6 {(Nb8-c6 e2-e3 e7-e6 Nb1-c3 d7-d6) +0.12/5 5} 2. h4 f6 {(f7-f6
+e2-e3 e7-e5 f4xe5) +0.21/4 2} 3. f5 d5 {(d7-d5 g2-g4 e7-e6 Nb1-c3) +0.39/4
+2} 4. Rh2 Qd6 {(Qd8-d6 Rh2-h3 Bc8xf5 Rh3-f3) +3.75/4 2} 5. d4 Qxh2 {(Qd6xh2
+Bc1-e3 Qh2xh4+ Be3-f2) +13.49/4 2} 6. Na3 Qxh4+ {(Qh2xh4+ Ke1-d2 Qh4xd4+
+Kd2-e1) +19.73/4 2} 7. g3 Qxg3+ {(Qh4xg3+ Ke1-d2 Qg3xg1 Na3-b5 Bc8xf5)
++24.43/5 4} 8. Kd2 Qxg1 {(Qg3xg1 Na3-b5 Bc8xf5) 0.00/1 0} 9. Nb1 Qxd4+
+{(Qg1xd4+ Kd2-e1 Qd4-h4+ Ke1-d2) +26.86/4 3} 10. Ke1 Qh4+ {(Qd4-h4+ Ke1-d2)
+0.00/1 0} 11. Kd2 Bxf5 {(Bc8xf5 c2-c3 O-O-O e2-e3) +27.47/4 3} 12. c4 O-O-O
+{(O-O-O c4-c5 e7-e5 Qd1-e1) +29.58/4 5} 13. a4 dxc4+ {(d5xc4+ Kd2-c3 Rd8xd1
+Nb1-d2 e7-e5) +47.37/5 9} 14. Kc3 Rxd1 {(Rd8xd1 Nb1-d2 e7-e5) 0.00/1 0} 15.
+Bg2 Qd4# {(Qh4-d4+) +289.97/4 2} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "Random_Opponent"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A00"]
+[Opening "Kadas (Desprez) Opening"]
+[Time "20:29:38"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. h4 e6 {(e7-e6 e2-e3 Bf8-b4 f2-f3) -0.06/4 2} 2. b4 Bxb4 {(Bf8xb4 c2-c3
+Qd8-f6 f2-f3) +2.23/4 7} 3. a4 Qf6 {(Qd8-f6 c2-c3 d7-d5 f2-f3) +2.64/4 8}
+4. c3 d5 {(d7-d5 f2-f3) 0.00/1 0} 5. Bb2 Nc6 {(Nb8-c6 f2-f3 Bb4-c5) +3.19/3
+2} 6. Bc1 h6 {(h7-h6 f2-f3 Bb4-c5) +3.37/3 2} 7. Ra2 Qg6 {(Qf6-g6 Qd1-c2
+Qg6xc2) +4.05/3 2} 8. f3 Qg3# {(Qg6-g3+) +289.97/4 3} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:30:13"]
+[Variation "1...Nc6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "35"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} Nc6 {(Nb8-c6 e2-e3
+Ng8-f6 d2-d3) -0.38/4 3} 2. Ng5 {(Nf3-g5 Nc6-b4 a2-a3 e7-e6 a3xb4) +0.74/5
+2} e5 {(e7-e5 d2-d3 f7-f6 Ng5-f3) +0.37/4 4} 3. Nc3 {(Nb1-c3 Bf8-b4 a2-a3
+Qd8-f6 a3xb4) -0.67/5 4} Qxg5 {(Qd8xg5 d2-d3 Qg5-h5 f2-f3) +5.71/4 2} 4. d3
+{(d2-d3 Bf8-b4 Bc1xg5 Bb4xc3+) +4.62/4 1} Qh5 {(Qg5-h5 f2-f3) 0.00/1 0} 5.
+Bh6 {(Bc1-h6 Bf8-b4 g2-g4 Bb4xc3+ Qd1-d2) -1.39/5 3} Nxh6 {(Ng8xh6 a2-a3
+f7-f6 f2-f3) +11.87/4 5} 6. Nb5 {(Nc3-b5 Bf8-b4+ c2-c3 Bb4xc3+ b2xc3)
+-4.12/5 2} Bb4+ {(Bf8-b4+ c2-c3 Bb4-a5 f2-f3 e5-e4) +12.11/5 6} 7. c3
+{(c2-c3 Bb4xc3+ b2xc3) 0.00/1 0} Ba5 {(Bb4-a5 f2-f3 e5-e4) 0.00/1 0} 8. g4
+{(g2-g4 a7-a6 Nb5xc7+ Ba5xc7) -1.70/4 2} Nxg4 {(Nh6xg4 e2-e3 Qh5-h4 Qd1-f3)
++14.34/4 5} 9. Bg2 {(Bf1-g2 Nc6-d4 Nb5xc7+ Ba5xc7) -1.88/4 2} Nxh2 {(Ng4xh2
+e2-e3 Qh5xd1+) +16.48/3 1} 10. Qa4 {(Qd1-a4 Qh5-g4 Nb5xc7+ Ba5xc7) -5.04/5
+4} a6 {(a7-a6 Bg2xc6 b7xc6) +16.28/3 3} 11. Qh4 {(Qa4-h4 a6xb5 b2-b4
+Nh2-f3+) -8.04/5 4} Qxh4 {(Qh5xh4 b2-b4 a6xb5 Bg2xc6) +34.42/4 2} 12. Be4
+{(Bg2-e4 a6xb5 Ke1-d1 Nc6-b4) -14.13/5 4} axb5 {(a6xb5 b2-b4 Ba5-b6 O-O-O)
++39.14/4 5} 13. Kd1 {(Ke1-d1 Nc6-b4) 0.00/1 0} Qxf2 {(Qh4xf2 Be4xc6 b7xc6
+a2-a3) +42.92/4 4} 14. b4 {(b2-b4 Qf2-f1+ Rh1xf1 Nh2xf1 Kd1-c2) -17.64/5 4}
+Bb6 {(Ba5-b6 Be4xc6 d7xc6 e2-e4) +43.08/4 6} 15. Bd5 {(Be4-d5 Qf2-g2 a2-a4
+Qg2xh1+) -17.92/4 3} O-O {(O-O Bd5xc6 d7xc6 e2-e4) +43.89/4 9} 16. a4
+{(a2-a4 Qf2-g2 d3-d4 Qg2xh1+) -17.51/4 4} bxa4 {(b5xa4 b4-b5 Nc6-d8)
++47.28/3 1} 17. Be4 {(Bd5-e4 Qf2-f1+ Rh1xf1 Nh2xf1) -13.69/4 3} a3 {(a4-a3
+Be4xc6 d7xc6) +48.15/3 1} 18. Kd2 {(Kd1-d2 Qf2-f4+ Kd2-d1 Bb6-d4) -18.95/4
+2 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "V7P3R_v12.6"]
+[Black "V7P3R_v14.0"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:32:28"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "39"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} Nc6 {(Nb8-c6 f2-f3 Ng8-f6
+Nb1-c3) -0.38/4 2} 2. d4 {(d2-d4 e7-e6 Nb1-c3) +0.61/3 1} e6 {(e7-e6 Ng1-f3
+d7-d6 Nb1-c3) -0.38/4 5} 3. Bb5 {(Bf1-b5 Qd8-h4 Bb5xc6) +0.37/3 1} Qg5
+{(Qd8-g5 Bb5xc6 d7xc6 Qd1-f3) -0.48/4 4} 4. Bxc6 {(Bb5xc6 d7xc6 Qd1-f3
+Bf8-b4+) +0.29/4 7} dxc6 {(d7xc6 Qd1-f3) 0.00/1 0} 5. Qf3 {(Qd1-f3 Bf8-b4+)
+0.00/1 0} c5 {(c6-c5 c2-c3 c5xd4 c3xd4) -0.41/4 12} 6. h4 {(h2-h4 Qg5-f6
+c2-c3) +0.46/3 2} Qg6 {(Qg5-g6 c2-c3 c5xd4 c3xd4) -0.29/4 5} 7. c3 {(c2-c3
+Qg6-d3 Qf3-e2) +0.01/3 2} cxd4 {(c5xd4 c3xd4) 0.00/1 0} 8. exd4 {(e3xd4
+Ng8-f6 Bc1-d2 Qg6-c2) -0.34/4 10} Nf6 {(Ng8-f6 g2-g3 Qg6-e4+ Bc1-e3)
+-0.11/4 9} 9. Bd2 {(Bc1-d2 Qg6-c2) 0.00/1 0} Qc2 {(Qg6-c2 Qf3-d1 Qc2xb2
+Qd1-a4+) +2.32/4 9} 10. Qd1 {(Qf3-d1 Qc2xb2 Qd1-a4+) -1.95/3 2} Qxb2
+{(Qc2xb2 Qd1-a4+) 0.00/1 0} 11. Na3 {(Nb1-a3 Qb2xa3 f2-f3 Qa3-a6) -8.62/4
+6} Bxa3 {(Bf8xa3 Ng1-f3 Nf6-e4 Qd1-a4+) +8.14/4 7} 12. Nf3 {(Ng1-f3 Qb2-b5
+Qd1-e2 Qb5-a4) -8.51/4 12} Ne4 {(Nf6-e4 Qd1-a4+) 0.00/1 0} 13. O-O {(O-O
+Ne4xc3 Bd2xc3) -8.47/3 1} Nxc3 {(Ne4xc3 Bd2xc3 Qb2xc3 g2-g3) +8.32/4 14}
+14. Bxc3 {(Bd2xc3 Qb2xc3 Qd1-b3 Qc3xb3) -8.89/4 2} Qxc3 {(Qb2xc3 g2-g3)
+0.00/1 0} 15. Qb3 {(Qd1-b3 Qc3xb3) 0.00/1 0} Qa5 {(Qc3-a5 Nf3-g5 O-O f2-f3)
++9.45/4 2} 16. g4 {(g2-g4 O-O g4-g5) -9.27/3 2} O-O {(O-O h4-h5 f7-f6
+Ra1-d1) +9.99/4 5} 17. h5 {(h4-h5 f7-f6 Qb3-d3) -9.60/3 2} f6 {(f7-f6
+Ra1-d1) 0.00/1 0} 18. Qc4 {(Qb3-c4 Ba3-d6 Qc4-d3) -9.85/3 2} Bd6 {(Ba3-d6
+Ra1-d1 h7-h6) +10.15/3 1} 19. Qd3 {(Qc4-d3 a7-a6 Qd3-e4) -10.03/3 3} h6
+{(h7-h6 Qd3-c4 Bc8-d7) +10.15/3 1} 20. Qg6 {(Qd3-g6 Qa5-d5 Qg6-d3) -9.86/3
+4 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "Random_Opponent"]
+[Black "V7P3R_v13.2"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Time "20:35:14"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "52"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Na6 {(Nb8-a6 Qd1-d3 Na6-b4 Qd3-c4 Nb4xc2+) -1.47/6 1} 2. Be3 Nf6
+{(Ng8-f6 Qd1-d3 Na6-b4 Qd3-c4 Nb4xc2+) -1.33/5 2} 3. Qd3 Nb4 {(Na6-b4
+Qd3-c4 Nb4xc2+) 0.00/1 0} 4. c4 Ne4 {(Nf6-e4 a2-a3 Nb4xd3+ e2xd3) +6.42/5
+3} 5. Bc1 Nxd3+ {(Nb4xd3+ e2xd3 Ne4-f6 Ng1-f3) +5.99/4 3} 6. exd3 Nf6
+{(Ne4-f6 Ng1-f3) 0.00/1 0} 7. Bd2 Ng4 {(Nf6-g4 Bf1-e2 d7-d5 Be2-f3 e7-e5)
++2.92/5 2} 8. Bg5 e5 {(e7-e5 Ng1-f3 Bf8-b4+ Nb1-c3) +6.30/4 2} 9. a3 d5
+{(d7-d5 Ng1-h3 Bf8-b4+ a3xb4) +4.54/4 3} 10. cxd5 Be7 {(Bf8-e7 h2-h3 Be7xg5
+h3xg4) +8.05/4 3} 11. g3 Bxg5 {(Be7xg5 h2-h3 e5xd4 h3xg4 Qd8-e7+) +7.02/5
+6} 12. Kd1 exd4 {(e5xd4 f2-f4 Ng4-e3+ Kd1-e1) +12.67/4 2} 13. Nc3 dxc3
+{(d4xc3 Ng1-h3 Bc8-f5 Bf1-g2) +15.57/4 3} 14. a4 Bf5 {(Bc8-f5 Ng1-h3 c3-c2+
+Kd1xc2) +15.44/4 4} 15. h4 Qd7 {(Qd8-d7 h4xg5 Ng4xf2+ Kd1-e2) +14.25/4 4}
+16. Rh3 Nxf2+ {(Ng4xf2+ Kd1-e2 Bf5xh3 Ke2xf2) +17.42/4 4} 17. Ke2 Bxh3
+{(Bf5xh3 Ke2xf2) 0.00/1 0} 18. Bxh3 Qe7+ {(Qd7-e7+ Ke2xf2 Qe7-c5+ Kf2-f1
+c3xb2) +12.81/5 4} 19. Kf1 Qe5 {(Qe7-e5 Ra1-e1 Qe5xe1+ Kf1xe1) +13.46/4 2}
+20. b3 c2 {(c3-c2 h4xg5 Qe5xa1+ Kf1xf2) +17.17/4 2} 21. b4 Qxa1+ {(Qe5xa1+
+Kf1xf2 Qa1-f6+ Kf2-g2) +20.45/4 3} 22. Ke2 c1=N+ {(c2-c1N+ Ke2xf2 Nc1xd3+
+Kf2-g2) +21.97/5 4} 23. Kf1 Ncxd3+ {(Nc1xd3+ Kf1-g2 Nd3-e1+ Kg2xf2 Ne1-d3+)
++21.97/5 3} 24. Kg2 Ne1+ {(Nd3-e1+ Kg2xf2 Ne1-d3+) 0.00/1 0} 25. Kf1 Ned3+
+{(Ne1-d3+ Kf1-g2 Nd3-e1+ Kg2xf2) +21.97/4 2} 26. Ke2 Qd1# {(Qa1-d1+)
++289.98/6 1} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "V7P3R_v13.2"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1526"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:36:45"]
+[Variation "1...e6"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "33"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nf6-g4 Nf3-g5) -0.91/6 1} e6 {(e7-e6 e2-e3
+f7-f6 Bf1-b5) -0.24/4 5} 2. Nc3 {(Nb1-c3 Qd8-f6 Nc3-b5 Bf8-d6 Nb5xd6+)
+-0.64/5 3} d5 {(d7-d5 e2-e3 Nb8-c6) +0.31/3 1} 3. Nb5 {(Nc3-b5 Qd8-f6
+Nf3-e5 Bf8-b4 Nb5xc7+) +0.26/5 4} c6 {(c7-c6 Nb5-c3 Ng8-f6) +1.00/3 1} 4.
+e4 {(e2-e4 c6xb5 Bf1xb5+ Nb8-c6) +1.08/5 5} dxe4 {(d5xe4 Nf3-e5 c6xb5
+Bf1xb5+) +6.03/4 3} 5. Ng5 {(Nf3-g5 c6xb5 Bf1xb5+ Ke8-e7 Bb5-c6) -1.42/5 4}
+e3 {(e4-e3 Ng5xf7 e3xf2+ Ke1xf2) +5.70/4 11} 6. Nc7+ {(Nb5-c7+ Ke8-d7
+d2xe3+ Kd7xc7 Qd1xd8+) +0.70/5 3} Qxc7 {(Qd8xc7 f2xe3 h7-h6 Ng5-f3 Ng8-f6)
++6.54/5 5} 7. dxe3 {(d2xe3 Qc7-d6 Qd1-d4 Bf8-e7 Bf1-c4) -3.53/5 5} Qa5+
+{(Qc7-a5+ c2-c3 Qa5xg5 h2-h3) +11.20/4 2} 8. Bd2 {(Bc1-d2 Qa5xd2+ Ke1xd2
+Bf8-b4+ Kd2-e2) +1.47/5 4} Qxg5 {(Qa5xg5 c2-c3 Qg5-d5 f2-f3) +12.15/4 4} 9.
+h4 {(h2-h4 Bf8-b4 Bd2xb4 Qg5xe3+) +4.05/5 5} Qd5 {(Qg5-d5 c2-c4 Qd5-d6
+Qd1-h5) +12.26/4 7} 10. Bc3 {(Bd2-c3 Bf8-e7 Bf1-b5 Qd5xd1+) -5.44/4 2} f6
+{(f7-f6 b2-b3 h7-h6) +12.64/3 1} 11. Ba6 {(Bf1-a6 Nb8xa6 Qd1-d4 Na6-b4)
+-4.46/4 3} Qxg2 {(Qd5xg2 Rh1-f1 Nb8xa6 b2-b3) +20.55/4 4} 12. Qg4 {(Qd1-g4
+Nb8xa6 Qg4-h5+ g7-g6) -7.65/4 2} Qxg4 {(Qg2xg4 Ba6-e2 Qg4-f5 Be2-d3)
++32.70/4 4} 13. Bd4 {(Bc3-d4 Nb8xa6 f2-f3 Qg4-g3+) -17.26/4 4} Qf3 {(Qg4-f3
+Rh1-h2 Nb8xa6 c2-c3) +39.17/4 11} 14. Kd2 {(Ke1-d2 b7xa6 Kd2-d3 Qf3-f5+
+Kd3-e2) -18.82/5 8} Nxa6 {(Nb8xa6 Rh1-f1 e6-e5 Bd4-c3) +40.10/4 11} 15. Kd3
+{(Kd2-d3 Na6-b4+ Kd3-d2 Qf3xf2+) -18.94/5 7} e5 {(e6-e5 Bd4-c3 Qf3xf2)
++43.00/3 2} 16. Rhg1 {(Rh1-g1 Na6-b4+ Kd3-c4 e5xd4) -20.37/4 2} exd4
+{(e5xd4 Kd3xd4 Qf3xf2) +46.24/3 1} 17. Rg5 {(Rg1-g5 Na6-b4+ Kd3xd4 Nb4xc2+)
+-21.91/5 6 White resigns} 0-1
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "8"]
+[White "V7P3R_v14.0"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:39:37"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "47"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 e2-e3 Nf6-e4 Nb1-c3) +0.38/5 4} a5 2. e3 {(e2-e3
+Ng8-f6 d2-d3 Nb8-c6) +0.50/4 1} b6 3. Nc3 {(Nb1-c3 Ng8-f6 d2-d3 Nb8-c6)
++0.76/4 2} Ba6 4. Bxa6 {(Bf1xa6 Nb8xa6 d2-d3 Ng8-f6) +1.14/4 1} Ra7 5. Bc4
+{(Ba6-c4 Ng8-f6 d2-d3 Nb8-c6) +7.44/4 4} Nf6 6. d3 {(d2-d3 Nb8-c6) 0.00/1
+0} e5 7. Nxe5 {(Nf3xe5 d7-d5 Bc4-b5+ Ke8-e7) +11.19/4 3} Ra6 8. Nxf7
+{(Ne5xf7 Qd8-e7 Nf7xh8 Ra6-a8) +22.60/4 2} Bd6 9. Nxd8 {(Nf7xd8 Ke8xd8
+Bc4xa6 Nb8xa6) +26.57/4 6} Ra8 10. Qf3 {(Qd1-f3 Ra8-a7 Nd8-f7 Rh8-f8)
++29.28/4 4} Ng4 11. Qxa8 {(Qf3xa8 Ke8-e7 Nd8-f7 Rh8-c8) +39.41/4 2} Ke7 12.
+Nf7 {(Nd8-f7 Rh8-c8) 0.00/1} Nh6 13. Nxh8 {(Nf7xh8 c7-c6 O-O Ke7-d8)
++49.73/4 2} c5 14. Nd5+ {(Nc3-d5+ Ke7-e8 Nd5xb6 Nh6-g4) +51.58/4 5} Kd8 15.
+Nxb6 {(Nd5xb6 Bd6-c7 Qa8xa5 Bc7xb6) +53.11/4 3} Ng4 16. Nf7+ {(Nh8-f7+
+Kd8-c7 Nb6-d5+ Kc7-c8) +57.44/4 4} Ke8 17. Nxd6+ {(Nf7xd6+ Ke8-f8 Qa8xb8+
+Kf8-e7 O-O) +64.31/5 7} Kf8 18. Qxb8+ {(Qa8xb8+ Kf8-e7 O-O) 0.00/1 0} Ke7
+19. O-O {(O-O) 0.00/1 0} Kf6 20. Nxd7+ {(Nb6xd7+ Kf6-g6 h2-h3 Ng4xf2)
++70.18/4 3} Kg6 21. h3 {(h2-h3 Ng4xf2) 0.00/1 0} h5 22. hxg4 {(h3xg4 h5xg4
+Nd7xc5 Kg6-h6 Nd6-f7+) +75.31/5 12} h4 23. Qe8+ {(Qb8-e8+ Kg6-h6 Qe8-h5+)
++289.95/4 2} Kh7 24. Qh5# {(Qe8-h5+) +289.97/4 2} 1-0
+
+[Event "Engine Regression Battle 20251025_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.25"]
+[Round "9"]
+[White "V7P3R_v12.6"]
+[Black "Random_Opponent"]
+[Result "*"]
+[BlackElo "100"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:41:13"]
+[WhiteElo "1526"]
+[TimeControl "120+1"]
+[Termination "unterminated"]
+[PlyCount "20"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 1} d6 2. d4 {(d2-d4 Nb8-c6
+Ng1-f3) +0.61/3 1} Bd7 3. Nf3 {(Ng1-f3 f7-f6 Bf1-c4) +0.96/3 1} a5 4. Nc3
+{(Nb1-c3 e7-e6 b2-b3) +1.21/3 1} Na6 5. Bxa6 {(Bf1xa6 b7xa6 Qd1-d3 f7-f6)
++1.64/4 7} bxa6 6. Qd3 {(Qd1-d3 f7-f6) 0.00/1} Nf6 7. h3 {(h2-h3 e7-e6
+a2-a3) +1.75/3 4} a4 8. Qc4 {(Qd3-c4 e7-e6 Nc3xa4) +2.87/3 4} h6 9. a3
+{(a2-a3 e7-e6 Nc3xa4) +2.87/3 4} Qc8 10. O-O {(O-O Qc8-b7 Nc3xa4) +3.31/3
+4} c5 *
+

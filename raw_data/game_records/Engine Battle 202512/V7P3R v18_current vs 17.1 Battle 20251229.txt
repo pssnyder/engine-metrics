@@ -1,0 +1,13 @@
+   Engine            Score                         V7                        V7    S-B
+1: V7P3R_v18_current 14.5/25 ························· 1===1==1=0===01=011=01==1  152.25
+2: V7P3R_v17.1       10.5/25 0===0==0=1===10=100=10==0 ·························  152.25
+
+25 games played / Tournament is finished
+Name of the tournament: V7P3R v18_current vs 17.1 Battle 20251229
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 5/3
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R v18_current vs 17.1 Battle 20251229.pgn
+Website: 
+E-Mail Address: 

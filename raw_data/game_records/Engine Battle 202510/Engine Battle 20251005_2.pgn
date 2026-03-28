@@ -1,0 +1,1135 @@
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "C0BR4_v2.9"]
+[Result "0-1"]
+[BlackElo "1531"]
+[ECO "A80"]
+[Opening "Dutch"]
+[Time "19:43:32"]
+[Variation "2.Nf3"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "8"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 f5 2. Nf3 Nc6 3. Nc3 {(Nb1-c3 Ng8-f6 d4-d5 Nc6-b4 Bc1-g5 Nf6-e4)
++0.83/6 74} Nf6 {(Ng8-f6 Qd1-d3 e7-e6 Bc1-g5) -0.95/4 0} 4. Bg5 {(Bc1-g5
+Nf6-e4 Nc3xe4 f5xe4 Nf3-e5 Nc6xe5) +1.08/6 48} Ne4 {(Nf6-e4 Nc3-d5 Rh8-g8
+Bg5-e3) -0.45/4 0} 5. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "Random_Opponent"]
+[Result "1-0"]
+[BlackElo "100"]
+[Time "19:45:44"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nxe4 {(Nc3xe4 f5xe4 Nf3-e5 Nc6xe5 d4xe5 Ra8-b8) +1.28/6 1  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "SlowMate_v3.1"]
+[Result "0-1"]
+[BlackElo "1378"]
+[ECO "A46"]
+[Opening "Indian"]
+[Time "19:45:53"]
+[Variation "2.Nf3 d6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "10"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 Nf6 {(Ng8-f6 Qd1-d3 Nb8-a6) +0.45/3 3} 2. Nf3 {(Ng1-f3 e7-e6 Bc1-g5
+Bf8-b4+ c2-c3 Bb4-a5) -0.34/6 41} d6 {(d7-d6 Qd1-d3 Bc8-e6) 0.00/3 3} 3. e3
+Nc6 {(Nb8-c6 Bf1-b5 Qd8-d7) +1.03/3 3} 4. c3 Be6 {(Bc8-e6 Qd1-d3 Qd8-b8)
++2.41/3 3} 5. h3 Qb8 {(Qd8-b8 Qd1-d3) +3.07/2 3} 6. ... {White forfeits on
+time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "Stockfish 1%"]
+[Result "0-1"]
+[BlackElo "2650"]
+[Time "19:48:22"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.6"]
+[Result "1-0"]
+[BlackElo "1509"]
+[Time "19:50:28"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Bb5 {(Bf1-b5 a7-a6 Bb5-a4 Qb8-a7 Ba4xc6+ b7xc6) -0.26/6 69  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v10.8"]
+[Result "0-1"]
+[BlackElo "1603"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "19:51:44"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 e2-e3 Qd8-f6 Nb1-c3) -0.46/4 7} 2. Nf3 {(Ng1-f3 Ng8-f6
+Bc1-g5 Bf8-b4+ c2-c3 Bb4-a5) -0.34/6 45} Nc6 {(Nb8-c6 c2-c3 d7-d5) +0.28/3
+2} 3. d5 {(d4-d5 e6xd5 Nb1-c3 Ng8-f6 Nc3xd5 Bf8-c5) -0.23/6 61} exd5
+{(e6xd5 Qd1xd5 Ng8-f6 Qd5-d2) +0.13/4 6} 4. c3 Nf6 {(Ng8-f6 Qd1-d3 Bf8-c5)
++2.11/3 2} 5. c4 dxc4 {(d5xc4 Nb1-c3 d7-d5 e2-e3) +3.92/4 6} 6. h3 d5
+{(d7-d5 Nb1-c3 Bf8-c5) +4.55/3 2} 7. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.2"]
+[Result "1-0"]
+[BlackElo "1367"]
+[Time "19:54:25"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Qa4 {(Qd1-a4 Bf8-b4+ Bc1-d2 Bb4xd2+ Nb1xd2 O-O) -3.44/6 97  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "1"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.4"]
+[Result "0-1"]
+[BlackElo "1505"]
+[ECO "C00"]
+[Opening "French"]
+[Time "19:56:05"]
+[Variation "1.e4 e6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 {(e7-e6 Ng1-f3 Ke8-e7 Nb1-c3) -1.05/4 3} 2. ... {White forfeits on
+time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "C0BR4_v2.9"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "19:58:16"]
+[WhiteElo "1531"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 {Arena Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "Random_Opponent"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Kadas (Desprez) Opening"]
+[Time "19:58:54"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "13"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. h4 d5 2. h5 Nf6 3. c4 dxc4 {(d5xc4 Qd1-a4+ Nb8-c6 Ng1-f3 Bc8-g4 Nf3-e5)
++1.43/6 14} 4. d4 cxd3 {(c4xd3/ep Qd1xd3 Qd8xd3 e2xd3 Nb8-c6 Ng1-f3)
++2.79/6 79} 5. Nf3 dxe2 {(d3xe2 Qd1xd8+ Ke8xd8 Bf1xe2 Kd8-e8 Bc1-f4)
++2.99/6 29} 6. Qd5 exf1=Q+ {(e2xf1Q+ Ke1xf1 Qd8xd5 Nb1-c3 Qd5-f5 Kf1-g1)
++16.14/6 2} 7. Kd2 ... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "SlowMate_v3.1"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:01:11"]
+[Variation "1...f5"]
+[WhiteElo "1378"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "13"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-a3 Nb8-a6) 0.00/4 3} f5 2. Nd4 {(Nf3-d4 Ng8-h6
+d2-d3 g7-g6) +1.17/4 3} e6 {(e7-e6 e2-e3 Qd8-h4 Nd4-f3 Qh4-g4 Nb1-c3)
+-1.00/6 16} 3. c3 {(c2-c3 Qd8-f6 Qd1-c2) +1.56/3 3} Qh4 {(Qd8-h4 Nd4-f3
+Qh4-g4 d2-d4 Nb8-c6 Nb1-d2) -0.49/6 79} 4. Nf3 {(Nd4-f3 Qh4-f6 Qd1-c2)
++1.45/3 3} h6 5. Nxh4 {(Nf3xh4 Ng8-f6 Qd1-c2 Bf8-d6) +9.52/4 3} a6 6. Ng6
+{(Nh4-g6 Rh8-h7 Qd1-c2) +12.01/3 3} Rh7 {(Rh8-h7 Ng6xf8 Ke8xf8 Nb1-a3
+Kf8-e8 Qd1-a4) -12.30/6 8} 7. Qb3 {(Qd1-b3 Bf8-d6 Nb1-a3) +11.17/3 3} ...
+{Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "Stockfish 1%"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "20:03:49"]
+[Variation "3.Nxe5"]
+[WhiteElo "2650"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "19"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 {(e2-e4 c7-c5 Nb1-c3 Nb8-c6 Ng1-f3 e7-e6 d2-d4 c5xd4 Nf3xd4 Ng8-f6
+Nd4xc6 d7xc6 Qd1xd8+ Ke8xd8 Bc1-e3 Nf6-g4) +0.41/13 0} e5 2. Nf3 {(Ng1-f3
+Nb8-c6 Nb1-c3 Bf8-b4 d2-d4 e5xd4 Nf3xd4 Ng8-f6 Nd4xc6 b7xc6 Bf1-d3 O-O)
++0.50/10 0} Nf6 3. Nxe5 {(Nf3xe5 Nf6xe4) +0.66/11 0} Qe7 {(Qd8-e7 Ne5xf7
+Ke8xf7 Qd1-f3 Qe7xe4+ Qf3xe4) 0.00/6 41} 4. d4 {(d2-d4 Nb8-c6 Nb1-c3 Nc6xe5
+d4xe5 Qe7xe5 f2-f4 Qe5-e7 Bf1-d3 d7-d5 e4-e5 c7-c6 O-O) +1.15/10 0} Nc6
+{(Nb8-c6 Ne5xc6 Qe7xe4+ Bf1-e2 Qe4xc6 Be2-f3) +0.38/6 44} 5. Nc3 {(Nb1-c3
+Nc6xe5 d4xe5 Qe7xe5 f2-f4 Qe5-e6 e4-e5 Bf8-b4 Bf1-d3 Bb4xc3+ b2xc3 d7-d6
+O-O d6xe5 f4xe5) +1.31/11 0} Rb8 6. Bf4 {(Bc1-f4) +2.18/1 0} h6 7. Bc4
+{(Bf1-c4 Nc6xe5 d4xe5) +2.61/1 0} Nxe5 {(Nc6xe5 Bf4xe5 Qe7-b4 Bc4xf7+
+Ke8xf7 Be5xc7) -2.56/6 6} 8. dxe5 {(d4xe5) +2.61/1 0} Nxe4 {(Nf6xe4 Qd1-d4
+Ne4-c5 Rh1-f1 Qe7-h4 O-O-O) -2.04/6 8} 9. Nxe4 {(Nc3xe4) +5.76/1 0} Qb4+
+{(Qe7-b4+ Ne4-d2 Qb4xb2 Bc4xf7+ Ke8xf7 Qd1-h5+) -2.74/6 12} 10. Nd2
+{(Ne4-d2) +4.79/1 0} ... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "V7P3R_v12.6"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:06:07"]
+[WhiteElo "1509"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 2} Bc5 {(Bf8-c5 Qd1-f3 Qb4xb2
+Bc4xf7+ Ke8-d8 Qf3-d1) -3.16/6 9  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "V7P3R_v10.8"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:06:27"]
+[WhiteElo "1603"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "25"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Qd8-h4) 0.00/4 4} f5 2. g4 {(g2-g4 f5xg4 Qd1xg4
+Ng8-f6) +0.48/4 5} Nc6 3. gxf5 {(g4xf5 Ng8-f6 Bf1-b5 d7-d5) +2.12/4 5} Nf6
+{(Ng8-f6 Bf1-b5 a7-a6 Bb5xc6) -0.98/6 18} 4. Bb5 {(Bf1-b5 d7-d5) 0.00/1 0}
+Nb4 {(Nc6-b4 Nb1-c3 c7-c6 Bb5-a4 Qd8-a5 Qd1-f3) -0.99/6 43} 5. d4 {(d2-d4
+c7-c6 c2-c3) +2.89/3 3} Rb8 6. c3 {(c2-c3 c7-c6 Qd1-b3) +3.42/3 3} a6 7.
+Be2 {(Bb5-e2 Nb4-d5 c3-c4 Nd5-b6) +3.48/4 12} Nbd5 {(Nb4-d5 Be2-h5+ g7-g6
+f5xg6 h7xg6 Bh5xg6+) -1.69/6 9} 8. c4 {(c3-c4 Nd5-b6) 0.00/1 0} Nb6
+{(Nd5-b6 Nb1-c3 Rb8-a8 Ng1-f3 d7-d6 Qd1-d3) -1.23/6 7} 9. Bh5+ {(Be2-h5+
+Nf6xh5 Qd1xh5+) +3.86/3 2} g6 {(g7-g6 f5xg6 Bf8-g7 g6xh7+ Ke8-f8 Qd1-f3
+Nb6xc4) -3.09/7 7} 10. fxg6 {(f5xg6 Nf6xh5 Qd1xh5 Nb6xc4) +7.99/4 2} Bg7
+{(Bf8-g7 g6xh7+ Ke8-f8 Qd1-f3 Rh8xh7 Bh5-g6) -3.63/6 2} 11. c5 {(c4-c5
+Nf6xh5 Qd1xh5 h7xg6) +6.31/4 5} Nc4 {(Nb6-c4 g6xh7+ Ke8-f8 Bh5-g6 Nf6xh7
+Qd1-b3) -3.94/6 4} 12. gxh7+ {(g6xh7+ Ke8-f8 Bh5-e2 Nc4xb2) +9.08/4 4} Kf8
+{(Ke8-f8 Bh5-g6 b7-b6 c5xb6 Rb8xb6 Qd1-e2) -4.39/6 17} 13. Be2 {(Bh5-e2
+Nc4xb2) 0.00/1 0} ... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "V7P3R_v12.2"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:09:37"]
+[WhiteElo "1367"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 Ng8-f6 Ng1-f3 Nb8-c6) 0.00/4 1} Na5 {(Nc4-a5 Ng1-f3 Kf8-e8
+O-O Na5-c6 Be2-d3) -3.87/6 25  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "2"]
+[White "V7P3R_v12.4"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:10:10"]
+[WhiteElo "1505"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 f7-f6 Ng1-f3 Ke8-f7) +0.75/4 1} f5 2. Nf3 {(Ng1-f3 Ke8-f7
+d2-d4 Nb8-c6) +0.75/4 2} Nf6 3. Ne5 {(Nf3-e5 Nb8-c6 d2-d4) +0.90/3 1} e6 4.
+d4 {(d2-d4 Ke8-e7 Ne5-f3) +0.65/3 2} Bb4 {(Bf8-b4 Bc1-g5 O-O Qd1-d3 d7-d6
+Ne5-c4) -0.25/6 86} 5. Nf3 {(Ne5-f3 Bb4xc3+ b2xc3 Ke8-f7) +0.45/4 3} ...
+{Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "C0BR4_v2.9"]
+[Result "0-1"]
+[BlackElo "1531"]
+[Time "20:12:33"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+ 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "Random_Opponent"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "20:12:53"]
+[Variation "Fred"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "18"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 f5 2. exf5 {(e4xf5 Ng8-f6 Nb1-c3 Nb8-c6 Bf1-b5) +0.99/6 12} b5 3. Be2
+g6 4. fxg6 {(f5xg6 h7xg6 Be2-d3 Rh8-h6 Qd1-f3 Nb8-c6) +3.58/6 34} d6 5. g7
+{(g6-g7 Bf8xg7 Be2-h5+ Ke8-d7 Qd1-g4+ Kd7-c6) +7.60/6 7} Bb7 6. Bxb5+
+{(Be2xb5+ Nb8-c6 Qd1-h5+ Ke8-d7 g7xh8Q Kd7-c8) +19.96/6 6} Nc6 7. Qh5+
+{(Qd1-h5+ Ke8-d7 g7xh8Q Ng8-f6 Qh5-f7 Kd7-c8) +20.18/6 8} Kd7 8. gxh8=Q
+{(g7xh8Q Ng8-f6 Qh5-f5+ Kd7-e8 Qf5-e6 Nf6-g4) +21.29/6 13} Rb8 9. Qxg8
+{(Qh8xg8 e7-e6 Qh5-f7+ Qd8-e7 Qf7xh7 Kd7-c8) +24.63/6 38} Qc8 10. ...
+{White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "SlowMate_v3.1"]
+[Result "1-0"]
+[BlackElo "1378"]
+[Time "20:15:14"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Qf5 {(Qh5-f5+ e7-e6 Qf5xe6+ Kd7-d8 Qg8xf8+) +299.95/6 22  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "Stockfish 1%"]
+[Result "0-1"]
+[BlackElo "2650"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "20:15:42"]
+[Variation "2.Nf3 Nf6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 {(d7-d5 c2-c4 e7-e6 Nb1-c3 Bf8-e7 e2-e3 Ng8-f6 Ng1-f3 O-O Bc1-d2
+d5xc4 Bf1xc4 c7-c5 O-O c5xd4 e3xd4) -0.20/15 0} 2. Nf3 Nf6 {(Ng8-f6)
+-0.21/11 0} 3. Ne5 {(Nf3-e5 Nf6-e4 Nb1-d2 Nb8-c6 Nd2xe4 d5xe4) +0.08/6 82}
+c5 {(c7-c5 e2-e3 e7-e6 Bf1-e2 Nb8-d7 c2-c4 d5xc4 Ne5xc4 b7-b5 Nc4-e5 a7-a6)
++0.26/10 0} 4. c3 e6 {(e7-e6 Nb1-d2 Bf8-d6) +0.43/10 0} 5. Qa4+ {(Qd1-a4+
+Bc8-d7 Qa4-b3 Qd8-b6 Nb1-d2 c5xd4) +0.92/6 26} Nbd7 {(Nb8-d7) +0.50/1 0} 6.
+Bd2 Ne4 {(Nf6-e4) +0.67/1 0} 7. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1509"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "20:18:06"]
+[Variation "1...e6 2.Nf3"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "14"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 e2-e3 Qd8-f6 Nb1-c3) -0.46/4 4} 2. Nf3 Nc6 {(Nb8-c6 c2-c3
+d7-d5) +0.28/3 1} 3. d5 {(d4-d5 e6xd5 Nb1-c3 Ng8-f6 Nc3xd5 Bf8-c5) -0.23/6
+59} exd5 {(e6xd5 Qd1xd5 Ng8-f6 Qd5-d2) +0.13/4 4} 4. Qxd5 {(Qd1xd5 Ng8-f6
+Qd5-g5 Nf6-e4 Qg5xd8+ Nc6xd8) -0.48/6 35} Nf6 {(Ng8-f6 Qd5-d2) 0.00/1 0} 5.
+c4 Nxd5 {(Nf6xd5 c4xd5 Bf8-b4+ Nb1-c3) +11.40/4 9} 6. cxd5 {(c4xd5 Nc6-b4
+Bc1-g5 Bf8-e7 Bg5xe7 Qd8xe7) -7.89/6 7} Bb4+ {(Bf8-b4+ Nb1-c3) 0.00/1 0} 7.
+Nc3 {(Nb1-c3 Nc6-e7 Bc1-d2 O-O O-O-O Ra8-b8) -7.33/6 9} Ne7 {(Nc6-e7 e2-e4
+f7-f5 Bf1-d3) +10.94/4 8} 8. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v10.8"]
+[Result "0-1"]
+[BlackElo "1603"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "20:20:50"]
+[Variation "1...e6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 e6 {(e7-e6 e2-e3 Qd8-f6 Nb1-c3) -0.46/4 6} 2. Bf4 g5 {(g7-g5 Bf4-d2
+d7-d5) +0.77/3 2} 3. e3 gxf4 {(g5xf4 e3xf4 Qd8-h4 Qd1-d2) +4.44/4 5} 4. Nd2
+fxe3 {(f4xe3 f2xe3 Bf8-h6 Qd1-f3) +6.05/4 9} 5. Qe2 exd2+ {(e3xd2+ Qe2xd2
+Qd8-h4 Bf1-b5) +12.17/4 3} 6. Qxd2 {(Qe2xd2 Bf8-h6 Qd2-d3 Ng8-f6 Ng1-f3
+O-O) -6.52/6 11} Qh4 {(Qd8-h4 Bf1-b5) 0.00/1 0} 7. Nf3 {(Ng1-f3 Qh4-e4+
+Bf1-e2 Bf8-h6 Qd2-d3 Ng8-f6) -5.90/6 43} Qe4+ {(Qh4-e4+ Qd2-e2 Qe4xe2+
+Ke1xe2) +12.01/4 6} 8. Be2 {(Bf1-e2 Bf8-h6 Qd2-c3 Qe4-f4 g2-g3 Qf4-d6)
+-5.69/6 21} Nf6 {(Ng8-f6 c2-c3 d7-d5) +12.17/3 4} 9. ... {White forfeits on
+time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.2"]
+[Result "0-1"]
+[BlackElo "1367"]
+[Time "20:23:45"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "3"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.4"]
+[Result "0-1"]
+[BlackElo "1505"]
+[Time "20:25:50"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "C0BR4_v2.9"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A40"]
+[Opening "Queen's Pawn"]
+[Time "20:27:56"]
+[Variation "1...c6 2.Nf3"]
+[WhiteElo "1531"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "17"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 c6 2. Nf3 Nf6 3. Bg5 {(Bc1-g5 Qd8-a5+ Nb1-c3 Nf6-e4) +0.55/4 0} Qb6
+{(Qd8-b6 b2-b3 Nf6-e4 Bg5-h4 Qb6-a5+ Nb1-d2) +0.75/6 14} 4. Bxf6 {(Bg5xf6
+Qb6xb2 Bf6xg7 Bf8xg7) -0.28/4 0} Qxb2 {(Qb6xb2 Nb1-d2 e7xf6) +1.00/6 12} 5.
+Nbd2 {(Nb1-d2 e7xf6 Nd2-e4 Bf8-b4+) -1.08/4 0} c5 6. Be5 {(Bf6-e5 Nb8-c6
+Nd2-c4 Qb2-c3+) +1.90/4 0} Nc6 {(Nb8-c6 Ra1-b1 Qb2xa2 d4xc5 Nc6xe5 Nf3xe5)
+-0.81/6 28} 7. Nb3 {(Nd2-b3 Nc6-b4 Nb3xc5) +1.45/4 0} d6 {(d7-d6 Be5-f4
+Nc6-b4 Ra1-c1 c5xd4 Nb3xd4) -0.21/6 26} 8. Bf4 {(Be5-f4 Bc8-f5 c2-c4 O-O-O)
++0.90/4 0} Nb4 {(Nc6-b4 Ra1-c1 Bc8-f5 e2-e4 Bf5xe4 Bf1-b5+) -0.20/6 37} 9.
+Rc1 {(Ra1-c1 c5xd4 Nb3xd4 Qb2xa2) +0.38/4 0} ... {Black forfeits on time}
+1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "Random_Opponent"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "20:30:15"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 c4 {(c5-c4 Nb3-d2 Qb2xa2 Nd2-e4 Bc8-g4 Bf4-g5) -0.08/6 38  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "SlowMate_v3.1"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "20:30:59"]
+[Variation "2.Nf3 Bg4"]
+[WhiteElo "1378"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-a3 Nb8-a6) 0.00/4 3} d5 2. d4 {(d2-d4 Qd8-d6
+Qd1-d3) +0.78/3 3} Bg4 3. Qd3 {(Qd1-d3 Qd8-d6 Bc1-g5) +0.66/3 3} Nc6
+{(Nb8-c6 Nf3-e5 Nc6xe5 d4xe5 Qd8-d7 Nb1-c3) -0.35/6 45} 4. Bf4 {(Bc1-f4
+Bg4xf3 g2xf3) +1.06/3 3} h6 5. Nbd2 {(Nb1-d2 Nc6-b4 Qd3-b3) +2.46/3 3} ...
+{Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "Stockfish 1%"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "20:33:27"]
+[WhiteElo "2650"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 {(e2-e4 c7-c5 Nb1-c3 d7-d6 Ng1-f3 e7-e5 Bf1-c4 Ng8-f6 d2-d3 Bf8-e7)
++0.42/14 0} ... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "V7P3R_v12.6"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:35:33"]
+[WhiteElo "1509"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "7"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Bf8-b4) 0.00/4 2} Nf6 {(Ng8-f6 Qd3-b5 Qd8-d7
+O-O-O O-O-O Rh1-g1) -1.22/6 1} 2. Nc3 {(Nb1-c3 e7-e6 d2-d4) +0.61/3 1} Nc6
+3. d4 {(d2-d4 e7-e6 Ng1-f3) +0.61/3 2} e6 {(e7-e6 Bf1-c4 Bf8-b4 Ng1-e2
+Nf6-g4 O-O) +0.23/6 100} 4. a3 {(a2-a3 d7-d5 Ng1-f3) +0.18/3 4} ... {Black
+forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "V7P3R_v10.8"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "20:37:56"]
+[WhiteElo "1603"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Qd8-h4) 0.00/4 4} ... {Black forfeits on time}
+1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "V7P3R_v12.2"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:40:05"]
+[WhiteElo "1367"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 Ng8-f6 Ng1-f3 Nb8-c6) 0.00/4 1} Bd6 {(Bf8-d6 Ng1-f3 O-O
+Bf1-d3 Qd8-e7 O-O) +0.70/6 61  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "4"]
+[White "V7P3R_v12.4"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[Time "20:41:15"]
+[Variation "1...d5"]
+[WhiteElo "1505"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "11"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 f7-f6 Ng1-f3 Ke8-f7) +0.75/4 1} d5 2. d4 {(d2-d4 e7-e6
+Ng1-f3 Ke8-e7) +0.75/4 4} Nc6 3. Nf3 {(Ng1-f3 f7-f6 e2-e3 Ke8-f7) +0.55/4
+11} Nf6 {(Ng8-f6 Nf3-e5 Nf6-e4 Nc3xe4 d5xe4 Bc1-e3) -0.20/6 114} 4. Bg5
+{(Bc1-g5 Rh8-g8 Bg5xf6) +1.05/3 3} h6 5. Bxf6 {(Bg5xf6 e7xf6 e2-e3 Ke8-e7)
++0.55/4 9} a6 6. Bh4 {(Bf6-h4 f7-f6 e2-e3 Ke8-f7) +6.55/4 7} ... {Black
+forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "C0BR4_v2.9"]
+[Result "0-1"]
+[BlackElo "1531"]
+[Time "20:44:06"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+ 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "Random_Opponent"]
+[Result "0-1"]
+[BlackElo "100"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "20:45:27"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "4"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 Nh6 2. Nf3 a5 3. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "SlowMate_v3.1"]
+[Result "1-0"]
+[BlackElo "1378"]
+[Time "20:47:37"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Bb5 {(Bf1-b5 Nh6-g4 Qd1-e2 e7-e6 Nb1-c3 Nb8-c6) +1.18/6 0  Arena
+Adjudication. Illegal move!} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "Stockfish 1%"]
+[Result "0-1"]
+[BlackElo "2650"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Time "20:47:44"]
+[Variation "2...Nf6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "12"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 {(e7-e5 Ng1-f3) -0.41/15 0} 2. Nc3 Nf6 {(Ng8-f6 Ng1-f3 Nb8-c6
+Bf1-b5 Bf8-d6 Bb5-c4 Bd6-c5 d2-d3 d7-d6 Nc3-a4 Bc8-g4) -0.24/11 0} 3. Bb5
+c6 {(c7-c6 Bb5-a4 a7-a5 a2-a3 d7-d5 e4xd5 b7-b5 Ba4-b3 a5-a4 Bb3-a2 c6xd5
+d2-d4) +0.64/10 0} 4. Bc4 {(Bb5-c4 Bf8-b4 Qd1-f3 Rh8-f8 Qf3-f5 Bb4xc3)
++0.64/6 80} d5 {(d7-d5 e4xd5 c6xd5 Bc4-b5+ Nb8-c6 d2-d4 e5xd4 Bb5xc6+ b7xc6
+Qd1xd4 Bf8-e7 Ng1-f3 O-O O-O) +1.00/11 0} 5. h3 dxc4 {(d5xc4 Ng1-f3 Qd8-c7
+d2-d4 c4xd3/ep Bc1-g5 Bf8-e7 O-O O-O Qd1xd3 b7-b6) +5.00/12 0} 6. Qe2 Be6
+{(Bc8-e6 Ng1-f3 Nf6-d7 b2-b3 Bf8-d6 d2-d4 c4xd3/ep Qe2xd3 Bd6-e7) +5.44/14
+0} 7. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.6"]
+[Result "0-1"]
+[BlackElo "1509"]
+[Time "20:49:58"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v10.8"]
+[Result "0-1"]
+[BlackElo "1603"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "20:52:05"]
+[Variation "1...e6"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Nb8-d7 Nf3-g5 Qd8-e7 Ng5xe6 Qe7xe6) -2.32/6 61} e6 {(e7-e6
+e2-e3 f7-f6 Bf1-b5) -0.24/4 6} 2. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.2"]
+[Result "0-1"]
+[BlackElo "1367"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "20:54:19"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "4"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 Nb8-c6 e2-e4 Bf8-b4 Bf1-b5 Ng8-f6) +0.04/6 2} Nc6 {(Nb8-c6
+Ng1-f3 Ng8-f6 e2-e4) -0.30/4 3} 2. d4 {(d2-d4 Ng8-f6 Bc1-g5 d7-d6 Bg5xf6
+e7xf6) +0.04/6 42} d5 {(d7-d5 Ng1-f3 Ng8-f6 e2-e3) -0.10/4 7} 3. ... {White
+forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "5"]
+[White "C0BR4_v3.0"]
+[Black "V7P3R_v12.4"]
+[Result "0-1"]
+[BlackElo "1505"]
+[Time "20:56:39"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. ... {White forfeits on time} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "C0BR4_v2.9"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Time "20:58:53"]
+[Variation "Italian Variation"]
+[WhiteElo "1531"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "21"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 {(Ng1-f3 Nb8-c6 Nf3-g5 d7-d5) +0.54/4 0} Be7 4.
+Nxe5 {(Nf3xe5 d7-d5 Ne5xf7 Ke8xf7) +2.21/4 0} d5 {(d7-d5 e4xd5 O-O Qd1-f3
+Nb8-d7 Ne5-d3) -2.42/6 10} 5. exd5 {(e4xd5 Nf6xd5 Nb1-c3 Nd5xc3) +2.40/4 0}
+O-O {(O-O O-O Qd8-d6 Ne5xf7 Rf8xf7 Qd1-f3) -2.17/6 51} 6. d6 {(d5-d6 Be7xd6
+Bc4xf7+ Kg8-h8) +3.68/4 0} Bd7 7. Nxf7 {(Ne5xf7 Qd8-e8 Nf7-e5+ Bd7-e6)
++6.53/4 0} Rxf7 {(Rf8xf7 Bc4xf7+ Kg8xf7 d6xc7 Qd8xc7 Nb1-c3) -6.24/6 3} 8.
+Bxf7+ {(Bc4xf7+ Kg8xf7 d6xe7 Qd8xe7+) +6.81/4 0} Kxf7 {(Kg8xf7 d6xe7
+Qd8xe7+ Ke1-f1 Kf7-g8 Kf1-g1) -5.33/6 1} 9. Qf3 {(Qd1-f3 Be7xd6 Qf3xb7
+Nb8-c6) +5.41/4 0} Bxd6 {(Be7xd6 O-O Qd8-c8 Qf3-b3+ Kf7-e8 Rf1-e1+) -4.28/6
+19} 10. Qb3+ {(Qf3-b3+ Kf7-e8 Qb3xb7 Nb8-c6) +3.78/4 0} Be6 {(Bd7-e6 c2-c4
+Qd8-c8 Nb1-c3 Kf7-g8 Nc3-d5) -2.87/6 19} 11. Qxb7 {(Qb3xb7 Be6-d5 Qb7-b5
+Kf7-g8) +2.78/4 0} ... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "Random_Opponent"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "A10"]
+[Opening "English"]
+[Time "21:01:14"]
+[WhiteElo "100"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. c4 Bd5 {(Be6-d5 Qb7-b5 Kf7-g8 Nb1-c3 Qd8-e7+ Qb5-e2) -2.19/6 37  Arena
+Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "SlowMate_v3.1"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A04"]
+[Opening "Reti Opening"]
+[Time "21:01:57"]
+[Variation "1...f5"]
+[WhiteElo "1378"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nf3 {(Ng1-f3 Ng8-f6 Nb1-a3 Nb8-a6) 0.00/4 3} f5 2. Nd4 {(Nf3-d4 Ng8-h6
+d2-d3 g7-g6) +1.17/4 3} e6 {(e7-e6 e2-e3 Qd8-h4 Nd4-f3 Qh4-g4 Nb1-c3)
+-1.00/6 14} 3. c3 {(c2-c3 Qd8-f6 Qd1-c2) +1.56/3 3} Qh4 {(Qd8-h4 Nd4-f3
+Qh4-g4 d2-d4 Nb8-c6 Nb1-d2) -0.49/6 75} 4. Nf3 {(Nd4-f3 Qh4-f6 Qd1-c2)
++1.45/3 3} c6 5. Nxh4 {(Nf3xh4 Ng8-f6 Qd1-c2 Bf8-d6) +9.37/4 3} ... {Black
+forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "Stockfish 1%"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Time "21:04:25"]
+[WhiteElo "2650"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "7"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 {(e2-e4 c7-c5) +0.34/12 0} Nh6 {(Ng8-h6 Qd1-a4 Nh6-g4 Qa4-d4 e6-e5
+Qd4-a4) -9.97/6 7} 2. d4 {(d2-d4 c7-c6) +1.31/11 0} Nc6 {(Nb8-c6 Nb1-c3
+Nh6-g8 d4-d5 Nc6-e5 Bc1-g5) +0.19/6 24} 3. d5 {(d4-d5 Nc6-e5) +1.69/14 0}
+Nb4 {(Nc6-b4 Nb1-a3 Nb4-a6 Bc1xh6 g7xh6 Bf1-b5) -0.01/6 24} 4. Nc3 {(Nb1-c3
+d7-d6 Ng1-f3 Nb4-a6 Bf1xa6 b7xa6 Bc1xh6 g7xh6 Qd1-d2 Bf8-g7) +2.23/11 0}
+... {Black forfeits on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "V7P3R_v12.6"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[Time "21:06:37"]
+[WhiteElo "1509"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "0"]
+[WhiteType "program"]
+[BlackType "program"]
+
+ 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "V7P3R_v10.8"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "21:06:43"]
+[WhiteElo "1603"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "9"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Bf1-b5 Qd8-h4) 0.00/4 3} c6 2. Nc3 {(Nb1-c3 e7-e6 d2-d4
+d7-d5) +0.14/4 6} Nf6 {(Ng8-f6 Ng1-f3 Qd8-a5 Bf1-e2 Qa5-h5 O-O) -1.10/6
+108} 3. Nf3 {(Ng1-f3 d7-d5 d2-d4) +0.58/3 2} d6 4. d4 {(d2-d4 e7-e6 b2-b3)
++0.65/3 3} h6 5. h3 {(h2-h3 Qd8-a5 Bf1-c4) +0.65/3 5} ... {Black forfeits
+on time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "V7P3R_v12.2"]
+[Black "C0BR4_v3.0"]
+[Result "1-0"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "21:09:17"]
+[WhiteElo "1367"]
+[TimeControl "120+1"]
+[Termination "time forfeit"]
+[PlyCount "1"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 Ng8-f6 Ng1-f3 Nb8-c6) 0.00/4 1} ... {Black forfeits on
+time} 1-0
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "6"]
+[White "V7P3R_v12.4"]
+[Black "C0BR4_v3.0"]
+[Result "0-1"]
+[BlackElo "1540"]
+[ECO "A00"]
+[Opening "Dunst (Sleipner-Heinrichsen-Van Geet) Opening"]
+[Time "21:11:25"]
+[WhiteElo "1505"]
+[TimeControl "120+1"]
+[Termination "rules infraction"]
+[PlyCount "2"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. Nc3 {(Nb1-c3 f7-f6 Ng1-f3 Ke8-f7) +0.75/4 1} Qa5 {(Qd8-a5 Qd1-d2 Bc8-e6
+Bf1-d3 Qa5-h5 Bd3-e4) -0.43/6 3  Arena Adjudication. Illegal move!} 0-1
+
+[Event "Engine Battle 20251005_2"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.05"]
+[Round "7"]
+[White "C0BR4_v3.0"]
+[Black "C0BR4_v2.9"]
+[Result "*"]
+[BlackElo "1531"]
+[ECO "D02"]
+[Opening "Queen's Pawn"]
+[Time "21:11:36"]
+[Variation "2.Nf3 Bg4"]
+[WhiteElo "1540"]
+[TimeControl "120+1"]
+[Termination "unterminated"]
+[PlyCount "16"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. d4 d5 2. Nf3 Bg4 3. Ne5 {(Nf3-e5 Ng8-f6 Qd1-d3 c7-c6 Qd3-a3 Qd8-d6)
++0.59/6 32} Nf6 {(Ng8-f6 Ne5xf7 Ke8xf7 Nb1-c3) -0.38/4 0} 4. Nd2 Nc6
+{(Nb8-c6 Ne5xc6 b7xc6 Nd2-b3) +0.10/4 0} 5. c4 Nxd4 {(Nc6xd4 Qd1-a4+ c7-c6
+Ne5xf7) +1.57/4 0} 6. Qa4+ {(Qd1-a4+ Bg4-d7 Ne5xd7 Qd8xd7 Qa4xd7+) -0.81/6
+33} Bd7 {(Bg4-d7 Ne5xd7 Qd8xd7 Qa4xd7+) +0.76/4 0} 7. Qd1 {(Qa4-d1 d5xc4
+Nd2xc4 Bd7-b5 Bc1-e3 Bb5xc4) -1.34/6 18} Bc6 {(Bd7-c6 e2-e3 Nd4-e6 Bf1-e2)
++1.65/4 0} 8. e3 {(e2-e3 Nd4-e6 Qd1-f3 d5xc4 Ne5xc6 b7xc6) -0.92/6 31} Ne6
+{(Nd4-e6 Ne5xf7 Ke8xf7 Qd1-b3) +1.40/4 0} *
+

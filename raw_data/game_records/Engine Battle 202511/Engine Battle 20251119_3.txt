@@ -1,0 +1,26 @@
+    Engine                  Score   St C0 Ma C0 V7 Sl V7 Po Co Ma Po Co Ra Ca Ca    S-B
+01: Stockfish 1%            25.5/28 ·· 10 11 1= 11 11 11 1= =1 11 11 11 11 11 11  321.25
+02: C0BR4_v3.1              24.0/28 01 ·· == == =1 11 1= 11 11 11 11 11 11 11 11  283.50
+03: MaterialOpponent        22.5/28 00 == ·· 11 == 1= 11 11 11 1= 11 11 11 1= 11  262.75
+04: C0BR4_v3.2              22.0/28 0= == 00 ·· == 11 11 =1 11 11 11 11 11 11 11  240.00
+05: V7P3R_v14.1             21.5/28 00 =0 == == ·· == 11 11 11 11 11 11 11 11 11  226.50
+06: SlowMate_v3.1           19.0/28 00 00 0= 00 == ·· 11 11 11 11 11 11 11 1= 11  182.75
+07: V7P3R_v16.0             15.5/28 00 0= 00 00 00 00 ·· 01 11 11 11 11 11 11 11  117.50
+08: PositionalOpponent      14.5/28 0= 00 00 =0 00 00 10 ·· 11 0= 11 11 11 11 11  114.50
+09: CoverageOpponent        11.0/28 =0 00 00 00 00 00 00 00 ·· 1= 10 11 11 11 11   66.50
+10: MaterialOpponent_v2.0   10.5/28 00 00 0= 00 00 00 00 1= 0= ·· 10 01 11 11 11   69.50
+11: PositionalOpponent_v2.0 10.0/28 00 00 00 00 00 00 00 00 01 01 ·· 11 11 11 11   49.50
+12: CoverageOpponent_v2.0   7.0/28  00 00 00 00 00 00 00 00 00 10 00 ·· 11 11 11   24.50
+13: RandomOpponent          4.0/28  00 00 00 00 00 00 00 00 00 00 00 00 ·· 11 11    6.00
+14: CaptureOpponent         2.0/28  00 00 0= 00 00 0= 00 00 00 00 00 00 00 ·· 01   21.75
+15: CaptureOpponent_v2.0    1.0/28  00 00 00 00 00 00 00 00 00 00 00 00 00 10 ··    2.00
+
+210 games played / Tournament is finished
+Name of the tournament: Engine Battle 20251119_3
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 1/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Battle 20251119_3.pgn
+Website: 
+E-Mail Address: 

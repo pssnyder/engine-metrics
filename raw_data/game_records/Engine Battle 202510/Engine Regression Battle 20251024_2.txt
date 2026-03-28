@@ -1,0 +1,16 @@
+   Engine            Score  V7
+1: V7P3R_v12.6       2.0/2  11 
+2: V7P3R_v10.8       1.0/1  1? 
+2: V7P3R_v12.2       1.0/1  1  
+2: V7P3R_v12.4       1.0/1  1  
+5: V7P3R_v13x_Engine 0.0/5  ·· 
+
+5 of 40 games played
+Name of the tournament: Engine Regression Battle 20251024_2
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 10/5
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Engine Regression Battle 20251024_2.pgn
+Website: 
+E-Mail Address: 

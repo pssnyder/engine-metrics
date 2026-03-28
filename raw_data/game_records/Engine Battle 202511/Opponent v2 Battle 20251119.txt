@@ -1,0 +1,16 @@
+   Engine                  Score         Po        Ma        Co        Ra        Ca    S-B
+1: PositionalOpponent_v2.0 29.5/33 ········· 11101001  111=1111  11111111  111111111  333.75
+2: MaterialOpponent_v2.0   27.0/33 00010110  ········· 111111111 11111111? =11111=1   306.00
+3: CoverageOpponent_v2.0   16.5/33 000=0000  000000000 ········· 11111111  11111111    86.75
+4: RandomOpponent          6.0/32  00000000  00000000? 00000000  ········· 1101=1=1    18.00
+5: CaptureOpponent_v2.0    3.0/33  000000000 =00000=0  00000000  0010=0=0  ·········   39.00
+
+82 of 100 games played
+Name of the tournament: Opponent v2 Battle 20251119
+Site/ Country: MAIN-DESKTOP, United States
+Level: Tournament Game in One Minute
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\Opponent v2 Battle 20251119.pgn
+Website: 
+E-Mail Address: 

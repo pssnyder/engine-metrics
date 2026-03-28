@@ -1,0 +1,39 @@
+[Event "Computer chess game"]
+[Site "MAIN-DESKTOP"]
+[Date "2025.10.24"]
+[Round "?"]
+[White "V7P3R_v13x_Engine"]
+[Black "V7P3R_v13x_Engine"]
+[Result "*"]
+[BlackElo "2000"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "16:58:07"]
+[WhiteElo "2000"]
+[TimeControl "120+1"]
+[Termination "normal"]
+[PlyCount "30"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e3 {(e2-e3 e7-e6 Qd1-h5 Qd8-f6) 0.00/4 1} e6 {(e7-e6 Ng1-f3 Nb8-c6
+Nb1-c3) -0.30/4 3} 2. Nf3 {(Ng1-f3 Ng8-f6 Nb1-c3 Nb8-c6) 0.00/4 4} Nf6
+{(Ng8-f6 Bf1-b5 Nb8-c6 Nb1-c3) -0.28/4 5} 3. Nc3 {(Nb1-c3 Nb8-c6 Bf1-b5
+Bf8-b4) 0.00/4 8} Bb4 {(Bf8-b4 Bf1-d3 Nb8-c6 Bd3-e4) +0.17/4 11} 4. Bc4
+{(Bf1-c4 Bb4xc3 d2xc3 Nb8-c6) -0.22/4 8} Nc6 {(Nb8-c6 a2-a3 d7-d5 a3xb4)
++0.35/4 5} 5. a3 {(a2-a3 d7-d5 a3xb4 d5xc4) -0.35/4 9} d5 {(d7-d5 a3xb4
+d5xc4 d2-d3) +0.30/4 5} 6. axb4 {(a3xb4 d5xc4 d2-d3 Qd8-d6) +0.25/4 1} dxc4
+{(d5xc4 d2-d3 Qd8-d6 d3xc4) -0.27/4 4} 7. b5 {(b4-b5 Nf6-d5 b5xc6 b7xc6)
++5.44/4 7} Nb4 {(Nc6-b4 Nf3-d4 Qd8-d6 Qd1-f3) -0.02/4 7} 8. b3 {(b2-b3
+Qd8-d3 Nf3-d4 Nb4xc2+) +0.68/4 7} Nxc2+ {(Nb4xc2+ Qd1xc2 Qd8-d3 Nf3-d4)
+-2.28/4 8} 9. Qxc2 {(Qd1xc2 Nf6-g4 h2-h3 c7-c6) +6.68/4 2} Qd3 {(Qd8-d3
+Nf3-d4 a7-a6 b5-b6) -2.67/4 3} 10. Nd4 {(Nf3-d4 a7-a6 b5-b6 Nf6-g4) +4.93/4
+7} c6 {(c7-c6 Nc3-e2 Nf6-g4 b3xc4) -5.61/4 8} 11. Ne4 {(Nc3-e4 Nf6xe4 b3xc4
+Ne4-g3) +7.78/4 10} Nxe4 {(Nf6xe4 b3xc4 Ne4-g3 Qc2xd3) -9.38/4 6} 12. bxc4
+{(b3xc4 Qd3xd2+ Bc1xd2 Bc8-d7) +19.50/4 2} Qxd2+ {(Qd3xd2+ Bc1xd2 Bc8-d7
+Bd2-b4) -16.44/4 2} 13. Bxd2 {(Bc1xd2 Bc8-d7 Bd2-c1 c6-c5) +16.34/4 1} Bd7
+{(Bc8-d7 Qc2-d3 e6-e5 Nd4-f3) -16.24/4 2} 14. Bc3 {(Bd2-c3 e6-e5 Nd4-f3
+c6xb5) +19.10/4 2} Kf8 {(Ke8-f8 Bc3-b2 e6-e5 Bb2-a3+) -16.37/4 7} 15. Nf3
+{(Nd4-f3 Ra8-d8 Qc2-d3 c6xb5) +19.25/4 3} cxb5 {(c6xb5 Qc2-d3 Kf8-e8 c4xb5)
+-15.50/4 1 Black resigns} *
+

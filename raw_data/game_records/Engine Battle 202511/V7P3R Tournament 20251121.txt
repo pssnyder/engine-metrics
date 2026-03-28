@@ -1,0 +1,18 @@
+   Engine                  Score    V7   St   V7   V7   Po   Ma   Co    S-B
+1: V7P3R_v17.1             18.0/20 ···· =10  11=1 111  111  111  1111  144.50
+2: Stockfish 1%            17.0/20 =01  ···· 01=  1111 1111 111  111   136.50
+3: V7P3R_v17.0             13.0/20 00=0 10=  ···· 100  111  1111 111?   85.00
+4: V7P3R_v14.1             13.0/21 000  0000 011  ···· 1111 1111 111    68.50
+5: PositionalOpponent_v2.0 5.0/21  000  0000 000  0000 ···· 100  1111   10.50
+6: MaterialOpponent_v2.0   4.5/21  000  000  0000 0000 011  ···· =101   13.75
+7: CoverageOpponent_v2.0   1.5/21  0000 000  000? 000  0000 =010 ····    6.75
+
+72 of 210 games played
+Name of the tournament: V7P3R Tournament 20251121
+Site/ Country: MAIN-DESKTOP, United States
+Level: Blitz 5/1
+Hardware: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz with 31.8 GB Memory
+Operating system: Windows 10 Enterprise Professional (Build 9200) 64 bit
+PGN-File: C:\Program Files (x86)\Arena\Tournaments\V7P3R Tournament 20251121.pgn
+Website: 
+E-Mail Address: 
