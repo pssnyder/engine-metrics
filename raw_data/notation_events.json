@@ -1,0 +1,99 @@
+{
+  "_description": "V7P3R Bot - Operational Events Notation Dataset",
+  "_purpose": "Records significant non-code events that affect game metrics and ELO trajectory. Use this to explain metric shifts that are not caused by chess engine version changes. The agent should cross-reference game dates against these events when analyzing performance trends.",
+  "_scope": "Covers: lichess-bot config changes, matchmaking changes, infrastructure changes, operational decisions, environment changes. Engine version deployments are tracked in CHANGELOG.md — this file is the complement.",
+  "_update_instructions": "Add new events in reverse chronological order (newest first). Use ISO dates. Mark approximate dates with ~. Types: config_change | infrastructure | operational | tuning | environment.",
+  "_last_updated": "2026-03-31",
+
+  "events": [
+
+    {
+      "date": "2026-03-30",
+      "date_approximate": false,
+      "type": "operational",
+      "title": "ELO RECOVERY CONFIRMED: Bot returned to previous ELO average after 1 month post-matchmaking-disable",
+      "change_scope": "lichess_bot_config",
+      "engine_version_affected": "v18.3",
+      "description": "After reviewing one full month of gameplay (March 2026) following the matchmaking system disable on 2026-03-01, ELO has returned to the bot's previous historical average. This confirms the matchmaking bug — not the chess engine — was the root cause of the observed performance degradation during the Nov 2025 to Mar 2026 period.",
+      "expected_metric_impact": "Use March 2026 forward as the clean baseline for true engine performance. The ELO recovery validates that v18.3 engine strength was never the issue. Any ELO dip between 2025-11-30 and 2026-03-01 should be attributed to the matchmaking bug in analysis.",
+      "engine_regression": false,
+      "validation_period": "2026-03-01 to 2026-03-30",
+      "notes": "IMPORTANT for analysis: ELO recovery is confirmed by 1 month of post-disable game data. This is the definitive validation point."
+    },
+
+    {
+      "date": "2026-03-30",
+      "date_approximate": false,
+      "type": "operational",
+      "title": "ROOT CAUSE IDENTIFIED: Matchmaking bug caused game abandonment via max-simultaneous-games conflict",
+      "change_scope": "lichess_bot_config",
+      "engine_version_affected": "v18.3",
+      "description": "Specific bug mechanism identified: the smart matchmaking system was causing the engine to accept challenge matches it was not configured to accept, which then conflicted with the max simultaneous games setting. The conflict likely resulted in the bot abandoning in-progress games in favour of newly accepted ones — inflating losses, forfeit counts, and artificially depressing ELO. The v7p3r chess engine evaluation and search logic was unaffected throughout.",
+      "expected_metric_impact": "Elevated loss rate and time-forfeit/abandonment terminations during 2025-11-30 to 2026-03-01 are attributable to this bug. When filtering analytics for engine quality, exclude or flag games in this window with 'Time forfeit' or abnormal termination reasons.",
+      "root_cause": "matchmaking_accepted_disallowed_challenges_conflicting_with_max_simultaneous_games",
+      "engine_regression": false,
+      "action_taken": "Matchmaking system fully disabled 2026-03-01. Default Lichess challenge handling restored.",
+      "notes": "When reviewing termination reasons in game data: abnormally high time-forfeit counts during the matchmaking period (2025-11-30 to 2026-03-01) are consistent with this bug mechanism."
+    },
+
+    {
+      "date": "2026-03-01",
+      "date_approximate": false,
+      "type": "tuning",
+      "title": "Lichess-bot framework retuned (not an engine change)",
+      "change_scope": "lichess_bot_config",
+      "engine_version_affected": "v18.3",
+      "description": "Retuned the way the underlying lichess-bot framework operates during play. This is NOT a change to the v7p3r chess engine itself — the evaluation and search logic is unchanged. Changes were made to how the bot interfaces with Lichess (challenge acceptance, game handling behaviour).",
+      "expected_metric_impact": "Improved overall game performance and ELO trajectory. Improvements in 2026 metrics vs late 2025 are attributable to this tuning combined with the matchmaking disable — not to chess engine changes."
+    },
+
+    {
+      "date": "2026-03-01",
+      "date_approximate": false,
+      "type": "config_change",
+      "title": "Smart matchmaking system fully disabled — default Lichess challenge handling restored",
+      "change_scope": "lichess_bot_config",
+      "engine_version_affected": "v18.3",
+      "description": "Smart matchmaking system (deployed 2025-11-30) permanently disabled after bug diagnosis. The bug was causing the bot to accept disallowed challenge types, conflicting with the max simultaneous games setting, and likely causing in-progress game abandonments in favour of newly accepted games. Default Lichess challenge handling restored — bot now operates on standard accept-all or filtered-by-config rules without the custom matchmaking layer.",
+      "expected_metric_impact": "Opponent pool returned to normal open distribution. ELO and win rate from this date forward reflects true engine performance against an unfiltered opponent pool. Confirmed by ELO recovery observed by 2026-03-30.",
+      "related_changelog_entry": "Smart Matchmaking — Created 2025-11-30, Status: INACTIVE (bugged)",
+      "bug_mechanism": "Accepted disallowed challenges -> conflicted with max_simultaneous_games -> abandoned in-progress games for new ones -> inflated losses/forfeits"
+    },
+
+    {
+      "date": "2025-12-29",
+      "date_approximate": false,
+      "type": "infrastructure",
+      "title": "v18.3 deployed — start of 2026 performance baseline",
+      "change_scope": "chess_engine",
+      "engine_version_affected": "v18.3",
+      "description": "v18.3 deployed as the current production engine. Combined with the early-2026 lichess-bot config retuning and matchmaking disable, this version underpins the significant ELO improvement observed in 2026 game data.",
+      "notes": "See CHANGELOG.md for engine version history."
+    },
+
+    {
+      "date": "2025-11-30",
+      "date_approximate": false,
+      "type": "config_change",
+      "title": "Smart matchmaking system deployed",
+      "change_scope": "lichess_bot_config",
+      "engine_version_affected": "v17.1",
+      "description": "Smart matchmaking system activated. Logic: 30% improvement targets, 50% variety, 20% priority. Slot reservation for incoming challenges. Followed accounts integration. BUG: System was immediately accepting challenge types not permitted by config, conflicting with max simultaneous games limit and causing in-progress games to be abandoned in favour of newly accepted ones.",
+      "expected_metric_impact": "Elevated time-forfeits, loss rate, and ELO depression from this date through 2026-03-01 are attributable to this bug. Do not interpret this period as reflecting engine weakness.",
+      "status": "DISABLED 2026-03-01 — confirmed bug causing game abandonments. Replaced by default Lichess challenge handling.",
+      "bug_mechanism": "Accepted disallowed challenges -> conflicted with max_simultaneous_games -> abandoned in-progress games for new ones -> inflated losses/forfeits",
+      "active_period": "2025-11-30 to 2026-03-01"
+    },
+
+    {
+      "date": "2025-11-29",
+      "date_approximate": true,
+      "type": "operational",
+      "title": "v17.4 emergency rollback to v17.1",
+      "change_scope": "chess_engine",
+      "engine_version_affected": "v17.4",
+      "description": "v17.4 rolled back to v17.1 after critical endgame blunders detected. Example: Game 9i883UOF — move 23. Be2?? (Mate in 3 missed). High centipawn loss in endgames.",
+      "expected_metric_impact": "Any spike in losses or CPL around Nov 26-29 is attributable to v17.4's endgame evaluation regression, not general engine regression."
+    }
+  ]
+}
