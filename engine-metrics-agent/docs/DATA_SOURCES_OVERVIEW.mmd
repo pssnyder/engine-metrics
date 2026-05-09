@@ -1,0 +1,108 @@
+---
+title: V7P3R Data Sources - Complete Overview
+---
+graph TB
+    %% ============================================================
+    %% PRIMARY DATA SOURCES
+    %% ============================================================
+    subgraph PrimarySources["🎯 PRIMARY DATA SOURCES"]
+        direction TB
+        
+        subgraph LichessData["Lichess Platform Data"]
+            LichessBot["v7p3r_bot Account<br/>🤖 Active Bot<br/>---<br/>• Bullet: 1218<br/>• Blitz: 1388<br/>• Rapid: 1531<br/>• ~30 games/day"]
+            LichessExports["PGN Exports<br/>📦 Cumulative Files<br/>---<br/>lichess_v7p3r_bot_YYYY-MM-DD.pgn<br/>• Latest: 2026-04-09<br/>• Contains all historical games<br/>• 1620 games analyzed YTD 2026"]
+            LichessAPI["Lichess API<br/>🔌 Real-time Access<br/>---<br/>Token: lip_1vCANjDGz9euqYAcXwy7<br/>• Game completion webhooks<br/>• Rating updates<br/>• Live game stream"]
+        end
+        
+        subgraph LocalEngineData["Local Engine Development"]
+            EngineBattles["Engine Battle Archives<br/>⚔️ Testing Games<br/>---<br/>Historical PGN files<br/>• v7p3r vs other engines<br/>• Development testing<br/>• Version comparisons"]
+            LocalTests["Local Test Games<br/>🧪 Development Testing<br/>---<br/>Ad-hoc testing<br/>• Feature validation<br/>• Bug reproduction<br/>• Performance tuning"]
+        end
+        
+        subgraph AnalysisData["Analysis & Evaluation"]
+            StockfishAnalysis["Stockfish Analysis Engine<br/>🔍 Error Detection<br/>---<br/>Binary: stockfish_20090216_x64_bmi2.exe<br/>• Depth 15-30 analysis<br/>• Blunder detection 150+ cp<br/>• Mistake detection 80+ cp<br/>• Inaccuracy detection 30+ cp"]
+            ErrorResults["Analysis Results JSON<br/>📊 Error Patterns<br/>---<br/>v18_3_ytd_analysis_*.json<br/>• 1620 games analyzed<br/>• 18,539 total errors tracked<br/>• 6.90 blunders/game<br/>• 4.55 mistakes/game<br/>• 70.1% avg accuracy"]
+        end
+    end
+
+    %% ============================================================
+    %% METADATA & DOCUMENTATION SOURCES
+    %% ============================================================
+    subgraph MetadataSources["📚 METADATA & DOCUMENTATION SOURCES"]
+        direction TB
+        
+        subgraph VersionDocs["Version & Deployment Tracking"]
+            Changelog["CHANGELOG.md<br/>📝 Version History<br/>---<br/>• v18.3 current (DEPLOYED)<br/>• Deployment dates<br/>• Status tracking<br/>• Rollback history<br/>• Performance notes"]
+            DevDocs["Development Documentation<br/>📖 Design Docs<br/>---<br/>• Design decisions<br/>• Implementation notes<br/>• Build logs<br/>• Feature specifications<br/>• ~8 markdown files"]
+        end
+        
+        subgraph OperationalData["Operational Metadata"]
+            NotationEvents["notation_events.json<br/>🔔 Operational Log<br/>---<br/>Non-engine changes affecting metrics:<br/>• Config changes<br/>• Matchmaking toggles<br/>• Infrastructure updates<br/>• API changes<br/>• 8 events tracked"]
+        end
+        
+        subgraph GeneratedReports["Generated Reports & Datasets"]
+            CSVReports["CSV Datasets<br/>📈 Reporting Data<br/>---<br/>• v7p3r_game_data_latest.csv (5000 games)<br/>• v7p3r_game_summary_enhanced_latest.csv<br/>• v7p3r_moves_latest.csv<br/>Generated from raw PGN data"]
+            TextReports["Text Reports<br/>📄 Summaries<br/>---<br/>• v7p3r_recent_gameplay_report_latest.txt<br/>• v7p3r_version_comparison_report_latest.txt<br/>Human-readable summaries"]
+            MDReports["Markdown Insights<br/>💡 Analysis Reports<br/>---<br/>reports/insights/<br/>• Enhanced analysis<br/>• Pattern identification<br/>• Recommendations"]
+        end
+    end
+
+    %% ============================================================
+    %% CLOUD & EXTERNAL SOURCES (OPTIONAL/FUTURE)
+    %% ============================================================
+    subgraph CloudSources["☁️ CLOUD & EXTERNAL SOURCES (Optional)"]
+        direction TB
+        
+        subgraph GoogleCloud["Google Cloud Platform"]
+            BigQueryData["BigQuery Data Lake<br/>🗄️ chess_engine_data_lake<br/>---<br/>Tables:<br/>• pgn_games: 29,185 records<br/>• analysis_results: 2,352 records<br/>• documentation: 122 records<br/>Status: 100% data integrity"]
+            FirebaseStorage["Firebase Storage<br/>📦 Real-time Sync<br/>---<br/>• Raw PGN files<br/>• Analysis results<br/>• E2 instance data<br/>• Container logs"]
+            FirestoreDB["Firestore Database<br/>🔥 Structured Data<br/>---<br/>Collections:<br/>• daily_snapshots<br/>• games<br/>• performance_analysis"]
+        end
+        
+        subgraph ComputeEngine["GCE Compute Engine"]
+            E2Instance["E2 Instance<br/>🖥️ v7p3r-production-bot<br/>---<br/>us-central1-a<br/>• Hourly data sync<br/>• Container logs<br/>• System metrics<br/>• Status monitoring"]
+        end
+    end
+
+    %% ============================================================
+    %% DATA SOURCE CHARACTERISTICS
+    %% ============================================================
+    subgraph SourceMetrics["📊 DATA SOURCE METRICS"]
+        direction LR
+        
+        Frequency["Update Frequency<br/>---<br/>• Lichess PGN: Manual export<br/>• Stockfish Analysis: On-demand<br/>• CSV Reports: Regenerated as needed<br/>• Notation Events: Manual logging<br/>• Cloud Sync: Hourly (if enabled)"]
+        
+        Volume["Data Volume<br/>---<br/>• PGN Files: 1620+ games YTD<br/>• Analysis JSON: ~50-200MB<br/>• CSV Datasets: 5000 games<br/>• Documentation: ~8 files<br/>• BigQuery: 31,659 records"]
+        
+        Quality["Data Quality<br/>---<br/>• PGN: 100% complete<br/>• Analysis: Validated depth 18<br/>• CSV: Derived from PGN<br/>• BigQuery: 100% integrity<br/>• Notation: Manual but accurate"]
+    end
+
+    %% ============================================================
+    %% DATA FLOWS
+    %% ============================================================
+    LichessBot -->|Export| LichessExports
+    LichessBot -->|API calls| LichessAPI
+    LichessExports -->|Analyze| StockfishAnalysis
+    StockfishAnalysis -->|Generate| ErrorResults
+    
+    LichessExports -->|Parse| CSVReports
+    CSVReports -->|Summarize| TextReports
+    ErrorResults -->|Insights| MDReports
+    
+    LichessExports -.->|Optional sync| BigQueryData
+    LichessExports -.->|Optional sync| FirebaseStorage
+    E2Instance -.->|Stream| FirebaseStorage
+    FirebaseStorage -.->|Structure| FirestoreDB
+    
+    %% ============================================================
+    %% STYLING
+    %% ============================================================
+    classDef primaryStyle fill:#e3f2fd,stroke:#1565c0,stroke-width:3px,color:#000
+    classDef metaStyle fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000
+    classDef cloudStyle fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#000
+    classDef metricsStyle fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
+    
+    class LichessBot,LichessExports,StockfishAnalysis,ErrorResults primaryStyle
+    class Changelog,NotationEvents,CSVReports metaStyle
+    class BigQueryData,FirebaseStorage,E2Instance cloudStyle
+    class Frequency,Volume,Quality metricsStyle

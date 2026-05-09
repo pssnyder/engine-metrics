@@ -1,0 +1,210 @@
+---
+title: V7P3R Chess Engine Metrics - Complete System Architecture
+---
+graph TB
+    %% ============================================================
+    %% LAYER 1: DATA GENERATION
+    %% ============================================================
+    subgraph Layer1["🎮 LAYER 1: DATA GENERATION"]
+        direction LR
+        
+        Bot["v7p3r_bot<br/>Lichess Bot<br/>---<br/>Real-time gameplay<br/>~30 games/day<br/>Multiple time controls"]
+        
+        DevTeam["Development Team<br/>---<br/>Code changes<br/>Documentation<br/>Version deployments"]
+    end
+
+    %% ============================================================
+    %% LAYER 2: DATA STORAGE (RAW)
+    %% ============================================================
+    subgraph Layer2["💾 LAYER 2: RAW DATA STORAGE"]
+        direction TB
+        
+        subgraph LocalRaw["Local Filesystem (raw_data/)"]
+            PGNFiles["game_records/<br/>📁 PGN Files<br/>---<br/>1620 games YTD"]
+            AnalysisJSON["analysis_results/<br/>📁 Analysis JSON<br/>---<br/>18,539 errors tracked"]
+            DocsFolder["v7p3r_docs/<br/>📁 Documentation<br/>---<br/>CHANGELOG, design docs"]
+            NotationJSON["notation_events.json<br/>📄 Operational Log<br/>---<br/>8 events"]
+        end
+        
+        subgraph CloudRaw["Cloud Storage (Optional)"]
+            GCS["Firebase Storage<br/>☁️ Cloud Backup<br/>---<br/>Real-time sync<br/>E2 instance data"]
+            BQ["BigQuery<br/>☁️ Data Lake<br/>---<br/>31,659 records<br/>100% integrity"]
+        end
+    end
+
+    %% ============================================================
+    %% LAYER 3: PROCESSING & TRANSFORMATION
+    %% ============================================================
+    subgraph Layer3["⚙️ LAYER 3: PROCESSING & TRANSFORMATION"]
+        direction TB
+        
+        subgraph Analysis["Analysis Pipeline"]
+            StockfishProc["Stockfish Analyzer<br/>analyze_ytd_games.py<br/>---<br/>• Depth 18 analysis<br/>• Error classification<br/>• Pattern detection<br/>• JSON output"]
+        end
+        
+        subgraph Extraction["Data Extraction"]
+            GameExtract["extract_game_data.py<br/>---<br/>PGN → CSV<br/>Game-level metadata"]
+            MoveExtract["extract_move_data.py<br/>---<br/>PGN → CSV<br/>Move-level details"]
+        end
+        
+        subgraph Reporting["Report Generation"]
+            GameplayRpt["generate_gameplay_report.py<br/>---<br/>TXT summaries<br/>Performance metrics"]
+            InsightsRpt["generate_insights_report.py<br/>---<br/>MD insights<br/>Recommendations"]
+        end
+        
+        subgraph AILoader["AI Context Builder"]
+            DataLoader["data_loader.py<br/>---<br/>Multi-source aggregation<br/>Context preparation<br/>Statistics calculation"]
+        end
+    end
+
+    %% ============================================================
+    %% LAYER 4: CONFORMED DATA
+    %% ============================================================
+    subgraph Layer4["📊 LAYER 4: CONFORMED DATA"]
+        direction TB
+        
+        subgraph CSVData["CSV Datasets (reporting_datasets/)"]
+            GameCSV["v7p3r_game_data_latest.csv<br/>5000 games"]
+            SummaryCSV["v7p3r_game_summary_enhanced_latest.csv<br/>Aggregated stats"]
+            MoveCSV["v7p3r_moves_latest.csv<br/>Move-level data"]
+        end
+        
+        subgraph ReportData["Generated Reports (reports/)"]
+            TXTReports["*.txt Reports<br/>Human-readable summaries"]
+            MDInsights["insights/*.md<br/>Enhanced analysis"]
+        end
+        
+        subgraph AIContext["AI Agent Context"]
+            ContextData["Knowledge Base Context<br/>---<br/>• 5000 game stats<br/>• 1620 Stockfish analyses<br/>• 8 operational events<br/>• 150 recent PGN games<br/>• 8 design docs<br/>• v18.3 changelog"]
+        end
+    end
+
+    %% ============================================================
+    %% LAYER 5: INTELLIGENCE & ANALYTICS
+    %% ============================================================
+    subgraph Layer5["🤖 LAYER 5: INTELLIGENCE & ANALYTICS"]
+        direction TB
+        
+        subgraph GeminiSystem["Gemini AI System"]
+            GeminiAgent["V7P3RAgent<br/>gemini-2.5-flash<br/>---<br/>Temperature: 0.15<br/>Analytical focus<br/>Function calling enabled"]
+            
+            SystemPrompt["System Instruction<br/>---<br/>V7P3R Metrics Analyst<br/>Exclusive v7p3r_bot focus<br/>Data-driven responses"]
+            
+            FunctionTools["Stockfish Function Tools<br/>---<br/>• stockfish_status<br/>• analyze_position<br/>• find_best_moves<br/>• analyze_game_pgn<br/>• get_game_key_positions"]
+        end
+        
+        subgraph AuthSystem["Authentication"]
+            VertexAI["Vertex AI<br/>---<br/>Project: chess-engine-metrics-agent<br/>Location: us-central1<br/>ADC authentication"]
+        end
+    end
+
+    %% ============================================================
+    %% LAYER 6: USER INTERFACE
+    %% ============================================================
+    subgraph Layer6["🖥️ LAYER 6: USER INTERFACE"]
+        direction LR
+        
+        CLI["Terminal CLI<br/>run_agent.py<br/>---<br/>• Interactive REPL<br/>• Single-query mode<br/>• Built-in commands<br/>• Rich formatting"]
+        
+        Commands["Built-in Commands<br/>---<br/>/help, /status<br/>/reload, /stockfish<br/>/clear, /pgn<br/>/quit"]
+    end
+
+    %% ============================================================
+    %% LAYER 7: FEEDBACK & MONITORING
+    %% ============================================================
+    subgraph Layer7["🔄 LAYER 7: FEEDBACK & MONITORING"]
+        direction LR
+        
+        UserFeedback["User Interaction<br/>---<br/>Questions asked<br/>Analysis requested<br/>Insights gained"]
+        
+        Monitoring["System Monitoring<br/>---<br/>• Data freshness<br/>• Analysis coverage<br/>• Error tracking<br/>• Performance metrics"]
+        
+        Iteration["Continuous Improvement<br/>---<br/>• Re-run analysis<br/>• Update datasets<br/>• Refine prompts<br/>• Add features"]
+    end
+
+    %% ============================================================
+    %% DATA FLOWS
+    %% ============================================================
+    
+    %% Layer 1 → Layer 2
+    Bot -->|Export PGN| PGNFiles
+    Bot -.->|Sync| GCS
+    DevTeam -->|Document| DocsFolder
+    DevTeam -->|Log events| NotationJSON
+    
+    %% Layer 2 → Layer 3
+    PGNFiles -->|Parse| StockfishProc
+    PGNFiles -->|Extract| GameExtract
+    PGNFiles -->|Extract| MoveExtract
+    StockfishProc -->|Analyze| AnalysisJSON
+    
+    %% Layer 3 → Layer 4
+    GameExtract -->|Generate| GameCSV
+    MoveExtract -->|Generate| MoveCSV
+    StockfishProc -->|Report| TXTReports
+    StockfishProc -->|Insights| MDInsights
+    
+    %% Multiple sources → AI Loader
+    GameCSV -->|Load stats| DataLoader
+    AnalysisJSON -->|Load analysis| DataLoader
+    DocsFolder -->|Load docs| DataLoader
+    NotationJSON -->|Load events| DataLoader
+    PGNFiles -->|Load recent| DataLoader
+    
+    %% Layer 4 → Layer 5
+    DataLoader -->|Build context| ContextData
+    ContextData -->|Inject| SystemPrompt
+    SystemPrompt -->|Initialize| GeminiAgent
+    VertexAI <-->|Authenticate| GeminiAgent
+    FunctionTools <-->|Call| GeminiAgent
+    
+    %% Layer 5 → Layer 6
+    GeminiAgent <-->|Query/Response| CLI
+    Commands -->|Control| CLI
+    
+    %% Layer 6 → Layer 7
+    CLI -->|Track| UserFeedback
+    CLI -->|Monitor| Monitoring
+    UserFeedback -->|Trigger| Iteration
+    Iteration -->|Re-analyze| StockfishProc
+    Iteration -->|Update| DataLoader
+    
+    %% Optional cloud sync
+    PGNFiles -.->|Sync| BQ
+    AnalysisJSON -.->|Sync| BQ
+    
+    %% ============================================================
+    %% EXTERNAL SERVICES
+    %% ============================================================
+    subgraph External["🌐 EXTERNAL SERVICES"]
+        Lichess["Lichess.org<br/>---<br/>Game platform<br/>API access<br/>Real-time data"]
+        
+        StockfishBinary["Stockfish Binary<br/>---<br/>stockfish_20090216_x64_bmi2.exe<br/>Analysis engine<br/>Position evaluation"]
+        
+        GoogleCloudSDK["Google Cloud SDK<br/>---<br/>gcloud CLI<br/>Authentication<br/>Resource management"]
+    end
+    
+    Bot <-->|Play games| Lichess
+    FunctionTools <-->|Execute| StockfishBinary
+    VertexAI <-->|Auth| GoogleCloudSDK
+
+    %% ============================================================
+    %% STYLING
+    %% ============================================================
+    classDef layer1Style fill:#e3f2fd,stroke:#1565c0,stroke-width:3px,color:#000
+    classDef layer2Style fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#000
+    classDef layer3Style fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000
+    classDef layer4Style fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
+    classDef layer5Style fill:#fce4ec,stroke:#880e4f,stroke-width:3px,color:#000
+    classDef layer6Style fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    classDef layer7Style fill:#e0f2f1,stroke:#00695c,stroke-width:2px,color:#000
+    classDef externalStyle fill:#eceff1,stroke:#37474f,stroke-width:2px,color:#000
+    
+    class Bot,DevTeam layer1Style
+    class PGNFiles,AnalysisJSON,DocsFolder,GCS,BQ layer2Style
+    class StockfishProc,GameExtract,DataLoader layer3Style
+    class GameCSV,TXTReports,ContextData layer4Style
+    class GeminiAgent,SystemPrompt,FunctionTools layer5Style
+    class CLI,Commands layer6Style
+    class UserFeedback,Monitoring,Iteration layer7Style
+    class Lichess,StockfishBinary,GoogleCloudSDK externalStyle

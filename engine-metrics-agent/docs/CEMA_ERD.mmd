@@ -1,0 +1,257 @@
+---
+title: V7P3R Chess Engine Metrics - Entity Relationship Diagram
+---
+erDiagram
+    %% ============================================================
+    %% CORE GAME DATA ENTITIES
+    %% ============================================================
+
+    LICHESS_GAMES ||--o{ MOVES : contains
+    LICHESS_GAMES ||--o{ STOCKFISH_ANALYSIS : analyzed_by
+    LICHESS_GAMES }o--|| ENGINE_VERSIONS : played_with
+    LICHESS_GAMES }o--o| OPPONENTS : played_against
+    LICHESS_GAMES }o--|| OPENINGS : uses
+    
+    LICHESS_GAMES {
+        string game_id PK "Unique Lichess game ID"
+        string event "Tournament/Event name"
+        string site "Lichess URL"
+        date date "Game date YYYY.MM.DD"
+        string round "Round number"
+        string white "White player username"
+        string black "Black player username"
+        string result "1-0, 0-1, 1/2-1/2"
+        integer white_elo "White player rating"
+        integer black_elo "Black player rating"
+        string time_control "e.g. 180+0, 600+5"
+        string opening "Opening name"
+        string eco "ECO code e.g. B20"
+        string termination "Normal, Time forfeit, etc"
+        string moves "PGN move notation"
+        integer move_count "Total half-moves"
+        integer game_duration "Seconds"
+        string v7p3r_color "white or black"
+        integer v7p3r_elo "v7p3r_bot rating"
+        integer opponent_elo "Opponent rating"
+        string outcome "win, loss, draw from v7p3r perspective"
+        string engine_version FK "Version used e.g. v18.3"
+        string source_file "Original PGN file path"
+        timestamp file_modified_at "File modification time"
+        timestamp ingested_at "When imported to system"
+    }
+    
+    MOVES {
+        string move_id PK "Unique move identifier"
+        string game_id FK "Parent game"
+        integer ply_number "Half-move number 1,2,3..."
+        integer move_number "Full move number"
+        string player_color "white or black"
+        string move_san "Standard algebraic notation e.g. Nf3"
+        string move_uci "UCI notation e.g. g1f3"
+        string position_fen "Position after move"
+        float eval_before "Stockfish eval before move centipawns"
+        float eval_after "Stockfish eval after move centipawns"
+        integer cp_loss "Centipawn loss if negative"
+        string classification "blunder, mistake, inaccuracy, good, book"
+        integer time_left_ms "Time remaining after move"
+        integer think_time_ms "Time spent on this move"
+        timestamp ingested_at "When imported"
+    }
+
+    %% ============================================================
+    %% ANALYSIS ENTITIES
+    %% ============================================================
+    
+    STOCKFISH_ANALYSIS ||--|| LICHESS_GAMES : evaluates
+    STOCKFISH_ANALYSIS ||--o{ ERROR_PATTERNS : identifies
+    
+    STOCKFISH_ANALYSIS {
+        string analysis_id PK "Unique analysis ID"
+        string game_id FK "Game analyzed"
+        string engine_version "v7p3r version analyzed"
+        integer stockfish_depth "Analysis depth 15-30"
+        timestamp analysis_date "When analysis performed"
+        integer total_moves_analyzed "Moves evaluated"
+        integer blunders_count "Moves with 150+ cp loss"
+        integer mistakes_count "Moves with 80+ cp loss"
+        integer inaccuracies_count "Moves with 30+ cp loss"
+        float accuracy_pct "Overall accuracy percentage"
+        integer total_cp_loss "Total centipawn loss"
+        float avg_cp_loss "Average per move"
+        json blunders_detail "List of blunder objects"
+        json mistakes_detail "List of mistake objects"
+        json raw_analysis "Full Stockfish output"
+        string source_file "JSON file path"
+        timestamp ingested_at "When imported"
+    }
+    
+    ERROR_PATTERNS {
+        string pattern_id PK "Unique pattern ID"
+        string analysis_id FK "Source analysis"
+        string pattern_type "opening, move_phase, tactical"
+        string opening_name "If opening pattern"
+        string eco_code "ECO classification"
+        string move_range "e.g. 10-14, 20-24"
+        integer error_count "Total errors in pattern"
+        integer blunders "Blunders in pattern"
+        integer mistakes "Mistakes in pattern"
+        integer game_count "Games with this pattern"
+        float avg_errors_per_game "Error rate"
+        json examples "Sample game IDs"
+    }
+
+    %% ============================================================
+    %% REFERENCE DATA ENTITIES
+    %% ============================================================
+    
+    ENGINE_VERSIONS ||--o{ LICHESS_GAMES : played_games
+    ENGINE_VERSIONS ||--o{ VERSION_CHANGELOG : documented_in
+    ENGINE_VERSIONS ||--o{ OPERATIONAL_EVENTS : affected_by
+    
+    ENGINE_VERSIONS {
+        string version_id PK "e.g. v18.3, v17.4"
+        date deployment_date "When deployed"
+        string status "DEPLOYED, RETIRED, ROLLED_BACK"
+        string deployment_method "Automated, Manual"
+        integer total_games "Games played on this version"
+        integer wins "Total wins"
+        integer losses "Total losses"
+        integer draws "Total draws"
+        float win_rate_pct "Win percentage"
+        integer avg_elo "Average ELO during version"
+        integer peak_elo "Peak ELO reached"
+        date retired_date "When retired if applicable"
+        string retirement_reason "Why retired"
+        text notes "Deployment notes"
+    }
+    
+    VERSION_CHANGELOG {
+        string changelog_id PK "Unique entry ID"
+        string version_id FK "Related version"
+        date change_date "Date of change"
+        string change_type "FEATURE, BUGFIX, TUNING, CONFIG"
+        string title "Change title"
+        text description "Detailed description"
+        string impact "Expected impact on performance"
+        string author "Who made the change"
+        json technical_details "Code/config changes"
+    }
+    
+    OPERATIONAL_EVENTS {
+        string event_id PK "Unique event ID"
+        date event_date "When event occurred"
+        boolean date_approximate "If date is estimate"
+        string event_type "CONFIG, MATCHMAKING, INFRASTRUCTURE, TUNING"
+        string title "Event title"
+        text description "Event details"
+        string change_scope "bot_config, lichess_api, server, etc"
+        string version_affected "Which version FK"
+        text expected_impact "How metrics may change"
+        json metadata "Additional event data"
+        timestamp ingested_at "When recorded"
+    }
+    
+    OPENINGS ||--o{ LICHESS_GAMES : categorizes
+    
+    OPENINGS {
+        string eco_code PK "e.g. B20, E60"
+        string opening_name "Full opening name"
+        string variation "Specific variation"
+        string category "Sicilian, French, etc"
+        integer total_games "Games with this opening"
+        integer v7p3r_wins "v7p3r wins"
+        integer v7p3r_losses "v7p3r losses"
+        integer v7p3r_draws "v7p3r draws"
+        float success_rate "Win+draw percentage"
+        float avg_cp_loss "Average error rate"
+        integer total_errors "Total blunders+mistakes"
+    }
+    
+    OPPONENTS {
+        string opponent_id PK "Opponent username"
+        string opponent_name "Display name"
+        integer games_played "Games vs v7p3r"
+        integer v7p3r_wins "v7p3r wins"
+        integer v7p3r_losses "v7p3r losses"
+        integer v7p3r_draws "v7p3r draws"
+        integer min_elo "Lowest opponent rating"
+        integer max_elo "Highest opponent rating"
+        integer avg_elo "Average rating"
+        date first_game "First encounter"
+        date last_game "Most recent game"
+    }
+
+    %% ============================================================
+    %% DOCUMENTATION ENTITIES
+    %% ============================================================
+    
+    DOCUMENTATION ||--o{ ENGINE_VERSIONS : describes
+    
+    DOCUMENTATION {
+        string doc_id PK "Unique document ID"
+        string title "Document title"
+        text content "Full markdown content"
+        string doc_type "CHANGELOG, DESIGN, BUILD_LOG, NOTES"
+        string version_related FK "If version-specific"
+        date created_date "Document creation date"
+        date modified_date "Last modified"
+        string_array tags "Document tags"
+        string source_file "File path in v7p3r_docs"
+        timestamp ingested_at "When imported"
+    }
+
+    %% ============================================================
+    %% REPORTING & ANALYTICS ENTITIES
+    %% ============================================================
+    
+    GAME_SUMMARIES {
+        string summary_id PK "Unique summary ID"
+        date period_start "Summary period start"
+        date period_end "Summary period end"
+        string version_id FK "Engine version"
+        integer total_games "Games in period"
+        integer wins "Total wins"
+        integer losses "Total losses"
+        integer draws "Total draws"
+        float win_rate "Win percentage"
+        integer avg_elo "Average ELO"
+        integer elo_change "Net ELO change"
+        float avg_game_length "Average moves"
+        float avg_accuracy "Average accuracy pct"
+        integer total_blunders "Total blunders"
+        integer total_mistakes "Total mistakes"
+        json top_openings "Most played openings"
+        json problem_openings "Worst performing openings"
+        timestamp generated_at "When report created"
+    }
+    
+    AI_AGENT_CONTEXT {
+        string context_id PK "Context snapshot ID"
+        timestamp created_at "When context built"
+        integer total_games_loaded "Games in context"
+        integer pgn_games_loaded "Recent PGN games"
+        integer docs_loaded "Documentation files"
+        integer events_loaded "Operational events"
+        string stockfish_analysis_file "Latest analysis file"
+        string changelog_version "Current deployed version"
+        string csv_version "Latest CSV version"
+        json stats_summary "Aggregated statistics"
+        json opening_patterns "Opening analysis data"
+        json move_patterns "Move phase patterns"
+        text full_context "Complete context text"
+        integer context_size_chars "Total character count"
+    }
+
+
+    %% ============================================================
+    %% RELATIONSHIPS NOTES
+    %% ============================================================
+    %% 
+    %% Key Relationships:
+    %% - LICHESS_GAMES is the central fact table
+    %% - ENGINE_VERSIONS is the primary dimension for time-based analysis
+    %% - STOCKFISH_ANALYSIS provides detailed error analysis per game
+    %% - ERROR_PATTERNS aggregates common weaknesses
+    %% - OPERATIONAL_EVENTS explains non-engine metric changes
+    %% - DOCUMENTATION provides context for version changes
+    %% - AI_AGENT_CONTEXT represents the knowledge base state

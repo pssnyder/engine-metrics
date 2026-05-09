@@ -1,0 +1,134 @@
+---
+title: V7P3R Engine Metrics - Simplified Pipeline Flow
+---
+flowchart LR
+    %% ============================================================
+    %% SIMPLIFIED END-TO-END DATA PIPELINE
+    %% ============================================================
+    
+    subgraph Input["📥 INPUT"]
+        direction TB
+        Source1["🎮 Lichess Games<br/>v7p3r_bot plays<br/>~30 games/day"]
+        Source2["📝 Development<br/>Code changes<br/>Documentation"]
+        Source3["🔔 Operations<br/>Config changes<br/>Event logging"]
+    end
+    
+    subgraph RawLayer["💾 RAW DATA LAYER"]
+        direction TB
+        Raw1["PGN Files<br/>1620 games YTD"]
+        Raw2["Documentation<br/>CHANGELOG + docs"]
+        Raw3["Operational Log<br/>notation_events.json"]
+    end
+    
+    subgraph ProcessLayer["⚙️ PROCESSING LAYER"]
+        direction TB
+        Proc1["Stockfish Analysis<br/>Error detection<br/>Pattern identification"]
+        Proc2["Data Extraction<br/>PGN → CSV<br/>Metadata parsing"]
+        Proc3["Report Generation<br/>TXT + MD reports"]
+        Proc4["AI Context Builder<br/>Multi-source aggregation"]
+    end
+    
+    subgraph ConformedLayer["📊 CONFORMED DATA LAYER"]
+        direction TB
+        Conf1["Analysis Results<br/>18,539 errors<br/>6.90 blunders/game"]
+        Conf2["CSV Datasets<br/>5000 games<br/>Structured metadata"]
+        Conf3["Reports<br/>Performance summaries<br/>Insights"]
+        Conf4["AI Knowledge Base<br/>Complete context<br/>Ready for querying"]
+    end
+    
+    subgraph IntelligenceLayer["🤖 INTELLIGENCE LAYER"]
+        direction TB
+        AI["Gemini AI Agent<br/>gemini-2.5-flash<br/>Temperature 0.15"]
+        Tools["Stockfish Tools<br/>Real-time analysis<br/>Position evaluation"]
+    end
+    
+    subgraph InterfaceLayer["🖥️ INTERFACE LAYER"]
+        direction TB
+        UI["Terminal CLI<br/>run_agent.py<br/>Interactive REPL"]
+    end
+    
+    subgraph Output["📤 OUTPUT"]
+        direction TB
+        Out1["💡 Insights<br/>Performance analysis<br/>Error patterns<br/>Recommendations"]
+        Out2["📈 Metrics<br/>Win rates<br/>ELO trends<br/>Accuracy stats"]
+        Out3["🎯 Actions<br/>Opening improvements<br/>Tactical focus areas<br/>Version decisions"]
+    end
+    
+    %% Main Flow
+    Input --> RawLayer
+    RawLayer --> ProcessLayer
+    ProcessLayer --> ConformedLayer
+    ConformedLayer --> IntelligenceLayer
+    IntelligenceLayer --> InterfaceLayer
+    InterfaceLayer --> Output
+    
+    %% Detailed connections
+    Source1 --> Raw1
+    Source2 --> Raw2
+    Source3 --> Raw3
+    
+    Raw1 --> Proc1
+    Raw1 --> Proc2
+    Raw1 --> Proc4
+    Raw2 --> Proc4
+    Raw3 --> Proc4
+    
+    Proc1 --> Conf1
+    Proc2 --> Conf2
+    Proc3 --> Conf3
+    Conf1 --> Conf4
+    Conf2 --> Conf4
+    Conf3 --> Conf4
+    
+    Conf4 --> AI
+    Tools <--> AI
+    AI <--> UI
+    
+    UI --> Out1
+    UI --> Out2
+    UI --> Out3
+    
+    %% Feedback Loop
+    Out3 -.->|Triggers| Proc1
+    Out3 -.->|Updates| Source2
+    
+    %% ============================================================
+    %% KEY METRICS OVERLAY
+    %% ============================================================
+    
+    subgraph Metrics["📊 KEY METRICS"]
+        direction LR
+        M1["Data Volume<br/>---<br/>5000 games in CSV<br/>1620 analyzed YTD<br/>31,659 BigQuery records"]
+        M2["Quality Metrics<br/>---<br/>70.1% avg accuracy<br/>6.90 blunders/game<br/>4.55 mistakes/game"]
+        M3["Performance<br/>---<br/>Win rate: 35.0%<br/>Current ELO: 1467<br/>Version: v18.3"]
+    end
+    
+    %% ============================================================
+    %% TIMING & FREQUENCY
+    %% ============================================================
+    
+    subgraph Timing["⏱️ UPDATE FREQUENCY"]
+        direction LR
+        T1["Real-time<br/>Lichess games"]
+        T2["On-demand<br/>Stockfish analysis<br/>Report generation"]
+        T3["As-needed<br/>Documentation<br/>Operational events"]
+    end
+    
+    %% ============================================================
+    %% STYLING
+    %% ============================================================
+    classDef inputStyle fill:#e3f2fd,stroke:#1565c0,stroke-width:3px,color:#000
+    classDef rawStyle fill:#f3e5f5,stroke:#6a1b9a,stroke-width:2px,color:#000
+    classDef processStyle fill:#fff3e0,stroke:#e65100,stroke-width:2px,color:#000
+    classDef conformedStyle fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
+    classDef aiStyle fill:#fce4ec,stroke:#880e4f,stroke-width:3px,color:#000
+    classDef outputStyle fill:#e0f2f1,stroke:#00695c,stroke-width:3px,color:#000
+    classDef metricsStyle fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    
+    class Source1,Source2,Source3 inputStyle
+    class Raw1,Raw2,Raw3 rawStyle
+    class Proc1,Proc2,Proc3,Proc4 processStyle
+    class Conf1,Conf2,Conf3,Conf4 conformedStyle
+    class AI,Tools aiStyle
+    class Out1,Out2,Out3 outputStyle
+    class M1,M2,M3,T1,T2,T3 metricsStyle

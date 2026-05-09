@@ -1,0 +1,185 @@
+---
+title: V7P3R Chess Engine Metrics - Complete Data Flow
+---
+flowchart TB
+    %% ============================================================
+    %% DATA GENERATION LAYER
+    %% ============================================================
+    subgraph DataGen["🎮 Data Generation"]
+        direction TB
+        V7P3RBot([V7P3R Lichess Bot<br/>v7p3r_bot])
+        V7P3RLocal([V7P3R Local Engine<br/>Testing & Development])
+        StockfishEngine([Stockfish Engine<br/>Analysis & Validation])
+        DevLogs([Development Team<br/>Documentation & Notes])
+    end
+
+    %% ============================================================
+    %% RAW DATA SOURCES LAYER
+    %% ============================================================
+    subgraph RawSources["📁 Raw Data Sources (raw_data/)"]
+        direction TB
+        subgraph GameRecords["game_records/"]
+            LichessPGN[Lichess V7P3R Bot/<br/>lichess_v7p3r_bot_*.pgn<br/>~1620 games YTD 2026]
+            EngineBattles[Engine Battle Archives/<br/>Historical PGN files]
+        end
+        
+        subgraph AnalysisResults["analysis_results/"]
+            StockfishJSON[v18_3_ytd_analysis_*.json<br/>Blunder/Mistake Analysis<br/>18,539 total errors tracked]
+            HistoricalAnalysis[V7P3R_v*_analysis_*.json<br/>Historical engine analysis]
+        end
+        
+        subgraph Docs["v7p3r_docs/"]
+            Changelog[CHANGELOG.md<br/>Version history<br/>Deployment tracking]
+            DevDocs[Development Docs<br/>Design decisions<br/>Build notes]
+        end
+        
+        NotationEvents[notation_events.json<br/>Operational Events<br/>Non-engine changes]
+    end
+
+    %% ============================================================
+    %% PROCESSING LAYER
+    %% ============================================================
+    subgraph Processing["⚙️ Data Processing & Analysis"]
+        direction TB
+        
+        subgraph StockfishAnalysis["Stockfish Analysis Scripts"]
+            AnalyzeYTD[scripts/analyze_ytd_games.py<br/>Depth 18 analysis<br/>Blunder/mistake detection]
+        end
+        
+        subgraph ReportingScripts["Reporting Scripts"]
+            ExtractGame[extract_game_data.py<br/>CSV extraction]
+            ExtractMove[extract_move_data.py<br/>Move-level data]
+            GenReport[generate_gameplay_report.py<br/>TXT report generation]
+            GenInsights[generate_insights_report.py<br/>Markdown insights]
+        end
+        
+        subgraph AIDataLoader["AI Agent Data Loader"]
+            DataLoader[data_loader.py<br/>Context aggregation<br/>Multi-source integration]
+        end
+    end
+
+    %% ============================================================
+    %% CONFORMED DATA LAYER
+    %% ============================================================
+    subgraph ConformedData["💾 Conformed Datasets"]
+        direction TB
+        
+        subgraph ReportingCSV["reporting_datasets/"]
+            GameData[v7p3r_game_data_latest.csv<br/>Game-level metadata<br/>5000 games]
+            GameSummary[v7p3r_game_summary_enhanced_latest.csv<br/>Aggregated statistics]
+            MoveData[v7p3r_moves_latest.csv<br/>Move-level details]
+        end
+        
+        subgraph ReportsOutput["reports/"]
+            GameplayReport[v7p3r_recent_gameplay_report_latest.txt<br/>Performance summary]
+            VersionCompare[v7p3r_version_comparison_report_latest.txt<br/>Cross-version analysis]
+            InsightsReport[insights/<br/>Enhanced analysis reports]
+        end
+        
+        subgraph CloudStorage["☁️ Cloud Storage (Optional)"]
+            BigQuery[(BigQuery<br/>chess_engine_data_lake<br/>pgn_games: 29,185<br/>analysis_results: 2,352<br/>documentation: 122)]
+            Firebase[(Firebase Storage<br/>Real-time sync<br/>E2 instance integration)]
+        end
+    end
+
+    %% ============================================================
+    %% CONSUMPTION LAYER
+    %% ============================================================
+    subgraph Consumption["🤖 Data Consumption & Analytics"]
+        direction TB
+        
+        subgraph GeminiAgent["Gemini AI Agent"]
+            AgentCore[V7P3RAgent<br/>gemini-2.5-flash<br/>Temperature: 0.15]
+            KnowledgeBase[Knowledge Base Context<br/>• Game data CSV: 5000 games<br/>• Stockfish analysis: 1620 games<br/>• Changelog: v18.3 current<br/>• Notation events: 8 events<br/>• Recent PGN: 150 games<br/>• Design docs: 8 files]
+        end
+        
+        subgraph StockfishTools["Stockfish Function Tools"]
+            ToolStatus[stockfish_status<br/>Engine availability]
+            ToolAnalyze[analyze_position<br/>FEN evaluation]
+            ToolBestMoves[find_best_moves<br/>Top N moves]
+            ToolGameAnalysis[analyze_game_pgn<br/>Full game analysis]
+            ToolKeyPos[get_game_key_positions<br/>Opening/mid/endgame]
+        end
+        
+        UserInterface[🖥️ Interactive Terminal<br/>run_agent.py CLI<br/>Single-query mode<br/>Conversational REPL]
+    end
+
+    %% ============================================================
+    %% FEEDBACK & ITERATION LAYER
+    %% ============================================================
+    subgraph Feedback["🔄 Feedback & Continuous Improvement"]
+        UserQueries[User Questions<br/>Analysis requests<br/>Performance queries]
+        AgentResponses[AI Insights<br/>Recommendations<br/>Pattern identification]
+        NewAnalysis[Triggered Analysis<br/>Re-run Stockfish<br/>Generate new reports]
+    end
+
+    %% ============================================================
+    %% DATA FLOW CONNECTIONS
+    %% ============================================================
+    
+    %% Generation → Raw Sources
+    V7P3RBot -->|Play games daily| LichessPGN
+    V7P3RLocal -->|Engine battles| EngineBattles
+    DevLogs -->|Document changes| Changelog
+    DevLogs -->|Design notes| DevDocs
+    
+    %% Raw Sources → Processing
+    LichessPGN -->|Parse PGN| AnalyzeYTD
+    LichessPGN -->|Extract metadata| ExtractGame
+    LichessPGN -->|Parse moves| ExtractMove
+    StockfishEngine -->|Analyze games| AnalyzeYTD
+    
+    AnalyzeYTD -->|Generate JSON| StockfishJSON
+    
+    %% Processing → Conformed
+    ExtractGame -->|Generate CSV| GameData
+    ExtractMove -->|Generate CSV| MoveData
+    GenReport -->|Generate TXT| GameplayReport
+    GenInsights -->|Generate MD| InsightsReport
+    
+    %% All sources → AI Data Loader
+    GameData -->|Load game stats| DataLoader
+    StockfishJSON -->|Load error analysis| DataLoader
+    Changelog -->|Parse version info| DataLoader
+    NotationEvents -->|Load operational events| DataLoader
+    LichessPGN -->|Load recent games| DataLoader
+    DevDocs -->|Load design docs| DataLoader
+    
+    %% Data Loader → Agent
+    DataLoader -->|Build context| KnowledgeBase
+    KnowledgeBase -->|System prompt| AgentCore
+    
+    %% Stockfish tools connection
+    StockfishEngine -.->|Real-time calls| ToolAnalyze
+    StockfishEngine -.->|Real-time calls| ToolBestMoves
+    StockfishEngine -.->|Real-time calls| ToolGameAnalysis
+    
+    %% Agent → Tools → User
+    AgentCore <-->|Function calling| StockfishTools
+    AgentCore -->|Response| UserInterface
+    UserInterface -->|Query| AgentCore
+    
+    %% Feedback loops
+    UserInterface -->|User queries| UserQueries
+    AgentCore -->|Insights| AgentResponses
+    AgentResponses -->|Identify needs| NewAnalysis
+    NewAnalysis -->|Re-analyze| AnalyzeYTD
+    
+    %% Optional cloud sync
+    GameData -.->|Optional upload| BigQuery
+    LichessPGN -.->|Optional sync| Firebase
+    
+    %% ============================================================
+    %% STYLING
+    %% ============================================================
+    classDef sourceStyle fill:#e1f5ff,stroke:#01579b,stroke-width:2px,color:#000
+    classDef processStyle fill:#fff9c4,stroke:#f57f17,stroke-width:2px,color:#000
+    classDef dataStyle fill:#f3e5f5,stroke:#4a148c,stroke-width:2px,color:#000
+    classDef agentStyle fill:#e8f5e9,stroke:#1b5e20,stroke-width:3px,color:#000
+    classDef cloudStyle fill:#fce4ec,stroke:#880e4f,stroke-width:2px,color:#000
+    
+    class LichessPGN,EngineBattles,StockfishJSON,Changelog,NotationEvents sourceStyle
+    class AnalyzeYTD,ExtractGame,DataLoader processStyle
+    class GameData,GameplayReport,MoveData dataStyle
+    class AgentCore,KnowledgeBase,UserInterface agentStyle
+    class BigQuery,Firebase cloudStyle

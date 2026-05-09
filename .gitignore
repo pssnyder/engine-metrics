@@ -4,6 +4,72 @@ node_modules/*
 # Python ignores
 __pycache__/*
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
 
-# Other
+# IDE
 .vscode/*
+.idea/*
+*.swp
+*.swo
+*~
+
+# Data files (DO NOT COMMIT LARGE DATA TO GIT)
+# Raw data directories
+raw_data/game_records/**/*.pgn
+raw_data/game_records/**/*.at
+raw_data/game_records/**/*.html
+raw_data/game_records/**/*.log
+raw_data/game_records/**/*.res
+raw_data/game_records/**/*.txt
+raw_data/analysis_results/**/*.json
+raw_data/v7p3r_docs/**/*
+
+# Large database files
+*.jsonl
+*.jsonl.zst
+*.zst
+*.csv
+*.parquet
+*.db
+*.sqlite
+*.index
+
+# Reporting datasets
+reporting_datasets/**/*
+
+# Reports (generated files)
+reports/**/*
+
+# Images (optional - usually OK to commit, but can be large)
+images/**/*
+
+# Terraform
+terraform*
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+service-account.json
